@@ -11,5 +11,6 @@ function ExecuteScript(strId)
 function Script1()
 {
   var endCourseMotherfucker = true
+  window.postMessage("Hello ffrom webview")
 }
 
