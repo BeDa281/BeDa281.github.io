@@ -10,9 +10,6 @@ function ExecuteScript(strId)
 
 function Script1()
 {
-  var endCourseMotherfucker = true
-  alert("hello")
-  window.ReactNativeWebView.postMessage("Hello ffrom webview2")
-  // window.postMessage("Hello ffrom webview")
+  window.ReactNativeWebView.postMessage("CMD_CLOSELESSON");
 }
 
