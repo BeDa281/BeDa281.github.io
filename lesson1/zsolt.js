@@ -143,8 +143,8 @@ function getName()
 function askName()
 {
 	swal({
-  title: "Welcome to the eLearning Hero's Journey!",
-  text: "What's your hero name?",
+  title: "Servus!",
+  text: "Sag uns doch bitte deinen Namen?",
   type: "input",
   showCancelButton: false,
   closeOnConfirm: false,
@@ -160,10 +160,10 @@ function(inputValue){
     return false
   }
   
-  swal("Nice!", "Welcome to the eLearning Hero's Journey, " + inputValue+"!", "success");
+  swal("Nice!", "Wilkommen ...., " + inputValue+"!", "success");
   pName =  inputValue;
   zomagix("_zomagix:pname_",pName);
-  $(".overview__title").html(pName+": A Hero's Journey");
+  $(".overview__title").html("Servus " +pName+" , willkommen bei Health and Wealth 2.0");
 
   });
 }
