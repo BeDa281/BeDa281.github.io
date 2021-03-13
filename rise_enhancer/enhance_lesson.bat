@@ -4,15 +4,26 @@ Color 0A
 Call :Browse4Folder "Choose source lesson to enhance" 
 echo Enhancing Project "%Location%"
 Call :CopyFiles 
+
+@REM set Location="c:\dev\react\BeDa281.github.io\tmp"
+Call :InsertIntoHtml
+
 pause & exit
 
 
 
 
-
-
-
-
+:InsertIntoHtml
+Set "Ins=<script src="lib/main.bundle.js"></script>"
+Set "New=<script type="text/javascript" src="jquery-2.1.1.min.js"></script>"
+Powershell -Nop -C "(Get-Content %Location%.\index.html).replace($ENV:Ins,$ENV:Ins+\"`n\"+$ENV:New)|Set-Content %Location%.\index.html"
+Set "New=<script type="text/javascript" src="zsolt.js"></script>"
+Powershell -Nop -C "(Get-Content %Location%.\index.html).replace($ENV:Ins,$ENV:Ins+\"`n\"+$ENV:New)|Set-Content %Location%.\index.html"
+Set "New=<link rel="stylesheet" type="text/css" href="dist/sweetalert.css">"
+Powershell -Nop -C "(Get-Content %Location%.\index.html).replace($ENV:Ins,$ENV:Ins+\"`n\"+$ENV:New)|Set-Content %Location%.\index.html"
+Set "New=<script src="dist/sweetalert.min.js"></script>"
+Powershell -Nop -C "(Get-Content %Location%.\index.html).replace($ENV:Ins,$ENV:Ins+\"`n\"+$ENV:New)|Set-Content %Location%.\index.html"
+goto :eof
 
 :CopyFiles
 xcopy ".\dist" "%Location%\dist\" /E
