@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://sBHy22Hwnara2szwYoBNAu28jPOfoekN_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Quiz</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit 10 kurze Fragen aus allen Pr&amp;uuml;fungsbereichen. Sie m&amp;uuml;ssen 80% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://sBHy22Hwnara2szwYoBNAu28jPOfoekN_rise/7-RYRjRWVgE1R5DcP4CmydBEQ-P44KWD" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Ausf&amp;uuml;llen per Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;Sie k&amp;ouml;nnen das Quiz so oft sie m&amp;ouml;chten wiederholen. </description>
+    </activity>
+            
+    <activity id="http://sBHy22Hwnara2szwYoBNAu28jPOfoekN_rise/7-RYRjRWVgE1R5DcP4CmydBEQ-P44KWD/cko1gvlny0033266c33ybh8vq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die angegebenen Zeitr&amp;auml;ume den richtigen Stilepochen zu!</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cko1gvlnz0034266cg5lznu1h[.]target_cko1gvlnz0034266cg5lznu1h</correctResponsePattern>
+            <correctResponsePattern>source_cko1gvlnz0035266cazlrj0us[.]target_cko1gvlnz0035266cazlrj0us</correctResponsePattern>
+            <correctResponsePattern>source_cko1gvlnz0036266chvi5erxd[.]target_cko1gvlnz0036266chvi5erxd</correctResponsePattern>
+            <correctResponsePattern>source_cko1gw6k20037266c0mrtmo36[.]target_cko1gw6k20037266c0mrtmo36</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cko1gvlnz0034266cg5lznu1h</id>
+        <description lang="en-US">Jugendstil></description>
+      </component>
+            <component>
+        <id>source_cko1gvlnz0035266cazlrj0us</id>
+        <description lang="en-US">Historismus></description>
+      </component>
+            <component>
+        <id>source_cko1gvlnz0036266chvi5erxd</id>
+        <description lang="en-US">Bauhaus></description>
+      </component>
+            <component>
+        <id>source_cko1gw6k20037266c0mrtmo36</id>
+        <description lang="en-US">Klassizismus></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cko1gvlnz0034266cg5lznu1h</id>
+            <description lang="en-US">1890 - 1910</description>
+          </component>
+                  <component>
+            <id>target_cko1gvlnz0035266cazlrj0us</id>
+            <description lang="en-US"> 1850 - 1890</description>
+          </component>
+                  <component>
+            <id>target_cko1gvlnz0036266chvi5erxd</id>
+            <description lang="en-US"> 1920 - 1940</description>
+          </component>
+                  <component>
+            <id>target_cko1gw6k20037266c0mrtmo36</id>
+            <description lang="en-US">1770 - 1840</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://sBHy22Hwnara2szwYoBNAu28jPOfoekN_rise/7-RYRjRWVgE1R5DcP4CmydBEQ-P44KWD/cko1gzenf003b266cmpovhlhy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was wird im Bereich der Typografie unter dem &amp;bdquo;Duktus&amp;ldquo; verstanden?</name>
+      <description lang="en-US"></description>
+      <interactionType>long-fill-in</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>{case_matters=false}Charaktereigenschaft einer Schrift</correctResponsePattern>
+            </correctResponsePatterns>
+          </activity>
+        
+    <activity id="http://sBHy22Hwnara2szwYoBNAu28jPOfoekN_rise/7-RYRjRWVgE1R5DcP4CmydBEQ-P44KWD/cko1h8ims003z266cz0z55idq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r die Beschichtung der Tragkonstruktion verwenden Sie ein Airless-Ger&amp;auml;t. Nach &amp;sect;1 der BetrSichV m&amp;uuml;ssen Sie die elektrischen Betriebsmittel hierf&amp;uuml;r bereitstellen. Was bedeutet die Abk&amp;uuml;rzung BetrSichV?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cko1h8imt0041266c1r1a23wm</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cko1h8ims0040266c5ru3wpif</id>
+        <description lang="en-US"> Betriebssicherheitsversicherung</description>
+      </component>
+            <component>
+        <id>choice_cko1h8imt0041266c1r1a23wm</id>
+        <description lang="en-US"> Betriebssicherheitsverordnung</description>
+      </component>
+            <component>
+        <id>choice_cko1h9b2n0042266cfck4bqv4</id>
+        <description lang="en-US">Betriebssicherungsverfassung</description>
+      </component>
+            <component>
+        <id>choice_cko1h9lyn0044266cfnjke9ux</id>
+        <description lang="en-US">Betriebsschutzverdingung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sBHy22Hwnara2szwYoBNAu28jPOfoekN_rise/7-RYRjRWVgE1R5DcP4CmydBEQ-P44KWD/cko1h55vh003p266c4acntk57" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nennen Sie den jeweils ma&amp;szlig;geblichen Farbkontrast auf dem dargestellten Bild ohne Beachtung des Hell-Dunkel-Kontrasts.</name>
+      <description lang="en-US"></description>
+      <interactionType>long-fill-in</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>{case_matters=false}Warm-Kalt-Kontrast</correctResponsePattern>
+            <correctResponsePattern>{case_matters=false}Komplementärkontrast</correctResponsePattern>
+            <correctResponsePattern>{case_matters=false}Quantitätskontrast</correctResponsePattern>
+            </correctResponsePatterns>
+          </activity>
+        
+    <activity id="http://sBHy22Hwnara2szwYoBNAu28jPOfoekN_rise/7-RYRjRWVgE1R5DcP4CmydBEQ-P44KWD/cko1ha4mj0045266cuekq3p91" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Durch welche Pr&amp;uuml;fung wird die Druckfestigkeit von Betonoberfl&amp;auml;chen festgestellt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cko1haygd0048266cwr5hm465</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cko1ha4mj0046266civ9ovjyu</id>
+        <description lang="en-US"> Durch Messen mit dem Profometer</description>
+      </component>
+            <component>
+        <id>choice_cko1ha4mj0047266cjyav2xpm</id>
+        <description lang="en-US"> Durch Bespr&amp;uuml;hen mit Phenolphthaleinl&amp;ouml;sung</description>
+      </component>
+            <component>
+        <id>choice_cko1haygd0048266cwr5hm465</id>
+        <description lang="en-US">Durch Pr&amp;uuml;fung mit dem R&amp;uuml;ckprallhammer</description>
+      </component>
+            <component>
+        <id>choice_cko1hb6mg0049266ct62ol9iy</id>
+        <description lang="en-US">Durch Pr&amp;uuml;fung mit Chloridl&amp;ouml;sung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sBHy22Hwnara2szwYoBNAu28jPOfoekN_rise/7-RYRjRWVgE1R5DcP4CmydBEQ-P44KWD/cko1hfm3b009x266cqtgflfzb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Vor der Instandsetzungsma&amp;szlig;nahme an der Tragkonstruktion der Lagerhalle pr&amp;uuml;fen Sie die Oberfl&amp;auml;chenzugfestigkeit des Betons nach DIN 18349.&lt;br&gt;Geben Sie den Wert &amp;quot;x&amp;quot; an, den die Betonoberfl&amp;auml;che f&amp;uuml;r die geplante Beschichtung mindestens aufweisen muss (&amp;quot;x&amp;quot; N/mm&amp;sup2;).</name>
+      <description lang="en-US"></description>
+      <interactionType>long-fill-in</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>{case_matters=false}1,5</correctResponsePattern>
+            </correctResponsePatterns>
+          </activity>
+        
+    <activity id="http://sBHy22Hwnara2szwYoBNAu28jPOfoekN_rise/7-RYRjRWVgE1R5DcP4CmydBEQ-P44KWD/cko1hlaxo00a5266cdo7l5bo9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bezeichnen Sie die einzelnen Bauteile des elektronischen Feuchtemessger&amp;auml;tes.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cko1hlaxo00a6266c6txoojb7[.]target_cko1hlaxo00a6266c6txoojb7</correctResponsePattern>
+            <correctResponsePattern>source_cko1hlaxo00a7266ciyxc6s9t[.]target_cko1hlaxo00a7266ciyxc6s9t</correctResponsePattern>
+            <correctResponsePattern>source_cko1hlaxo00a8266cth942msc[.]target_cko1hlaxo00a8266cth942msc</correctResponsePattern>
+            <correctResponsePattern>source_cko1hme9200aa266cbxxb899p[.]target_cko1hme9200aa266cbxxb899p</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cko1hlaxo00a6266c6txoojb7</id>
+        <description lang="en-US">Luftfeuchtigkeitsmesser Aufsatz></description>
+      </component>
+            <component>
+        <id>source_cko1hlaxo00a7266ciyxc6s9t</id>
+        <description lang="en-US">Einschlagelektroden></description>
+      </component>
+            <component>
+        <id>source_cko1hlaxo00a8266cth942msc</id>
+        <description lang="en-US">Einstellräder zur Holzsortenauswahl></description>
+      </component>
+            <component>
+        <id>source_cko1hme9200aa266cbxxb899p</id>
+        <description lang="en-US"> Einstellrad für Temperatur></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cko1hlaxo00a6266c6txoojb7</id>
+            <description lang="en-US">1</description>
+          </component>
+                  <component>
+            <id>target_cko1hlaxo00a7266ciyxc6s9t</id>
+            <description lang="en-US">2</description>
+          </component>
+                  <component>
+            <id>target_cko1hlaxo00a8266cth942msc</id>
+            <description lang="en-US">3</description>
+          </component>
+                  <component>
+            <id>target_cko1hme9200aa266cbxxb899p</id>
+            <description lang="en-US">4</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://sBHy22Hwnara2szwYoBNAu28jPOfoekN_rise/7-RYRjRWVgE1R5DcP4CmydBEQ-P44KWD/cko1hbv6j004a266cbfi1fv2h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Um einen ausreichenden Schutz vor weiterer Carbonatisierung an den Betonfl&amp;auml;chen der Lagerhalle zu erzielen, beschichten Sie die Bauteile mit einem Oberfl&amp;auml;chenschutzsystem f&amp;uuml;r bewehrte Betonbauteile.&lt;br&gt;Welche dieser Mindestanforderungen denen ein solches System gen&amp;uuml;gen muss sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cko1hbv6k004b266cyd6eifq1</correctResponsePattern>
+            <correctResponsePattern>choice_cko1hbv6k004d266cnec6x5vk</correctResponsePattern>
+            <correctResponsePattern>choice_cko1hbv6k004e266cqq9r1zbc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cko1hbv6k004b266cyd6eifq1</id>
+        <description lang="en-US"> Diffusionswiderstand gegen&amp;uuml;ber Kohlendioxid gr&amp;ouml;&amp;szlig;er 50 m</description>
+      </component>
+            <component>
+        <id>choice_cko1hbv6k004d266cnec6x5vk</id>
+        <description lang="en-US"> Widerstand gegen&amp;uuml;ber Wasserdampf kleiner 4 m</description>
+      </component>
+            <component>
+        <id>choice_cko1hbv6k004e266cqq9r1zbc</id>
+        <description lang="en-US"> Eignung zur Riss&amp;uuml;berbr&amp;uuml;ckung bis 0,15 mm</description>
+      </component>
+            <component>
+        <id>choice_cko1hbv6k004c266c0q4r8pn4</id>
+        <description lang="en-US">Feuerwiderstand &amp;lt; 30 min</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sBHy22Hwnara2szwYoBNAu28jPOfoekN_rise/7-RYRjRWVgE1R5DcP4CmydBEQ-P44KWD/cko1hk0pf00a0266cz0e5dlxq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Vor der Beschichtung ermitteln Sie die Holzfeuchte der Konstruktion der Fahrradgarage.&lt;br&gt;Geben Sie an, wie hoch die Holzfeuchte &amp;quot;x&amp;quot; f&amp;uuml;r eine nachfolgende Beschichtung dieser Holzkonstruktion sein darf (&amp;quot;x&amp;quot; %).</name>
+      <description lang="en-US"></description>
+      <interactionType>long-fill-in</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>{case_matters=false}18</correctResponsePattern>
+            </correctResponsePatterns>
+          </activity>
+        
+    <activity id="http://sBHy22Hwnara2szwYoBNAu28jPOfoekN_rise/7-RYRjRWVgE1R5DcP4CmydBEQ-P44KWD/cko1hpgmb00as266c6dhyvo9v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US"> Welche dieser Holzbestandteile vermindern die Wasseraufnahme?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cko1hpgmb00at266cop9lkv96</correctResponsePattern>
+            <correctResponsePattern>choice_cko1hpgmb00au266c4d91h4r0</correctResponsePattern>
+            <correctResponsePattern>choice_cko1hpw1j00av266cqvltj27e</correctResponsePattern>
+            <correctResponsePattern>choice_cko1hpyaf00aw266cejt20dxp</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cko1hpgmb00at266cop9lkv96</id>
+        <description lang="en-US"> Harze</description>
+      </component>
+            <component>
+        <id>choice_cko1hpgmb00au266c4d91h4r0</id>
+        <description lang="en-US">&amp;Ouml;le</description>
+      </component>
+            <component>
+        <id>choice_cko1hpw1j00av266cqvltj27e</id>
+        <description lang="en-US">Wachse</description>
+      </component>
+            <component>
+        <id>choice_cko1hpyaf00aw266cejt20dxp</id>
+        <description lang="en-US">Fette</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
