@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://ipSM3X5ZmWUVNCPG6hmFtKFUmq5MPQOj_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Health &amp; Wellbeeing</name>
+      <description lang="en-US">We&amp;rsquo;re committed to creating a work environment that promotes employee health and wellbeeing. This course is the first step in raising awareness about the rollout of our new workplace health program, which includes promoting activities or policies that encourage and support healthy behaviors in the workplace.&lt;br&gt;Developing a thoughtful workplace health program has the potential to transform our organization. We hope it increases employee wellness, work satisfaction, and productivity. In this course, we&amp;rsquo;ll introduce some wellness concepts to kick off our wellness journey. Let&amp;rsquo;s get started!</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://ipSM3X5ZmWUVNCPG6hmFtKFUmq5MPQOj_rise/VkYXOuUifHyzueOcuxRx29uTG73g2CJs" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Introduction/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ipSM3X5ZmWUVNCPG6hmFtKFUmq5MPQOj_rise/pNj1SvuAw6BgeZcKrA1S_xsnhtdBty6w" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">5 Weeks to a Healthier You/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ipSM3X5ZmWUVNCPG6hmFtKFUmq5MPQOj_rise/dq_gHEoBrpPKzLW4TcP9427UdE8p8_kf" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Diet and Exercise/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ipSM3X5ZmWUVNCPG6hmFtKFUmq5MPQOj_rise/qkbxbarzUp-pPyYXPGaL34Nn7MYedjuF" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Healthy Eating and Regular Exercise/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ipSM3X5ZmWUVNCPG6hmFtKFUmq5MPQOj_rise/XCpGDxU83iYMxaQRAZCi2hd1gjmoAL53" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Creating Healthy Meals/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ipSM3X5ZmWUVNCPG6hmFtKFUmq5MPQOj_rise/uhT6w5EnBFOU-Va9a3f8bkT0UEukMgIz" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Creating an Exercise Program/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ipSM3X5ZmWUVNCPG6hmFtKFUmq5MPQOj_rise/Bivplzk-YfbqNFoozH1liCLFTGfFpaIF" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Managing Stress/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ipSM3X5ZmWUVNCPG6hmFtKFUmq5MPQOj_rise/9d_pkkX2He4LDCl3x-Qqud-VJ3ncyo5X" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">How Stress Affects You/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ipSM3X5ZmWUVNCPG6hmFtKFUmq5MPQOj_rise/B25zk55mMKHgK4ua0eD5b8WBST3bTiCd" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Coping with Stress/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ipSM3X5ZmWUVNCPG6hmFtKFUmq5MPQOj_rise/K0REceh0pRhxL4dLgXjePES38bXelKAW" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ipSM3X5ZmWUVNCPG6hmFtKFUmq5MPQOj_rise/UAypoZPGGxTuT_EnRfrMI921pS6OE4eS" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Wellness Quiz/quiz</name>
+      <description lang="en-US">Now that you’ve explored some aspects of physical, mental, and emotional wellness, it’s time to take a short quiz testing your Wellness IQ. Let’s see what you’ve learned so far!</description>
+    </activity>
+            
+    <activity id="http://ipSM3X5ZmWUVNCPG6hmFtKFUmq5MPQOj_rise/UAypoZPGGxTuT_EnRfrMI921pS6OE4eS/1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Myth or Fact - Skipping meals helps you lose weight.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_1</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_1</id>
+        <description lang="en-US">Myth</description>
+      </component>
+            <component>
+        <id>choice_2</id>
+        <description lang="en-US">Fact</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ipSM3X5ZmWUVNCPG6hmFtKFUmq5MPQOj_rise/UAypoZPGGxTuT_EnRfrMI921pS6OE4eS/2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">How many times per week should you exercise?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_1</id>
+        <description lang="en-US">1-2 times per week</description>
+      </component>
+            <component>
+        <id>choice_2</id>
+        <description lang="en-US">3-4 times per week</description>
+      </component>
+            <component>
+        <id>choice_3</id>
+        <description lang="en-US">4-5 times per week</description>
+      </component>
+            <component>
+        <id>choice_4</id>
+        <description lang="en-US">Every day</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ipSM3X5ZmWUVNCPG6hmFtKFUmq5MPQOj_rise/UAypoZPGGxTuT_EnRfrMI921pS6OE4eS/3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Match each behavior on the left to its corresponding impact on the right.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_1[.]target_1</correctResponsePattern>
+            <correctResponsePattern>source_2[.]target_2</correctResponsePattern>
+            <correctResponsePattern>source_3[.]target_3</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_1</id>
+        <description lang="en-US">Chronic stress></description>
+      </component>
+            <component>
+        <id>source_2</id>
+        <description lang="en-US">Lack of restful sleep></description>
+      </component>
+            <component>
+        <id>source_3</id>
+        <description lang="en-US">No time with friends></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_1</id>
+            <description lang="en-US">Increased blood pressure</description>
+          </component>
+                  <component>
+            <id>target_2</id>
+            <description lang="en-US">Irritability</description>
+          </component>
+                  <component>
+            <id>target_3</id>
+            <description lang="en-US">Feelings of isolation</description>
+          </component>
+              </target>
+          </activity>
+            </activities>
+</tincan>
