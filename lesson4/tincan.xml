@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6p95vHJcK4I_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Airless_Spritzverfahren_V0.1_210427</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6p95vHJcK4I_course_id/6Zyg6sRppSC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Startpage</name>
+			<description lang="und">Startpage</description>
+		</activity>
+		<activity id="http://6p95vHJcK4I_course_id/5x1nROygRFC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+		<activity id="http://6p95vHJcK4I_course_id/6Ysruclv2E8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+		<activity id="http://6p95vHJcK4I_course_id/5nletogbEuz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+		<activity id="http://6p95vHJcK4I_course_id/5nW9HYNNfZN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+		<activity id="http://6p95vHJcK4I_course_id/6r7YiisvX7n" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+		<activity id="http://6p95vHJcK4I_course_id/6XpKwZLkgau" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+		<activity id="http://6p95vHJcK4I_course_id/6F4GOUEmDie" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+		<activity id="http://6p95vHJcK4I_course_id/6YgECIcCVBr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Drag-and-Drop</name>
+			<description lang="und">Drag-and-Drop</description>
+		</activity>
+		<activity id="http://6p95vHJcK4I_course_id/6YgECIcCVBr/6HJOtZEZ0yB" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag-and-Drop</name>
+			<description lang="und">Drag-and-Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_63VzmmXn7lv[.]choice_5ogZj2F7jqE</correctResponsePattern>
+				<correctResponsePattern>statement_620ACyeGXpe[.]choice_6jJqzslByAp</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_63VzmmXn7lv</id>
+					<description lang="und">Rechteck 4 - Antistatisch</description>
+				</component>
+				<component>
+					<id>statement_620ACyeGXpe</id>
+					<description lang="und">Rechteck 6 - Trittschall Verbesserung</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_5ogZj2F7jqE</id>
+					<description lang="und">Rechteck 5</description>
+				</component>
+				<component>
+					<id>choice_6jJqzslByAp</id>
+					<description lang="und">Rechteck 7</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://6p95vHJcK4I_course_id/6ErUozQKxqu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+		<activity id="http://6p95vHJcK4I_course_id/5wcEwaINJmT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+		<activity id="http://6p95vHJcK4I_course_id/5jTV7OerWV9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+		<activity id="http://6p95vHJcK4I_course_id/5mPbJIVbMGj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+	</activities>
+</tincan>
