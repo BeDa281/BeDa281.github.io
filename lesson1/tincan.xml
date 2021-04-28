@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://rWkLBHTOTr2zwkJ7xgjuB3lgstuZ66NH_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Handlungsfeld 1: Technik und Gestaltung</name>
+      <description lang="en-US">In diesem Bereich finden Sie 10 Fragen und L&amp;ouml;sungen zum Handlungsfeld 1: Technik und Gestaltung. Fragen k&amp;ouml;nnen mehrere Abschnitt beinhalten (A - F), die nacheinander bearbeitet werden sollten.&amp;nbsp;Viel Erfolg!</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://rWkLBHTOTr2zwkJ7xgjuB3lgstuZ66NH_rise/EyLdQVbePs9CEN3t5jR97ub2vCHLiVZf" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Frage 1 - Glasgewebe/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://rWkLBHTOTr2zwkJ7xgjuB3lgstuZ66NH_rise/OUOwry1XeB7hSE9Wwhm4FLMd5_LXtP_6" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Frage 2 - Raufasertapete/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://rWkLBHTOTr2zwkJ7xgjuB3lgstuZ66NH_rise/hU2DzJdmiIUFBq4cnfup2u8DtJ6a1ApS" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Frage 3 - Holzkonstruktion/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://rWkLBHTOTr2zwkJ7xgjuB3lgstuZ66NH_rise/5Dd693KN42RFWZlpimyO-SVyffpOOwGJ" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Frage 4 - Symbole für Bodenbeläge/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://rWkLBHTOTr2zwkJ7xgjuB3lgstuZ66NH_rise/IlErllzONTeSGMxAde7vDYasioa5LX1a" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Frage 5 - Bauakustik/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://rWkLBHTOTr2zwkJ7xgjuB3lgstuZ66NH_rise/LlhbSQIHvSBsZZEcsr7d7pvfgSb_t0aq" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Frage 6 - Brandschutzwände/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://rWkLBHTOTr2zwkJ7xgjuB3lgstuZ66NH_rise/AWMfWCR_YPFgDe4MYIFlzMdZD_Q1SJI7" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Frage 7 - Brandschutztore/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://rWkLBHTOTr2zwkJ7xgjuB3lgstuZ66NH_rise/lxNgrSTJVTheUPSX7-_VPzUJ4W7B69re" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Frage 8 - Zinkuntergründe/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://rWkLBHTOTr2zwkJ7xgjuB3lgstuZ66NH_rise/mGQZkyjeKoPbo7LqT9ErCnDxjWEViKdN" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Frage 9 - Linoleum/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://rWkLBHTOTr2zwkJ7xgjuB3lgstuZ66NH_rise/rF6ectVR4-Rg2dTB2Yy7q7uSc_qNb2qr" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Frage 10 - Wellenlängen/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
