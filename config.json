@@ -1,0 +1,59 @@
+{
+    "lessons": {
+        "1": {
+            "url": "https://beda281.github.io/lesson1",
+            "picurl": "../assets/thumbnail_lesson_01.png",
+            "title": "Technik & Gestaltung",
+            "desc": "10 gemischte Fragen",
+            "duration": 30,
+            "category": "Textaufgaben",
+            "progress": 100
+        },
+        "2": {
+            "url": "https://beda281.github.io/lesson2",
+            "picurl": "../assets/thumbnail_lesson_02.png",
+            "title": "Quiz",
+            "desc": "10 schnelle Fragen",
+            "category": "Quiz",
+            "duration": 10,
+            "progress": 74
+        },
+        "3": {
+            "url": "https://beda281.github.io/lesson3",
+            "picurl": "../assets/thumbnail_lesson_03.png",
+            "title": "Beispielkurs",
+            "desc": "Kurs mit allen Content Elementen",
+            "category": "Beispielkurs",
+            "duration": 30,
+            "progress": 22
+        },
+        "6": {
+            "url": "https://beda281.github.io/lesson6",
+            "picurl": "../assets/thumbnail_lesson_05.png",
+            "title": "Platzhalter 1",
+            "desc": "Ohne Inhalt",
+            "category": "Textaufgaben",
+            "duration": 30,
+            "progress": 0
+        },
+        "7": {
+            "url": "https://beda281.github.io/lesson7",
+            "picurl": "../assets/thumbnail_lesson_05.png",
+            "title": "Platzhalter 2",
+            "desc": "Ohne Inhalt",
+            "category": "Quiz",
+            "duration": 30,
+            "progress": 0
+        },
+        "8": {
+            "url": "https://beda281.github.io/lesson8",
+            "picurl": "../assets/thumbnail_lesson_05.png",
+            "title": "Platzhalter 3",
+            "desc": "Ohne Inhalt",
+            "category": "Beispielkurs",
+            "duration": 30,
+            "progress": 0,
+            "isVideo": true
+        }
+    }
+}
