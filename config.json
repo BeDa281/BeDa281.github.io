@@ -2,7 +2,7 @@
     "lessons": {
         "1": {
             "url": "https://beda281.github.io/lesson1",
-            "picurl": "../assets/thumbnail_lesson_01.png",
+            "picurl": "https://beda281.github.io/assets/LessonCards/thumbnail_lesson_01.png",
             "title": "Technik & Gestaltung",
             "desc": "10 gemischte Fragen",
             "duration": 30,
@@ -11,7 +11,7 @@
         },
         "2": {
             "url": "https://beda281.github.io/lesson2",
-            "picurl": "../assets/thumbnail_lesson_02.png",
+            "picurl": "https://beda281.github.io/assets/LessonCards/thumbnail_lesson_02.png",
             "title": "Quiz",
             "desc": "10 schnelle Fragen",
             "category": "Quiz",
@@ -20,7 +20,7 @@
         },
         "3": {
             "url": "https://beda281.github.io/lesson3",
-            "picurl": "../assets/thumbnail_lesson_03.png",
+            "picurl": "https://beda281.github.io/assets/LessonCards/thumbnail_lesson_03.png",
             "title": "Beispielkurs",
             "desc": "Kurs mit allen Content Elementen",
             "category": "Beispielkurs",
@@ -29,7 +29,7 @@
         },
         "6": {
             "url": "https://beda281.github.io/lesson6",
-            "picurl": "../assets/thumbnail_lesson_05.png",
+            "picurl": "https://beda281.github.io/assets/LessonCards/thumbnail_lesson_05.png",
             "title": "Platzhalter 1",
             "desc": "Ohne Inhalt",
             "category": "Textaufgaben",
@@ -38,7 +38,7 @@
         },
         "7": {
             "url": "https://beda281.github.io/lesson7",
-            "picurl": "../assets/thumbnail_lesson_05.png",
+            "picurl": "https://beda281.github.io/assets/LessonCards/thumbnail_lesson_05.png",
             "title": "Platzhalter 2",
             "desc": "Ohne Inhalt",
             "category": "Quiz",
@@ -47,7 +47,7 @@
         },
         "8": {
             "url": "https://beda281.github.io/lesson8",
-            "picurl": "../assets/thumbnail_lesson_05.png",
+            "picurl": "https://beda281.github.io/assets/LessonCards/thumbnail_lesson_05.png",
             "title": "Platzhalter 3",
             "desc": "Ohne Inhalt",
             "category": "Beispielkurs",
