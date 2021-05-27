@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<manifest identifier="FwUDhvtCm62-gwHicW7_9cF2_bkhsvggTwbQdTLl" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Beispielkurs</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Beispielkurs</title>
+        <adlcp:dataFromLMS>eyJjcHYiOiJUd2JRZFRMbCIsInJsZCI6ZmFsc2V9</adlcp:dataFromLMS>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+<file href="scormcontent/assets/ksVnN8ZVN7yrY7lQ_small.png" />
+<file href="scormcontent/assets/wdXB9rMlr4ki3NKz_quote_background.jpg" />
+<file href="scormcontent/assets/6pBoRj8WJzdTJ2fS_avatar.jpg" />
+<file href="scormcontent/assets/Rotx07NhJ-fB30rY_bike.jpg" />
+<file href="scormcontent/assets/9TydqOYMDTIf_qHc_ocean.jpg" />
+<file href="scormcontent/assets/kImKTYZN5vWQnrzX_vw.jpg" />
+<file href="scormcontent/assets/2yyLbHcVx5roUNrB_city.jpg" />
+<file href="scormcontent/assets/UBcFc3qJu4K_CA1u_beach.jpg" />
+<file href="scormcontent/assets/3f1CVSq0aOjDk4yS_concert.jpg" />
+<file href="scormcontent/assets/HFVMp0dbjUJhmZtw_underwater.jpg" />
+<file href="scormcontent/assets/bwJ5-eD_WvHyD2NS_field.jpg" />
+<file href="scormcontent/assets/8cK6FcAoqNPyvpyR_night.jpg" />
+<file href="scormcontent/assets/LkQQaJmYu-IO9Wz3_beach_dusk.jpg" />
+<file href="scormcontent/assets/3HMIoKw3tVE4in8N_sparkler.jpg" />
+<file href="scormcontent/assets/pBQnAWTAXatzLJPa_amp.jpg" />
+<file href="scormcontent/assets/DJiAcEYxcxTVGAim_cafe.jpg" />
+<file href="scormcontent/assets/MyCPHhWn8c2AH6ej_record.jpg" />
+<file href="scormcontent/assets/4n0kQKiorsZF_8uN_tracks.jpg" />
+<file href="scormcontent/assets/6UtFfksIgJUizEyk_coastline_poster.png" />
+<file href="scormcontent/assets/5wDdnXXwqs2Svj4k_coastline.mp4" />
+<file href="scormcontent/assets/9y7QgGMBzXx0sCZk_sample_audio.mp3" />
+<file href="scormcontent/assets/qScbROFxRxRDyDqT_paraglide.jpg" />
+<file href="scormcontent/assets/5pv6LvKJYKidpD5I_map-balloon.jpg" />
+<file href="scormcontent/assets/-WD65flai0h6J_DX_beach_rocks.jpg" />
+<file href="scormcontent/assets/P5gSq4avl-cseqxM_sky_mountains.jpg" />
+<file href="scormcontent/assets/N3B564aAdEcIq1j4_hotel.jpg" />
+<file href="scormcontent/assets/MuR54-mDkPrmrFQl_mountains.jpg" />
+<file href="scormcontent/assets/nah2BbhPrK0u-HOT_YwpseADzyanTYJ70.jpg" />
+<file href="scormcontent/assets/uVVSgltuFRjq3N4c_350_full.png" />
+<file href="scormcontent/assets/XV2ptsiTyUsEHkO4_321_full.png" />
+<file href="scormcontent/assets/eeW4YUJaff_dzbXL_332_full.png" />
+<file href="scormcontent/assets/-KpnAwsg7OEW992M_335_full.png" />
+<file href="scormcontent/assets/Y2KvRT1gmeq5uvg2_326_full.png" />
+<file href="scormcontent/assets/vJ2aE1PWTs1n331G_328_full.png" />
+<file href="scormcontent/assets/c_wMqMZVOzg0Tuv3_343_full.png" />
+<file href="scormcontent/assets/Qn-43Up9DISymMcn_337_full.png" />
+<file href="scormcontent/assets/w17F_h9GCn4Qy0p8_346_full.png" />
+<file href="scormcontent/assets/73ow7CiFk8_gVOtz_323_full.png" />
+<file href="scormcontent/assets/3OcYIvEV6XHKEaaZ_325_full.png" />
+<file href="scormcontent/assets/lJTD4jQ9Qo2zXJGf_340_full.png" />
+
+    </resource>
+  </resources>
+</manifest>
