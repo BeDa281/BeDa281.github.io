@@ -54,6 +54,36 @@
             "duration": 30,
             "progress": 0,
             "isVideo": true
+        },
+        "9": {
+            "url": "https://beda281.github.io/lesson8",
+            "picurl": "https://beda281.github.io/assets/LessonCards/thumbnail_lesson_05.png",
+            "title": "Platzhalter 3 mit etwas längerer tesxt kein ahnung was ich schreiben soolll",
+            "desc": "Ohne Inhalt wo die description auch ein bischen länger ist",
+            "category": "Beispielkurs",
+            "duration": 30,
+            "progress": 0,
+            "isVideo": true
+        },
+        "10": {
+            "url": "https://beda281.github.io/lesson8",
+            "picurl": "https://beda281.github.io/assets/LessonCards/thumbnail_lesson_05.png",
+            "title": "Platzhalter 3",
+            "desc": "Ohne Inhalt Ohne Inhalt Ohne Inhalt Ohne Inhalt Ohne Inhalt Ohne Inhalt Ohne Inhalt  Ohne Inhalt ajksdnjkasnj Ohne Inhalt asdjalsjdlasdlk Ohne Inhalt Ohne Inhalt",
+            "category": "Beispielkurs",
+            "duration": 30,
+            "progress": 0,
+            "isVideo": true
+        },
+        "11": {
+            "url": "https://beda281.github.io/lesson8",
+            "picurl": "https://beda281.github.io/assets/LessonCards/thumbnail_lesson_05.png",
+            "title": "Platzhalter 3 Dies ist ein ewig langer title der eigentlich nur nervt",
+            "desc": "Ohne Inhalt",
+            "category": "Beispielkurs",
+            "duration": 30,
+            "progress": 0,
+            "isVideo": true
         }
     }
 }
