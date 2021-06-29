@@ -59,7 +59,7 @@
             "category": "Beispielkurs",
             "duration": 30,
             "state" : "Neues",
-            "progress": 0,
+            "progress": 0
         }
     }
 }
