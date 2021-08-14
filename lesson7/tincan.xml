@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://ObJcoIKjCt4bndWglcic18s6K-f2ru5h_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Quiz 2</name>
+      <description lang="en-US">Mach dieses Quiz</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://ObJcoIKjCt4bndWglcic18s6K-f2ru5h_rise/_Bg3gJJYGu4_Ew2aYHpaOrJOF5nPDgSE" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Testquiz (short)/quiz</name>
+      <description lang="en-US">Short testquiz</description>
+    </activity>
+            
+    <activity id="http://ObJcoIKjCt4bndWglcic18s6K-f2ru5h_rise/_Bg3gJJYGu4_Ew2aYHpaOrJOF5nPDgSE/cksc3rqmd0004266exjfuxbea" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was ist die richtige Antwort?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cksc3rqmd0005266e3ex6trr1</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cksc3rqmd0005266e3ex6trr1</id>
+        <description lang="en-US">richtig</description>
+      </component>
+            <component>
+        <id>choice_cksc3rqmd0006266eq9i0avbf</id>
+        <description lang="en-US">falsch</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ObJcoIKjCt4bndWglcic18s6K-f2ru5h_rise/_Bg3gJJYGu4_Ew2aYHpaOrJOF5nPDgSE/cksc40yub002w266ekkcaph62" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was sind die richtigen Antworten</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cksc40yuc002x266efxkrxmaf</correctResponsePattern>
+            <correctResponsePattern>choice_cksc40yuc002y266euuq3rvxy</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cksc40yuc002x266efxkrxmaf</id>
+        <description lang="en-US">richtig</description>
+      </component>
+            <component>
+        <id>choice_cksc40yuc002z266eyxloke9s</id>
+        <description lang="en-US">falsch</description>
+      </component>
+            <component>
+        <id>choice_cksc40yuc0030266exil1iqjb</id>
+        <description lang="en-US">falsch</description>
+      </component>
+            <component>
+        <id>choice_cksc40yuc002y266euuq3rvxy</id>
+        <description lang="en-US">richtig</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
