@@ -1,0 +1,27 @@
+{
+  "version": "3.54.25674.0",
+  "course_id": "6Qlg6WsQi7I_course_id",
+  "title": "sl-input-block",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Input Block"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6FySzw5Lk6w",
+      "title": "base",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 635,
+    "height": 321
+  },
+  "stage": {
+    "width": 375,
+    "height": 203
+  }
+}
