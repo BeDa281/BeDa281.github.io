@@ -3,11 +3,15 @@
   <activities>
     <activity id="http://76LtE20XJ3Ze9hL9jnl_u6cnrTPwdjTM_rise" type="http://adlnet.gov/expapi/activities/course">
       <name lang="en-US">Testing Text Input</name>
-      <description lang="en-US">Text Input</description>
+      <description lang="en-US">Testen von text input Bl&amp;ouml;cken, embedded &amp;uuml;ber Storyline</description>
       <launch lang="en-US">index.html</launch>
     </activity>
       <activity id="http://76LtE20XJ3Ze9hL9jnl_u6cnrTPwdjTM_rise/GAsqDTqlKydoSggt-K3ezB6JKfk_4w4b" type="http://adlnet.gov/expapi/activities/module">
-      <name lang="en-US">Text Input/blocks</name>
+      <name lang="en-US">Kalksandsteine/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://76LtE20XJ3Ze9hL9jnl_u6cnrTPwdjTM_rise/r-dMapzAWh-1B9-tC3vJsa5HFSfxrqkX" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Türbeschichtung/blocks</name>
       <description lang="en-US"></description>
     </activity>
         </activities>

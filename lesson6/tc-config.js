@@ -16,5 +16,5 @@ TC_COURSE_NAME = {
 // CourseDesc for the activity
 //
 TC_COURSE_DESC = {
-  "en-US": "&lt;p&gt;Text Input&lt;/p&gt;"
+  "en-US": "&lt;p&gt;Testen von text input Bl&amp;ouml;cken, embedded &amp;uuml;ber Storyline&lt;/p&gt;"
 };
