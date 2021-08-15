@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://HXm1MGUEkK8gSQgWNLfo7sQZhlFBeN2m_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Quiz - Test xAPI Settings</name>
+      <description lang="en-US">Quiz mit xAPI Settings &amp;quot;track using quiz result&amp;quot;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://HXm1MGUEkK8gSQgWNLfo7sQZhlFBeN2m_rise/nGxN-rPUoVmxZmhN8XJMhnm5B-myYcVc" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://HXm1MGUEkK8gSQgWNLfo7sQZhlFBeN2m_rise/nGxN-rPUoVmxZmhN8XJMhnm5B-myYcVc/cksct645c0004266eb8yq719h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">What is correct?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cksct645c0005266er07mdozw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cksct645c0005266er07mdozw</id>
+        <description lang="en-US">correct</description>
+      </component>
+            <component>
+        <id>choice_cksct645c0006266exk48weuc</id>
+        <description lang="en-US">Choice 2</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://HXm1MGUEkK8gSQgWNLfo7sQZhlFBeN2m_rise/nGxN-rPUoVmxZmhN8XJMhnm5B-myYcVc/cksct645c0007266ebsojieut" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">What is correct?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cksct645d0008266eu4iqkw4x</correctResponsePattern>
+            <correctResponsePattern>choice_cksct645d0009266e9f4n108z</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cksct645d0008266eu4iqkw4x</id>
+        <description lang="en-US">correct 1</description>
+      </component>
+            <component>
+        <id>choice_cksct645d000a266eqp0bf8ty</id>
+        <description lang="en-US">Choice 1</description>
+      </component>
+            <component>
+        <id>choice_cksct645d000b266ewmfa1bap</id>
+        <description lang="en-US">Choice 2</description>
+      </component>
+            <component>
+        <id>choice_cksct645d0009266e9f4n108z</id>
+        <description lang="en-US">correct 2</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://HXm1MGUEkK8gSQgWNLfo7sQZhlFBeN2m_rise/nGxN-rPUoVmxZmhN8XJMhnm5B-myYcVc/cksdf41tj0051266ee26lo1uq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">What is correct?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cksdf41tm0052266ekj1c4qy6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cksdf41tm0052266ekj1c4qy6</id>
+        <description lang="en-US">correct</description>
+      </component>
+            <component>
+        <id>choice_cksdf41tm0053266e19h0cx17</id>
+        <description lang="en-US">Choice 2</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
