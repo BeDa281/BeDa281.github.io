@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://aiqsbgvuATIN1ruNnzUpjaXYuK_-50s7_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Vorkalkulation - Teil 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://aiqsbgvuATIN1ruNnzUpjaXYuK_-50s7_rise/eY2LLW9DCJgf91aaaTNEyGgniicwuBcW" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://aiqsbgvuATIN1ruNnzUpjaXYuK_-50s7_rise/eY2LLW9DCJgf91aaaTNEyGgniicwuBcW/cksct645c0004266eb8yq719h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zur Kalkulation des Stundenverrechnungssatzes wird im Maler- und Lackiererhandwerk wird h&amp;auml;ufig das Formblatt zur Kosten- und Ergebnisrechnung verwendet. Welche der folgenden Kosten werden nicht ber&amp;uuml;cksichtigt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktaetwsv002w266ezbwkodab</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cksct645c0005266er07mdozw</id>
+        <description lang="en-US">Produktive Werkstoffkosten</description>
+      </component>
+            <component>
+        <id>choice_cksct645c0006266exk48weuc</id>
+        <description lang="en-US">Personalgemeinkosten</description>
+      </component>
+            <component>
+        <id>choice_cktaetwsv002w266ezbwkodab</id>
+        <description lang="en-US">Steuervorauszahlungen</description>
+      </component>
+            <component>
+        <id>choice_cktaeu4fc002x266e82yvu4k3</id>
+        <description lang="en-US">Produktive Lohnkosten</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aiqsbgvuATIN1ruNnzUpjaXYuK_-50s7_rise/eY2LLW9DCJgf91aaaTNEyGgniicwuBcW/cktaeuhki002y266e9x42bdhs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Kosten sind nicht zu den direkt verrechenbaren (produktiven) Lohn kosten zu rechnen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktaevbih0031266e4h6xuto2</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktaeuhkj002z266ejb3kic2h</id>
+        <description lang="en-US">Die produktive Zeit f&amp;uuml;r gewerbliche Auszubildende</description>
+      </component>
+            <component>
+        <id>choice_cktaeuhkj0030266e8jh32f3h</id>
+        <description lang="en-US">Die produktive Zeit des mitarbeitenden Unternehmers</description>
+      </component>
+            <component>
+        <id>choice_cktaevbih0031266e4h6xuto2</id>
+        <description lang="en-US">Die Abschl&amp;auml;ge f&amp;uuml;r Baustellenwechsel/Pausen</description>
+      </component>
+            <component>
+        <id>choice_cktaevjku0032266eefaffnv8</id>
+        <description lang="en-US">Die direkt verrechenbare Zeit der Helfer</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aiqsbgvuATIN1ruNnzUpjaXYuK_-50s7_rise/eY2LLW9DCJgf91aaaTNEyGgniicwuBcW/cktaevwet0033266e2tsgv2dt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Kosten werden nicht von der Bruttolohnsumme im Formblatt zur Kosten- und Ergebnisrechnung abgezogen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktaewpsu0037266ero0f7mmi</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktaevwet0034266ejut5vaz3</id>
+        <description lang="en-US">Urlaubsgeld</description>
+      </component>
+            <component>
+        <id>choice_cktaevwet0035266ei1mwwfmn</id>
+        <description lang="en-US">Feiertagsentlohnung</description>
+      </component>
+            <component>
+        <id>choice_cktaewlxj0036266e7s5rxob9</id>
+        <description lang="en-US">Lohnfortzahlung im Krankheitsfall</description>
+      </component>
+            <component>
+        <id>choice_cktaewpsu0037266ero0f7mmi</id>
+        <description lang="en-US">Kurzfristig mitarbeitender Unternehmer&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aiqsbgvuATIN1ruNnzUpjaXYuK_-50s7_rise/eY2LLW9DCJgf91aaaTNEyGgniicwuBcW/cktaex8zi0038266evq8ou40m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welcher Anteil der L&amp;ouml;hne f&amp;uuml;r Auszubildende wird zu den Personalkosten gerechnet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktaex8zi0039266e6lfy3qgq</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktaex8zi0039266e6lfy3qgq</id>
+        <description lang="en-US">Der nicht produktive Anteil&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cktaex8zi003a266enm51abc8</id>
+        <description lang="en-US">Der produktive Anteil</description>
+      </component>
+            <component>
+        <id>choice_cktaexv6u003b266ebeotg117</id>
+        <description lang="en-US">Die Gesamtkosten</description>
+      </component>
+            <component>
+        <id>choice_cktaey4rb003c266e71tqyoij</id>
+        <description lang="en-US">Immer 50% des Lohnes</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aiqsbgvuATIN1ruNnzUpjaXYuK_-50s7_rise/eY2LLW9DCJgf91aaaTNEyGgniicwuBcW/cktaeyo96003d266ew9v30ej6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Kosten werden bei den Personalkosten mit Erstattungen verrechnet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktaezcxb003g266e5hy0jq6k</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktaeyo97003e266erg664086</id>
+        <description lang="en-US">Verm&amp;ouml;genswirksame Leistungen</description>
+      </component>
+            <component>
+        <id>choice_cktaeyo97003f266e72kcmi9n</id>
+        <description lang="en-US">Feiertagsentlohnungen</description>
+      </component>
+            <component>
+        <id>choice_cktaezcxb003g266e5hy0jq6k</id>
+        <description lang="en-US">Lohnfortzahlung im Krankheitsfall</description>
+      </component>
+            <component>
+        <id>choice_cktaezglb003h266er4sm3hzb</id>
+        <description lang="en-US">Sozialversicherungsbeitr&amp;auml;ge</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aiqsbgvuATIN1ruNnzUpjaXYuK_-50s7_rise/eY2LLW9DCJgf91aaaTNEyGgniicwuBcW/cktaf04k1003i266exzspcb61" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Unter welcher Kostenart wird der nicht produktive Unternehmerlohn eingetragen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktaf16ls003l266eu0zmjo2o</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktaf04k1003j266eval6zjr9</id>
+        <description lang="en-US">Personalgemeinkosten, Produktiven Lohnkosten</description>
+      </component>
+            <component>
+        <id>choice_cktaf04k1003k266epq0f8hnj</id>
+        <description lang="en-US">Betriebsleistung</description>
+      </component>
+            <component>
+        <id>choice_cktaf16ls003l266eu0zmjo2o</id>
+        <description lang="en-US">Kalkulatorische Gemeinkosten&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cktaf1aqs003m266ez4yex0bo</id>
+        <description lang="en-US">Wird gesondert aufgef&amp;uuml;hrt</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aiqsbgvuATIN1ruNnzUpjaXYuK_-50s7_rise/eY2LLW9DCJgf91aaaTNEyGgniicwuBcW/cktaf1sjs003n266e5rxcobb1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was wird unter kalkulatorischer Miete verstanden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktaf1sjt003p266edq9nkqfz</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktaf1sjt003o266ei4a31zxe</id>
+        <description lang="en-US">Fremdmiete&lt;br&gt;</description>
+      </component>
+            <component>
+        <id>choice_cktaf1sjt003p266edq9nkqfz</id>
+        <description lang="en-US">Eigenmiete richtig&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cktaf2f31003q266edh45h31f</id>
+        <description lang="en-US">Sonderkosten</description>
+      </component>
+            <component>
+        <id>choice_cktaf2iby003r266ehlksnkj0</id>
+        <description lang="en-US">Pacht</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aiqsbgvuATIN1ruNnzUpjaXYuK_-50s7_rise/eY2LLW9DCJgf91aaaTNEyGgniicwuBcW/cktaf2yw3003s266esbio20ej" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was wird zur Betriebsleistung gerechnet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktaf43fo003v266ei6rq3q8m</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktaf2yw4003t266el7rv27iu</id>
+        <description lang="en-US">Kundenskonti</description>
+      </component>
+            <component>
+        <id>choice_cktaf2yw4003u266eat9n054b</id>
+        <description lang="en-US">Angefangene Arbeiten am 01.01&amp;hellip;</description>
+      </component>
+            <component>
+        <id>choice_cktaf43fo003v266ei6rq3q8m</id>
+        <description lang="en-US">Rechnungsausg&amp;auml;nge</description>
+      </component>
+            <component>
+        <id>choice_cktaf483k003w266eavxo5vni</id>
+        <description lang="en-US">Raumkosten</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aiqsbgvuATIN1ruNnzUpjaXYuK_-50s7_rise/eY2LLW9DCJgf91aaaTNEyGgniicwuBcW/cktaf4sto003x266ec0nba2xa" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie wird der Gemeinkostenzuschlag des Jahres berechnet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktaf4stp003y266e9uljovvw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktaf4stp003y266e9uljovvw</id>
+        <description lang="en-US">Gemeinkosten geteilt durch direkt verrechenbare L&amp;ouml;hne mal 100&amp;nbsp;&lt;br&gt;</description>
+      </component>
+            <component>
+        <id>choice_cktaf4stp003z266eiwrz1qya</id>
+        <description lang="en-US">Gemeinkosten geteilt durch Personalkosten mal 100</description>
+      </component>
+            <component>
+        <id>choice_cktaf5j840040266er4khkxes</id>
+        <description lang="en-US">Gemeinkosten geteilt durch die Betriebsleistung mal 100</description>
+      </component>
+            <component>
+        <id>choice_cktaf5nyb0041266e3ttu2bc4</id>
+        <description lang="en-US">Gemeinkosten geteilt durch kalkulatorische Kosten mal 100&lt;br&gt;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aiqsbgvuATIN1ruNnzUpjaXYuK_-50s7_rise/eY2LLW9DCJgf91aaaTNEyGgniicwuBcW/cktafl83y0042266ezhwh5tb2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was sind Einzelkosten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktafl83z0043266e147fae9b</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktafl83z0043266e147fae9b</id>
+        <description lang="en-US">Das sind Kosten die sich direkt einem Auftrag zuzurechnen lassen. </description>
+      </component>
+            <component>
+        <id>choice_cktafl83z0044266egdas0b7l</id>
+        <description lang="en-US">Das sind Kosten die selten auftreten</description>
+      </component>
+            <component>
+        <id>choice_cktafm0gq0045266e8h72zdke</id>
+        <description lang="en-US">Das sind Kosten die auf alle Auftr&amp;auml;ge verteilt werden</description>
+      </component>
+            <component>
+        <id>choice_cktafm4vw0046266e7fbegjvo</id>
+        <description lang="en-US">Das sind Kosten die eine untergeordnete Rolle spielen</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
