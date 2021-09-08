@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Rechtliches und VOB Allgemein - Teil 5</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg/cktbttqqp002w266e4lo8z8xv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie f&amp;uuml;hren einen Auftrag &amp;uuml;ber die Beschichtung an einer Fassade eines Mehrfamilien&amp;shy;hauses aus. Vertragsgrundlage ist das BGB.&lt;br&gt;Zwei Wochen nach Arbeitsbeginn stellen Sie eine pr&amp;uuml;fbare Abschlagsrechnung.&lt;br&gt;Wird die Bezahlung der Gesamtleistung mit der Abnahme f&amp;auml;llig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktbttqqr002x266e5kfmdi9x</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktbttqqr002x266e5kfmdi9x</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            <component>
+        <id>choice_cktbttqqr002y266eto0e6xwy</id>
+        <description lang="en-US">Nein</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg/cktbu5br4002z266er3p8bfrt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der nachfolgenden T&amp;auml;tigkeiten sind nach DIN 18299 bzw. DIN 18363 Besondere Leistungen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktbu5br50030266ejyeccprj</correctResponsePattern>
+            <correctResponsePattern>choice_cktbu5br50032266emzifja4f</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktbu5br50030266ejyeccprj</id>
+        <description lang="en-US">Mehrfarbiges Absetzen eines Bauteils</description>
+      </component>
+            <component>
+        <id>choice_cktbu5br50032266emzifja4f</id>
+        <description lang="en-US">Entsorgen von gef&amp;auml;hrlichen Abf&amp;auml;llen des Auftraggebers</description>
+      </component>
+            <component>
+        <id>choice_cktbu5br50033266eimu0rxsx</id>
+        <description lang="en-US">Abdecken von Fensterb&amp;auml;nken beim Fensteranstrich</description>
+      </component>
+            <component>
+        <id>choice_cktbu5br50031266esttadmb2</id>
+        <description lang="en-US">Pr&amp;uuml;fbares Aufma&amp;szlig; erstellen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg/cktbu769a004n266eh58nm49b" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der nachfolgenden T&amp;auml;tigkeiten sind nach DIN 18299 bzw.&amp;nbsp; DIN 18363 Besondere Leistungen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktbu769a004p266ewaijumkm</correctResponsePattern>
+            <correctResponsePattern>choice_cktbu769a004r266e93e6ti45</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktbu769a004o266ed9ooneh6</id>
+        <description lang="en-US">Spachteln von einzelnen D&amp;uuml;bel-/Nagell&amp;ouml;chern in Wandfl&amp;auml;chen</description>
+      </component>
+            <component>
+        <id>choice_cktbu769a004q266ep9k629ff</id>
+        <description lang="en-US">Ger&amp;uuml;ste bis 2 m H&amp;ouml;he &amp;uuml;ber Gel&amp;auml;nde oder Fu&amp;szlig;boden</description>
+      </component>
+            <component>
+        <id>choice_cktbu769a004r266e93e6ti45</id>
+        <description lang="en-US">Putzrisse aufkratzen und ausbessern</description>
+      </component>
+            <component>
+        <id>choice_cktbu769a004p266ewaijumkm</id>
+        <description lang="en-US">Fest haftende Putzreste mit der Spachtel entfernen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg/cktbua3wy0072266er06220cr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei den Malerarbeiten in einem Altbau haben Sie nach Aufforderung durch den Bauleiter Abfall der Vorgewerke beseitigt. Vor dem Abnahmetermin der gesamten Bauleistungen legen Sie dem Bauleiter die Stundenzettel f&amp;uuml;r diese Arbeiten zur Unterschrift vor. Die Stunden wurden von ihm best&amp;auml;tigt. Nach Vorlage der Schlussrechnung lehnt der Bauherr die Zahlung dieser Stundenlohn&amp;shy;arbeiten ab.&lt;br&gt;Welche 5 Erfordernisse, die Sie als Auftragnehmer zur Sicherung des Verg&amp;uuml;tungsanspruchs haben, h&amp;auml;tten Sie beachten m&amp;uuml;ssen.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktbua3wy0073266eednut2v8</correctResponsePattern>
+            <correctResponsePattern>choice_cktbua3wy0074266e18vuya66</correctResponsePattern>
+            <correctResponsePattern>choice_cktbua3wy0075266e8qhird79</correctResponsePattern>
+            <correctResponsePattern>choice_cktbua3wy0076266evgmthdpb</correctResponsePattern>
+            <correctResponsePattern>choice_cktbubug900ae266easw3zz1z</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktbua3wy0073266eednut2v8</id>
+        <description lang="en-US">Stundenlohnarbeiten mit Auftraggeber oder Bevollm&amp;auml;chtigten vereinbaren</description>
+      </component>
+            <component>
+        <id>choice_cktbua3wy0075266e8qhird79</id>
+        <description lang="en-US">Beginn der Stundenlohnarbeiten anzeigen</description>
+      </component>
+            <component>
+        <id>choice_cktbua3wy0076266evgmthdpb</id>
+        <description lang="en-US">Choice 3</description>
+      </component>
+            <component>
+        <id>choice_cktbua3wy0074266e18vuya66</id>
+        <description lang="en-US">Stundenlohnzettel mindestens w&amp;ouml;chentlich beim Auftraggeber einreichen</description>
+      </component>
+            <component>
+        <id>choice_cktbubug900ae266easw3zz1z</id>
+        <description lang="en-US">Stundenlohnrechnungen innerhalb von 4 Wochen einreichen</description>
+      </component>
+            <component>
+        <id>choice_cktbuc0rh00aq266efclkk823</id>
+        <description lang="en-US">Stundenlohnrechnungen innerhalb von 2 Wochen einreichen</description>
+      </component>
+            <component>
+        <id>choice_cktbuc4w800b0266eofglps8e</id>
+        <description lang="en-US">Stundenlohnzettel f&amp;uuml;hren und vom Bauleiter m&amp;ouml;glichst w&amp;ouml;chentlich unterzeichnen lassen</description>
+      </component>
+            <component>
+        <id>choice_cktbucalu00ba266eayyofy60</id>
+        <description lang="en-US">M&amp;uuml;ndliche Absprache mit Auftraggeber oder Bevollm&amp;auml;chtigten</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg/cktbudmih00bs266eklmvncwz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">W&amp;auml;hrend Ihrer Arbeiten an den Wandfl&amp;auml;chen in einem B&amp;uuml;ro, stellte sich heraus, dass der Elektriker auf Wunsch des Auftraggebers noch einige zus&amp;auml;tzliche Kabel und Dosen unter Putz verlegen musste. Um den Arbeitsfortschritt nicht zu unterbrechen, verputzten Sie die Installationsschlitze ohne Absprache mit der Bauleitung. Die Arbeitszeit hierf&amp;uuml;r betrug 3 Stunden.&lt;br&gt;Unter welchen Bedingungen steht Ihnen eine Verg&amp;uuml;tung nach VOB/B zu?&lt;br&gt;Nach &amp;sect; 2 Abs. 8 VOB/B steht Ihnen eine Verg&amp;uuml;tung zu, wenn:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktbudmil00bt266eim76195y</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktbudmil00bt266eim76195y</id>
+        <description lang="en-US">1. Der Auftraggeber die Leistung nachtr&amp;auml;glich anerkennt, oder 2. Die Leistung f&amp;uuml;r den Vertrag notwendig war und dem offensichtlichen Willen des Auftraggebers entsprach und beim Auftraggeber unverz&amp;uuml;glich angezeigt wurde.</description>
+      </component>
+            <component>
+        <id>choice_cktbudmil00bu266ekq3ls7l3</id>
+        <description lang="en-US">1. Der Auftraggeber muss die Leistung nachtr&amp;auml;glich nicht anerkennen, die Leistung f&amp;uuml;r den Vertrag jedoch notwendig war und dem offensichtlichen Willen des Auftraggebers entsprach und beim Auftraggeber unverz&amp;uuml;glich angezeigt wurde.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg/cktbuhnt900by266efopwnz3p" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Das Ger&amp;uuml;st f&amp;uuml;r die Fassadenarbeiten am Altbau wird von Ihnen gestellt.&lt;br&gt;Wie wird die Aufma&amp;szlig;h&amp;ouml;he eines abschnittsweise aufgebauten Ger&amp;uuml;stes nach VOB/C ATV DIN 18451 ermittelt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktbuhnt900bz266ellung11b</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktbuhnt900bz266ellung11b</id>
+        <description lang="en-US">Als Aufma&amp;szlig;h&amp;ouml;he gilt die H&amp;ouml;he von der Standfl&amp;auml;che des Ger&amp;uuml;stes bis zum jeweils obersten Ger&amp;uuml;stbelag zuz&amp;uuml;glich 2 m, jedoch nicht h&amp;ouml;her als bis zur h&amp;ouml;chsten Stelle (Oberkante) der einger&amp;uuml;steten Fl&amp;auml;che. (Ziffer 5.1.5)</description>
+      </component>
+            <component>
+        <id>choice_cktbuhnt900c0266ed1lwhc9u</id>
+        <description lang="en-US">Als Aufma&amp;szlig;h&amp;ouml;he gilt die H&amp;ouml;he von der Standfl&amp;auml;che des Ger&amp;uuml;stes bis zum jeweils obersten Ger&amp;uuml;stbelag zuz&amp;uuml;glich 4 m, jedoch nicht h&amp;ouml;her als bis zur h&amp;ouml;chsten Stelle (Oberkante) der einger&amp;uuml;steten Fl&amp;auml;che. (Ziffer 5.1.5)</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg/cktbuky6m00c5266e1ge4rdmb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;o:OfficeDocumentSettings&gt;
+  &lt;o:AllowPNG&gt;&lt;/o:AllowPNG&gt;
+ &lt;/o:OfficeDocumentSettings&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:WordDocument&gt;
+  &lt;w:View&gt;Normal&lt;/w:View&gt;
+  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+  &lt;w:TrackMoves&gt;&lt;/w:TrackMoves&gt;
+  &lt;w:TrackFormatting&gt;&lt;/w:TrackFormatting&gt;
+  &lt;w:HyphenationZone&gt;21&lt;/w:HyphenationZone&gt;
+  &lt;w:PunctuationKerning&gt;&lt;/w:PunctuationKerning&gt;
+  &lt;w:ValidateAgainstSchemas&gt;&lt;/w:ValidateAgainstSchemas&gt;
+  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+  &lt;w:DoNotPromoteQF&gt;&lt;/w:DoNotPromoteQF&gt;
+  &lt;w:LidThemeOther&gt;DE&lt;/w:LidThemeOther&gt;
+  &lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;
+  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+  &lt;w:Compatibility&gt;
+   &lt;w:BreakWrappedTables&gt;&lt;/w:BreakWrappedTables&gt;
+   &lt;w:SnapToGridInCell&gt;&lt;/w:SnapToGridInCell&gt;
+   &lt;w:WrapTextWithPunct&gt;&lt;/w:WrapTextWithPunct&gt;
+   &lt;w:UseAsianBreakRules&gt;&lt;/w:UseAsianBreakRules&gt;
+   &lt;w:DontGrowAutofit&gt;&lt;/w:DontGrowAutofit&gt;
+   &lt;w:SplitPgBreakAndParaMark&gt;&lt;/w:SplitPgBreakAndParaMark&gt;
+   &lt;w:EnableOpenTypeKerning&gt;&lt;/w:EnableOpenTypeKerning&gt;
+   &lt;w:DontFlipMirrorIndents&gt;&lt;/w:DontFlipMirrorIndents&gt;
+   &lt;w:OverrideTableStyleHps&gt;&lt;/w:OverrideTableStyleHps&gt;
+  &lt;/w:Compatibility&gt;
+  &lt;m:mathPr&gt;
+   &lt;m:mathFont m:val=&#34;Cambria Math&#34;&gt;&lt;/m:mathFont&gt;
+   &lt;m:brkBin m:val=&#34;before&#34;&gt;&lt;/m:brkBin&gt;
+   &lt;m:brkBinSub m:val=&#34;&amp;#45;-&#34;&gt;&lt;/m:brkBinSub&gt;
+   &lt;m:smallFrac m:val=&#34;off&#34;&gt;&lt;/m:smallFrac&gt;
+   &lt;m:dispDef&gt;&lt;/m:dispDef&gt;
+   &lt;m:lMargin m:val=&#34;0&#34;&gt;&lt;/m:lMargin&gt;
+   &lt;m:rMargin m:val=&#34;0&#34;&gt;&lt;/m:rMargin&gt;
+   &lt;m:defJc m:val=&#34;centerGroup&#34;&gt;&lt;/m:defJc&gt;
+   &lt;m:wrapIndent m:val=&#34;1440&#34;&gt;&lt;/m:wrapIndent&gt;
+   &lt;m:intLim m:val=&#34;subSup&#34;&gt;&lt;/m:intLim&gt;
+   &lt;m:naryLim m:val=&#34;undOvr&#34;&gt;&lt;/m:naryLim&gt;
+  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;span style=&#39;font-family:&#34;Arial&#34;,sans-serif;mso-fareast-font-family:&#34;Times New Roman&#34;;
+mso-fareast-language:DE;&#39;&gt;Ein Ger&amp;uuml;st wird von Ihnen auch f&amp;uuml;r die Arbeiten
+anderer Gewerke gestellt und daher voraussichtlich mehrere Wochen ben&amp;ouml;tigt.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;p class=&#34;MsoNormal&#34;&gt;&lt;span style=&#39;font-family:&#34;Arial&#34;,sans-serif;
+&#34;Times New Roman&#34;;mso-fareast-language:DE;&#39;&gt;Wie lange ist die Grundeinsatzzeit
+nach VOB/C ATV DIN 18451?&lt;/span&gt;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktbuky6m00c6266eukckcx2b</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktbuky6m00c6266eukckcx2b</id>
+        <description lang="en-US">4 Wochen</description>
+      </component>
+            <component>
+        <id>choice_cktbuky6m00c7266epme919hz</id>
+        <description lang="en-US">2 Wochen&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cktbulq4u00c8266esi631qn2</id>
+        <description lang="en-US">1 Woche</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg/cktbuo9wo00ce266e63bjfogx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Das von Ihrer Firma erstellte Fassadenger&amp;uuml;st wird auch f&amp;uuml;r Arbeiten anderer Gewerke vorgehalten.&lt;br&gt;&lt;br&gt;Welche Angaben m&amp;uuml;ssen Sie zur Kennzeichnung des Ger&amp;uuml;stes nach DIN EN 12811 am Ger&amp;uuml;st anbringen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktbuo9wp00cf266etgiu8gje</correctResponsePattern>
+            <correctResponsePattern>choice_cktbuo9wp00cg266evm88qcx4</correctResponsePattern>
+            <correctResponsePattern>choice_cktbuo9wp00ci266endlmmif5</correctResponsePattern>
+            <correctResponsePattern>choice_cktbuo9wp00ch266er1doebjs</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktbuo9wp00cf266etgiu8gje</id>
+        <description lang="en-US">Ger&amp;uuml;start</description>
+      </component>
+            <component>
+        <id>choice_cktbuo9wp00ch266er1doebjs</id>
+        <description lang="en-US">Lastklasse</description>
+      </component>
+            <component>
+        <id>choice_cktbuo9wp00ci266endlmmif5</id>
+        <description lang="en-US">Breitenklasse&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cktbuo9wp00cg266evm88qcx4</id>
+        <description lang="en-US">Anschrift des Ger&amp;uuml;sterstellers</description>
+      </component>
+            <component>
+        <id>choice_cktbupdns00et266e6yc1vp0u</id>
+        <description lang="en-US">Benutzende Gewerke </description>
+      </component>
+            <component>
+        <id>choice_cktbupr9500f2266evq1rturv</id>
+        <description lang="en-US">Anschrift des Ger&amp;uuml;stherstellers</description>
+      </component>
+            <component>
+        <id>choice_cktbupw4k00fb266exouff5gz</id>
+        <description lang="en-US">Alter des Ger&amp;uuml;stes</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg/cktbutbif00fp266epaozjtyz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Das von Ihrer Firma erstellte Fassadenger&amp;uuml;st wird auch f&amp;uuml;r Arbeiten anderer Gewerke vorgehalten. Bevor Sie das Ger&amp;uuml;st nutzen, m&amp;uuml;ssen Sie zwei Mitarbeiter noch unterweisen.&lt;br&gt;&lt;br&gt;Ordner Sie Erst- und Wiederholungsunterweisung richtig zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cktbutbii00fq266exz85tuis[.]target_cktbutbii00fq266exz85tuis</correctResponsePattern>
+            <correctResponsePattern>source_cktbutbii00fr266eglpivm30[.]target_cktbutbii00fr266eglpivm30</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cktbutbii00fq266exz85tuis</id>
+        <description lang="en-US">Erstunterweisung></description>
+      </component>
+            <component>
+        <id>source_cktbutbii00fr266eglpivm30</id>
+        <description lang="en-US">Wiederholungsunterweisung></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cktbutbii00fq266exz85tuis</id>
+            <description lang="en-US">Die Unterweisung muss bei Neueinstellung oder Ersteinsatz eines Mitarbeiters erfolgen.</description>
+          </component>
+                  <component>
+            <id>target_cktbutbii00fr266eglpivm30</id>
+            <description lang="en-US">Die Unterweisung erhalten alle Mitarbeiter einmal jährlich.</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg/cktbuwcwl00ft266ek5b54mdv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Fassadenarbeiten wurden von Ihnen an einen Kollegen mit Schwerpunkt Kirchenmalerei und Denkmalpflege vergeben.&lt;br&gt;Nennen Sie m&amp;ouml;gliche Gr&amp;uuml;nde f&amp;uuml;r die Vergabe der Fassadenarbeiten an einen Nachunternehmer?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktbuwcwm00fu266edpxwhnz8</correctResponsePattern>
+            <correctResponsePattern>choice_cktbuwcwm00fx266ey2klv5mo</correctResponsePattern>
+            <correctResponsePattern>choice_cktbuwcwm00fw266e1unece23</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktbuwcwm00fu266edpxwhnz8</id>
+        <description lang="en-US">Ihr Betrieb ist fachlich nicht qualifiziert, diese Arbeiten auszuf&amp;uuml;hren.</description>
+      </component>
+            <component>
+        <id>choice_cktbuwcwm00fw266e1unece23</id>
+        <description lang="en-US">Der Nachunternehmer kann die Arbeiten kosteng&amp;uuml;nstiger ausf&amp;uuml;hren.</description>
+      </component>
+            <component>
+        <id>choice_cktbuwcwm00fx266ey2klv5mo</id>
+        <description lang="en-US">Sie haben nicht die Kapazit&amp;auml;t, um diese Arbeiten auch noch auszuf&amp;uuml;hren.</description>
+      </component>
+            <component>
+        <id>choice_cktbuwcwm00fv266e0mshhj79</id>
+        <description lang="en-US">Der Nachunternehmer rechnet direkt mit dem Kunden ab.</description>
+      </component>
+            <component>
+        <id>choice_cktbuxm7g00hy266e2sosahx3</id>
+        <description lang="en-US">&amp;nbsp;Sie k&amp;ouml;nnen beim Kunden mehr Geld verlangen</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
