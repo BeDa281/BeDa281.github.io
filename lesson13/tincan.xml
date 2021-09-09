@@ -59,7 +59,7 @@
           </activity>
         
     <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg/cktbu769a004n266eh58nm49b" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Welche der nachfolgenden T&amp;auml;tigkeiten sind nach DIN 18299 bzw.&amp;nbsp; DIN 18363 Besondere Leistungen?</name>
+      <name lang="en-US">Welche der nachfolgenden T&amp;auml;tigkeiten sind nach DIN 18299 bzw. DIN 18363 Besondere Leistungen?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -94,8 +94,8 @@
             <correctResponsePattern>choice_cktbua3wy0073266eednut2v8</correctResponsePattern>
             <correctResponsePattern>choice_cktbua3wy0074266e18vuya66</correctResponsePattern>
             <correctResponsePattern>choice_cktbua3wy0075266e8qhird79</correctResponsePattern>
-            <correctResponsePattern>choice_cktbua3wy0076266evgmthdpb</correctResponsePattern>
             <correctResponsePattern>choice_cktbubug900ae266easw3zz1z</correctResponsePattern>
+            <correctResponsePattern>choice_cktd64dlw0049266es71qrd2q</correctResponsePattern>
             </correctResponsePatterns>
             <choices>
             <component>
@@ -105,10 +105,6 @@
             <component>
         <id>choice_cktbua3wy0075266e8qhird79</id>
         <description lang="en-US">Beginn der Stundenlohnarbeiten anzeigen</description>
-      </component>
-            <component>
-        <id>choice_cktbua3wy0076266evgmthdpb</id>
-        <description lang="en-US">Choice 3</description>
       </component>
             <component>
         <id>choice_cktbua3wy0074266e18vuya66</id>
@@ -130,11 +126,15 @@
         <id>choice_cktbucalu00ba266eayyofy60</id>
         <description lang="en-US">M&amp;uuml;ndliche Absprache mit Auftraggeber oder Bevollm&amp;auml;chtigten</description>
       </component>
+            <component>
+        <id>choice_cktd64dlw0049266es71qrd2q</id>
+        <description lang="en-US">Stundenlohnzettel f&amp;uuml;hren und vom Bauleiter m&amp;ouml;glichst werkt&amp;auml;glich unterzeichnen lassen </description>
+      </component>
             </choices>
           </activity>
         
     <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg/cktbudmih00bs266eklmvncwz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">W&amp;auml;hrend Ihrer Arbeiten an den Wandfl&amp;auml;chen in einem B&amp;uuml;ro, stellte sich heraus, dass der Elektriker auf Wunsch des Auftraggebers noch einige zus&amp;auml;tzliche Kabel und Dosen unter Putz verlegen musste. Um den Arbeitsfortschritt nicht zu unterbrechen, verputzten Sie die Installationsschlitze ohne Absprache mit der Bauleitung. Die Arbeitszeit hierf&amp;uuml;r betrug 3 Stunden.&lt;br&gt;Unter welchen Bedingungen steht Ihnen eine Verg&amp;uuml;tung nach VOB/B zu?&lt;br&gt;Nach &amp;sect; 2 Abs. 8 VOB/B steht Ihnen eine Verg&amp;uuml;tung zu, wenn:</name>
+      <name lang="en-US">W&amp;auml;hrend Ihrer Arbeiten an den Wandfl&amp;auml;chen in einem B&amp;uuml;ro, stellte sich heraus, dass der Elektriker auf Wunsch des Auftraggebers noch einige zus&amp;auml;tzliche Kabel und Dosen unter Putz verlegen musste. Um den Arbeitsfortschritt nicht zu unterbrechen, verputzten Sie die Installationsschlitze ohne Absprache mit der Bauleitung. Die Arbeitszeit hierf&amp;uuml;r betrug 3 Stunden.&lt;br&gt;Unter welchen Bedingungen steht Ihnen eine Verg&amp;uuml;tung nach &amp;sect; 2 Abs. 8 VOB/B zu? </name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -153,7 +153,7 @@
           </activity>
         
     <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg/cktbuhnt900by266efopwnz3p" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Das Ger&amp;uuml;st f&amp;uuml;r die Fassadenarbeiten am Altbau wird von Ihnen gestellt.&lt;br&gt;Wie wird die Aufma&amp;szlig;h&amp;ouml;he eines abschnittsweise aufgebauten Ger&amp;uuml;stes nach VOB/C ATV DIN 18451 ermittelt?</name>
+      <name lang="en-US">Das Ger&amp;uuml;st f&amp;uuml;r die Fassadenarbeiten am Altbau wird von Ihnen gestellt. Wie wird die Aufma&amp;szlig;h&amp;ouml;he eines abschnittsweise aufgebauten Ger&amp;uuml;stes nach VOB/C ATV DIN 18451 ermittelt?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -216,11 +216,7 @@
    &lt;m:intLim m:val=&#34;subSup&#34;&gt;&lt;/m:intLim&gt;
    &lt;m:naryLim m:val=&#34;undOvr&#34;&gt;&lt;/m:naryLim&gt;
   &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;
-&lt;/xml&gt;&lt;![endif]--&gt;&lt;span style=&#39;font-family:&#34;Arial&#34;,sans-serif;mso-fareast-font-family:&#34;Times New Roman&#34;;
-mso-fareast-language:DE;&#39;&gt;Ein Ger&amp;uuml;st wird von Ihnen auch f&amp;uuml;r die Arbeiten
-anderer Gewerke gestellt und daher voraussichtlich mehrere Wochen ben&amp;ouml;tigt.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;p class=&#34;MsoNormal&#34;&gt;&lt;span style=&#39;font-family:&#34;Arial&#34;,sans-serif;
-&#34;Times New Roman&#34;;mso-fareast-language:DE;&#39;&gt;Wie lange ist die Grundeinsatzzeit
-nach VOB/C ATV DIN 18451?&lt;/span&gt;</name>
+&lt;/xml&gt;&lt;![endif]--&gt;Ein Ger&amp;uuml;st wird von Ihnen auch f&amp;uuml;r die Arbeiten anderer Gewerke gestellt und daher voraussichtlich mehrere Wochen ben&amp;ouml;tigt.&lt;br&gt;&lt;br&gt;Wie lange ist die Grundeinsatzzeit nach VOB/C ATV DIN 18451?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -285,7 +281,7 @@ nach VOB/C ATV DIN 18451?&lt;/span&gt;</name>
           </activity>
         
     <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg/cktbutbif00fp266epaozjtyz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Das von Ihrer Firma erstellte Fassadenger&amp;uuml;st wird auch f&amp;uuml;r Arbeiten anderer Gewerke vorgehalten. Bevor Sie das Ger&amp;uuml;st nutzen, m&amp;uuml;ssen Sie zwei Mitarbeiter noch unterweisen.&lt;br&gt;&lt;br&gt;Ordner Sie Erst- und Wiederholungsunterweisung richtig zu.</name>
+      <name lang="en-US">Das von Ihrer Firma erstellte Fassadenger&amp;uuml;st wird auch f&amp;uuml;r Arbeiten anderer Gewerke vorgehalten. Bevor Sie das Ger&amp;uuml;st nutzen, m&amp;uuml;ssen Sie zwei Mitarbeiter noch unterweisen.&lt;br&gt;&lt;br&gt;Ordner Sie Erst- und Wiederholungsunterweisung richtig zu. </name>
       <description lang="en-US"></description>
       <interactionType>matching</interactionType>
       <correctResponsePatterns>
@@ -342,7 +338,7 @@ nach VOB/C ATV DIN 18451?&lt;/span&gt;</name>
       </component>
             <component>
         <id>choice_cktbuxm7g00hy266e2sosahx3</id>
-        <description lang="en-US">&amp;nbsp;Sie k&amp;ouml;nnen beim Kunden mehr Geld verlangen</description>
+        <description lang="en-US">Sie k&amp;ouml;nnen beim Kunden mehr Geld verlangen</description>
       </component>
             </choices>
           </activity>
