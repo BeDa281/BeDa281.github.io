@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Baustellenorganisation und Arbeitssicherheit - Teil 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d/cktd8r5i6002w266ea0k3cmeu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nennen Sie 5 baustellenorganisatorische Aspekte im Zusammenhang mit Beschichtungsarbeiten in einem Industriegeb&amp;auml;ude, die Sie mit dem Bauleiter des Auftraggebers ansprechen sollten.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktd8r5i6002x266eywrdngyy</correctResponsePattern>
+            <correctResponsePattern>choice_cktd8r5i6002y266emszek8kb</correctResponsePattern>
+            <correctResponsePattern>choice_cktd8r5i6002z266eyuid3kyk</correctResponsePattern>
+            <correctResponsePattern>choice_cktd8r5i60030266elg31vt2m</correctResponsePattern>
+            <correctResponsePattern>choice_cktd8ry6p0053266ere9ojcu1</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktd8r5i6002x266eywrdngyy</id>
+        <description lang="en-US">Welche Toiletten k&amp;ouml;nnen genutzt werden?</description>
+      </component>
+            <component>
+        <id>choice_cktd8r5i6002z266eyuid3kyk</id>
+        <description lang="en-US">Welche Parkpl&amp;auml;tze d&amp;uuml;rfen genutzt werden?&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cktd8r5i60030266elg31vt2m</id>
+        <description lang="en-US">Wo k&amp;ouml;nnen Arbeitsb&amp;uuml;hnen und Fahrger&amp;uuml;ste eingesetzt werden?</description>
+      </component>
+            <component>
+        <id>choice_cktd8r5i6002y266emszek8kb</id>
+        <description lang="en-US">Wo k&amp;ouml;nnen Container abgestellt werden?</description>
+      </component>
+            <component>
+        <id>choice_cktd8ry6p0053266ere9ojcu1</id>
+        <description lang="en-US">Welche Strom &amp;ndash;und Wasseranschl&amp;uuml;sse sind vorhanden?</description>
+      </component>
+            <component>
+        <id>choice_cktd8s104005e266eyr9lowvu</id>
+        <description lang="en-US">Wie viele Mitarbeiter d&amp;uuml;rfen gleichzeitig auf der Baustelle arbeiten?</description>
+      </component>
+            <component>
+        <id>choice_cktd8s4n7005q266eu2azif4q</id>
+        <description lang="en-US">M&amp;uuml;ssen &amp;Uuml;berstunden angemeldet werden?</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d/cktd8u3jc0070266e2xle94wc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In den B&amp;uuml;ror&amp;auml;umen sind alte CV &amp;ndash; Bel&amp;auml;ge verlegt, die Asbestpappe enthalten k&amp;ouml;nnten.&lt;br&gt;Sie &amp;uuml;berpr&amp;uuml;fen diese Vermutung, da sich dies gravierend auf die Planung der nachfolgenden Arbeitsschritte auswirkt.&lt;br&gt;Wie &amp;uuml;berpr&amp;uuml;fen Sie, ob es sich um einen mit asbesthaltiger Pappe unterlegten CV &amp;ndash; Belag handelt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktd8u3jc0071266ekcg3tq5o</correctResponsePattern>
+            <correctResponsePattern>choice_cktd8u3jc0073266ekhgyoy69</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktd8u3jc0071266ekcg3tq5o</id>
+        <description lang="en-US">Herstellerangaben des verbauten CV &amp;ndash; Belages ermitteln</description>
+      </component>
+            <component>
+        <id>choice_cktd8u3jc0073266ekhgyoy69</id>
+        <description lang="en-US">Probe entnehmen unter Einhaltung der Bedingungen, die ein Freisetzten der m&amp;ouml;glichen Asbestfasern verhindern. Z.B. Abbinden mit Spezialfl&amp;uuml;ssigkeit und Einschicken der Probe in ein Labor.</description>
+      </component>
+            <component>
+        <id>choice_cktd8u3jc0074266ep8esxtr8</id>
+        <description lang="en-US">L&amp;ouml;semittelprobe</description>
+      </component>
+            <component>
+        <id>choice_cktd8u3jc0072266ehz2eovnn</id>
+        <description lang="en-US">Kratzprobe</description>
+      </component>
+            <component>
+        <id>choice_cktd8v5gi009g266ei58he1ci</id>
+        <description lang="en-US">Gitterschnitt</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d/cktd8wher00b8266e789ney3b" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In den B&amp;uuml;ror&amp;auml;umen sind alte CV &amp;ndash; Bel&amp;auml;ge verlegt, die Asbestpappe enthalten k&amp;ouml;nnten.&lt;br&gt;Sie &amp;uuml;berpr&amp;uuml;fen diese Vermutung, da sich dies gravierend auf die Planung der nachfolgenden Arbeitsschritte auswirkt.&lt;br&gt;Erl&amp;auml;utern Sie, warum der Umgang mit Asbest sehr gef&amp;auml;hrlich ist und Asbestose verursachen kann?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktd8wher00b9266ewp15ejcv</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktd8wher00b9266ewp15ejcv</id>
+        <description lang="en-US">Asbestfasern weisen eine lungeng&amp;auml;ngige Form auf, daher reicht eine einmalige Kontamination aus um Asbestose auszul&amp;ouml;sen.</description>
+      </component>
+            <component>
+        <id>choice_cktd8wher00ba266eza6kr2bo</id>
+        <description lang="en-US">Choice 2</description>
+      </component>
+            <component>
+        <id>choice_cktd8x3b000bz266ewhh7blm6</id>
+        <description lang="en-US">Erst mit mehrmaligem Kontakt kann Asbest Asbestose ausl&amp;ouml;sen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d/cktd8y9m900c0266erqc9ar9m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nachdem der Nachweis f&amp;uuml;r Asbest in einem Bodenbelag erfolgt ist, planen Sie das Entfernen und Entsorgen des Bodenbelages. Sie w&amp;auml;hlen dazu ein Verfahren, welches daf&amp;uuml;r zugelassen ist nur eine &amp;bdquo;schwache Exposition&amp;ldquo; zu verursachen.&lt;br&gt;Welche Aspekte nach der TRSG 519 (Technische Regeln f&amp;uuml;r Gefahrstoffe Asbest) m&amp;uuml;ssen sie beachten? </name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktd8y9m900c1266eo42x7zji</correctResponsePattern>
+            <correctResponsePattern>choice_cktd8y9m900c2266ebis441d5</correctResponsePattern>
+            <correctResponsePattern>choice_cktd8y9m900c3266e069eatxr</correctResponsePattern>
+            <correctResponsePattern>choice_cktd8y9m900c4266efysaaxug</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktd8y9m900c1266eo42x7zji</id>
+        <description lang="en-US">M&amp;ouml;glichst wenig Personal mit diesen Abbrucht&amp;auml;tigkeiten betrauen</description>
+      </component>
+            <component>
+        <id>choice_cktd8y9m900c3266e069eatxr</id>
+        <description lang="en-US">Unternehmensbezogene Anzeige des Umgangs mit asbesthaltigen Gefahrstoffen bei der zust&amp;auml;ndigen Beh&amp;ouml;rde</description>
+      </component>
+            <component>
+        <id>choice_cktd8y9m900c4266efysaaxug</id>
+        <description lang="en-US">Betriebsanweisung und Durchf&amp;uuml;hrung der Unterweisung</description>
+      </component>
+            <component>
+        <id>choice_cktd8y9m900c2266ebis441d5</id>
+        <description lang="en-US">Objektbezogene Einweisung der Besch&amp;auml;ftigten hinsichtlich der Gef&amp;auml;hrdungen und Schutzma&amp;szlig;nahmen</description>
+      </component>
+            <component>
+        <id>choice_cktd8zsuk00f2266edjec0m3q</id>
+        <description lang="en-US">M&amp;ouml;glichst viel Personal mit diesen Abbrucht&amp;auml;tigkeiten betrauen um einen schnellen Fortschritt zu bekommen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d/cktd8zxaj00ff266e2aecmqnk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nachdem der Nachweis f&amp;uuml;r Asbest in einem Bodenbelag erfolgt ist, planen Sie das Entfernen und Entsorgen des Bodenbelages. Sie w&amp;auml;hlen dazu ein Verfahren, welches daf&amp;uuml;r zugelassen ist nur eine &amp;bdquo;schwache Exposition&amp;ldquo; zu verursachen.&lt;br&gt;Welche Aspekte nach der TRSG 519 (Technische Regeln f&amp;uuml;r Gefahrstoffe Asbest) m&amp;uuml;ssen sie beachten? </name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktd8zxaj00fg266eqntazr19</correctResponsePattern>
+            <correctResponsePattern>choice_cktd8zxaj00fh266et8hchklr</correctResponsePattern>
+            <correctResponsePattern>choice_cktd8zxaj00fj266estwblu4b</correctResponsePattern>
+            <correctResponsePattern>choice_cktd8zxaj00fi266edtvovd77</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktd8zxaj00fg266eqntazr19</id>
+        <description lang="en-US">Sachkundiger Verantwortlicher</description>
+      </component>
+            <component>
+        <id>choice_cktd8zxaj00fi266edtvovd77</id>
+        <description lang="en-US">Schriftlich beauftragter, sachkundiger Aufsichtsf&amp;uuml;hrender</description>
+      </component>
+            <component>
+        <id>choice_cktd8zxaj00fj266estwblu4b</id>
+        <description lang="en-US">Ausreichende Zahl von Fachkr&amp;auml;ften</description>
+      </component>
+            <component>
+        <id>choice_cktd8zxaj00fh266et8hchklr</id>
+        <description lang="en-US">Abgrenzung und Kennzeichnung der Arbeitsbereiche, in denen mit asbesthaltigen Gefahrenstoffen umgegangen wird</description>
+      </component>
+            <component>
+        <id>choice_cktd91dj500i6266epene5l7f</id>
+        <description lang="en-US">Nur Arbeiten wenn alle anderen Gewerke nicht mehr auf der Baustelle sind</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d/cktd98ons00in266euxmc09dy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nachdem der Nachweis f&amp;uuml;r Asbest in einem Bodenbelag erfolgt ist, planen Sie das Entfernen und Entsorgen des Bodenbelages. Sie w&amp;auml;hlen dazu ein Verfahren, welches daf&amp;uuml;r zugelassen ist nur eine &amp;bdquo;schwache Exposition&amp;ldquo; zu verursachen.&lt;br&gt;Was sind Pflichten des Aufsichtsf&amp;uuml;hrenden auf dieser Baustelle?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktd98onu00io266eg4bapg73</correctResponsePattern>
+            <correctResponsePattern>choice_cktd98onu00iq266eflvz5b07</correctResponsePattern>
+            <correctResponsePattern>choice_cktd98onu00ir266e6prgdiv3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktd98onu00io266eg4bapg73</id>
+        <description lang="en-US">St&amp;auml;ndige Anwesenheit auf der Baustelle</description>
+      </component>
+            <component>
+        <id>choice_cktd98onu00iq266eflvz5b07</id>
+        <description lang="en-US">Einteilung und Einweisung der Besch&amp;auml;ftigten</description>
+      </component>
+            <component>
+        <id>choice_cktd98onu00ir266e6prgdiv3</id>
+        <description lang="en-US">Kennzeichnung der Arbeitsstelle</description>
+      </component>
+            <component>
+        <id>choice_cktd98onu00ip266edsoh0jqm</id>
+        <description lang="en-US">Feuerpolizeiliche Unterweisung der Mitarbeiter</description>
+      </component>
+            <component>
+        <id>choice_cktd9a7fl00l7266easjlszty</id>
+        <description lang="en-US">&amp;Auml;rztliche &amp;Uuml;berwachung der Mitarbeiter w&amp;auml;hrend der Arbeiten</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d/cktd9adro00lj266exkf0zit8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nachdem der Nachweis f&amp;uuml;r Asbest in einem Bodenbelag erfolgt ist, planen Sie das Entfernen und Entsorgen des Bodenbelages. Sie w&amp;auml;hlen dazu ein Verfahren, welches daf&amp;uuml;r zugelassen ist nur eine &amp;bdquo;schwache Exposition&amp;ldquo; zu verursachen.&lt;br&gt;Was sind Pflichten des Aufsichtsf&amp;uuml;hrenden auf dieser Baustelle?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktd9adro00lk266e4l6tqt47</correctResponsePattern>
+            <correctResponsePattern>choice_cktd9adro00lm266e39hm4aqg</correctResponsePattern>
+            <correctResponsePattern>choice_cktd9adro00ln266eesais6c7</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktd9adro00lk266e4l6tqt47</id>
+        <description lang="en-US">Fernhalten Unbefugter</description>
+      </component>
+            <component>
+        <id>choice_cktd9adro00lm266e39hm4aqg</id>
+        <description lang="en-US">Einhalten von Arbeitsplan und Betriebsanweisung</description>
+      </component>
+            <component>
+        <id>choice_cktd9adro00ln266eesais6c7</id>
+        <description lang="en-US">Gef&amp;auml;hrdungsbeurteilung beachten</description>
+      </component>
+            <component>
+        <id>choice_cktd9adro00ll266evzv9kxmy</id>
+        <description lang="en-US">Ausreichend Getr&amp;auml;nke zur Verf&amp;uuml;gung stellen</description>
+      </component>
+            <component>
+        <id>choice_cktd9boh300os266e6czonlck</id>
+        <description lang="en-US">F&amp;uuml;r dauerhafte Absaugung sorgen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d/cktd9fbbl00ra266e3b5d2bjc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die T&amp;uuml;ren in einer Produktionshalle weisen Schadstellen auf. Im Sicherheitsdatenblatt, des von Ihnen eingesetzten 2k &amp;ndash; Polyesterspachtels zum Ausbessern, sind nachfolgende Gefahrstoffkennzeichen abgebildet.&lt;br&gt;&lt;br&gt;Nennen Sie die Gefahrenklasse, die das jeweilige Piktogramm symbolisiert.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cktd9fbbl00rc266ee9ou9ck7[.]target_cktd9fbbl00rc266ee9ou9ck7</correctResponsePattern>
+            <correctResponsePattern>source_cktd9fbbl00rd266ev40ozg53[.]target_cktd9fbbl00rd266ev40ozg53</correctResponsePattern>
+            <correctResponsePattern>source_cktd9iz8200rf266e3xwmk9mv[.]target_cktd9iz8200rf266e3xwmk9mv</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cktd9fbbl00rc266ee9ou9ck7</id>
+        <description lang="en-US">Flamme></description>
+      </component>
+            <component>
+        <id>source_cktd9fbbl00rd266ev40ozg53</id>
+        <description lang="en-US">Gesundheitsgefahr></description>
+      </component>
+            <component>
+        <id>source_cktd9iz8200rf266e3xwmk9mv</id>
+        <description lang="en-US">Ausrufezeichen></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cktd9fbbl00rc266ee9ou9ck7</id>
+            <description lang="en-US">Physikalische – chemische Gesundheitsgefahren</description>
+          </component>
+                  <component>
+            <id>target_cktd9fbbl00rd266ev40ozg53</id>
+            <description lang="en-US">Gefahren für die menschliche Gesundheit</description>
+          </component>
+                  <component>
+            <id>target_cktd9iz8200rf266e3xwmk9mv</id>
+            <description lang="en-US">Gefahren für die Umwelt</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d/cktd9m00l00rh266egv59gxus" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nennen Sie weitere Angaben, die sie im Sicherheitsdatenblatt des Polyesterspachtels finden k&amp;ouml;nnen.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktd9m00m00ri266et6b3w9ew</correctResponsePattern>
+            <correctResponsePattern>choice_cktd9m00m00rj266eybrve5u8</correctResponsePattern>
+            <correctResponsePattern>choice_cktd9n3jx00sg266ei7b6t8pd</correctResponsePattern>
+            <correctResponsePattern>choice_cktd9ndi400sp266e1s0eeqpn</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktd9m00m00ri266et6b3w9ew</id>
+        <description lang="en-US">Nennmenge&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cktd9m00m00rj266eybrve5u8</id>
+        <description lang="en-US">Name, Anschrift und Telefonnummer des Herstellers/Lieferanten</description>
+      </component>
+            <component>
+        <id>choice_cktd9n3jx00sg266ei7b6t8pd</id>
+        <description lang="en-US">Signalwort</description>
+      </component>
+            <component>
+        <id>choice_cktd9ndi400sp266e1s0eeqpn</id>
+        <description lang="en-US">Name und Produktidentifikation</description>
+      </component>
+            <component>
+        <id>choice_cktd9nhtx00sy266efvim29vi</id>
+        <description lang="en-US">Herstellerdatum</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d/cktd9nlf100t5266ep6st02sh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nennen Sie weitere Angaben, die sie im Sicherheitsdatenblatt des Polyesterspachtels finden k&amp;ouml;nnen.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktd9nlf100t6266essvffjy3</correctResponsePattern>
+            <correctResponsePattern>choice_cktd9nlf100t7266ehvz7w8lk</correctResponsePattern>
+            <correctResponsePattern>choice_cktd9nlf100t8266eomw920tj</correctResponsePattern>
+            <correctResponsePattern>choice_cktd9nlf100t9266ewdnzi9h3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktd9nlf100t6266essvffjy3</id>
+        <description lang="en-US">H und P S&amp;auml;tze</description>
+      </component>
+            <component>
+        <id>choice_cktd9nlf100t8266eomw920tj</id>
+        <description lang="en-US">Entsorgungshinweise</description>
+      </component>
+            <component>
+        <id>choice_cktd9nlf100t9266ewdnzi9h3</id>
+        <description lang="en-US">Brandbek&amp;auml;mpfung</description>
+      </component>
+            <component>
+        <id>choice_cktd9nlf100t7266ehvz7w8lk</id>
+        <description lang="en-US">Erste Hilfe Ma&amp;szlig;nahmen</description>
+      </component>
+            <component>
+        <id>choice_cktd9orrk00v8266euypouwaf</id>
+        <description lang="en-US">Preis</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
