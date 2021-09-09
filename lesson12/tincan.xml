@@ -12,29 +12,24 @@
     </activity>
             
     <activity id="http://Weq0tOenWERwPP1-cqZFvfbRC35tcIa3_rise/w1qSASOFiiId97HIxrRXzIhUWllmo5yq/cktaaxg5f0031266ebrlzyfnv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">In Ausschreibungstexten steht oft der Begriff &amp;bdquo;Nebenleistung&amp;ldquo;. Was wird unter dem Begriff &amp;bdquo;Nebenleistungen&amp;ldquo; verstanden und wie werden diese verg&amp;uuml;tet?&lt;br&gt;&lt;br&gt;</name>
+      <name lang="en-US">In Ausschreibungstexten steht oft der Begriff &amp;bdquo;Nebenleistung&amp;ldquo;. Was wird unter dem Begriff &amp;bdquo;Nebenleistungen&amp;ldquo; verstanden und wie werden diese verg&amp;uuml;tet?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
             <correctResponsePattern>choice_cktaaxg5g0032266e93q9ii0m</correctResponsePattern>
-            <correctResponsePattern>choice_cktaaxg5g0034266eylnozumc</correctResponsePattern>
             </correctResponsePatterns>
             <choices>
             <component>
         <id>choice_cktaaxg5g0032266e93q9ii0m</id>
-        <description lang="en-US">Nebenleistungen sind Leistungen, die auch ohne Erw&amp;auml;hnung im Vertrag zur vertraglichen Leistung geh&amp;ouml;ren.&lt;br&gt;&amp;nbsp;</description>
-      </component>
-            <component>
-        <id>choice_cktaaxg5g0034266eylnozumc</id>
-        <description lang="en-US">Sie sind im Einheitspreis mit einzukalkulieren und werden nicht extra verg&amp;uuml;tet.&lt;br&gt;&amp;nbsp;</description>
+        <description lang="en-US">Nebenleistungen sind Leistungen, die auch ohne Erw&amp;auml;hnung im Vertrag zur vertraglichen Leistung geh&amp;ouml;ren. Sie sind im Einheitspreis mit einzukalkulieren und werden nicht extra verg&amp;uuml;tet.&lt;br&gt; </description>
       </component>
             <component>
         <id>choice_cktaaxg5g0035266e8sjlilwb</id>
         <description lang="en-US">Nebenleistungen sind Leistungen, die zur vertraglichen Leistung geh&amp;ouml;ren. Sie sind nicht im Einheitspreis mit einzukalkulieren und werden extra verg&amp;uuml;tet.&lt;br&gt;&amp;nbsp;</description>
       </component>
             <component>
-        <id>choice_cktaaxg5g0033266er2gzntcx</id>
-        <description lang="en-US">Choice 4</description>
+        <id>choice_cktd5pokf0035266euizku0ij</id>
+        <description lang="en-US">Nebenleistungen sind Leistungen, die auch ohne Erw&amp;auml;hnung im Vertrag zur vertraglichen Leistung geh&amp;ouml;ren. Sie d&amp;uuml;rfen jedoch gesondert abgerechnet werden.</description>
       </component>
             </choices>
           </activity>
@@ -53,7 +48,7 @@
             <choices>
             <component>
         <id>choice_cktbtg9om005f266eza0j494n</id>
-        <description lang="en-US">Fenster aus- und einh&amp;auml;ngen&lt;br&gt;&lt;br&gt;&lt;br&gt;</description>
+        <description lang="en-US">Fenster aus- und einh&amp;auml;ngen</description>
       </component>
             <component>
         <id>choice_cktbtg9om005h266eq8piannw</id>
@@ -61,7 +56,7 @@
       </component>
             <component>
         <id>choice_cktbtg9om005i266ec0gxa0vb</id>
-        <description lang="en-US">&lt;br&gt;Anschleifen/Zwischenschleifen</description>
+        <description lang="en-US">Anschleifen/Zwischenschleifen</description>
       </component>
             <component>
         <id>choice_cktbtg9om005g266e9cab1ecn</id>
@@ -75,7 +70,7 @@
           </activity>
         
     <activity id="http://Weq0tOenWERwPP1-cqZFvfbRC35tcIa3_rise/w1qSASOFiiId97HIxrRXzIhUWllmo5yq/cktbtk56u007c266ecegl48f1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">&lt;br&gt;Sie f&amp;uuml;hren einen Auftrag &amp;uuml;ber die Beschichtung an einer Fassade eines Mehrfamilien&amp;shy;hauses aus. Vertragsgrundlage ist das BGB.&lt;br&gt;&lt;br&gt;Zwei Wochen nach Arbeitsbeginn stellen Sie eine pr&amp;uuml;fbare Abschlagsrechnung.&lt;br&gt;Wann wird diese zur Zahlung f&amp;auml;llig?</name>
+      <name lang="en-US">Sie f&amp;uuml;hren einen Auftrag &amp;uuml;ber die Beschichtung an einer Fassade eines Mehrfamilien&amp;shy;hauses aus. Vertragsgrundlage ist das BGB. Zwei Wochen nach Arbeitsbeginn stellen Sie eine pr&amp;uuml;fbare Abschlagsrechnung.&lt;br&gt;Wann wird diese zur Zahlung f&amp;auml;llig?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -122,24 +117,15 @@
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
             <correctResponsePattern>choice_cktacqxi20035266eum0b2flz</correctResponsePattern>
-            <correctResponsePattern>choice_cktacqxi20037266ekylv719d</correctResponsePattern>
             </correctResponsePatterns>
             <choices>
             <component>
         <id>choice_cktacqxi20035266eum0b2flz</id>
-        <description lang="en-US">Die Fl&amp;auml;chen sind jeweils kleiner als 1,00 m&amp;sup2; und ist daher nicht zu verg&amp;uuml;ten</description>
-      </component>
-            <component>
-        <id>choice_cktacqxi20037266ekylv719d</id>
-        <description lang="en-US">VOB Teil C DIN 18363 Abs. 4.1.8</description>
+        <description lang="en-US">Die Fl&amp;auml;chen sind jeweils kleiner als 1,00 m&amp;sup2; und ist daher nicht zu verg&amp;uuml;ten. VOB Teil C DIN 18363 Abs. 4.1.8</description>
       </component>
             <component>
         <id>choice_cktacqxi20038266eogyr7sfu</id>
-        <description lang="en-US">Die Fl&amp;auml;chen sind jeweils kleiner als 1,00 m&amp;sup2; und sind daher extra zu verg&amp;uuml;ten</description>
-      </component>
-            <component>
-        <id>choice_cktacqxi20036266e4l1hh4t5</id>
-        <description lang="en-US">VOB Teil B DIN 18367 Abs. 3.2.8</description>
+        <description lang="en-US">Die Fl&amp;auml;chen sind jeweils kleiner als 1,00 m&amp;sup2; und sind daher extra zu verg&amp;uuml;ten. VOB Teil C DIN 18363 Abs. 4.1.8</description>
       </component>
             </choices>
           </activity>
@@ -173,7 +159,7 @@
           </activity>
         
     <activity id="http://Weq0tOenWERwPP1-cqZFvfbRC35tcIa3_rise/w1qSASOFiiId97HIxrRXzIhUWllmo5yq/cktaczfy200el266ekhop430e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Nach Abschluss und Abnahme Ihrer Arbeiten erstellen Sie die Schlussrechnung. Wann wird die Schlussrechnung gem&amp;auml;&amp;szlig; VOB zur Zahlung sp&amp;auml;testens f&amp;auml;llig?&lt;br&gt;&lt;br&gt;</name>
+      <name lang="en-US">Nach Abschluss und Abnahme Ihrer Arbeiten erstellen Sie die Schlussrechnung. Wann wird die Schlussrechnung gem&amp;auml;&amp;szlig; VOB zur Zahlung sp&amp;auml;testens f&amp;auml;llig?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -241,17 +227,17 @@
       </component>
             <component>
         <id>choice_cktbt7le90039266eg2by3985</id>
-        <description lang="en-US">Verj&amp;auml;hrungsbeginn: 20.09.2011Verj&amp;auml;hrungsende: &amp;nbsp; &amp;nbsp;20.09.2013</description>
+        <description lang="en-US">Verj&amp;auml;hrungsbeginn: 20.09.2011Verj&amp;auml;hrungsende: 20.09.2013</description>
       </component>
             <component>
         <id>choice_cktbt7le9003a266exsxkvvlx</id>
-        <description lang="en-US">Verj&amp;auml;hrungsbeginn: 01.10.2011Verj&amp;auml;hrungsende: &amp;nbsp; &amp;nbsp;01.10.2013</description>
+        <description lang="en-US">&lt;br&gt;Verj&amp;auml;hrungsbeginn: 01.10.2011Verj&amp;auml;hrungsende: 01.10.2013</description>
       </component>
             </choices>
           </activity>
         
     <activity id="http://Weq0tOenWERwPP1-cqZFvfbRC35tcIa3_rise/w1qSASOFiiId97HIxrRXzIhUWllmo5yq/cktbtajzk0050266eb4to521m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Die Vergabe der Arbeiten erfolgte nach einer beschr&amp;auml;nkten Ausschreibung.&lt;br&gt;Erl&amp;auml;utern Sie, was in der VOB/A unter einer beschr&amp;auml;nkten Ausschreibung verstanden wird.</name>
+      <name lang="en-US">Die Vergabe der Arbeiten erfolgte nach einer beschr&amp;auml;nkten Ausschreibung. Erl&amp;auml;utern Sie, was in der VOB/A unter einer beschr&amp;auml;nkten Ausschreibung verstanden wird.</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
