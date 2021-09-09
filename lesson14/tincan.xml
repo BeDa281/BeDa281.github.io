@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://6JurcSSuZXn1j9x0cglFo6pCyDLJXEPY_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Rechtliches und VOB Allgemein - Teil 3</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://6JurcSSuZXn1j9x0cglFo6pCyDLJXEPY_rise/3HrcDEb0LLjL_z3gbA-pBmYmBZ1Jt178" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://6JurcSSuZXn1j9x0cglFo6pCyDLJXEPY_rise/3HrcDEb0LLjL_z3gbA-pBmYmBZ1Jt178/cktadd24z002w266eo8phwevt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In der VOB/A ist der Ablauf der Angebotsabgabe geregelt. Bringen Sie die Begriffe in die zeitlich richtige Reihenfolge.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cktadd251002x266e8qeleu1v[.]target_cktadd251002x266e8qeleu1v</correctResponsePattern>
+            <correctResponsePattern>source_cktadd251002y266em9nmbfrl[.]target_cktadd251002y266em9nmbfrl</correctResponsePattern>
+            <correctResponsePattern>source_cktadd251002z266egqwt815a[.]target_cktadd251002z266egqwt815a</correctResponsePattern>
+            <correctResponsePattern>source_cktaddrir0030266egters8l0[.]target_cktaddrir0030266egters8l0</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cktadd251002x266e8qeleu1v</id>
+        <description lang="en-US">Eröffnungstermin></description>
+      </component>
+            <component>
+        <id>source_cktadd251002y266em9nmbfrl</id>
+        <description lang="en-US">Zuschlagfrist></description>
+      </component>
+            <component>
+        <id>source_cktadd251002z266egqwt815a</id>
+        <description lang="en-US">Angebotsfrist></description>
+      </component>
+            <component>
+        <id>source_cktaddrir0030266egters8l0</id>
+        <description lang="en-US">Bewerbungsfrist></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cktadd251002x266e8qeleu1v</id>
+            <description lang="en-US">1</description>
+          </component>
+                  <component>
+            <id>target_cktadd251002y266em9nmbfrl</id>
+            <description lang="en-US">2</description>
+          </component>
+                  <component>
+            <id>target_cktadd251002z266egqwt815a</id>
+            <description lang="en-US">2</description>
+          </component>
+                  <component>
+            <id>target_cktaddrir0030266egters8l0</id>
+            <description lang="en-US">1</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://6JurcSSuZXn1j9x0cglFo6pCyDLJXEPY_rise/3HrcDEb0LLjL_z3gbA-pBmYmBZ1Jt178/cktadjbag003b266ealmzulse" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In welchen der folgenden F&amp;auml;lle k&amp;ouml;nnen Sie als ausf&amp;uuml;hrender Betrieb keine Bedenken nach VOB Teil B&amp;sect;4 Nr. 3 anmelden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktadjbag003d266ei6nssdot</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktadjbag003c266ep82jedm7</id>
+        <description lang="en-US">Wenn die Leistungsbeschreibung nicht korrekt ist</description>
+      </component>
+            <component>
+        <id>choice_cktadjbag003d266ei6nssdot</id>
+        <description lang="en-US">Wenn der Auftraggeber f&amp;auml;llige Zahlungen nicht leistet</description>
+      </component>
+            <component>
+        <id>choice_cktadk4fu003e266e5xoz9yya</id>
+        <description lang="en-US">Wenn die vorgegebene Ausf&amp;uuml;hrungszeit nicht einzuhalten ist</description>
+      </component>
+            <component>
+        <id>choice_cktadk8fz003f266evtqdg8dj</id>
+        <description lang="en-US">Wenn die G&amp;uuml;te der vom Auftraggeber gelieferten Werkstoffe unzureichend ist</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6JurcSSuZXn1j9x0cglFo6pCyDLJXEPY_rise/3HrcDEb0LLjL_z3gbA-pBmYmBZ1Jt178/cktadkwk4003g266etbrr5ub3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Gemeinderat wollte, dass der Auftrag m&amp;ouml;glichst an regionale Auftraggeber vergeben wird. Welches Verfahren hat die ausschreibende Stelle gem&amp;auml;&amp;szlig; VOB/A zu w&amp;auml;hlen.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktadlw7d003k266ecfsa59ba</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktadkwk4003h266e4jvhyqwo</id>
+        <description lang="en-US">&amp;Ouml;ffentliche Ausschreibung</description>
+      </component>
+            <component>
+        <id>choice_cktadkwk4003i266epr7uox3q</id>
+        <description lang="en-US">&amp;Ouml;ffentlicher Teilnahmewettbewerb</description>
+      </component>
+            <component>
+        <id>choice_cktadlsa0003j266e02xwb28b</id>
+        <description lang="en-US">Beschr&amp;auml;nkte Vergabe</description>
+      </component>
+            <component>
+        <id>choice_cktadlw7d003k266ecfsa59ba</id>
+        <description lang="en-US">Beschr&amp;auml;nkte Ausschreibung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6JurcSSuZXn1j9x0cglFo6pCyDLJXEPY_rise/3HrcDEb0LLjL_z3gbA-pBmYmBZ1Jt178/cktadmlqi003l266epurb02ek" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In der VOB/B ist der Ablauf der f&amp;ouml;rmlichen Abnahme geregelt. Bringen Sie die Begriffe in die Zeitlich richtige Reihenfolge.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cktadmlqi003m266elj087bc5[.]target_cktadmlqi003m266elj087bc5</correctResponsePattern>
+            <correctResponsePattern>source_cktadmlqi003n266ec6w5lldf[.]target_cktadmlqi003n266ec6w5lldf</correctResponsePattern>
+            <correctResponsePattern>source_cktadmlqi003o266epeyr9xvi[.]target_cktadmlqi003o266epeyr9xvi</correctResponsePattern>
+            <correctResponsePattern>source_cktadnd5b003p266e0a883nbm[.]target_cktadnd5b003p266e0a883nbm</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cktadmlqi003m266elj087bc5</id>
+        <description lang="en-US">Niederschrift erstellen></description>
+      </component>
+            <component>
+        <id>source_cktadmlqi003n266ec6w5lldf</id>
+        <description lang="en-US">Termin vereinbaren></description>
+      </component>
+            <component>
+        <id>source_cktadmlqi003o266epeyr9xvi</id>
+        <description lang="en-US">Abnahme wird vom Auftraggeber verlangt></description>
+      </component>
+            <component>
+        <id>source_cktadnd5b003p266e0a883nbm</id>
+        <description lang="en-US">Die Gefahr geht auf den Auftraggeber über></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cktadmlqi003m266elj087bc5</id>
+            <description lang="en-US">3</description>
+          </component>
+                  <component>
+            <id>target_cktadmlqi003n266ec6w5lldf</id>
+            <description lang="en-US">2</description>
+          </component>
+                  <component>
+            <id>target_cktadmlqi003o266epeyr9xvi</id>
+            <description lang="en-US">1</description>
+          </component>
+                  <component>
+            <id>target_cktadnd5b003p266e0a883nbm</id>
+            <description lang="en-US">4</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://6JurcSSuZXn1j9x0cglFo6pCyDLJXEPY_rise/3HrcDEb0LLjL_z3gbA-pBmYmBZ1Jt178/cktae4w0o00js266ecpems2wu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie lange Grundeinsatzzeit von Ger&amp;uuml;sten nach VOB/C ATV DIN 18451</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktae4w0p00jt266e35g3nslv</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktae4w0p00jt266e35g3nslv</id>
+        <description lang="en-US">4 Wochen</description>
+      </component>
+            <component>
+        <id>choice_cktae4w0p00ju266ergkq8jvm</id>
+        <description lang="en-US">3 Wochen</description>
+      </component>
+            <component>
+        <id>choice_cktae5ebw00jv266e2mo4r1c9</id>
+        <description lang="en-US">Solange die Arbeiten dauern</description>
+      </component>
+            <component>
+        <id>choice_cktae5ivk00jw266ejraq1pia</id>
+        <description lang="en-US">Nach Absprache mit dem Kunden</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6JurcSSuZXn1j9x0cglFo6pCyDLJXEPY_rise/3HrcDEb0LLjL_z3gbA-pBmYmBZ1Jt178/cktae6hkh00jx266etj5e8o7u" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie werden Vor- R&amp;uuml;ckspr&amp;uuml;nge von einger&amp;uuml;steten Fl&amp;auml;chen nach VOB/C ATV DIN 18451 berechnet, wenn die wandseitige ger&amp;uuml;stflucht unterbrochen ist?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktae6hki00jy266e4u72vkit</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktae6hki00jy266e4u72vkit</id>
+        <description lang="en-US">Sie werden in der Abwicklung der einger&amp;uuml;steten Fl&amp;auml;che gerechnet&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cktae6hki00jz266es1v0d1gb</id>
+        <description lang="en-US">Sie werden pauschal nach Aufwand abgerechnet</description>
+      </component>
+            <component>
+        <id>choice_cktae772l00k0266ea8b16v0g</id>
+        <description lang="en-US">Sie werden nach den Aufma&amp;szlig;regeln &amp;uuml;bermessen</description>
+      </component>
+            <component>
+        <id>choice_cktae7iig00k1266e5o4ja7w2</id>
+        <description lang="en-US">Sie m&amp;uuml;ssen in die Gesamtfl&amp;auml;che anteilig eingerechnet werden</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6JurcSSuZXn1j9x0cglFo6pCyDLJXEPY_rise/3HrcDEb0LLjL_z3gbA-pBmYmBZ1Jt178/cktaehkhn0036266eop0v8vku" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Geben Sie f&amp;uuml;r das Objekt &amp;bdquo;Einfamilienhaus&amp;ldquo; an, bei welchen der folgenden Leistungen es sich um besondere Leistungen handelt.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktaehkho0039266eprbb8o6k</correctResponsePattern>
+            <correctResponsePattern>choice_cktaehkho003a266eg5n7k3p4</correctResponsePattern>
+            <correctResponsePattern>choice_cktaehkho0038266ewkunr2rg</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktaehkho0037266econbzggz</id>
+        <description lang="en-US">Schutz von Bauteilen durch loses Abdecken oder Abh&amp;auml;ngen</description>
+      </component>
+            <component>
+        <id>choice_cktaehkho0039266eprbb8o6k</id>
+        <description lang="en-US">Herstellen von Brandbarrieren</description>
+      </component>
+            <component>
+        <id>choice_cktaehkho003a266eg5n7k3p4</id>
+        <description lang="en-US">Ma&amp;szlig;nahmen gegen Algen- und Pilzbefall</description>
+      </component>
+            <component>
+        <id>choice_cktaehkho0038266ewkunr2rg</id>
+        <description lang="en-US">Schlie&amp;szlig;en von Ankerl&amp;ouml;chern f&amp;uuml;r die Ger&amp;uuml;stverankerung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6JurcSSuZXn1j9x0cglFo6pCyDLJXEPY_rise/3HrcDEb0LLjL_z3gbA-pBmYmBZ1Jt178/cktd7wu5r003g266e9tqmvoid" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was ist die VOB, welche Rechtsnatur hat sie?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktd7xf96003j266epbgsl5dc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktd7wu5s003h266ew7or2dh8</id>
+        <description lang="en-US">Verordnung</description>
+      </component>
+            <component>
+        <id>choice_cktd7wu5s003i266eosao3y0j</id>
+        <description lang="en-US">Gesetz</description>
+      </component>
+            <component>
+        <id>choice_cktd7xf96003j266epbgsl5dc</id>
+        <description lang="en-US">Allgemeine Gesch&amp;auml;ftsbedingung&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cktd7xrxm003l266ewz6yo0x6</id>
+        <description lang="en-US">Richtlinie</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6JurcSSuZXn1j9x0cglFo6pCyDLJXEPY_rise/3HrcDEb0LLjL_z3gbA-pBmYmBZ1Jt178/cktd7y7rk003m266e4u2u87l1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Bauvertrag ist nur m&amp;uuml;ndlich abgeschlossen. Gilt in einem solchen Fall die VOB?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktd7y7rk003n266ec6dah9ud</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktd7y7rk003n266ec6dah9ud</id>
+        <description lang="en-US">Ja wenn beide Parteien die VOB kennen und mit deren Geltung einverstanden sind. richtig.</description>
+      </component>
+            <component>
+        <id>choice_cktd7y7rk003o266ezi5h4027</id>
+        <description lang="en-US">Nein, es bedarf der Schriftform.</description>
+      </component>
+            <component>
+        <id>choice_cktd7ysef003p266eyl4ylegt</id>
+        <description lang="en-US">Nein, weil dann jederzeit eine Partei k&amp;uuml;ndigen kann.</description>
+      </component>
+            <component>
+        <id>choice_cktd7yv1h003q266ecd9wv4h6</id>
+        <description lang="en-US">Nein, weil dann automatisch das BGB gilt</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6JurcSSuZXn1j9x0cglFo6pCyDLJXEPY_rise/3HrcDEb0LLjL_z3gbA-pBmYmBZ1Jt178/cktd7z8a0003r266eu3wdz9b1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Darf ein Auftragnehmer jederzeit den Auftrag k&amp;uuml;ndigen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktd7z8a0003s266ewsfj955i</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktd7z8a0003s266ewsfj955i</id>
+        <description lang="en-US">Ja, er hat das gleiche Recht wie der Auftraggeber</description>
+      </component>
+            <component>
+        <id>choice_cktd7z8a0003t266ey214oi8r</id>
+        <description lang="en-US">Nein, der AN darf nur in den engen Voraussetzungen des &amp;sect;9 Nr.1 VOB/B den Vertrag k&amp;uuml;ndigen</description>
+      </component>
+            <component>
+        <id>choice_cktd7zym8003u266e1l1nhau1</id>
+        <description lang="en-US">Nein, Ein Auftrag muss auf jedem Fall durchgef&amp;uuml;hrt werden</description>
+      </component>
+            <component>
+        <id>choice_cktd8022q003v266egfwcehx9</id>
+        <description lang="en-US">Ja, wenn er sich verkalkuliert hat</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
