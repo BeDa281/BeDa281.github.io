@@ -2,7 +2,7 @@
 <tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
   <activities>
     <activity id="http://6JurcSSuZXn1j9x0cglFo6pCyDLJXEPY_rise" type="http://adlnet.gov/expapi/activities/course">
-      <name lang="en-US">Rechtliches und VOB Allgemein - Teil 3</name>
+      <name lang="en-US">VOB A &amp; B - Teil 3</name>
       <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
       <launch lang="en-US">index.html</launch>
     </activity>
@@ -281,7 +281,7 @@
             <choices>
             <component>
         <id>choice_cktd7y7rk003n266ec6dah9ud</id>
-        <description lang="en-US">Ja wenn beide Parteien die VOB kennen und mit deren Geltung einverstanden sind. richtig.</description>
+        <description lang="en-US">Ja wenn beide Parteien die VOB kennen und mit deren Geltung einverstanden sind.</description>
       </component>
             <component>
         <id>choice_cktd7y7rk003o266ezi5h4027</id>
@@ -293,7 +293,7 @@
       </component>
             <component>
         <id>choice_cktd7yv1h003q266ecd9wv4h6</id>
-        <description lang="en-US">Nein, weil dann automatisch das BGB gilt</description>
+        <description lang="en-US">Nein, weil dann automatisch das BGB gilt.</description>
       </component>
             </choices>
           </activity>
