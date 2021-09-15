@@ -9,7 +9,7 @@ TC_COURSE_ID = "http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise"
 // CourseName for the activity
 //
 TC_COURSE_NAME = {
-  "en-US": "Rechtliches und VOB Allgemein - Teil 5"
+  "en-US": "VOB A &amp; B - Teil 5"
 };
 
 //
