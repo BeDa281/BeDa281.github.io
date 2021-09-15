@@ -2,7 +2,7 @@
 <tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
   <activities>
     <activity id="http://g_twDuWA16IrdjrW7i1gxsjLIxczNxtL_rise" type="http://adlnet.gov/expapi/activities/course">
-      <name lang="en-US">Rechtliches und VOB Allgemein - Teil 1</name>
+      <name lang="en-US">VOB A &amp; B - Teil 1</name>
       <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
       <launch lang="en-US">index.html</launch>
     </activity>
@@ -12,7 +12,7 @@
     </activity>
             
     <activity id="http://g_twDuWA16IrdjrW7i1gxsjLIxczNxtL_rise/ZBLfUcyGyVEyu-fcXms0XVjeDVn_GRcZ/cktab3s6i004l266egxrf3cal" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Bei der Ausf&amp;uuml;hrung von Innenarbeiten werden Sie durch andere Gewerke behindert.&lt;br&gt;Insbesondere der Elektriker hat noch nicht alle notwendigen Installationen abgeschlossen.&lt;br&gt;Dadurch kommt es bei Ihren Arbeiten zu Termin&amp;uuml;berschreitungen.Wie m&amp;uuml;ssen Sie gem&amp;auml;&amp;szlig; Bauvertrag handeln, um die drohende Konventionalstrafe abzuwenden?</name>
+      <name lang="en-US">Bei der Ausf&amp;uuml;hrung von Innenarbeiten werden Sie durch andere Gewerke behindert.&lt;br&gt;Insbesondere der Elektriker hat noch nicht alle notwendigen Installationen abgeschlossen. Dadurch kommt es bei Ihren Arbeiten zu Termin&amp;uuml;berschreitungen.&lt;br&gt;&lt;br&gt;Wie m&amp;uuml;ssen Sie gem&amp;auml;&amp;szlig; Bauvertrag handeln, um die drohende Konventionalstrafe abzuwenden?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -21,25 +21,25 @@
             <choices>
             <component>
         <id>choice_cktab3s6i004m266evdqzsi8j</id>
-        <description lang="en-US">Schriftliche Behinderungsanzeige unter Angabe der Behinderung an den Auftraggeber schicken.</description>
+        <description lang="en-US">Schriftliche Behinderungsanzeige unter Angabe der Behinderung an den Auftraggeber schicken</description>
       </component>
             <component>
         <id>choice_cktab3s6i004n266e0vtss2bi</id>
-        <description lang="en-US">Alle Arbeiten sofort einstellen.</description>
+        <description lang="en-US">Alle Arbeiten sofort einstellen</description>
       </component>
             <component>
         <id>choice_cktab4jmx004o266eyir7dljq</id>
-        <description lang="en-US">Personal aufstocken, um den Auftrag schnellsten auszuf&amp;uuml;hren.</description>
+        <description lang="en-US">Personal aufstocken, um den Auftrag schnellsten auszuf&amp;uuml;hren</description>
       </component>
             <component>
         <id>choice_cktab4okd004p266e6boorioe</id>
-        <description lang="en-US">Mit dem Auftraggeber sprechen.</description>
+        <description lang="en-US">Mit dem Auftraggeber sprechen</description>
       </component>
             </choices>
           </activity>
         
     <activity id="http://g_twDuWA16IrdjrW7i1gxsjLIxczNxtL_rise/ZBLfUcyGyVEyu-fcXms0XVjeDVn_GRcZ/cktab5czg004q266evxfg45hz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Bei der Ausf&amp;uuml;hrung von Innenarbeiten werden Sie durch andere Gewerke behindert.&lt;br&gt;Insbesondere der Elektriker hat noch nicht alle notwendigen Installationen abgeschlossen.&lt;br&gt;Dadurch kommt es bei Ihren Arbeiten zu Termin&amp;uuml;berschreitungen.Welche Anspr&amp;uuml;che k&amp;ouml;nnen Sie geltend machen, wenn Sie rechtlich und sachlich korrekte Ma&amp;szlig;nahmen ergriffen haben?</name>
+      <name lang="en-US">Bei der Ausf&amp;uuml;hrung von Innenarbeiten werden Sie durch andere Gewerke behindert.&lt;br&gt;Insbesondere der Elektriker hat noch nicht alle notwendigen Installationen abgeschlossen. Dadurch kommt es bei Ihren Arbeiten zu Termin&amp;uuml;berschreitungen.&lt;br&gt;&lt;br&gt;Welche Anspr&amp;uuml;che k&amp;ouml;nnen Sie geltend machen, wenn Sie rechtlich und sachlich korrekte Ma&amp;szlig;nahmen ergriffen haben?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -86,7 +86,7 @@
       </component>
             <component>
         <id>choice_cktab72an006o266eoqb982sq</id>
-        <description lang="en-US">Beschr&amp;auml;nkte Ausschreibung: begrenzte Teilnehmeranzahl</description>
+        <description lang="en-US">Beschr&amp;auml;nkte Ausschreibung: begrenzte Teilnehmerzahl</description>
       </component>
             <component>
         <id>choice_cktab72ao006p266exz0gf18t</id>
@@ -767,16 +767,16 @@
         <description lang="en-US">Leistungsverzeichnis</description>
       </component>
             <component>
-        <id>choice_cktab88de0085266etemyvev4</id>
-        <description lang="en-US">Choice 3</description>
-      </component>
-            <component>
         <id>choice_cktab88de0083266e5nb80ahi</id>
         <description lang="en-US">Regiestunden</description>
       </component>
             <component>
         <id>choice_cktab9j0t009z266e3svl1rk9</id>
         <description lang="en-US">Name und Datum</description>
+      </component>
+            <component>
+        <id>choice_cktd5fcug004k266e269igodi</id>
+        <description lang="en-US">Gesamtpreis</description>
       </component>
             </choices>
           </activity>
@@ -801,7 +801,7 @@
           </activity>
         
     <activity id="http://g_twDuWA16IrdjrW7i1gxsjLIxczNxtL_rise/ZBLfUcyGyVEyu-fcXms0XVjeDVn_GRcZ/cktabaj8400a8266elkt6aves" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Zwei Wochen nach Arbeitsbeginn am stellen Sie die erste vereinbarte Abschlagsrechnung &amp;uuml;ber 10.000,00 &amp;euro; zuz&amp;uuml;glich der gesetzlichen Mehrwertsteuer.&lt;br&gt;Sicherheitsabschl&amp;auml;ge wurden nicht vereinbart. Eine Freistellungsbescheinigung haben Sie dem Kunden bislang nicht vorgelegt. Der Kunde &amp;uuml;berweist nur 8.500 &amp;euro; zuz&amp;uuml;glich Mehrwertsteuer.&lt;br&gt;&lt;br&gt;War der Abzug von 15 % berechtigt? Begr&amp;uuml;nden Sie Ihre Antwort</name>
+      <name lang="en-US">Zwei Wochen nach Arbeitsbeginn stellen Sie die erste vereinbarte Abschlagsrechnung &amp;uuml;ber 10.000,00 &amp;euro; zuz&amp;uuml;glich der gesetzlichen Mehrwertsteuer. Sicherheitsabschl&amp;auml;ge wurden nicht vereinbart. Eine Freistellungsbescheinigung haben Sie dem Kunden bislang nicht vorgelegt. Der Kunde &amp;uuml;berweist nur 8.500 &amp;euro; zuz&amp;uuml;glich Mehrwertsteuer.&lt;br&gt;&lt;br&gt;War der Abzug von 15 % berechtigt? Begr&amp;uuml;nden Sie Ihre Antwort</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -828,7 +828,7 @@
           </activity>
         
     <activity id="http://g_twDuWA16IrdjrW7i1gxsjLIxczNxtL_rise/ZBLfUcyGyVEyu-fcXms0XVjeDVn_GRcZ/cktabbwj700ad266eeydcn5sb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Zwei Wochen nach Arbeitsbeginn am stellen Sie die erste vereinbarte Abschlagsrechnung &amp;nbsp;&amp;uuml;ber 10.000,00 &amp;euro; zuz&amp;uuml;glich der gesetzlichen Mehrwertsteuer.&amp;nbsp;Sicherheitsabschl&amp;auml;ge wurden nicht vereinbart. &amp;nbsp;Eine Freistellungsbescheinigung haben Sie dem Kunden bislang nicht vorgelegt. Der Kunde &amp;uuml;berweist nur 8.500 &amp;euro; zuz&amp;uuml;glich Mehrwertsteuer.&amp;nbsp;Wie muss der Auftraggeber mit dem einbehaltenen Betrag verfahren?</name>
+      <name lang="en-US">Zwei Wochen nach Arbeitsbeginn stellen Sie die erste vereinbarte Abschlagsrechnung &amp;uuml;ber 10.000,00 &amp;euro; zuz&amp;uuml;glich der gesetzlichen Mehrwertsteuer. Sicherheitsabschl&amp;auml;ge wurden nicht vereinbart. Eine Freistellungsbescheinigung haben Sie dem Kunden bislang nicht vorgelegt. Der Kunde &amp;uuml;berweist nur 8.500 &amp;euro; zuz&amp;uuml;glich Mehrwertsteuer.&amp;nbsp;Wie muss der Auftraggeber mit dem einbehaltenen Betrag verfahren?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -855,7 +855,7 @@
           </activity>
         
     <activity id="http://g_twDuWA16IrdjrW7i1gxsjLIxczNxtL_rise/ZBLfUcyGyVEyu-fcXms0XVjeDVn_GRcZ/cktabdb7l00ai266ed7bgrijn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Zwei Wochen nach Arbeitsbeginn am stellen Sie die erste vereinbarte Abschlagsrechnung &amp;uuml;ber 10.000,00 &amp;euro; zuz&amp;uuml;glich der gesetzlichen Mehrwertsteuer.&lt;br&gt;Sicherheitsabschl&amp;auml;ge wurden nicht vereinbart. Eine Freistellungsbescheinigung haben Sie dem Kunden bislang nicht vorgelegt. Der Kunde &amp;uuml;berweist nur 8.500 &amp;euro; zuz&amp;uuml;glich Mehrwertsteuer.&lt;br&gt;Was k&amp;ouml;nnen Sie tun, um diesen Betrag zur&amp;uuml;ckzuerhalten?&lt;br&gt;&lt;br&gt;</name>
+      <name lang="en-US">Zwei Wochen nach Arbeitsbeginn stellen Sie die erste vereinbarte Abschlagsrechnung &amp;uuml;ber 10.000,00 &amp;euro; zuz&amp;uuml;glich der gesetzlichen Mehrwertsteuer. Sicherheitsabschl&amp;auml;ge wurden nicht vereinbart. Eine Freistellungsbescheinigung haben Sie dem Kunden bislang nicht vorgelegt. Der Kunde &amp;uuml;berweist nur 8.500 &amp;euro; zuz&amp;uuml;glich Mehrwertsteuer.&lt;br&gt;Was k&amp;ouml;nnen Sie tun, um diesen Betrag zur&amp;uuml;ckzuerhalten?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -874,7 +874,7 @@
           </activity>
         
     <activity id="http://g_twDuWA16IrdjrW7i1gxsjLIxczNxtL_rise/ZBLfUcyGyVEyu-fcXms0XVjeDVn_GRcZ/cktabeydl00b9266e8vlfke92" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Die Allgemeinen Vertragsbestimmungen (AGB&amp;rsquo;s) eines Auftraggebers enthalten folgende Vertragsstrafenregelung:&amp;nbsp;&lt;br&gt;&amp;bdquo;Bei &amp;Uuml;berschreiten der vereinbarten Ausf&amp;uuml;hrungsfrist ist der Auftraggeber berechtigt pro Werktag der Verz&amp;ouml;gerung 0,2 % der Auftragssumme zu verlangen.&amp;ldquo;&lt;br&gt;&amp;nbsp;Beurteilen Sie die G&amp;uuml;ltigkeit dieser Regelung.</name>
+      <name lang="en-US">Die Allgemeinen Vertragsbestimmungen (AGB&amp;rsquo;s) eines Auftraggebers enthalten folgende Vertragsstrafenregelung: &amp;bdquo;Bei &amp;Uuml;berschreiten der vereinbarten Ausf&amp;uuml;hrungsfrist ist der Auftraggeber berechtigt pro Werktag der Verz&amp;ouml;gerung 0,2 % der Auftragssumme zu verlangen.&amp;ldquo;&lt;br&gt;Beurteilen Sie die G&amp;uuml;ltigkeit dieser Regelung.</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -893,7 +893,7 @@
           </activity>
         
     <activity id="http://g_twDuWA16IrdjrW7i1gxsjLIxczNxtL_rise/ZBLfUcyGyVEyu-fcXms0XVjeDVn_GRcZ/cktabeccj00al266e03r2juph" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Die Allgemeinen Vertragsbestimmungen (AGB&amp;rsquo;s) eines Auftraggebers enthalten folgende Vertragsstrafenregelung:&amp;nbsp;&lt;br&gt;&amp;bdquo;Bei &amp;Uuml;berschreiten der vereinbarten Ausf&amp;uuml;hrungsfrist ist der Auftraggeber berechtigt pro Werktag der Verz&amp;ouml;gerung 0,2 % der Auftragssumme zu verlangen.&amp;ldquo;&lt;br&gt;Begr&amp;uuml;nden Sie die Entscheidung. &amp;quot;Die Vertragsstrafenregelung ist unwirksam weil...&amp;quot;</name>
+      <name lang="en-US">Die Allgemeinen Vertragsbestimmungen (AGB&amp;rsquo;s) eines Auftraggebers enthalten folgende Vertragsstrafenregelung: &amp;bdquo;Bei &amp;Uuml;berschreiten der vereinbarten Ausf&amp;uuml;hrungsfrist ist der Auftraggeber berechtigt pro Werktag der Verz&amp;ouml;gerung 0,2 % der Auftragssumme zu verlangen.&amp;ldquo;&lt;br&gt;&amp;quot;Die Vertragsstrafenregelung ist unwirksam weil...&amp;quot; Begr&amp;uuml;nden Sie die Entscheidung.</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
