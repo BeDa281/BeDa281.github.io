@@ -2,7 +2,7 @@
 <tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
   <activities>
     <activity id="http://ok0hVMkZn2-l1hvYYeF1vGCXrOILuMOg_rise" type="http://adlnet.gov/expapi/activities/course">
-      <name lang="en-US">Rechtliches und VOB Allgemein - Teil 4</name>
+      <name lang="en-US">VOB A &amp; B - Teil 4</name>
       <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
       <launch lang="en-US">index.html</launch>
     </activity>
@@ -94,7 +94,7 @@
           </activity>
         
     <activity id="http://ok0hVMkZn2-l1hvYYeF1vGCXrOILuMOg_rise/DASXXwhvhxt_cQ08HazVqEdzT6HfwiVx/cktae05cb00cg266elwiych5w" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Welche der nachfolgenden T&amp;auml;tigkeiten sind nach DIN 182999 bzw. DIN 18363 Nebenleistungen oder Besondere Leistungen.</name>
+      <name lang="en-US">Welche der nachfolgenden T&amp;auml;tigkeiten sind nach DIN 182999 bzw. DIN 18363 Nebenleistungen?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
