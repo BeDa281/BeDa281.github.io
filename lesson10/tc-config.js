@@ -9,7 +9,7 @@ TC_COURSE_ID = "http://aiqsbgvuATIN1ruNnzUpjaXYuK_-50s7_rise"
 // CourseName for the activity
 //
 TC_COURSE_NAME = {
-  "en-US": "Vorkalkulation - Teil 1"
+  "en-US": "Gemeinkostensatz - Teil 1"
 };
 
 //
