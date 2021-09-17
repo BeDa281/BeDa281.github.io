@@ -141,7 +141,7 @@
       </component>
             <component>
         <id>choice_cktoltx2k007e266fz90khs7u</id>
-        <description lang="en-US">&amp;nbsp;Der Anspruch auf die Mangelbeseitigung verj&amp;auml;hrt 5 Jahre nach der schriftlichen M&amp;auml;ngelr&amp;uuml;ge, jedoch nicht vor Ablauf der 10-Jahresfrist (4. August 2024).</description>
+        <description lang="en-US">Der Anspruch auf die Mangelbeseitigung verj&amp;auml;hrt 5 Jahre nach der schriftlichen M&amp;auml;ngelr&amp;uuml;ge, jedoch nicht vor Ablauf der 10-Jahresfrist (4. August 2024).</description>
       </component>
             </choices>
           </activity>
@@ -257,14 +257,6 @@
             <component>
         <id>choice_ckton5s0k003g266fxkhgx1o4</id>
         <description lang="en-US">Als AGB-Regelung wirksam, da die Strafe verschuldensabh&amp;auml;ngig formuliert ist und eine Obergrenze von maximal 5% der Auftragssumme enth&amp;auml;lt. Der Betrag wurde zu Unrecht einbehalten.</description>
-      </component>
-            <component>
-        <id>choice_ckton5s0k003h266fs97qvffj</id>
-        <description lang="en-US">Choice 3</description>
-      </component>
-            <component>
-        <id>choice_ckton5s0k003f266ff0hoxjsy</id>
-        <description lang="en-US">Choice 4</description>
       </component>
             </choices>
           </activity>
