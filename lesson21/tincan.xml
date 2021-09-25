@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://hQCrK4evcTsH0pAoBDB6XCpmLEMiRMNh_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">VOB A &amp; B - Teil 8</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://hQCrK4evcTsH0pAoBDB6XCpmLEMiRMNh_rise/ERmw4rLJkbg4FL9GYSMPwU5I8nD6cFCk" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://hQCrK4evcTsH0pAoBDB6XCpmLEMiRMNh_rise/ERmw4rLJkbg4FL9GYSMPwU5I8nD6cFCk/ckty4gsxf002w3g6atbhy602n" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nach Fertigstellung aller Maler- und Lackiererarbeiten in einer Wohnung eines Wohnhauses, verlangen Sie entsprechend der VOB die f&amp;ouml;rmliche Abnahme der Leistung. Vom Architekturb&amp;uuml;ro wird Ihnen mitgeteilt, dass eine Abnahme erst erfolgt, wenn die H&amp;auml;lfte aller vertraglich vereinbarten Arbeiten im Seniorenwohnhaus fertig gestellt ist.&amp;nbsp;&lt;br&gt;Ist die erbrachte Leistung abzunehmen? Begr&amp;uuml;nden Sie Ihre Antwort.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty4gsxj002x3g6a4c45itp0</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty4gsxj002x3g6a4c45itp0</id>
+        <description lang="en-US">Die Leistung ist auf Verlangen des Auftragnehmers abzunehmen, da es sich um abgeschlossene Teile der Gesamtleistung handelt.</description>
+      </component>
+            <component>
+        <id>choice_ckty4gsxj002z3g6a09t6w1qd</id>
+        <description lang="en-US">Die Leistung ist auch auf Verlangen des Auftragnehmers nicht abzunehmen, obwohl es sich um abgeschlossene Teile der Gesamtleistung handelt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://hQCrK4evcTsH0pAoBDB6XCpmLEMiRMNh_rise/ERmw4rLJkbg4FL9GYSMPwU5I8nD6cFCk/cktzj1gd40033266fsky51icu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Geben Sie an, wann eine Abnahme stattzufinden hat und binnen welcher Zeit diese durchzuf&amp;uuml;hren ist.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cktzj1gd50034266fusl9n5v5</correctResponsePattern>
+            <correctResponsePattern>choice_cktzj1gd50037266fb5t5q0zo</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cktzj1gd50034266fusl9n5v5</id>
+        <description lang="en-US">Sie ist binnen 12 Werktagen durchzuf&amp;uuml;hren.</description>
+      </component>
+            <component>
+        <id>choice_cktzj1gd50036266fj1psb116</id>
+        <description lang="en-US">Sie ist binnen 30 Werktagen durchzuf&amp;uuml;hren.</description>
+      </component>
+            <component>
+        <id>choice_cktzj1gd50037266fb5t5q0zo</id>
+        <description lang="en-US">Eine f&amp;ouml;rmliche Abnahme hat stattzufinden, wenn eine Vertragspartei es verlangt.</description>
+      </component>
+            <component>
+        <id>choice_cktzj1gd50035266fzephji2v</id>
+        <description lang="en-US">Eine f&amp;ouml;rmliche Abnahme hat immer stattzufinden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://hQCrK4evcTsH0pAoBDB6XCpmLEMiRMNh_rise/ERmw4rLJkbg4FL9GYSMPwU5I8nD6cFCk/ckty4kuec004i3g6afaztyiwe" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie f&amp;uuml;hren einen Auftrag &amp;uuml;ber die Beschichtung der Fassade eines Einfamilienhauses aus. Vertragsgrundlage ist das BGB. Nach Fertigstellung der Arbeiten besichtigen Sie gemeinsam mit dem Kunden die Fassade. Der Kunde signalisiert Ihnen, dass alles in Ordnung sei.&lt;br&gt;Ist das Werk auch ohne ein schriftliches Abnahmeprotokoll abgenommen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty4kuec004j3g6aroj9w3x4</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty4kuec004j3g6aroj9w3x4</id>
+        <description lang="en-US">Es handelt sich um eine rechtswirksame Abnahme. Ein Abnahmeprotokoll ist nicht erforderlich.</description>
+      </component>
+            <component>
+        <id>choice_ckty4kuec004k3g6at98jak7j</id>
+        <description lang="en-US">Es handelt sich nicht um eine rechtswirksame Abnahme. Ein Abnahmeprotokoll ist erforderlich.</description>
+      </component>
+            <component>
+        <id>choice_ckty4liee004l3g6aq9s8hko8</id>
+        <description lang="en-US">Es handelt sich um eine rechtswirksame Abnahme. Ein Abnahmeprotokoll ist jedoch erforderlich.</description>
+      </component>
+            <component>
+        <id>choice_ckty4lmme004m3g6arno4djns</id>
+        <description lang="en-US">Es handelt sich um keine rechtswirksame Abnahme. Ein Abnahmeprotokoll ist nicht erforderlich.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://hQCrK4evcTsH0pAoBDB6XCpmLEMiRMNh_rise/ERmw4rLJkbg4FL9GYSMPwU5I8nD6cFCk/ckty4m6jp004n3g6a6gvh20e1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie f&amp;uuml;hren einen Auftrag &amp;uuml;ber die Beschichtung der Fassade eines Einfamilienhauses aus. Vertragsgrundlage ist das BGB. Nach Fertigstellung der Arbeiten besichtigen Sie gemeinsam mit dem Kunden die Fassade. Der Kunde signalisiert Ihnen, dass alles in Ordnung sei.&amp;nbsp;&lt;br&gt;Welche M&amp;ouml;glichkeit haben Sie nach &amp;sect; 640 Abs. 1 Satz 3 BGB, wenn der Kunde nach Fertigstellung nicht anwesend ist und die Leistung vertragsgerecht ausgef&amp;uuml;hrt wurde? Um welche Art der Abnahme handelt es sich dabei?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty4m6k5004o3g6altrzm3xn</correctResponsePattern>
+            <correctResponsePattern>choice_ckty4m6k5004q3g6agowu0fns</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty4m6k5004o3g6altrzm3xn</id>
+        <description lang="en-US">Sie k&amp;ouml;nnen eine angemessene Frist f&amp;uuml;r die Abnahme setzen. Nach Fristablauf gilt das Werk als abgenommen.</description>
+      </component>
+            <component>
+        <id>choice_ckty4m6k5004q3g6agowu0fns</id>
+        <description lang="en-US">Es liegt eine fiktive Abnahme vor.</description>
+      </component>
+            <component>
+        <id>choice_ckty4m6k5004r3g6ajvo2ou0j</id>
+        <description lang="en-US">Sie k&amp;ouml;nnen keine angemessene Frist f&amp;uuml;r die Abnahme setzen. Es liegt keine Abnahme vor.</description>
+      </component>
+            <component>
+        <id>choice_ckty4m6k5004p3g6alw9r51tf</id>
+        <description lang="en-US">Sie k&amp;ouml;nnen eine Frist von 10 Tagen f&amp;uuml;r die Abnahme setzen. Nach Fristablauf gilt das Werk als abgenommen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://hQCrK4evcTsH0pAoBDB6XCpmLEMiRMNh_rise/ERmw4rLJkbg4FL9GYSMPwU5I8nD6cFCk/ckty4rvun006q3g6a1gnafqd2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie f&amp;uuml;hren einen Auftrag &amp;uuml;ber die Beschichtung der Fassade eines Einfamilienhauses aus. Vertragsgrundlage ist das BGB. Nach Fertigstellung der Arbeiten besichtigen Sie gemeinsam mit dem Kunden die Fassade. Der Kunde signalisiert Ihnen, dass alles in Ordnung sei. Eine Woche nach der Abnahme der Leistungen erstellen Sie die Schlussrechnung mit folgender Formulierung des Zahlungszieles:&lt;br&gt;&amp;bdquo;Wir bitten um unverz&amp;uuml;gliche Bezahlung der Rechnung&amp;ldquo;&lt;br&gt;Wann wird diese Rechnung sp&amp;auml;testens f&amp;auml;llig?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty4rvuo006r3g6afywzlptw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty4rvuo006r3g6afywzlptw</id>
+        <description lang="en-US">Sofort nach Zugang der Schlussrechnung</description>
+      </component>
+            <component>
+        <id>choice_ckty4rvuo006s3g6a14m1qoiv</id>
+        <description lang="en-US">10 Tage nach Zugang der Schlussrechnung</description>
+      </component>
+            <component>
+        <id>choice_ckty4soml006y3g6awvggjgem</id>
+        <description lang="en-US">30 Tage nach Zugang der Schlussrechnung</description>
+      </component>
+            <component>
+        <id>choice_ckty4ssjw006z3g6ae4de3bnw</id>
+        <description lang="en-US">14 Tage nach Zugang der Schlussrechnung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://hQCrK4evcTsH0pAoBDB6XCpmLEMiRMNh_rise/ERmw4rLJkbg4FL9GYSMPwU5I8nD6cFCk/ckty4t9x700703g6acc362esn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie f&amp;uuml;hren einen Auftrag &amp;uuml;ber die Beschichtung der Fassade eines Einfamilienhauses aus. Vertragsgrundlage ist das BGB. Nach Fertigstellung der Arbeiten besichtigen Sie gemeinsam mit dem Kunden die Fassade. Der Kunde signalisiert Ihnen, dass alles in Ordnung sei.&lt;br&gt;Wann verj&amp;auml;hrt die Schlusszahlung?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty4t9x800713g6ax3pflprk</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty4t9x800713g6ax3pflprk</id>
+        <description lang="en-US">3 Jahre nach Abnahme und Zugang der Schlussrechnung, gerechnet ab dem &amp;nbsp;&lt;br&gt;Jahresende der F&amp;auml;lligkeit.</description>
+      </component>
+            <component>
+        <id>choice_ckty4t9x800723g6axlwtdjmq</id>
+        <description lang="en-US">4 Jahre nach Abnahme und Zugang der Schlussrechnung, gerechnet ab dem &amp;nbsp;&lt;br&gt;Jahresende der F&amp;auml;lligkeit.</description>
+      </component>
+            <component>
+        <id>choice_ckty4tud700733g6ansb29sp6</id>
+        <description lang="en-US">1 Jahr nach Abnahme und Zugang der Schlussrechnung, gerechnet ab dem &amp;nbsp;&lt;br&gt;Jahresende der F&amp;auml;lligkeit.</description>
+      </component>
+            <component>
+        <id>choice_ckty4tyq900743g6a3o1jk3dh</id>
+        <description lang="en-US">2 Jahre nach Abnahme und Zugang der Schlussrechnung, gerechnet ab dem &amp;nbsp;&lt;br&gt;Jahresende der F&amp;auml;lligkeit.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://hQCrK4evcTsH0pAoBDB6XCpmLEMiRMNh_rise/ERmw4rLJkbg4FL9GYSMPwU5I8nD6cFCk/ckty4ugx400753g6aj9dlis6k" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie vergeben die Trockenbauarbeiten an einen Nachunternehmer.&lt;br&gt;Dieser verlangt von Ihnen die unentgeltliche &amp;Uuml;berlassung von Werkzeugen und Arbeitskleidung.&lt;br&gt;Die Mitarbeiter des Trockenbauers sollen mit demselben Firmenlogo wie Ihre Mitarbeiter auftreten, um ein einheitliches Erscheinungsbild zu gew&amp;auml;hrleisten.&lt;br&gt;Wie ist die Rechtslage nach dem Arbeitnehmer&amp;uuml;berlassungsgesetz? </name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty4ugx400763g6ah1fyrw3i</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty4ugx400763g6ah1fyrw3i</id>
+        <description lang="en-US">Die Mitarbeiter des Nachunternehmers d&amp;uuml;rfen nicht in die Organisation des Hauptunternehmers eingebunden sein und sollten daher ihre eigenen Werkzeuge und Arbeitskleidung verwenden. Bei Versto&amp;szlig; kann eine unerlaubte Arbeitnehmer&amp;uuml;berlassung vorliegen.</description>
+      </component>
+            <component>
+        <id>choice_ckty4ugx400773g6af34nzh9s</id>
+        <description lang="en-US">Die Mitarbeiter des Nachunternehmers k&amp;ouml;nnen jederzeit nicht in die Organisation des Hauptunternehmers eingebunden sein und ben&amp;ouml;tigen daher keine eigenen Werkzeuge und/oder Arbeitskleidung.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://hQCrK4evcTsH0pAoBDB6XCpmLEMiRMNh_rise/ERmw4rLJkbg4FL9GYSMPwU5I8nD6cFCk/ckty4v76q00783g6adxx9wu5h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Das Ger&amp;uuml;st f&amp;uuml;r die Arbeiten an der Fassade des Bahnhofes wird von Ihnen gestellt. &amp;nbsp;Die Abrechnung erfolgt nach VOB/C ATV DIN 18451.&lt;br&gt;Welche Mindestl&amp;auml;nge gilt f&amp;uuml;r die Abrechnung bei Arbeitsger&amp;uuml;sten?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty4v76q00793g6a4571oihh</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty4v76q00793g6a4571oihh</id>
+        <description lang="en-US">Die Mindestl&amp;auml;nge betr&amp;auml;gt 2,50 m</description>
+      </component>
+            <component>
+        <id>choice_ckty4v76r007a3g6a2r07sdog</id>
+        <description lang="en-US">Die Mindestl&amp;auml;nge betr&amp;auml;gt 3,50 m</description>
+      </component>
+            <component>
+        <id>choice_ckty4vnlq007b3g6aoxgelq5h</id>
+        <description lang="en-US">Die Mindestl&amp;auml;nge betr&amp;auml;gt 5,00 m</description>
+      </component>
+            <component>
+        <id>choice_ckty4vwym007c3g6ayklm44y2</id>
+        <description lang="en-US">Die Mindestl&amp;auml;nge entspricht je nach Hersteller einer Ger&amp;uuml;stl&amp;auml;nge vom ersten bis zum darauffolgendem Holm</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://hQCrK4evcTsH0pAoBDB6XCpmLEMiRMNh_rise/ERmw4rLJkbg4FL9GYSMPwU5I8nD6cFCk/ckty4wdh5007d3g6a51irgoft" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zwei Wochen nach Beginn der Arbeiten erstellen Sie die erste Abschlagsrechnung.&lt;br&gt;Wann wird diese nach BGB f&amp;auml;llig, wenn keine Vereinbarung getroffen wurde?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty4wdh5007e3g6ahaxm3140</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty4wdh5007e3g6ahaxm3140</id>
+        <description lang="en-US">Abschlagsrechnung sind nach dem BGB sofort f&amp;auml;llig, wenn nichts anderes vereinbart wurde.</description>
+      </component>
+            <component>
+        <id>choice_ckty4wdh5007f3g6axkp2akec</id>
+        <description lang="en-US">Abschlagsrechnung sind nach dem BGB innerhalb 10 Tagen f&amp;auml;llig, wenn nichts anderes vereinbart wurde.</description>
+      </component>
+            <component>
+        <id>choice_ckty4wzdz007g3g6ad9fjvhl1</id>
+        <description lang="en-US">Abschlagsrechnung sind nach dem BGB innerhalb 14 Tagen f&amp;auml;llig, wenn nichts anderes vereinbart wurde.</description>
+      </component>
+            <component>
+        <id>choice_ckty4x69p007h3g6a8lqzixpm</id>
+        <description lang="en-US">Abschlagsrechnung sind nach dem BGB innerhalb 31 Tagen f&amp;auml;llig, wenn nichts anderes vereinbart wurde.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://hQCrK4evcTsH0pAoBDB6XCpmLEMiRMNh_rise/ERmw4rLJkbg4FL9GYSMPwU5I8nD6cFCk/ckty4y2vo007i3g6apqe7cqmv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zwei Wochen nach Beginn der Arbeiten erstellen Sie die erste Abschlagsrechnung.&amp;nbsp;K&amp;ouml;nnen Sie mit Mahnung und durch Angabe eines konkretem Datum der F&amp;auml;lligkeit den Kunden Verzug setzen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty4y2vo007j3g6a9voe4fpi</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty4y2vo007j3g6a9voe4fpi</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            <component>
+        <id>choice_ckty4y2vo007k3g6ay8pvld8g</id>
+        <description lang="en-US">Nein</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
