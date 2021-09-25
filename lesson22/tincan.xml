@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://P1fxMWO4UZMs0niLfYkJRoJ-qUVJxCCT_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">VOB A &amp; B - Teil 10</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://P1fxMWO4UZMs0niLfYkJRoJ-qUVJxCCT_rise/YXLrqnw7t6kX6vPPpP5i8-yNFG9xuuPn" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://P1fxMWO4UZMs0niLfYkJRoJ-qUVJxCCT_rise/YXLrqnw7t6kX6vPPpP5i8-yNFG9xuuPn/cku028s2m002w266facy7z3qt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In den Besonderen Vertragsbedingungen eines Bauvertrages wurde eine Sicherheitsleistung durch Einbehalt von Zahlungen gem&amp;auml;&amp;szlig; &amp;sect; 17 VOB/B vereinbart.&lt;br&gt;Die gesamte H&amp;ouml;he der Sicherheitsleistung betr&amp;auml;gt 5 % von der Auftragssumme f&amp;uuml;r M&amp;auml;ngelanspr&amp;uuml;che.&lt;br&gt;Unter welchen Voraussetzung kann der Auftraggeber auf die Gew&amp;auml;hrleistungsb&amp;uuml;rgschaft zugreifen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku028s2m002x266f248qj8ml</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku028s2m002x266f248qj8ml</id>
+        <description lang="en-US">Wenn der Auftragnehmer einen Mangel nicht fristgerecht beseitigt.</description>
+      </component>
+            <component>
+        <id>choice_cku028s2m002y266fuu9f0o00</id>
+        <description lang="en-US">Es darf erst nach Ablauf der Frist auf die Gew&amp;auml;hrleistungsb&amp;uuml;rgschaft zugegriffen werden.</description>
+      </component>
+            <component>
+        <id>choice_cku029fpc002z266fyg83p76f</id>
+        <description lang="en-US">Der Auftraggeber besitzt keinerlei Anspruch auf die Der Auftraggeber.</description>
+      </component>
+            <component>
+        <id>choice_cku029j4b0030266ffgl8d82t</id>
+        <description lang="en-US">Der Auftraggeber kann f&amp;uuml;r die Schlusszahlung auf die Gew&amp;auml;hrleistungsb&amp;uuml;rgschaft zugreifen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://P1fxMWO4UZMs0niLfYkJRoJ-qUVJxCCT_rise/YXLrqnw7t6kX6vPPpP5i8-yNFG9xuuPn/cku02an840041266f7kmu389l" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nach Abschluss der Arbeiten wird die Leistung f&amp;ouml;rmlich abgenommen und die Schlussrechnung gestellt.&lt;br&gt;Was wird unter der f&amp;ouml;rmlichen Abnahme verstanden und wie wird sie durchgef&amp;uuml;hrt? Welche Aussagen sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku02an840042266f4lwa8d61</correctResponsePattern>
+            <correctResponsePattern>choice_cku02an840045266fyzi8t3ls</correctResponsePattern>
+            <correctResponsePattern>choice_cku02dqf00096266f6byicyrw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku02an840042266f4lwa8d61</id>
+        <description lang="en-US">Kann von beiden Vertragsparteien verlangt werden.</description>
+      </component>
+            <component>
+        <id>choice_cku02an840044266f12jmqgx1</id>
+        <description lang="en-US">Kann nur von einer Partei verlangt werden.</description>
+      </component>
+            <component>
+        <id>choice_cku02an840045266fyzi8t3ls</id>
+        <description lang="en-US">Erfolgt i. d. R. durch eine gemeinsame Bau&amp;shy;begehung.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cku02an840043266f432hbbhy</id>
+        <description lang="en-US">Eine gemeinsame Baubegehung ist nicht notwendig</description>
+      </component>
+            <component>
+        <id>choice_cku02dqf00096266f6byicyrw</id>
+        <description lang="en-US">Das Ergebnis ist schriftlich festzuhalten (Abnahmeprotokoll)</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://P1fxMWO4UZMs0niLfYkJRoJ-qUVJxCCT_rise/YXLrqnw7t6kX6vPPpP5i8-yNFG9xuuPn/cku02cntq006n266ffa2bfq1n" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nach Abschluss der Arbeiten wird die Leistung f&amp;ouml;rmlich abgenommen und die Schlussrechnung gestellt.&lt;br&gt;Was wird unter der f&amp;ouml;rmlichen Abnahme verstanden und wie wird sie durchgef&amp;uuml;hrt? Welche Aussagen sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku02cntq006q266fe6zmjw8s</correctResponsePattern>
+            <correctResponsePattern>choice_cku02cntq006r266fyl0dycie</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku02cntq006o266f1tql1my7</id>
+        <description lang="en-US">Ein schriftliches Festhalten ist nicht zwingend.</description>
+      </component>
+            <component>
+        <id>choice_cku02cntq006q266fe6zmjw8s</id>
+        <description lang="en-US">Von beiden Vertragsparteien zu unterzeichnen.</description>
+      </component>
+            <component>
+        <id>choice_cku02cntq006r266fyl0dycie</id>
+        <description lang="en-US">In das Abnahmeprotokoll sind etwaige Vorbehalte wegen M&amp;auml;ngeln und Vertragsstrafen, sowie Einwendungen des Auftragnehmers aufzunehmen.</description>
+      </component>
+            <component>
+        <id>choice_cku02cntq006p266fyexs27dw</id>
+        <description lang="en-US">Es ist ausreichend wenn der Auftraggeber unterzeichnet.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://P1fxMWO4UZMs0niLfYkJRoJ-qUVJxCCT_rise/YXLrqnw7t6kX6vPPpP5i8-yNFG9xuuPn/cku02i5iw00cp266f7fav0jht" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nach Abschluss der Arbeiten wird die Leistung f&amp;ouml;rmlich abgenommen und die Schlussrechnung gestellt.Was wird unter der f&amp;ouml;rmlichen Abnahme verstanden und wie wird sie durchgef&amp;uuml;hrt?&lt;br&gt;Wann wird die Schlusszahlung nach VOB f&amp;auml;llig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku02i5ix00cq266fhzctc8yj</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku02i5ix00cq266fhzctc8yj</id>
+        <description lang="en-US">Nach Abnahme der Leistung und Pr&amp;uuml;fung der Schlussrechnung, sp&amp;auml;testens innerhalb von 30 Tagen nach ihrem Zugang (&amp;sect; 16 Abs. 3 VOB/B).</description>
+      </component>
+            <component>
+        <id>choice_cku02i5ix00cs266f37og6f4w</id>
+        <description lang="en-US">Nach Abnahme der Leistung und Pr&amp;uuml;fung der Schlussrechnung, sp&amp;auml;testens innerhalb von 21 Tagen nach ihrem Zugang (&amp;sect; 16 Abs. 3 VOB/B).</description>
+      </component>
+            <component>
+        <id>choice_cku02i5ix00ct266fvnbax365</id>
+        <description lang="en-US">Nach Abnahme der Leistung und Pr&amp;uuml;fung der Schlussrechnung, sp&amp;auml;testens innerhalb von 14 Tagen nach ihrem Zugang (&amp;sect; 16 Abs. 3 VOB/B).</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://P1fxMWO4UZMs0niLfYkJRoJ-qUVJxCCT_rise/YXLrqnw7t6kX6vPPpP5i8-yNFG9xuuPn/cku02jg7300es266fxp2tca1i" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nach Abschluss der Arbeiten wird die Leistung f&amp;ouml;rmlich abgenommen und die Schlussrechnung gestellt.&lt;br&gt;Wann wird eine Schlusszahlung nach BGB f&amp;auml;llig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku02jg7300et266fge2p9x07</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku02jg7300et266fge2p9x07</id>
+        <description lang="en-US">Nach Abnahme der Leistung und Erhalt der Schlussrechnung.</description>
+      </component>
+            <component>
+        <id>choice_cku02jg7300ev266ftkcw7ls9</id>
+        <description lang="en-US">30 Tage nach Abnahme der Leistung und Erhalt der Schlussrechnung.</description>
+      </component>
+            <component>
+        <id>choice_cku02jg7300ew266fa3ypsz39</id>
+        <description lang="en-US">14 Tage nach Abnahme der Leistung und Erhalt der Schlussrechnung.</description>
+      </component>
+            <component>
+        <id>choice_cku02jg7300eu266fpqy9ubeq</id>
+        <description lang="en-US">21 Tage nach Abnahme der Leistung und Erhalt der Schlussrechnung.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://P1fxMWO4UZMs0niLfYkJRoJ-qUVJxCCT_rise/YXLrqnw7t6kX6vPPpP5i8-yNFG9xuuPn/cku02klya00gq266f3tzar83n" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie erhalten von einem Privatkunden einen Auftrag &amp;uuml;ber die Sanierung der Fassade seines Mehrfamilienhauses. Der Auftragswert betr&amp;auml;gt lt. Angebot 20.500,00 &amp;euro; zuz&amp;uuml;glich der gesetzlichen Umsatzsteuer. Die Dauer des Auftrages wird mit etwa 15 Werktagen veranschlagt. Als Vertragsgrundlage gilt das BGB.&lt;br&gt;Nach Fertigstellung der Arbeiten fordern Sie den Auftraggeber auf, mit Ihnen einen Abnahmetermin zu vereinbaren. Sie geben Ihm zwei Termine zur Auswahl an. Der Auftraggeber reagiert nicht. Daraufhin schicken Sie ihm die Schlussrechnung. &lt;br&gt;Die Arbeiten waren abnahmereif, also ohne wesentliche M&amp;auml;ngel und eine angemessene Frist zur Abnahme ist verstrichen ohne dass der Auftraggeber reagiert.&lt;br&gt;K&amp;ouml;nnen Sie nach BGB &amp;sect; 640 Abs. 1 Satz 3 von einer erfolgten Abnahme ausgehen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku02klyb00gr266fgkhzx02e</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku02klyb00gr266fgkhzx02e</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            <component>
+        <id>choice_cku02klyb00gs266fp0oa7ssx</id>
+        <description lang="en-US">Nein</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://P1fxMWO4UZMs0niLfYkJRoJ-qUVJxCCT_rise/YXLrqnw7t6kX6vPPpP5i8-yNFG9xuuPn/cku02lkzn00gt266f00g8oodf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In den Produktionshallen und im Geb&amp;auml;ude der Unternehmensleistung sind umfangreiche Maler -und Lackiererarbeiten auf Stundenlohnbasis vorgesehen.Wann werden gem&amp;auml;&amp;szlig; &amp;sect; 2 VOB Stundenlohnarbeiten verg&amp;uuml;tet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku02lkzn00gu266f1ms63ouf</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku02lkzn00gu266f1ms63ouf</id>
+        <description lang="en-US">Wenn diese vor der Ausf&amp;uuml;hrung vereinbart wurden.</description>
+      </component>
+            <component>
+        <id>choice_cku02lkzn00gv266fw90hn0cd</id>
+        <description lang="en-US">Stundenlohnarbeiten m&amp;uuml;ssen nach VOB auch ohne Vereinbarung verg&amp;uuml;tet werden.</description>
+      </component>
+            <component>
+        <id>choice_cku02m5kl00gw266fh39a7zzd</id>
+        <description lang="en-US">Stundenlohnarbeiten k&amp;ouml;nnen auch w&amp;auml;hren des Auftrages im Nachhinein vereinbart werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://P1fxMWO4UZMs0niLfYkJRoJ-qUVJxCCT_rise/YXLrqnw7t6kX6vPPpP5i8-yNFG9xuuPn/cku02mct400gx266f4mury4x0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie ist die Rechtslage, wenn der Auftraggeber bei der Rechnungsstellung den Umfang der 80 Stunden bestreitet, obwohl er diese innerhalb einer Woche unterschrieben an Sie zur&amp;uuml;ckgegeben hat?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku02mct400gy266fe93drjdg</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku02mct400gy266fe93drjdg</id>
+        <description lang="en-US">Die Unterschrift des Auftraggebers best&amp;auml;tigt nur, dass die Arbeiten tats&amp;auml;chlich beauftragt und durchgef&amp;uuml;hrt wurden. Er kann aber immer behaupten, dass die 80 Stunden in dieser H&amp;ouml;he nicht erforderlich waren, weil unwirtschaftlich gearbeitet wurde. Der Auftraggeber muss dies aber beweisen k&amp;ouml;nnen.</description>
+      </component>
+            <component>
+        <id>choice_cku02mct400gz266f7ew3s0iq</id>
+        <description lang="en-US">Mit der Unterschrift des Auftraggebers kann dieser in keinster Weise etwas bestreiten.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://P1fxMWO4UZMs0niLfYkJRoJ-qUVJxCCT_rise/YXLrqnw7t6kX6vPPpP5i8-yNFG9xuuPn/cku02nmcj00h0266fmlndjrpo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Das Werkvertragsrecht des BGB unterscheidet zwischen allgemeinen Werkvertr&amp;auml;gen und Bauvertr&amp;auml;gen.&lt;br&gt;Entscheiden Sie, ob es sich bei den unten aufgef&amp;uuml;hrten Arbeiten um allgemeine Werkvertr&amp;auml;ge oder um Bauvertr&amp;auml;ge im Sinne des &amp;sect; 650a BGB handelt.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cku02nmcj00h1266fbzjmh4pt[.]target_cku02nmcj00h1266fbzjmh4pt</correctResponsePattern>
+            <correctResponsePattern>source_cku02nmck00h2266fa01onix5[.]target_cku02nmck00h2266fa01onix5</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cku02nmcj00h1266fbzjmh4pt</id>
+        <description lang="en-US">Renovierungsanstrich Treppenhaus></description>
+      </component>
+            <component>
+        <id>source_cku02nmck00h2266fa01onix5</id>
+        <description lang="en-US">Ausführung von WDVS></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cku02nmcj00h1266fbzjmh4pt</id>
+            <description lang="en-US">Allgemeiner Werkvertrag</description>
+          </component>
+                  <component>
+            <id>target_cku02nmck00h2266fa01onix5</id>
+            <description lang="en-US">Bauvertrag</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://P1fxMWO4UZMs0niLfYkJRoJ-qUVJxCCT_rise/YXLrqnw7t6kX6vPPpP5i8-yNFG9xuuPn/cku02ocvm00h4266fdovwk8of" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Das Werkvertragsrecht des BGB unterscheidet zwischen allgemeinen Werkvertr&amp;auml;gen und Bauvertr&amp;auml;gen.&lt;br&gt;Entscheiden Sie, ob es sich bei den unten aufgef&amp;uuml;hrten Arbeiten um allgemeine Werkvertr&amp;auml;ge oder um Bauvertr&amp;auml;ge im Sinne des &amp;sect; 650a BGB handelt.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cku02ocvm00h5266f3ag6h90p[.]target_cku02ocvm00h5266f3ag6h90p</correctResponsePattern>
+            <correctResponsePattern>source_cku02ocvm00h6266fvd46bt1u[.]target_cku02ocvm00h6266fvd46bt1u</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cku02ocvm00h5266f3ag6h90p</id>
+        <description lang="en-US">Tapezierarbeiten im Neubau/Einfamilienhaus></description>
+      </component>
+            <component>
+        <id>source_cku02ocvm00h6266fvd46bt1u</id>
+        <description lang="en-US">Überholungsanstrich von lasierten Holzfenstern></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cku02ocvm00h5266f3ag6h90p</id>
+            <description lang="en-US">Bauvertrag</description>
+          </component>
+                  <component>
+            <id>target_cku02ocvm00h6266fvd46bt1u</id>
+            <description lang="en-US">Allgemeiner Werkvertrag</description>
+          </component>
+              </target>
+          </activity>
+            </activities>
+</tincan>
