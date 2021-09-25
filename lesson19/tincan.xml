@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://ZRzESDRFGC2-3XeedE6FXaVRU62kb5Uq_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Preisberechnung - Teil 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://ZRzESDRFGC2-3XeedE6FXaVRU62kb5Uq_rise/pKTwmKqkfHW_P69jxkFyrL4IrAM2-icO" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://ZRzESDRFGC2-3XeedE6FXaVRU62kb5Uq_rise/pKTwmKqkfHW_P69jxkFyrL4IrAM2-icO/ckty12nl9002w3g6ace8ew6v6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei der Preisberechnung mit dem vom Bundesverband Farbe Gestaltung Bautenschutz herausgebenden Buch Grundlagen der Preisberechnung sind die Gesamt- und Einzelleistungen mit Kennbuchstaben und &amp;ndash; ziffern gekennzeichnet.&lt;br&gt;Ordnen Sie folgende Kennbuchstaben den Hauptgruppen zu:</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckty12nlg002x3g6aiwue5de1[.]target_ckty12nlg002x3g6aiwue5de1</correctResponsePattern>
+            <correctResponsePattern>source_ckty12nlg002y3g6aj0a9u1kq[.]target_ckty12nlg002y3g6aj0a9u1kq</correctResponsePattern>
+            <correctResponsePattern>source_ckty12nlg002z3g6ad4t53btr[.]target_ckty12nlg002z3g6ad4t53btr</correctResponsePattern>
+            <correctResponsePattern>source_ckty14afd00303g6az2p1wvzp[.]target_ckty14afd00303g6az2p1wvzp</correctResponsePattern>
+            <correctResponsePattern>source_ckty14ezj00313g6a61praxaw[.]target_ckty14ezj00313g6a61praxaw</correctResponsePattern>
+            <correctResponsePattern>source_ckty14gmj00323g6axg0kgoer[.]target_ckty14gmj00323g6axg0kgoer</correctResponsePattern>
+            <correctResponsePattern>source_ckty14l1m00333g6ag3mw9zv9[.]target_ckty14l1m00333g6ag3mw9zv9</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckty12nlg002x3g6aiwue5de1</id>
+        <description lang="en-US">P></description>
+      </component>
+            <component>
+        <id>source_ckty12nlg002y3g6aj0a9u1kq</id>
+        <description lang="en-US">H></description>
+      </component>
+            <component>
+        <id>source_ckty12nlg002z3g6ad4t53btr</id>
+        <description lang="en-US">M></description>
+      </component>
+            <component>
+        <id>source_ckty14afd00303g6az2p1wvzp</id>
+        <description lang="en-US">Ku></description>
+      </component>
+            <component>
+        <id>source_ckty14ezj00313g6a61praxaw</id>
+        <description lang="en-US">TK></description>
+      </component>
+            <component>
+        <id>source_ckty14gmj00323g6axg0kgoer</id>
+        <description lang="en-US">S></description>
+      </component>
+            <component>
+        <id>source_ckty14l1m00333g6ag3mw9zv9</id>
+        <description lang="en-US">Z></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckty12nlg002x3g6aiwue5de1</id>
+            <description lang="en-US">Beschichtungen auf Putz und anderen mineralischen Untergründen</description>
+          </component>
+                  <component>
+            <id>target_ckty12nlg002y3g6aj0a9u1kq</id>
+            <description lang="en-US">Beschichtungen auf Holz und Holzwerkstoffen</description>
+          </component>
+                  <component>
+            <id>target_ckty12nlg002z3g6ad4t53btr</id>
+            <description lang="en-US">Beschichtungen auf Metall</description>
+          </component>
+                  <component>
+            <id>target_ckty14afd00303g6az2p1wvzp</id>
+            <description lang="en-US">Beschichtungen auf Kunststoff</description>
+          </component>
+                  <component>
+            <id>target_ckty14ezj00313g6a61praxaw</id>
+            <description lang="en-US">Tapezier und Klebearbeiten</description>
+          </component>
+                  <component>
+            <id>target_ckty14gmj00323g6axg0kgoer</id>
+            <description lang="en-US">Sondertechniken</description>
+          </component>
+                  <component>
+            <id>target_ckty14l1m00333g6ag3mw9zv9</id>
+            <description lang="en-US">Erschwerniszuschläge</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://ZRzESDRFGC2-3XeedE6FXaVRU62kb5Uq_rise/pKTwmKqkfHW_P69jxkFyrL4IrAM2-icO/ckty1ixry00343g6abjr8bme7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei der Preisberechnung mit dem vom Bundesverband Farbe Gestaltung Bautenschutz herausgebenden Buch Grundlagen der Preisberechnung sind die Gesamt- und Einzelleistungen mit Kennbuchstaben und &amp;ndash; ziffern gekennzeichnet.&lt;br&gt;Was bedeuten folgende Kennziffern:</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckty1ixry00353g6a9hwonc1j[.]target_ckty1ixry00353g6a9hwonc1j</correctResponsePattern>
+            <correctResponsePattern>source_ckty1ixry00363g6ae4lmxe35[.]target_ckty1ixry00363g6ae4lmxe35</correctResponsePattern>
+            <correctResponsePattern>source_ckty1ixry00373g6az8i6km15[.]target_ckty1ixry00373g6az8i6km15</correctResponsePattern>
+            <correctResponsePattern>source_ckty1ods000383g6a01ol3q31[.]target_ckty1ods000383g6a01ol3q31</correctResponsePattern>
+            <correctResponsePattern>source_ckty1ohlt00393g6a31b5bdiz[.]target_ckty1ohlt00393g6a31b5bdiz</correctResponsePattern>
+            <correctResponsePattern>source_ckty1yxc5003f3g6a3ge8y8g3[.]target_ckty1yxc5003f3g6a3ge8y8g3</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckty1ixry00353g6a9hwonc1j</id>
+        <description lang="en-US">PVo></description>
+      </component>
+            <component>
+        <id>source_ckty1ixry00363g6ae4lmxe35</id>
+        <description lang="en-US">ST></description>
+      </component>
+            <component>
+        <id>source_ckty1ixry00373g6az8i6km15</id>
+        <description lang="en-US">PGr></description>
+      </component>
+            <component>
+        <id>source_ckty1ods000383g6a01ol3q31</id>
+        <description lang="en-US">PSp></description>
+      </component>
+            <component>
+        <id>source_ckty1ohlt00393g6a31b5bdiz</id>
+        <description lang="en-US">PI></description>
+      </component>
+            <component>
+        <id>source_ckty1yxc5003f3g6a3ge8y8g3</id>
+        <description lang="en-US">PA></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckty1ixry00353g6a9hwonc1j</id>
+            <description lang="en-US">Putzvorarbeiten</description>
+          </component>
+                  <component>
+            <id>target_ckty1ixry00363g6ae4lmxe35</id>
+            <description lang="en-US">Steinreinigung,Imprägnierung </description>
+          </component>
+                  <component>
+            <id>target_ckty1ixry00373g6az8i6km15</id>
+            <description lang="en-US">Putz- Grundbeschichtungen</description>
+          </component>
+                  <component>
+            <id>target_ckty1ods000383g6a01ol3q31</id>
+            <description lang="en-US">Putz- Spachtelarbeiten</description>
+          </component>
+                  <component>
+            <id>target_ckty1ohlt00393g6a31b5bdiz</id>
+            <description lang="en-US">Putz Innenbeschichtung</description>
+          </component>
+                  <component>
+            <id>target_ckty1yxc5003f3g6a3ge8y8g3</id>
+            <description lang="en-US">Putz Aussenbeschichtung</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://ZRzESDRFGC2-3XeedE6FXaVRU62kb5Uq_rise/pKTwmKqkfHW_P69jxkFyrL4IrAM2-icO/ckty1z9c3003g3g6aqv87ydnw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei der Preisberechnung mit dem vom Bundesverband Farbe Gestaltung Bautenschutz herausgebenden Buch Grundlagen der Preisberechnung sind die Gesamt- und Einzelleistungen mit Kennbuchstaben und &amp;ndash; ziffern gekennzeichnet.&lt;br&gt;Was bedeuten folgende Kennziffern:</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckty1z9c3003h3g6a8g2jovbv[.]target_ckty1z9c3003h3g6a8g2jovbv</correctResponsePattern>
+            <correctResponsePattern>source_ckty1z9c3003i3g6ae7s6pmw4[.]target_ckty1z9c3003i3g6ae7s6pmw4</correctResponsePattern>
+            <correctResponsePattern>source_ckty1z9c3003j3g6axhwj8av6[.]target_ckty1z9c3003j3g6axhwj8av6</correctResponsePattern>
+            <correctResponsePattern>source_ckty20it4003k3g6a7zaiavg3[.]target_ckty20it4003k3g6a7zaiavg3</correctResponsePattern>
+            <correctResponsePattern>source_ckty20kqg003l3g6a5ms1o67m[.]target_ckty20kqg003l3g6a5ms1o67m</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckty1z9c3003h3g6a8g2jovbv</id>
+        <description lang="en-US">PoA></description>
+      </component>
+            <component>
+        <id>source_ckty1z9c3003i3g6ae7s6pmw4</id>
+        <description lang="en-US">BE></description>
+      </component>
+            <component>
+        <id>source_ckty1z9c3003j3g6axhwj8av6</id>
+        <description lang="en-US">W></description>
+      </component>
+            <component>
+        <id>source_ckty20it4003k3g6a7zaiavg3</id>
+        <description lang="en-US">STP></description>
+      </component>
+            <component>
+        <id>source_ckty20kqg003l3g6a5ms1o67m</id>
+        <description lang="en-US">SFu></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckty1z9c3003h3g6a8g2jovbv</id>
+            <description lang="en-US">Außenbeschichtung auf Porenbeton</description>
+          </component>
+                  <component>
+            <id>target_ckty1z9c3003i3g6ae7s6pmw4</id>
+            <description lang="en-US">Betonerhaltungsarbeiten</description>
+          </component>
+                  <component>
+            <id>target_ckty1z9c3003j3g6axhwj8av6</id>
+            <description lang="en-US">Wärmedämmverbundsysteme</description>
+          </component>
+                  <component>
+            <id>target_ckty20it4003k3g6a7zaiavg3</id>
+            <description lang="en-US">Trockenputzarbeiten</description>
+          </component>
+                  <component>
+            <id>target_ckty20kqg003l3g6a5ms1o67m</id>
+            <description lang="en-US">Fugenabdichtungen</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://ZRzESDRFGC2-3XeedE6FXaVRU62kb5Uq_rise/pKTwmKqkfHW_P69jxkFyrL4IrAM2-icO/ckty21xvd003m3g6a1e3bzc91" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Zeitaufwand, Arbeitszeit, Ger&amp;auml;tezeit wird in Leistungsgruppen eingeteilt.&amp;nbsp;&lt;br&gt;Wie viele Leistungsgruppen gibt es:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty21xvh003n3g6a31zgn70v</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty21xvh003n3g6a31zgn70v</id>
+        <description lang="en-US">I, II, III</description>
+      </component>
+            <component>
+        <id>choice_ckty21xvh003o3g6ag7f1ijli</id>
+        <description lang="en-US">I, II, III, IV</description>
+      </component>
+            <component>
+        <id>choice_ckty23l7d003p3g6aokl4nkln</id>
+        <description lang="en-US">I, II</description>
+      </component>
+            <component>
+        <id>choice_ckty23p7u003q3g6awkzqnvp5</id>
+        <description lang="en-US">I, II, III, IV, V</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ZRzESDRFGC2-3XeedE6FXaVRU62kb5Uq_rise/pKTwmKqkfHW_P69jxkFyrL4IrAM2-icO/ckty24ha2003r3g6aszihrrpj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Zeitaufwand, Arbeitszeit, Ger&amp;auml;tezeit wird in Leistungsgruppen eingeteilt.&amp;nbsp;&lt;br&gt;Was bedeutet die Leistungsgruppe I:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty24ha6003s3g6avvr40kla</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty24ha6003s3g6avvr40kla</id>
+        <description lang="en-US">Niedrigster von/bis Wert</description>
+      </component>
+            <component>
+        <id>choice_ckty24ha6003t3g6al2w3dx67</id>
+        <description lang="en-US">H&amp;ouml;chster von/bis Wert</description>
+      </component>
+            <component>
+        <id>choice_ckty25olz003u3g6awgluqih5</id>
+        <description lang="en-US">Mittlerer von/bis Wert</description>
+      </component>
+            <component>
+        <id>choice_ckty25t9r003v3g6algsf968p</id>
+        <description lang="en-US">Gesch&amp;auml;tzter von/bis Wert</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ZRzESDRFGC2-3XeedE6FXaVRU62kb5Uq_rise/pKTwmKqkfHW_P69jxkFyrL4IrAM2-icO/ckty274tv003w3g6aaqsxjbrl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Zeitaufwand f&amp;uuml;r eine Leistung wird von 2 Minuten bis 3 Minuten angegeben.&amp;nbsp;&lt;br&gt;Ermitteln Sie den Zeitaufwand f&amp;uuml;r Leistungsgruppe II:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty274tw003x3g6avgokq5oj</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty274tw003x3g6avgokq5oj</id>
+        <description lang="en-US">1,5 Minuten</description>
+      </component>
+            <component>
+        <id>choice_ckty274tw003y3g6a1mov2huc</id>
+        <description lang="en-US">2 Minuten&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckty286ak003z3g6aymjrt60t</id>
+        <description lang="en-US">3 Minuten</description>
+      </component>
+            <component>
+        <id>choice_ckty28b0800403g6ag7tds977</id>
+        <description lang="en-US">5 Minuten</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ZRzESDRFGC2-3XeedE6FXaVRU62kb5Uq_rise/pKTwmKqkfHW_P69jxkFyrL4IrAM2-icO/ckty28hp000413g6aughpjhvd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Stoffverbrauch je m&amp;sup2;/m wird in Gramm/g oder cm&amp;sup3; angegeben.&amp;nbsp;&lt;br&gt;Wie &amp;nbsp;hei&amp;szlig;t der Faktor zur Umrechnung von Milliliter /ml zu Kubikzentimeter/m&amp;sup3;:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty28hp000423g6azmn0pxcf</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty28hp000423g6azmn0pxcf</id>
+        <description lang="en-US">1.1</description>
+      </component>
+            <component>
+        <id>choice_ckty28hp000433g6a3cjyqo3v</id>
+        <description lang="en-US">1.2</description>
+      </component>
+            <component>
+        <id>choice_ckty293os00443g6ax71sw1xq</id>
+        <description lang="en-US">1.3</description>
+      </component>
+            <component>
+        <id>choice_ckty298bq00453g6a89v3p9vo</id>
+        <description lang="en-US">1.4</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ZRzESDRFGC2-3XeedE6FXaVRU62kb5Uq_rise/pKTwmKqkfHW_P69jxkFyrL4IrAM2-icO/ckty29zlg004h3g6aubbpj43f" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Verbrauch von Makulaturpapier pro m&amp;sup2; wird mit 1,10 m&amp;sup2; angegeben.&lt;br&gt;Welcher der folgenden Ursachen ist richtig:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty29zlg004i3g6az18hyozw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty29zlg004i3g6az18hyozw</id>
+        <description lang="en-US">Der 10% ige Verschnitt wird eingerechnet.</description>
+      </component>
+            <component>
+        <id>choice_ckty29zlg004j3g6ab0r6wm1v</id>
+        <description lang="en-US">Da Makulatur &amp;uuml;berlappend verklebt wird.</description>
+      </component>
+            <component>
+        <id>choice_ckty2az87004k3g6a5ua0lghx</id>
+        <description lang="en-US">Damit immer etwas f&amp;uuml;r den Kunden &amp;uuml;brig bleibt.</description>
+      </component>
+            <component>
+        <id>choice_ckty2b3df004l3g6ayuo376qd</id>
+        <description lang="en-US">Damit auch Lehrlinge &amp;uuml;ben k&amp;ouml;nnen und damit mit Verschnitt gerechnet wird.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ZRzESDRFGC2-3XeedE6FXaVRU62kb5Uq_rise/pKTwmKqkfHW_P69jxkFyrL4IrAM2-icO/ckty2brcp004m3g6ax1ie7040" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Erschwerniszuschl&amp;auml;ge mit dem Kennbuchstaben Z werden berechnet</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty2brct004o3g6a0e202p0y</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty2brct004n3g6axf77tp2k</id>
+        <description lang="en-US">witterungsbedingt&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckty2brct004o3g6a0e202p0y</id>
+        <description lang="en-US">durch besondere Bauformen</description>
+      </component>
+            <component>
+        <id>choice_ckty2cdf6004p3g6a3orn0m9i</id>
+        <description lang="en-US">Lohnerh&amp;ouml;hungen im Auftragszeitraum</description>
+      </component>
+            <component>
+        <id>choice_ckty2chz8004q3g6ashjjlzyl</id>
+        <description lang="en-US">erh&amp;ouml;htem Ger&amp;auml;teeinsatz</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ZRzESDRFGC2-3XeedE6FXaVRU62kb5Uq_rise/pKTwmKqkfHW_P69jxkFyrL4IrAM2-icO/ckty2dus8004r3g6a840c4548" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wo finde ich Tabellen zum Berechnen von Fensterl&amp;auml;den, Jalousien, Heizk&amp;ouml;rper und andere Bauteile im Preisberechnungsbuch?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckty2eurd004u3g6a9o5kexye</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckty2dus9004s3g6aki8xqr7x</id>
+        <description lang="en-US">Am Anfang des Buches&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckty2dus9004t3g6aq32oeobd</id>
+        <description lang="en-US">In der Mitte des Buches</description>
+      </component>
+            <component>
+        <id>choice_ckty2eurd004u3g6a9o5kexye</id>
+        <description lang="en-US">Am Ende des Buches im Anhang</description>
+      </component>
+            <component>
+        <id>choice_ckty2f22f004v3g6ajshpcpbz</id>
+        <description lang="en-US">In der ersten H&amp;auml;lfte des Buches</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
