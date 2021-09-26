@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://oEmta3U1tWa2fKkfJ_Lj8cZnJtBXJzDs_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">VOB A &amp; B - Teil 9</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://oEmta3U1tWa2fKkfJ_Lj8cZnJtBXJzDs_rise/E8ufhtynUWoVLMno31L9gUxLEmLUNKNh" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://oEmta3U1tWa2fKkfJ_Lj8cZnJtBXJzDs_rise/E8ufhtynUWoVLMno31L9gUxLEmLUNKNh/cku19y0sj002w266fw5xdc4rq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Im Bauvertrag f&amp;uuml;r die Malerarbeiten am Objekt &amp;bdquo;Bahnhofsgeb&amp;auml;ude&amp;ldquo; wurde eine ausdr&amp;uuml;ckliche Abnahme nach &amp;sect; 640 Abs. 1 BGB vereinbart.&lt;br&gt;Welche Rechtsfolge tritt ein, wenn der Auftraggeber den vereinbarten Termin nicht wahrnimmt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku19y0sj002x266fxs64105g</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku19y0sj002x266fxs64105g</id>
+        <description lang="en-US">Das Werk gilt zu diesem Zeitpunkt als abgenommen.</description>
+      </component>
+            <component>
+        <id>choice_cku19y0sj002y266fchp43e2k</id>
+        <description lang="en-US">Es muss eine angemessene Frist gesetzt werden, wenn diese nicht eingehalten wird, gilt das Werk zu diesem Zeitpunkt als abgenommen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oEmta3U1tWa2fKkfJ_Lj8cZnJtBXJzDs_rise/E8ufhtynUWoVLMno31L9gUxLEmLUNKNh/cku19z5o2002z266fiyn78dxs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Vertragsparteien legen einen gemeinsamen Termin f&amp;uuml;r die Abnahme fest. Beide Parteien erscheinen zum vereinbarten Termin. Im Abnahmeprotokoll werden f&amp;uuml;nf unwesentliche M&amp;auml;ngel festgehalten, die Sie am folgenden Tag beseitigen wollen.&lt;br&gt;Kann der Auftraggeber die Abnahme verweigern?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku19z5o20030266fvn1ijmbr</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku19z5o20030266fvn1ijmbr</id>
+        <description lang="en-US">Nein, wegen unwesentlicher M&amp;auml;ngel kann die Abnahme nicht verweigert werden.</description>
+      </component>
+            <component>
+        <id>choice_cku19z5o30031266fimoqor9w</id>
+        <description lang="en-US">Ja, die Abnahme kann aufgrund des geringsten Mangel verweigert werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oEmta3U1tWa2fKkfJ_Lj8cZnJtBXJzDs_rise/E8ufhtynUWoVLMno31L9gUxLEmLUNKNh/cku1a26fp0032266f3cixp3l5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Kann ein Auftraggeber auch noch nach der Abnahme gem&amp;auml;&amp;szlig; VOB eine Vertragsstrafe wegen Frist&amp;uuml;berschreitung fordern?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku1a26fp0033266faee35gfa</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku1a26fp0033266faee35gfa</id>
+        <description lang="en-US">Nein. Nach &amp;sect; 11 Abs. 4 VOB/B muss eine Vertragsstrafe sp&amp;auml;testen bei der Abnahme geltend gemacht werden.</description>
+      </component>
+            <component>
+        <id>choice_cku1a26fp0034266fv4oqjk7y</id>
+        <description lang="en-US">Ja. Nach &amp;sect; 11 Abs. 4 VOB/B kann eine Vertragsstrafe bei einer Abnahme nicht geltend gemacht werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oEmta3U1tWa2fKkfJ_Lj8cZnJtBXJzDs_rise/E8ufhtynUWoVLMno31L9gUxLEmLUNKNh/cku1a2tk60035266f3e3xsj2e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wann liegen gem&amp;auml;&amp;szlig; VOB DIN 18363 ungeeignete Umgebungs- und Objektbedingungen f&amp;uuml;r Beschichtungen mit Dispersionslackfarben vor?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku1a2tk60036266ffeu58ez4</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku1a2tk60036266ffeu58ez4</id>
+        <description lang="en-US">Laut VOB DIN 18363 liegen ungeeignete Bedingungen vor, wenn die relative Luftfeuchte w&amp;auml;hrend der Beschichtung &amp;uuml;ber 80 % oder die Objekttemperatur unter 8&amp;deg; C liegen.</description>
+      </component>
+            <component>
+        <id>choice_cku1a2tk60037266fe8u5vjkp</id>
+        <description lang="en-US">Laut VOB DIN 18363 liegen ungeeignete Bedingungen vor, wenn die relative Luftfeuchte w&amp;auml;hrend der Beschichtung &amp;uuml;ber 60 % oder die Objekttemperatur unter 6&amp;deg; C liegen.</description>
+      </component>
+            <component>
+        <id>choice_cku1a3pij0038266fykbf0ny7</id>
+        <description lang="en-US">Laut VOB DIN 18363 liegen ungeeignete Bedingungen vor, wenn die relative Luftfeuchte w&amp;auml;hrend der Beschichtung &amp;uuml;ber 85 % oder die Objekttemperatur unter 10&amp;deg; C liegen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oEmta3U1tWa2fKkfJ_Lj8cZnJtBXJzDs_rise/E8ufhtynUWoVLMno31L9gUxLEmLUNKNh/cku1a404z0039266fpat1hbrd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie vergeben einen Auftrag (Rechtsgrundlage BGB) an einen Nachunternehmer.&lt;br&gt;Welche 2 Aussagen hinsichtlich der Risiken der Vergabe eines Auftrages an einen Nachunternehmer hinsichtlich M&amp;auml;ngel und Nichteinhaltung von Terminen treffen zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku1a404z003a266fn6wg0ny7</correctResponsePattern>
+            <correctResponsePattern>choice_cku1a404z003b266fvvppr7lt</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku1a404z003a266fn6wg0ny7</id>
+        <description lang="en-US">Sie als Auftragnehmer haften grunds&amp;auml;tzlich gegen&amp;uuml;ber Ihrem Auftraggeber f&amp;uuml;r M&amp;auml;ngel des von Ihnen beauftragten Nachunternehmers.</description>
+      </component>
+            <component>
+        <id>choice_cku1a404z003b266fvvppr7lt</id>
+        <description lang="en-US">Sie haften auch f&amp;uuml;r die Einhaltung von Fertigstellungsterminen. Die Nichteinhaltung von Terminen durch den Nachunternehmer haben Sie zu vertreten.</description>
+      </component>
+            <component>
+        <id>choice_cku1a61ur006q266fz0bkup8x</id>
+        <description lang="en-US">Sie als Auftragnehmer haften in keinster Weise gegen&amp;uuml;ber Ihrem Auftraggeber f&amp;uuml;r M&amp;auml;ngel des von Ihnen beauftragten Nachunternehmers.</description>
+      </component>
+            <component>
+        <id>choice_cku1a68ve0073266f4787hchk</id>
+        <description lang="en-US">Sie haften auch nicht f&amp;uuml;r die Einhaltung von Fertigstellungsterminen. Die Nichteinhaltung von Terminen durch den Nachunternehmer haben Sie nicht zu vertreten.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oEmta3U1tWa2fKkfJ_Lj8cZnJtBXJzDs_rise/E8ufhtynUWoVLMno31L9gUxLEmLUNKNh/cku1a70ho007k266ffrg796r5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In den Besonderen Vertragsbedingungen eines Bauvertrages wurde eine Sicherheitsleistung durch Einbehalt von Zahlungen gem&amp;auml;&amp;szlig; &amp;sect; 17 VOB/B vereinbart.&lt;br&gt;Die gesamte H&amp;ouml;he der Sicherheitsleistung betr&amp;auml;gt 5 % von der Auftragssumme f&amp;uuml;r M&amp;auml;ngelanspr&amp;uuml;che.Sie stellen nach zwei Wochen eine Abschlagsrechnung von 10.000 &amp;euro; zuz&amp;uuml;glich der gesetzlichen Umsatzsteuer.Welchen Betrag darf der Auftraggeber maximal einbehalten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku1a70ho007l266fkfyj18nd</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku1a70ho007l266fkfyj18nd</id>
+        <description lang="en-US">10 % von 11.900,00 &amp;euro; = 1.190,00 &amp;euro;</description>
+      </component>
+            <component>
+        <id>choice_cku1a70hp007m266f8rskmgkq</id>
+        <description lang="en-US">20 % von 11.900,00 &amp;euro; = 2.380,00 &amp;euro;</description>
+      </component>
+            <component>
+        <id>choice_cku1a7s0r007n266fgqsvjynk</id>
+        <description lang="en-US">15 % von 11.900,00 &amp;euro; = 1.785,00 &amp;euro;</description>
+      </component>
+            <component>
+        <id>choice_cku1a7ugx007o266fgx1rgoq9</id>
+        <description lang="en-US">25 % von 11.900,00 &amp;euro; = 2.975,00 &amp;euro;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oEmta3U1tWa2fKkfJ_Lj8cZnJtBXJzDs_rise/E8ufhtynUWoVLMno31L9gUxLEmLUNKNh/cku1a89e0007p266fxrb6mckg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In den Besonderen Vertragsbedingungen eines Bauvertrages wurde eine Sicherheitsleistung durch Einbehalt von Zahlungen gem&amp;auml;&amp;szlig; &amp;sect; 17 VOB/B vereinbart.&lt;br&gt;Die gesamte H&amp;ouml;he der Sicherheitsleistung betr&amp;auml;gt 5 % von der Auftragssumme f&amp;uuml;r M&amp;auml;ngelanspr&amp;uuml;che. Sie stellen nach zwei Wochen eine Abschlagsrechnung von 10.000 &amp;euro; zuz&amp;uuml;glich der gesetzlichen Umsatzsteuer.&lt;br&gt;Bis wann muss der Auftraggeber den einbehaltenen Betrag auf ein Sperrkonto einzahlen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku1a89e1007q266f3zp6t5sg</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku1a89e1007q266f3zp6t5sg</id>
+        <description lang="en-US">Er muss den einbehaltenen Betrag innerhalb von 18 Werktagen auf ein Sperrkonto einzahlen.</description>
+      </component>
+            <component>
+        <id>choice_cku1a89e1007r266frvbmwjqf</id>
+        <description lang="en-US">Er muss den einbehaltenen Betrag innerhalb von 21 Werktagen auf ein Sperrkonto einzahlen.</description>
+      </component>
+            <component>
+        <id>choice_cku1a8z9e007s266f5p7wdi65</id>
+        <description lang="en-US">Er muss den einbehaltenen Betrag innerhalb von 14 Werktagen auf ein Sperrkonto einzahlen.</description>
+      </component>
+            <component>
+        <id>choice_cku1a92j2007t266f4rl8j8va</id>
+        <description lang="en-US">Er muss den einbehaltenen Betrag innerhalb von 10 Werktagen auf ein Sperrkonto einzahlen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oEmta3U1tWa2fKkfJ_Lj8cZnJtBXJzDs_rise/E8ufhtynUWoVLMno31L9gUxLEmLUNKNh/cku1a9f2a007u266f2ohkbozi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In den Besonderen Vertragsbedingungen eines Bauvertrages wurde eine Sicherheitsleistung durch Einbehalt von Zahlungen gem&amp;auml;&amp;szlig; &amp;sect; 17 VOB/B vereinbart.&lt;br&gt;Die gesamte H&amp;ouml;he der Sicherheitsleistung betr&amp;auml;gt 5 % von der Auftragssumme f&amp;uuml;r M&amp;auml;ngelanspr&amp;uuml;che.&lt;br&gt;Sie stellen nach zwei Wochen eine Abschlagsrechnung von 10.000 &amp;euro; zuz&amp;uuml;glich der gesetzlichen Umsatzsteuer. Nach Abschluss der Arbeiten l&amp;ouml;sen Sie den einbehaltenen Betrag durch eine Bankb&amp;uuml;rgschaft ab.&lt;br&gt;Wer tr&amp;auml;gt die Kosten f&amp;uuml;r die B&amp;uuml;rgschaft?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku1a9f2b007v266fi6jx76ev</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku1a9f2b007v266fi6jx76ev</id>
+        <description lang="en-US">Die Kosten f&amp;uuml;r die B&amp;uuml;rgschaft tr&amp;auml;gt der Auftragnehmer.</description>
+      </component>
+            <component>
+        <id>choice_cku1a9f2b007w266fvf20xy37</id>
+        <description lang="en-US">Die Kosten f&amp;uuml;r die B&amp;uuml;rgschaft tr&amp;auml;gt der Auftragnehmer und der Auftraggeber zu gleichen Teilen.</description>
+      </component>
+            <component>
+        <id>choice_cku1aa6hw007x266fh02l8v2i</id>
+        <description lang="en-US">Die Kosten f&amp;uuml;r die B&amp;uuml;rgschaft tr&amp;auml;gt der Auftraggeber.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oEmta3U1tWa2fKkfJ_Lj8cZnJtBXJzDs_rise/E8ufhtynUWoVLMno31L9gUxLEmLUNKNh/cku1ah90t002w266fe7vbtir7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Hat der Maler bei der Erstellung von Leistungsbeschreibung bei den Angaben zur Baustelle die Hydrologischen Werte von Grundwasser und Gew&amp;auml;ssern zu beachten.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku1ah90t002y266fkasd0up8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku1ah90t002x266fje4rgysq</id>
+        <description lang="en-US">Ja, um sie nach Ablauf des Auftrages mit den vorher ermittelten Werten zu vergleichen</description>
+      </component>
+            <component>
+        <id>choice_cku1ah90t002y266fkasd0up8</id>
+        <description lang="en-US">Nein sie sind f&amp;uuml;r Malerbeschichtungsarbeiten nicht notwendig&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cku1airzk002w266fpzidr1ux</id>
+        <description lang="en-US">Ja, um eine sichere Umweltbelastung zu gew&amp;auml;hrleisten</description>
+      </component>
+            <component>
+        <id>choice_cku1aiwn0002x266fmmroo184</id>
+        <description lang="en-US">Ja, entsprechend der Vorgaben des Wasserwirtschaftsamt</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oEmta3U1tWa2fKkfJ_Lj8cZnJtBXJzDs_rise/E8ufhtynUWoVLMno31L9gUxLEmLUNKNh/cku1alzr50033266fjchwsxb7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei der Abnahme sagt Ihnen der Architekt, dass er wegen der vorhandenen M&amp;auml;ngel einen Einbehalt mit entsprechendem &amp;bdquo;Druckzuschlag&amp;ldquo; bei der Schlusszahlung veranlassen wird.&lt;br&gt;Erkl&amp;auml;ren Sie, was nach BGB unter dem in der Praxis sogenannten &amp;bdquo;Druckzuschlag&amp;ldquo; zu verstehen ist.&lt;br&gt;Wie hoch darf dieser maximal sein?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku1alzr60034266fe2cw2irt</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku1alzr60034266fe2cw2irt</id>
+        <description lang="en-US">Zur&amp;uuml;ckbehaltungsrecht des Auftraggebers wegen M&amp;auml;ngeln bis zum Doppelten der voraussichtlichen Mangelbeseitigungskosten.</description>
+      </component>
+            <component>
+        <id>choice_cku1alzr60035266fxq7y57oc</id>
+        <description lang="en-US">Zur&amp;uuml;ckbehaltungsrecht des Auftraggebers wegen M&amp;auml;ngeln bis zu 50% der voraussichtlichen Mangelbeseitigungskosten.</description>
+      </component>
+            <component>
+        <id>choice_cku1amqwh0036266fscv289b5</id>
+        <description lang="en-US">Zur&amp;uuml;ckbehaltungsrecht des Auftraggebers wegen M&amp;auml;ngeln bis zu 75% der voraussichtlichen Mangelbeseitigungskosten.</description>
+      </component>
+            <component>
+        <id>choice_cku1amx5i0037266fvhb5h8to</id>
+        <description lang="en-US">Zur&amp;uuml;ckbehaltungsrecht des Auftraggebers wegen M&amp;auml;ngeln bis zu einem Viertel der voraussichtlichen Mangelbeseitigungskosten.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
