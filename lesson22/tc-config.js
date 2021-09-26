@@ -3,13 +3,13 @@
 //
 // ActivityID that is sent for the statement's object
 //
-TC_COURSE_ID = "http://P1fxMWO4UZMs0niLfYkJRoJ-qUVJxCCT_rise"
+TC_COURSE_ID = "http://oEmta3U1tWa2fKkfJ_Lj8cZnJtBXJzDs_rise"
 
 //
 // CourseName for the activity
 //
 TC_COURSE_NAME = {
-  "en-US": "VOB A &amp; B - Teil 10"
+  "en-US": "VOB A &amp; B - Teil 9"
 };
 
 //
