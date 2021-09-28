@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://8U7r5qDY_syRKIQ4Lk1WVBPjV-jimdrI_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">BGB - Teil 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://8U7r5qDY_syRKIQ4Lk1WVBPjV-jimdrI_rise/fJ9m2yzA5JZ1zP5uD3bhzqapJwWgEgm1" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://8U7r5qDY_syRKIQ4Lk1WVBPjV-jimdrI_rise/fJ9m2yzA5JZ1zP5uD3bhzqapJwWgEgm1/cku2hxfjd002w266fq5njne8e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie f&amp;uuml;hren einen Auftrag &amp;uuml;ber die Beschichtung der Fassade eines Einfamilienhauses aus. Vertragsgrundlage ist das BGB. Nach Fertigstellung der Arbeiten besichtigen Sie gemeinsam mit dem Kunden die Fassade. Der Kunde signalisiert Ihnen, dass alles in Ordnung sei.&lt;br&gt;Welche M&amp;ouml;glichkeit haben Sie nach &amp;sect; 640 Abs. 1 Satz 3 BGB, wenn der Kunde nach Fertigstellung nicht anwesend ist und die Leistung vertragsgerecht ausgef&amp;uuml;hrt wurde?Um welche Art der Abnahme handelt es sich dabei?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku2hxfje002x266fxhcpz1by</correctResponsePattern>
+            <correctResponsePattern>choice_cku2hxfje002y266fkxw3djh3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku2hxfje002x266fxhcpz1by</id>
+        <description lang="en-US">Sie k&amp;ouml;nnen eine angemessene Frist f&amp;uuml;r die Abnahme setzen. Nach Fristablauf gilt das Werk als abgenommen.</description>
+      </component>
+            <component>
+        <id>choice_cku2hxfje002y266fkxw3djh3</id>
+        <description lang="en-US">Es liegt eine fiktive Abnahme vor.</description>
+      </component>
+            <component>
+        <id>choice_cku2hyqhb002z266fvxwztbm8</id>
+        <description lang="en-US">Sie k&amp;ouml;nnen keine angemessene Frist f&amp;uuml;r die Abnahme setzen. Es liegt keine Abnahme vor.</description>
+      </component>
+            <component>
+        <id>choice_cku2hyzsi0030266fhz2cjxxm</id>
+        <description lang="en-US">Es liegt eien ordentliche Abnahme vor</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://8U7r5qDY_syRKIQ4Lk1WVBPjV-jimdrI_rise/fJ9m2yzA5JZ1zP5uD3bhzqapJwWgEgm1/cku45rjre0031266fdthetoep" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie f&amp;uuml;hren einen Auftrag &amp;uuml;ber die Beschichtung der Fassade eines Einfamilienhauses aus. Vertragsgrundlage ist das BGB. Nach Fertigstellung der Arbeiten besichtigen Sie gemeinsam mit dem Kunden die Fassade. Der Kunde signalisiert Ihnen, dass alles in Ordnung sei.&lt;br&gt;Eine Woche nach der Abnahme der Leistungen erstellen Sie die Schlussrechnung mit folgender Formulierung des Zahlungszieles: &amp;bdquo;Wir bitten um unverz&amp;uuml;gliche Bezahlung der Rechnung&amp;ldquo;&lt;br&gt;Wann wird diese Rechnung sp&amp;auml;testens f&amp;auml;llig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku45rjrg0032266f48dmsh36</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku45rjrg0032266f48dmsh36</id>
+        <description lang="en-US">Sofort nach Zugang der Schlussrechnung</description>
+      </component>
+            <component>
+        <id>choice_cku45rjrg0034266fwkwyy5lo</id>
+        <description lang="en-US">10 Tage nach Zugang der Schlussrechnung</description>
+      </component>
+            <component>
+        <id>choice_cku45rjrg0035266f1sraex7k</id>
+        <description lang="en-US">30 Tage nach Zugang der Schlussrechnung</description>
+      </component>
+            <component>
+        <id>choice_cku45rjrg0033266f0xnylfq8</id>
+        <description lang="en-US">14 Tage nach Zugang der Schlussrechnung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://8U7r5qDY_syRKIQ4Lk1WVBPjV-jimdrI_rise/fJ9m2yzA5JZ1zP5uD3bhzqapJwWgEgm1/cku45sv5u004u266fv30kvm3o" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie f&amp;uuml;hren einen Auftrag &amp;uuml;ber die Beschichtung der Fassade eines Einfamilienhauses aus. Vertragsgrundlage ist das BGB. Nach Fertigstellung der Arbeiten besichtigen Sie gemeinsam mit dem Kunden die Fassade. Der Kunde signalisiert Ihnen, dass alles in Ordnung sei.Wann verj&amp;auml;hrt die Schlusszahlung?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku45sv5u004v266fb5yr0u2b</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku45sv5u004v266fb5yr0u2b</id>
+        <description lang="en-US">3 Jahre nach Abnahme und Zugang der Schlussrechnung, gerechnet ab dem&lt;br&gt;Jahresende der F&amp;auml;lligkeit.</description>
+      </component>
+            <component>
+        <id>choice_cku45sv5u004w266fu425gzor</id>
+        <description lang="en-US">4 Jahre nach Abnahme und Zugang der Schlussrechnung, gerechnet ab dem&lt;br&gt;Jahresende der F&amp;auml;lligkeit.</description>
+      </component>
+            <component>
+        <id>choice_cku45tsas005d266fwskib4kv</id>
+        <description lang="en-US">2 Jahre nach Abnahme und Zugang der Schlussrechnung, gerechnet ab dem&lt;br&gt;Jahresende der F&amp;auml;lligkeit.</description>
+      </component>
+            <component>
+        <id>choice_cku45twnh005e266f3qdqepvp</id>
+        <description lang="en-US">1 Jahr nach Abnahme und Zugang der Schlussrechnung, gerechnet ab dem&lt;br&gt;Jahresende der F&amp;auml;lligkeit.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://8U7r5qDY_syRKIQ4Lk1WVBPjV-jimdrI_rise/fJ9m2yzA5JZ1zP5uD3bhzqapJwWgEgm1/cku45ulj7005f266ftihqc02o" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zwei Wochen nach Beginn der Arbeiten erstellen Sie die erste Abschlagsrechnung.&lt;br&gt;Wann wird diese nach BGB f&amp;auml;llig, wenn keine Vereinbarung getroffen wurde?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku45ulj7005g266fk4lgo8hj</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku45ulj7005g266fk4lgo8hj</id>
+        <description lang="en-US">Abschlagsrechnung sind nach dem BGB sofort f&amp;auml;llig, wenn nichts anderes vereinbart wurde.</description>
+      </component>
+            <component>
+        <id>choice_cku45ulj7005h266ftkc5u8jp</id>
+        <description lang="en-US">Abschlagsrechnung sind nach dem BGB innerhalb 14 Tagen f&amp;auml;llig, wenn nichts anderes vereinbart wurde.</description>
+      </component>
+            <component>
+        <id>choice_cku45v8rr005i266fl3hec69l</id>
+        <description lang="en-US">Abschlagsrechnung sind nach dem BGB innerhalb 31 Tagen f&amp;auml;llig, wenn nichts anderes vereinbart wurde.</description>
+      </component>
+            <component>
+        <id>choice_cku45vjmk005j266frkb9ao9c</id>
+        <description lang="en-US">Abschlagsrechnung sind nach dem BGB innerhalb 10 Tagen f&amp;auml;llig, wenn nichts anderes vereinbart wurde.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://8U7r5qDY_syRKIQ4Lk1WVBPjV-jimdrI_rise/fJ9m2yzA5JZ1zP5uD3bhzqapJwWgEgm1/cku45w3in005k266fzo9qyisc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zwei Wochen nach Beginn der Arbeiten erstellen Sie die erste Abschlagsrechnung.&lt;br&gt;Wann wird diese nach BGB f&amp;auml;llig, wenn keine Vereinbarung getroffen wurde?&lt;br&gt;K&amp;ouml;nnen Sie mit Mahnung und durch Angabe eines konkretem Datum der F&amp;auml;lligkeit den Kunden Verzug setzen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku45w3in005l266f0ta4cd50</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku45w3in005l266f0ta4cd50</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            <component>
+        <id>choice_cku45w3in005m266fv1kszx51</id>
+        <description lang="en-US">Nein</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://8U7r5qDY_syRKIQ4Lk1WVBPjV-jimdrI_rise/fJ9m2yzA5JZ1zP5uD3bhzqapJwWgEgm1/cku45x5o2005n266fxx46hdnz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei der Abnahme sagt Ihnen der Architekt, dass er wegen der vorhandenen M&amp;auml;ngel einen Einbehalt mit entsprechendem &amp;bdquo;Druckzuschlag&amp;ldquo; bei der Schlusszahlung veranlassen wird. Erkl&amp;auml;ren Sie, was nach BGB unter dem in der Praxis sogenannten &amp;bdquo;Druckzuschlag&amp;ldquo; zu verstehen ist.&lt;br&gt;Wie hoch darf dieser maximal sein?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku45x5o2005o266fpkrj5166</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku45x5o2005o266fpkrj5166</id>
+        <description lang="en-US">Zur&amp;uuml;ckbehaltungsrecht des Auftraggebers wegen M&amp;auml;ngeln bis zum Doppelten der voraussichtlichen Mangelbeseitigungskosten.</description>
+      </component>
+            <component>
+        <id>choice_cku45x5o2005p266fog95yikz</id>
+        <description lang="en-US">Zur&amp;uuml;ckbehaltungsrecht des Auftraggebers wegen M&amp;auml;ngeln bis zu 50% der voraussichtlichen Mangelbeseitigungskosten.</description>
+      </component>
+            <component>
+        <id>choice_cku45xuz5005q266f7fjt7gfd</id>
+        <description lang="en-US">Zur&amp;uuml;ckbehaltungsrecht des Auftraggebers wegen M&amp;auml;ngeln bis zu 75% der voraussichtlichen Mangelbeseitigungskosten.</description>
+      </component>
+            <component>
+        <id>choice_cku45y01g005r266fm7drds0v</id>
+        <description lang="en-US">Zur&amp;uuml;ckbehaltungsrecht des Auftraggebers wegen M&amp;auml;ngeln bis zu einem Viertel der voraussichtlichen Mangelbeseitigungskosten.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://8U7r5qDY_syRKIQ4Lk1WVBPjV-jimdrI_rise/fJ9m2yzA5JZ1zP5uD3bhzqapJwWgEgm1/cku45ym96005s266fgfd5tx28" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie f&amp;uuml;hren einen Auftrag &amp;uuml;ber die Beschichtung an einer Fassade eines Mehrfamilien&amp;not;hauses aus. Vertragsgrundlage ist das BGB. Zwei Wochen nach Arbeitsbeginn stellen Sie eine pr&amp;uuml;fbare Abschlagsrechnung.&lt;br&gt;Wird die Bezahlung der Gesamtleistung mit der Abnahme f&amp;auml;llig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku45ym96005t266fqk820k5x</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku45ym96005t266fqk820k5x</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            <component>
+        <id>choice_cku45ym96005u266fl53mu7qs</id>
+        <description lang="en-US">Nein</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://8U7r5qDY_syRKIQ4Lk1WVBPjV-jimdrI_rise/fJ9m2yzA5JZ1zP5uD3bhzqapJwWgEgm1/cku45zb5c005v266fg183ejim" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Abnahme der Gesamtleistung der Arbeiten an der Fassade eines Mehrfamilien&amp;shy;hauses erfolgte am 20.09.2011, eine Woche sp&amp;auml;ter wurde die Schlussrechnung gestellt. Vertragsgrundlage ist das BGB.&lt;br&gt;Welche Angaben der Verj&amp;auml;hrungsfrist f&amp;uuml;r diese Forderung ist richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku45zb5c005w266f9ys8ppc8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku45zb5c005w266f9ys8ppc8</id>
+        <description lang="en-US">Verj&amp;auml;hrungsbeginn: 01.01.2012&lt;br&gt;Verj&amp;auml;hrungsende: 31.12.2014</description>
+      </component>
+            <component>
+        <id>choice_cku45zb5c005x266f37rkk2ug</id>
+        <description lang="en-US">Verj&amp;auml;hrungsbeginn: 20.09.2011&lt;br&gt;Verj&amp;auml;hrungsende: 20.09.2013</description>
+      </component>
+            <component>
+        <id>choice_cku45zzdv006d266f5p0wsma4</id>
+        <description lang="en-US">Verj&amp;auml;hrungsbeginn: 01.10.2011&lt;br&gt;Verj&amp;auml;hrungsende: 01.10.2013</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://8U7r5qDY_syRKIQ4Lk1WVBPjV-jimdrI_rise/fJ9m2yzA5JZ1zP5uD3bhzqapJwWgEgm1/cku4611as006u266fh4yvjmzm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie f&amp;uuml;hren einen Auftrag &amp;uuml;ber die Beschichtung der Fassade eines Einfamilienhauses aus. Vertragsgrundlage ist das BGB. Nach Fertigstellung der Arbeiten besichtigen Sie gemeinsam mit dem Kunden die Fassade. Der Kunde signalisiert Ihnen, dass alles in Ordnung sei.&lt;br&gt;Ist das Werk auch ohne ein schriftliches Abnahmeprotokoll abgenommen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku4611au006v266fn6t0pbbo</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku4611au006v266fn6t0pbbo</id>
+        <description lang="en-US">Es handelt sich um eine rechtswirksame Abnahme. Ein Abnahmeprotokoll ist nicht erforderlich.</description>
+      </component>
+            <component>
+        <id>choice_cku4611au006w266f5u77ufpq</id>
+        <description lang="en-US">Es handelt sich nicht um eine rechtswirksame Abnahme. Ein Abnahmeprotokoll ist erforderlich.</description>
+      </component>
+            <component>
+        <id>choice_cku461lul006x266fox4puiaz</id>
+        <description lang="en-US">Es handelt sich um eine rechtswirksame Abnahme. Ein Abnahmeprotokoll ist jedoch erforderlich.</description>
+      </component>
+            <component>
+        <id>choice_cku461s2o006y266fgfjl1l89</id>
+        <description lang="en-US">Es handelt sich um keine rechtswirksame Abnahme. Ein Abnahmeprotokoll ist nicht erforderlich.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://00GfSS3A9nU31Z_UwDBbq40R8MZfM0Le_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">BGB - Teil 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://00GfSS3A9nU31Z_UwDBbq40R8MZfM0Le_rise/CEii44f76_fx-FVIyybp5vlkQ_N4Rr8v" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://00GfSS3A9nU31Z_UwDBbq40R8MZfM0Le_rise/CEii44f76_fx-FVIyybp5vlkQ_N4Rr8v/cku2ham17002w266fohuiaey7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie erhalten von einem Privatkunden einen Auftrag &amp;uuml;ber die Sanierung der Fassade seines Mehrfamilienhauses. Der Auftragswert betr&amp;auml;gt lt. Angebot 20.500,00 &amp;euro; zuz&amp;uuml;glich der gesetzlichen Umsatzsteuer. Die Dauer des Auftrages wird mit etwa 15 Werktagen veranschlagt. Als Vertragsgrundlage gilt das BGB.&lt;br&gt;Wie Sie die Rechtslage?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku2ham18002x266fi6ycdd2i</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku2ham18002x266fi6ycdd2i</id>
+        <description lang="en-US">Verbraucher (Privatkunden) k&amp;ouml;nnen von der 1. Abschlagszahlung bis zu 5 % von der voraussichtlichen Auftragssumme als Sicherheit einbehalten. Der Einbehalt von 1.000,00 &amp;euro; ist sogar geringer als gesetzlich erlaubt.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cku2ham18002y266fo5ya8wv7</id>
+        <description lang="en-US">Verbraucher (Privatkunden) k&amp;ouml;nnen von der 1. Abschlagszahlung bis zu 10 % von der voraussichtlichen Auftragssumme als Sicherheit einbehalten. Der Einbehalt von 1.000,00 &amp;euro; ist sogar geringer als gesetzlich erlaubt.</description>
+      </component>
+            <component>
+        <id>choice_cku2hdffs002z266fwisk6c1i</id>
+        <description lang="en-US">Verbraucher (Privatkunden) k&amp;ouml;nnen von der 1. Abschlagszahlung keine Summe von der voraussichtlichen Auftragssumme als Sicherheit einbehalten. Der Einbehalt von 1.000,00 &amp;euro; ist daher gesetzlich nicht erlaubt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://00GfSS3A9nU31Z_UwDBbq40R8MZfM0Le_rise/CEii44f76_fx-FVIyybp5vlkQ_N4Rr8v/cku2heize0033266fazpv8kz6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Das Werkvertragsrecht des BGB unterscheidet zwischen allgemeinen Werkvertr&amp;auml;gen und Bauvertr&amp;auml;gen. Entscheiden Sie, ob es sich bei den unten aufgef&amp;uuml;hrten Arbeiten um allgemeine Werkvertr&amp;auml;ge oder um Bauvertr&amp;auml;ge im Sinne des &amp;sect; 650a BGB handelt.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cku2heizg0034266fe65rnj33[.]target_cku2heizg0034266fe65rnj33</correctResponsePattern>
+            <correctResponsePattern>source_cku2heizg0035266f84iqtek8[.]target_cku2heizg0035266f84iqtek8</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cku2heizg0034266fe65rnj33</id>
+        <description lang="en-US">Renovierungsanstrich Treppenhaus></description>
+      </component>
+            <component>
+        <id>source_cku2heizg0035266f84iqtek8</id>
+        <description lang="en-US">Ausführung von WDVS></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cku2heizg0034266fe65rnj33</id>
+            <description lang="en-US">Allgemeiner Werkvertrag</description>
+          </component>
+                  <component>
+            <id>target_cku2heizg0035266f84iqtek8</id>
+            <description lang="en-US">Bauvertrag</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://00GfSS3A9nU31Z_UwDBbq40R8MZfM0Le_rise/CEii44f76_fx-FVIyybp5vlkQ_N4Rr8v/cku2hfpdc0037266fon0ufom6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Das Werkvertragsrecht des BGB unterscheidet zwischen allgemeinen Werkvertr&amp;auml;gen und Bauvertr&amp;auml;gen. Entscheiden Sie, ob es sich bei den unten aufgef&amp;uuml;hrten Arbeiten um allgemeine Werkvertr&amp;auml;ge oder um Bauvertr&amp;auml;ge im Sinne des &amp;sect; 650a BGB handelt.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cku2hfpdc0038266fpp3d60yy[.]target_cku2hfpdc0038266fpp3d60yy</correctResponsePattern>
+            <correctResponsePattern>source_cku2hfpdc0039266f30tra975[.]target_cku2hfpdc0039266f30tra975</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cku2hfpdc0038266fpp3d60yy</id>
+        <description lang="en-US">Tapezierarbeiten im Neubau/Einfamilienhaus></description>
+      </component>
+            <component>
+        <id>source_cku2hfpdc0039266f30tra975</id>
+        <description lang="en-US">Überholungsanstrich von lasierten Holzfenstern></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cku2hfpdc0038266fpp3d60yy</id>
+            <description lang="en-US">Bauvertrag</description>
+          </component>
+                  <component>
+            <id>target_cku2hfpdc0039266f30tra975</id>
+            <description lang="en-US">Allgemeiner Werkvertrag</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://00GfSS3A9nU31Z_UwDBbq40R8MZfM0Le_rise/CEii44f76_fx-FVIyybp5vlkQ_N4Rr8v/cku2hdnun0030266fb6c9she7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Das Werkvertragsrecht des BGB unterscheidet zwischen allgemeinen Werkvertr&amp;auml;gen und Bauvertr&amp;auml;gen. &lt;br&gt;Wie unterscheiden sich die beiden Vertragsformen hinsichtlich des Haftungszeitraumes bei M&amp;auml;ngeln, wenn ein BGB - Vertrag geschlossen wurde?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku2hdnun0031266f836mllav</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku2hdnun0031266f836mllav</id>
+        <description lang="en-US">Allgemeiner Werkvertrag: 4 Jahre&lt;br&gt;Bauvertrag: 2 Jahre</description>
+      </component>
+            <component>
+        <id>choice_cku2hdnuo0032266f43i9guif</id>
+        <description lang="en-US">Allgemeiner Werkvertrag: 2 Jahre&lt;br&gt;Bauvertrag: 1 Jahr</description>
+      </component>
+            <component>
+        <id>choice_cku2hijfb003b266fsstqzyf9</id>
+        <description lang="en-US">Allgemeiner Werkvertrag: 1 Jahr&lt;br&gt;Bauvertrag: 4 Jahre</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://00GfSS3A9nU31Z_UwDBbq40R8MZfM0Le_rise/CEii44f76_fx-FVIyybp5vlkQ_N4Rr8v/cku2hjbx7003c266fpi296zit" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nach Abschluss der Arbeiten wird die Leistung f&amp;ouml;rmlich abgenommen und die Schlussrechnung gestellt.&amp;nbsp;&lt;br&gt;Wann wird eine Schlusszahlung nach BGB f&amp;auml;llig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku2hjbx8003d266f991oxtzz</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku2hjbx8003d266f991oxtzz</id>
+        <description lang="en-US">Nach Abnahme der Leistung und Erhalt der Schlussrechnung.</description>
+      </component>
+            <component>
+        <id>choice_cku2hjbx8003e266fqk562ljq</id>
+        <description lang="en-US">10 Tage nach Abnahme der Leistung und Erhalt der Schlussrechnung.&lt;br&gt;&lt;br&gt;</description>
+      </component>
+            <component>
+        <id>choice_cku2hkghd003f266fh853tqox</id>
+        <description lang="en-US">30 Tage nach Abnahme der Leistung und Erhalt der Schlussrechnung.</description>
+      </component>
+            <component>
+        <id>choice_cku2hkkwz003g266fh51f6sa8</id>
+        <description lang="en-US">21 Tage nach Abnahme der Leistung und Erhalt der Schlussrechnung.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://00GfSS3A9nU31Z_UwDBbq40R8MZfM0Le_rise/CEii44f76_fx-FVIyybp5vlkQ_N4Rr8v/cku2hl4ai003h266fhvdli97q" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie erhalten von einem Privatkunden einen Auftrag &amp;uuml;ber die Sanierung der Fassade seines Mehrfamilienhauses. Der Auftragswert betr&amp;auml;gt lt. Angebot 20.500,00 &amp;euro; zuz&amp;uuml;glich der gesetzlichen Umsatzsteuer. Die Dauer des Auftrages wird mit etwa 15 Werktagen veranschlagt. Als Vertragsgrundlage gilt das BGB.&lt;br&gt;Nach Fertigstellung der Arbeiten fordern Sie den Auftraggeber auf, mit Ihnen einen Abnahmetermin zu vereinbaren. Sie geben Ihm zwei Termine zur Auswahl an. Der Auftraggeber reagiert nicht. Daraufhin schicken Sie ihm die Schlussrechnung. Die Arbeiten waren abnahmereif, also ohne wesentliche M&amp;auml;ngel und eine angemessene Frist zur Abnahme ist verstrichen ohne dass der Auftraggeber reagiert.&lt;br&gt;K&amp;ouml;nnen Sie nach BGB &amp;sect; 640 Abs. 1 Satz 3 von einer erfolgten Abnahme ausgehen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku2hl4aj003i266f7y9zn01p</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku2hl4aj003i266f7y9zn01p</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            <component>
+        <id>choice_cku2hl4aj003j266fywb4243b</id>
+        <description lang="en-US">Nein</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://00GfSS3A9nU31Z_UwDBbq40R8MZfM0Le_rise/CEii44f76_fx-FVIyybp5vlkQ_N4Rr8v/cku2hm49b003k266fips8vbxq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Vertragsparteien legen einen gemeinsamen Termin f&amp;uuml;r die Abnahme fest. Beide Parteien erscheinen zum vereinbarten Termin. Im Abnahmeprotokoll werden f&amp;uuml;nf unwesentliche M&amp;auml;ngel festgehalten, die Sie am folgenden Tag beseitigen wollen.Nennen Sie die Rechtsfolgen der Abnahme beim BGB-Vertrag.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku2hm49c003l266fndl7wcpz</correctResponsePattern>
+            <correctResponsePattern>choice_cku2hm49c003m266f8d6psqhd</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku2hm49c003l266fndl7wcpz</id>
+        <description lang="en-US">F&amp;auml;lligkeit der Schlusszahlung</description>
+      </component>
+            <component>
+        <id>choice_cku2hm49c003m266f8d6psqhd</id>
+        <description lang="en-US">Beginn der Verj&amp;auml;hrungsfrist f&amp;uuml;r M&amp;auml;ngelanspr&amp;uuml;che</description>
+      </component>
+            <component>
+        <id>choice_cku2hnu4r0050266f6zze1m8s</id>
+        <description lang="en-US">Alle M&amp;auml;ngelanspr&amp;uuml;che verfallen ab diesem Zeitpunkt</description>
+      </component>
+            <component>
+        <id>choice_cku2hoanp005v266fmpso2lw9</id>
+        <description lang="en-US">Verl&amp;auml;ngerung der Verj&amp;auml;hrungsfrist f&amp;uuml;r M&amp;auml;ngelanspr&amp;uuml;che</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://00GfSS3A9nU31Z_UwDBbq40R8MZfM0Le_rise/CEii44f76_fx-FVIyybp5vlkQ_N4Rr8v/cku2hox8v006b266fymmm7n6w" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Vertragsparteien legen einen gemeinsamen Termin f&amp;uuml;r die Abnahme fest. Beide Parteien erscheinen zum vereinbarten Termin. Im Abnahmeprotokoll werden f&amp;uuml;nf unwesentliche M&amp;auml;ngel festgehalten, die Sie am folgenden Tag beseitigen wollen.Nennen Sie die Rechtsfolgen der Abnahme beim BGB-Vertrag.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku2hox8w006c266f86hllwgd</correctResponsePattern>
+            <correctResponsePattern>choice_cku2hox8w006d266f5b0dutqp</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku2hox8w006c266f86hllwgd</id>
+        <description lang="en-US">Die Gefahr der Besch&amp;auml;digung oder Zerst&amp;ouml;rung geht endg&amp;uuml;ltig auf den Auftraggeber &amp;uuml;ber.</description>
+      </component>
+            <component>
+        <id>choice_cku2hox8w006d266f5b0dutqp</id>
+        <description lang="en-US">Umkehr der Beweislast: Der Auftraggeber ist jetzt f&amp;uuml;r das Vorhandensein von M&amp;auml;ngeln beweispflichtig.</description>
+      </component>
+            <component>
+        <id>choice_cku2hqkem007f266fmtt558on</id>
+        <description lang="en-US">Freigabe des R&amp;uuml;ckhaltekontos</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://00GfSS3A9nU31Z_UwDBbq40R8MZfM0Le_rise/CEii44f76_fx-FVIyybp5vlkQ_N4Rr8v/cku2hr7870080266fqouq3vgn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie vergeben einen Auftrag (Rechtsgrundlage BGB) an einen Nachunternehmer.&lt;br&gt;&amp;nbsp;Welche 2 Aussagen zu den Risiken der Vergabe eines Auftrages an einen Nachunternehmer hinsichtlich M&amp;auml;ngel und Nichteinhaltung von Terminen treffen zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku2hr7880081266fqas2dhbc</correctResponsePattern>
+            <correctResponsePattern>choice_cku2hr7880083266fobholpuf</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku2hr7880081266fqas2dhbc</id>
+        <description lang="en-US">Sie als Auftragnehmer haften grunds&amp;auml;tzlich gegen&amp;uuml;ber Ihrem Auftraggeber f&amp;uuml;r M&amp;auml;ngel des von Ihnen beauftragten Nachunternehmers.</description>
+      </component>
+            <component>
+        <id>choice_cku2hr7880083266fobholpuf</id>
+        <description lang="en-US">Sie haften auch f&amp;uuml;r die Einhaltung von Fertigstellungsterminen. Die Nichteinhaltung von Terminen durch den Nachunternehmer haben Sie zu vertreten.</description>
+      </component>
+            <component>
+        <id>choice_cku2hr7880084266fww0rmtku</id>
+        <description lang="en-US">Sie als Auftragnehmer haften in keinster Weise gegen&amp;uuml;ber Ihrem Auftraggeber f&amp;uuml;r M&amp;auml;ngel des von Ihnen beauftragten Nachunternehmers.</description>
+      </component>
+            <component>
+        <id>choice_cku2hr7880082266fao8o9l6h</id>
+        <description lang="en-US">Sie haften auch nicht f&amp;uuml;r die Einhaltung von Fertigstellungsterminen. Die Nichteinhaltung von Terminen durch den Nachunternehmer haben Sie nicht zu vertreten.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://00GfSS3A9nU31Z_UwDBbq40R8MZfM0Le_rise/CEii44f76_fx-FVIyybp5vlkQ_N4Rr8v/cku2htaor00b3266fuydxhom0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Im Bauvertrag f&amp;uuml;r die Malerarbeiten an einem Objekt wurde eine ausdr&amp;uuml;ckliche Abnahme nach &amp;sect; 640 Abs. 1 BGB vereinbart.&lt;br&gt;Welche Rechtsfolge tritt ein, wenn der Auftraggeber den vereinbarten Termin nicht wahrnimmt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cku2htaos00b4266ft4cmlzl5</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cku2htaos00b4266ft4cmlzl5</id>
+        <description lang="en-US">Das Werk gilt zu diesem Zeitpunkt als abgenommen.</description>
+      </component>
+            <component>
+        <id>choice_cku2htaos00b5266fw5sf3zcx</id>
+        <description lang="en-US">Es muss eine angemessene Frist gesetzt werden, wenn diese nicht eingehalten wird, gilt das Werk zu diesem Zeitpunkt als abgenommen.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
