@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://gvAHbqimNXM0yurB9yzRN3SK5FmQ8RZi_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Marketing</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://gvAHbqimNXM0yurB9yzRN3SK5FmQ8RZi_rise/kGdO3Gkl7_tMTp2DQX01UJDZ_Pl06q_4" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://gvAHbqimNXM0yurB9yzRN3SK5FmQ8RZi_rise/kGdO3Gkl7_tMTp2DQX01UJDZ_Pl06q_4/ckusmq8z4002w266i2uo16873" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Phasen geh&amp;ouml;ren zur Erstellung Ihres neuen Marketingkonzeptes&lt;br&gt;in sachlogischer Reihenfolge.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckusmq8z4002x266ieskv8py9[.]target_ckusmq8z4002x266ieskv8py9</correctResponsePattern>
+            <correctResponsePattern>source_ckusmq8z4002y266i3xwpa1sk[.]target_ckusmq8z4002y266i3xwpa1sk</correctResponsePattern>
+            <correctResponsePattern>source_ckusmq8z4002z266imma05a2e[.]target_ckusmq8z4002z266imma05a2e</correctResponsePattern>
+            <correctResponsePattern>source_ckusmqwze0030266iy7a5mn8x[.]target_ckusmqwze0030266iy7a5mn8x</correctResponsePattern>
+            <correctResponsePattern>source_ckusmqxj60031266i1j3ojymi[.]target_ckusmqxj60031266i1j3ojymi</correctResponsePattern>
+            <correctResponsePattern>source_ckusmqzi20032266iteji03bc[.]target_ckusmqzi20032266iteji03bc</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckusmq8z4002x266ieskv8py9</id>
+        <description lang="en-US">Situationsanalyse vornehmen></description>
+      </component>
+            <component>
+        <id>source_ckusmq8z4002y266i3xwpa1sk</id>
+        <description lang="en-US">Ziele formulieren></description>
+      </component>
+            <component>
+        <id>source_ckusmq8z4002z266imma05a2e</id>
+        <description lang="en-US">Maßnahmen (Marketing-Mix) festlegen ></description>
+      </component>
+            <component>
+        <id>source_ckusmqwze0030266iy7a5mn8x</id>
+        <description lang="en-US">Maßnahmen umsetzen ></description>
+      </component>
+            <component>
+        <id>source_ckusmqxj60031266i1j3ojymi</id>
+        <description lang="en-US">Maßnahmen kontrollieren ></description>
+      </component>
+            <component>
+        <id>source_ckusmqzi20032266iteji03bc</id>
+        <description lang="en-US">Wirksamkeit der Maßnahmen auswerten></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckusmq8z4002x266ieskv8py9</id>
+            <description lang="en-US">Schritt 1</description>
+          </component>
+                  <component>
+            <id>target_ckusmq8z4002y266i3xwpa1sk</id>
+            <description lang="en-US">Schritt 2</description>
+          </component>
+                  <component>
+            <id>target_ckusmq8z4002z266imma05a2e</id>
+            <description lang="en-US">Schritt 3</description>
+          </component>
+                  <component>
+            <id>target_ckusmqwze0030266iy7a5mn8x</id>
+            <description lang="en-US">Schritt 4</description>
+          </component>
+                  <component>
+            <id>target_ckusmqxj60031266i1j3ojymi</id>
+            <description lang="en-US">Schritt 5</description>
+          </component>
+                  <component>
+            <id>target_ckusmqzi20032266iteji03bc</id>
+            <description lang="en-US">Schritt 6</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://gvAHbqimNXM0yurB9yzRN3SK5FmQ8RZi_rise/kGdO3Gkl7_tMTp2DQX01UJDZ_Pl06q_4/ckusmt06i0033266ilzfppvle" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r Ihr Unternehmen wurde eine Corporate Identity (CI) entwickelt.&amp;nbsp;Was bedeutet der Begriff?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusmt06i0034266ia18csppq</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusmt06i0034266ia18csppq</id>
+        <description lang="en-US">Das Erscheinungsbild eines Unternehmens in der &amp;Ouml;ffentlichkeit, in dem sich das Selbstverst&amp;auml;ndnis und die Kultur des Unternehmens sowie das Leistungsangebot und die Arbeitsweise widerspiegeln.</description>
+      </component>
+            <component>
+        <id>choice_ckusmt06i0035266igvt92q16</id>
+        <description lang="en-US">Eine Neustrukturierung der Organisations basierend auf flachen Hierarchien mit dem Ziel der Innovationsf&amp;uuml;hrerschaft. </description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://gvAHbqimNXM0yurB9yzRN3SK5FmQ8RZi_rise/kGdO3Gkl7_tMTp2DQX01UJDZ_Pl06q_4/ckusmwk3m0036266if36cd00v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r Ihr Unternehmen wurde eine Corporate Identity (CI) entwickelt.&lt;br&gt;Welche dieser Elemente k&amp;ouml;nnen zu einer CI geh&amp;ouml;ren?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusmwk3m0037266i7hyxt2o7</correctResponsePattern>
+            <correctResponsePattern>choice_ckusmwk3m0039266is6znati3</correctResponsePattern>
+            <correctResponsePattern>choice_ckusmwk3m003a266it88aitfw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusmwk3m0037266i7hyxt2o7</id>
+        <description lang="en-US">Einheitliches Erscheinungsbild</description>
+      </component>
+            <component>
+        <id>choice_ckusmwk3m0039266is6znati3</id>
+        <description lang="en-US">Einheitliche Firmenkleidung</description>
+      </component>
+            <component>
+        <id>choice_ckusmwk3m003a266it88aitfw</id>
+        <description lang="en-US">Einheitliches Logo und einheitliche Schriftz&amp;uuml;ge</description>
+      </component>
+            <component>
+        <id>choice_ckusmwk3m0038266iygtpdwvo</id>
+        <description lang="en-US">Einheitliche Frisur</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://gvAHbqimNXM0yurB9yzRN3SK5FmQ8RZi_rise/kGdO3Gkl7_tMTp2DQX01UJDZ_Pl06q_4/ckusmynu40083266i40n8ijuy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r Ihr Unternehmen wurde eine Corporate Identity (CI) entwickelt.&lt;br&gt;Welche dieser Elemente k&amp;ouml;nnen zu einer CI geh&amp;ouml;ren?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusmynu40084266i150ucs30</correctResponsePattern>
+            <correctResponsePattern>choice_ckusmynu40087266ivvxf79pr</correctResponsePattern>
+            <correctResponsePattern>choice_ckusmynu40086266i79zh829y</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusmynu40084266i150ucs30</id>
+        <description lang="en-US">Einheitliches Formularwesen</description>
+      </component>
+            <component>
+        <id>choice_ckusmynu40086266i79zh829y</id>
+        <description lang="en-US">Einheitliche Fahrzeugbeschriftung</description>
+      </component>
+            <component>
+        <id>choice_ckusmynu40087266ivvxf79pr</id>
+        <description lang="en-US">Einheitliche Werbebotschaften</description>
+      </component>
+            <component>
+        <id>choice_ckusmynu40085266ius5d4jmk</id>
+        <description lang="en-US">Einheitliches Essen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://gvAHbqimNXM0yurB9yzRN3SK5FmQ8RZi_rise/kGdO3Gkl7_tMTp2DQX01UJDZ_Pl06q_4/ckusn3xhs00dr266inw1yc2ou" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nach Abschluss eines Gesch&amp;auml;ftsjahres machen Sie eine Zielgruppenanalyse, bei der Sie wissen m&amp;ouml;chten, welche Zielgruppe f&amp;uuml;r Sie wirtschaftlich die interessanteste ist (Privat-kunden, gewerbliche, &amp;ouml;ffentliche Auftraggeber etc.).&lt;br&gt;&lt;br&gt;Welche Kriterien ziehen Sie zur Bewertung heran?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusn3xhs00du266iy8jtlemd</correctResponsePattern>
+            <correctResponsePattern>choice_ckusn3xhs00dv266iau680b3g</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusn3xhs00ds266ifnw3ifoa</id>
+        <description lang="en-US">Die Anzahl der Auftr&amp;auml;ge je Kundengruppe</description>
+      </component>
+            <component>
+        <id>choice_ckusn3xhs00du266iy8jtlemd</id>
+        <description lang="en-US">Bewertungsma&amp;szlig;stab ist der erzielte Deckungsbeitrag</description>
+      </component>
+            <component>
+        <id>choice_ckusn3xhs00dv266iau680b3g</id>
+        <description lang="en-US">Je h&amp;ouml;her der Deckungsbeitrag der jeweiligen Zielgruppe, desto wirtschaftlich interessanter ist diese</description>
+      </component>
+            <component>
+        <id>choice_ckusn3xhs00dt266i0a2fywd4</id>
+        <description lang="en-US">Die Ums&amp;auml;tze der Kundengruppen</description>
+      </component>
+            <component>
+        <id>choice_ckusn5ouv00g4266ihyyv8kt0</id>
+        <description lang="en-US">Die Reihenfolge nach der die Auftr&amp;auml;ge je Kundengruppe eingegangen sind</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://gvAHbqimNXM0yurB9yzRN3SK5FmQ8RZi_rise/kGdO3Gkl7_tMTp2DQX01UJDZ_Pl06q_4/ckusn63lz00gq266ipcvbzpyx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">&amp;Uuml;ber die ABC-Analyse haben Sie Ihre durch bedeutenden und weniger bedeutenden Kunden voneinander abgegrenzt. Ordnen Sie Ums&amp;auml;tze und Kundenanzahl der jeweiligen Kundengruppe zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckusn63lz00gr266ik26eq3zu[.]target_ckusn63lz00gr266ik26eq3zu</correctResponsePattern>
+            <correctResponsePattern>source_ckusn63lz00gs266iorwut49k[.]target_ckusn63lz00gs266iorwut49k</correctResponsePattern>
+            <correctResponsePattern>source_ckusn63lz00gt266iox7ak0dy[.]target_ckusn63lz00gt266iox7ak0dy</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckusn63lz00gr266ik26eq3zu</id>
+        <description lang="en-US">B Kunde></description>
+      </component>
+            <component>
+        <id>source_ckusn63lz00gs266iorwut49k</id>
+        <description lang="en-US">A Kunde></description>
+      </component>
+            <component>
+        <id>source_ckusn63lz00gt266iox7ak0dy</id>
+        <description lang="en-US">C Kunde></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckusn63lz00gr266ik26eq3zu</id>
+            <description lang="en-US">620.100 Euro Umsatz; 6 Kunden</description>
+          </component>
+                  <component>
+            <id>target_ckusn63lz00gs266iorwut49k</id>
+            <description lang="en-US">120.150 Euro Umsatz, 1 Kunde </description>
+          </component>
+                  <component>
+            <id>target_ckusn63lz00gt266iox7ak0dy</id>
+            <description lang="en-US">38.700 Euro Umsatz; 2 Kunden</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://gvAHbqimNXM0yurB9yzRN3SK5FmQ8RZi_rise/kGdO3Gkl7_tMTp2DQX01UJDZ_Pl06q_4/ckusn7x2100gu266ieywoajpl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Ma&amp;szlig;nahme besitzt nach der Fertigstellung eines Kundenauftrages Priorit&amp;auml;t?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusn7x2100gw266ikeivd2d4</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusn7x2100gv266is14p9te7</id>
+        <description lang="en-US">Postwurfsendung &amp;uuml;ber Angebotspalette</description>
+      </component>
+            <component>
+        <id>choice_ckusn7x2100gx266irv15jsrc</id>
+        <description lang="en-US">Einladung zur Hausmesse</description>
+      </component>
+            <component>
+        <id>choice_ckusn7x2100gy266i36ngf26k</id>
+        <description lang="en-US">Bonit&amp;auml;tspr&amp;uuml;fung durchf&amp;uuml;hren</description>
+      </component>
+            <component>
+        <id>choice_ckusn7x2100gw266ikeivd2d4</id>
+        <description lang="en-US">Kundenzufriedenheit ermitteln</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://gvAHbqimNXM0yurB9yzRN3SK5FmQ8RZi_rise/kGdO3Gkl7_tMTp2DQX01UJDZ_Pl06q_4/ckusn8qod00i1266i6wso4qye" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sponsoring und Spendenaktionen sind m&amp;ouml;gliche Instrumente im Bereich des Marketings und der &amp;Ouml;ffentlichkeitsarbeit.&lt;br&gt;Welche Ziele k&amp;ouml;nnten damit erreicht werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusn8qod00i2266i8pbnswuz</correctResponsePattern>
+            <correctResponsePattern>choice_ckusn8qod00i3266izjtlbgzq</correctResponsePattern>
+            <correctResponsePattern>choice_ckusn8qod00i4266i975jtumz</correctResponsePattern>
+            <correctResponsePattern>choice_ckusn8qod00i5266i839r2e37</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusn8qod00i2266i8pbnswuz</id>
+        <description lang="en-US">Aufbau/Erhalt eines positiven Unternehmensimages</description>
+      </component>
+            <component>
+        <id>choice_ckusn8qod00i4266i975jtumz</id>
+        <description lang="en-US">Steigerung des Bekanntheitsgrades des Betriebes</description>
+      </component>
+            <component>
+        <id>choice_ckusn8qod00i5266i839r2e37</id>
+        <description lang="en-US">Aufbau/Erhalt von Glaubw&amp;uuml;rdigkeit und Vertrauen</description>
+      </component>
+            <component>
+        <id>choice_ckusn8qod00i3266izjtlbgzq</id>
+        <description lang="en-US">Aufmerksamkeit und Interesse f&amp;uuml;r den Betrieb wecken</description>
+      </component>
+            <component>
+        <id>choice_ckusnari100ld266is947qiwn</id>
+        <description lang="en-US">Erh&amp;ouml;hung der Mitarbeiterbindung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://gvAHbqimNXM0yurB9yzRN3SK5FmQ8RZi_rise/kGdO3Gkl7_tMTp2DQX01UJDZ_Pl06q_4/ckusncqtk00mm266iu4ujgo20" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was versteht man unter dem Corporate Design?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusncqtk00mn266i8tl0e3qe</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusncqtk00mn266i8tl0e3qe</id>
+        <description lang="en-US">Corporated design ist ein Bestandteil der corporated identity und beinhaltet alle aufeinander abgestimmten Gestaltungsma&amp;szlig;nahmen, die ein Unternehmen visuell kennzeichnen.</description>
+      </component>
+            <component>
+        <id>choice_ckusncqtk00mo266i5rw2cmyp</id>
+        <description lang="en-US">Corparate design ist ein Bestandteil der corporated identity und bezieht sich prim&amp;auml;r auf das Logo eines Unternehmens.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://gvAHbqimNXM0yurB9yzRN3SK5FmQ8RZi_rise/kGdO3Gkl7_tMTp2DQX01UJDZ_Pl06q_4/ckusnfhak00mp266ijld5o0py" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Ma&amp;szlig;nahmen fallen unter Corparate Design?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusnfhak00mq266iw9a84olb</correctResponsePattern>
+            <correctResponsePattern>choice_ckusnfhak00ms266iavlhmi75</correctResponsePattern>
+            <correctResponsePattern>choice_ckusnfhak00mt266izhlt9e6u</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusnfhak00mq266iw9a84olb</id>
+        <description lang="en-US">Einheitliche Unternehmensfarben</description>
+      </component>
+            <component>
+        <id>choice_ckusnfhak00ms266iavlhmi75</id>
+        <description lang="en-US">Logo</description>
+      </component>
+            <component>
+        <id>choice_ckusnfhak00mt266izhlt9e6u</id>
+        <description lang="en-US">Einheitliches Auftreten der Mitarbeitenden</description>
+      </component>
+            <component>
+        <id>choice_ckusnfhak00mr266i99ie8kdt</id>
+        <description lang="en-US">Verhaltenskodex f&amp;uuml;r Mitarbeitende</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://gvAHbqimNXM0yurB9yzRN3SK5FmQ8RZi_rise/kGdO3Gkl7_tMTp2DQX01UJDZ_Pl06q_4/ckusnkb0w00tu266i897e67n5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Kundenzufriedenheit &amp;nbsp;ist Ihnen besonders wichtig.&lt;br&gt;Wie k&amp;ouml;nnten Sie diese ermitteln und f&amp;ouml;rdern?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusnkb0x00tv266iobc1umjb</correctResponsePattern>
+            <correctResponsePattern>choice_ckusnkb0x00tw266i88xpct6u</correctResponsePattern>
+            <correctResponsePattern>choice_ckusnkb0x00ty266iqb3qc077</correctResponsePattern>
+            <correctResponsePattern>choice_ckusnkb0x00tx266ikx8hzwjg</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusnkb0x00tv266iobc1umjb</id>
+        <description lang="en-US">Kundenfeedback einholen</description>
+      </component>
+            <component>
+        <id>choice_ckusnkb0x00tx266ikx8hzwjg</id>
+        <description lang="en-US">Rasche Bearbeitung von Reklamationen</description>
+      </component>
+            <component>
+        <id>choice_ckusnkb0x00ty266iqb3qc077</id>
+        <description lang="en-US">Event-Veranstaltungen</description>
+      </component>
+            <component>
+        <id>choice_ckusnkb0x00tw266i88xpct6u</id>
+        <description lang="en-US">&amp;bdquo;Give aways&amp;ldquo; mit Firmenbezug</description>
+      </component>
+            <component>
+        <id>choice_ckusnn62m00ye266ivwk4wz5n</id>
+        <description lang="en-US">Corparate Identity einf&amp;uuml;hren</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
