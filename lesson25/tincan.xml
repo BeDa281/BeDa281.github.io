@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://GvF1kaFscXBqdgY3SODp29fywd38yoql_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Baustellenorganisation - Teil 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://GvF1kaFscXBqdgY3SODp29fywd38yoql_rise/Ydjqhp1X3nGgzpz5pGMyAtaX9A2MgNjP" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://GvF1kaFscXBqdgY3SODp29fywd38yoql_rise/Ydjqhp1X3nGgzpz5pGMyAtaX9A2MgNjP/ckusg8bck002w266fj1cxs0b8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wobei handelt es sich um baustellenorganisatorische Aspekte im Zusammenhang mit Beschichtungsarbeiten in einem Industriegeb&amp;auml;ude, die Sie mit dem Bauleiter des Auftraggebers ansprechen sollten.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusg8bck002x266fx92qpmpy</correctResponsePattern>
+            <correctResponsePattern>choice_ckusg8bck002y266f1uo827ei</correctResponsePattern>
+            <correctResponsePattern>choice_ckusg8bck0030266fvs1608tb</correctResponsePattern>
+            <correctResponsePattern>choice_ckusg8bck002z266fx14p394g</correctResponsePattern>
+            <correctResponsePattern>choice_ckusg9ykz005l266frrrzvyh9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusg8bck002x266fx92qpmpy</id>
+        <description lang="en-US">Welche Toiletten k&amp;ouml;nnen genutzt werden?</description>
+      </component>
+            <component>
+        <id>choice_ckusg8bck002z266fx14p394g</id>
+        <description lang="en-US">Wo k&amp;ouml;nnen Container abgestellt werden?</description>
+      </component>
+            <component>
+        <id>choice_ckusg8bck0030266fvs1608tb</id>
+        <description lang="en-US">Wo k&amp;ouml;nnen Arbeitsb&amp;uuml;hnen und Fahrger&amp;uuml;ste eingesetzt werden?</description>
+      </component>
+            <component>
+        <id>choice_ckusg8bck002y266f1uo827ei</id>
+        <description lang="en-US">Welche Parkpl&amp;auml;tze d&amp;uuml;rfen genutzt werden? </description>
+      </component>
+            <component>
+        <id>choice_ckusg9isb005a266f9tisn36x</id>
+        <description lang="en-US">Wie viele Mitarbeiter d&amp;uuml;rfen gleichzeitig auf der Baustelle arbeiten?</description>
+      </component>
+            <component>
+        <id>choice_ckusg9ykz005l266frrrzvyh9</id>
+        <description lang="en-US">Welche Strom &amp;ndash;und Wasseranschl&amp;uuml;sse sind vorhanden?</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GvF1kaFscXBqdgY3SODp29fywd38yoql_rise/Ydjqhp1X3nGgzpz5pGMyAtaX9A2MgNjP/ckusganfx006t266fapt45ugs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r die Beschichtungsarbeiten in der Produktionshalle sin Fahrger&amp;uuml;ste vorgesehen.&lt;br&gt;Welche Eigenschaften treffen auf Fahrger&amp;uuml;ste zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusganfx006u266fg72olx12</correctResponsePattern>
+            <correctResponsePattern>choice_ckusgbo9j0086266favqalba2</correctResponsePattern>
+            <correctResponsePattern>choice_ckusgbqxk008h266fl9y7vu88</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusganfx006u266fg72olx12</id>
+        <description lang="en-US">flexibel einsetzbar</description>
+      </component>
+            <component>
+        <id>choice_ckusgbdb1007b266f9ttdyn10</id>
+        <description lang="en-US">Arbeitsh&amp;ouml;hen &amp;uuml;ber 10m im Au&amp;szlig;enbereich m&amp;ouml;glich</description>
+      </component>
+            <component>
+        <id>choice_ckusgbjzs007t266fippml2s5</id>
+        <description lang="en-US">es wir viel Personal zum Aufbau ben&amp;ouml;tigt</description>
+      </component>
+            <component>
+        <id>choice_ckusgbo9j0086266favqalba2</id>
+        <description lang="en-US">ben&amp;ouml;tigen wenig Raum</description>
+      </component>
+            <component>
+        <id>choice_ckusgbqxk008h266fl9y7vu88</id>
+        <description lang="en-US">g&amp;uuml;nstig</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GvF1kaFscXBqdgY3SODp29fywd38yoql_rise/Ydjqhp1X3nGgzpz5pGMyAtaX9A2MgNjP/ckusgc4tk008z266f1yjb187j" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie wollen die umfangreichen Beschichtungsarbeiten einer Baustelle m&amp;ouml;glichst maschinenunterst&amp;uuml;tzt durchf&amp;uuml;hren.&amp;nbsp;&lt;br&gt;Ordnen Sie die Begriffe den jeweiligen Verfahren zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckusgc4tk0090266ftxk8239h[.]target_ckusgc4tk0090266ftxk8239h</correctResponsePattern>
+            <correctResponsePattern>source_ckusgc4tk0091266fk9u40s63[.]target_ckusgc4tk0091266fk9u40s63</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckusgc4tk0090266ftxk8239h</id>
+        <description lang="en-US">Airless></description>
+      </component>
+            <component>
+        <id>source_ckusgc4tk0091266fk9u40s63</id>
+        <description lang="en-US">Tempspray></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckusgc4tk0090266ftxk8239h</id>
+            <description lang="en-US">schnelleres (rationelleres) Beschichten, hohe Flächenleistung</description>
+          </component>
+                  <component>
+            <id>target_ckusgc4tk0091266fk9u40s63</id>
+            <description lang="en-US">kaum abzudeckende Flächen (Wenig Overspray), geringe VOC- Emissionen </description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://GvF1kaFscXBqdgY3SODp29fywd38yoql_rise/Ydjqhp1X3nGgzpz5pGMyAtaX9A2MgNjP/ckusgdpl90093266fusj19hy2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Abwicklung der Arbeiten am Logistikzentrum &amp;uuml;bertragen Sie Ihrem Baustellenleiter. Als F&amp;uuml;hrungskraft m&amp;uuml;ssen Sie alle notwendigen Informationen zum Objekt und zur reibungslosen Abwicklung an ihn weitergeben.&amp;nbsp;&lt;br&gt;Nennen Sie wichtige Aspekte im Zusammenhang mit der Baustelleneinrichtung, die Sie bei der Besprechung mit Ihrem Baustellenleiter ansprechen sollten.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusgdpla0094266fuqya0tmv</correctResponsePattern>
+            <correctResponsePattern>choice_ckusgdpla0096266fc6013v1l</correctResponsePattern>
+            <correctResponsePattern>choice_ckusgdpla0097266fy52h2jtp</correctResponsePattern>
+            <correctResponsePattern>choice_ckusggwwf00b7266fquyl8uxa</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusgdpla0094266fuqya0tmv</id>
+        <description lang="en-US">WC-Nutzung bauseits</description>
+      </component>
+            <component>
+        <id>choice_ckusgdpla0096266fc6013v1l</id>
+        <description lang="en-US">Parkm&amp;ouml;glichkeiten&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckusgdpla0097266fy52h2jtp</id>
+        <description lang="en-US">Ger&amp;uuml;ststellung, Arbeitsb&amp;uuml;hnen</description>
+      </component>
+            <component>
+        <id>choice_ckusgfw9e00as266fufvo52ua</id>
+        <description lang="en-US">Einsatzzeiten der Mitarbeiter</description>
+      </component>
+            <component>
+        <id>choice_ckusggwwf00b7266fquyl8uxa</id>
+        <description lang="en-US">Standort f&amp;uuml;r den Baucontainer festlegen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GvF1kaFscXBqdgY3SODp29fywd38yoql_rise/Ydjqhp1X3nGgzpz5pGMyAtaX9A2MgNjP/ckusghghv00be266foftdy8lc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Abwicklung der Arbeiten am Logistikzentrum &amp;uuml;bertragen Sie Ihrem Baustellenleiter. Als F&amp;uuml;hrungskraft m&amp;uuml;ssen Sie alle notwendigen Informationen zum Objekt und zur reibungslosen Abwicklung an ihn weitergeben.&amp;nbsp;&lt;br&gt;Nennen Sie wichtige Aspekte im Zusammenhang mit der Baustelleneinrichtung, die Sie bei der Besprechung mit Ihrem Baustellenleiter ansprechen sollten.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusghghw00bf266few7wtky4</correctResponsePattern>
+            <correctResponsePattern>choice_ckusghghw00bh266frmogyouq</correctResponsePattern>
+            <correctResponsePattern>choice_ckusghghw00bi266f9unux0gy</correctResponsePattern>
+            <correctResponsePattern>choice_ckusghghw00bg266fk1ncuvoy</correctResponsePattern>
+            <correctResponsePattern>choice_ckusgio2600dl266fs7e9yfw9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusghghw00bf266few7wtky4</id>
+        <description lang="en-US">Materiallagerung, Bereitstellung Container</description>
+      </component>
+            <component>
+        <id>choice_ckusghghw00bh266frmogyouq</id>
+        <description lang="en-US">Strom- und Wasseranschl&amp;uuml;sse abkl&amp;auml;ren</description>
+      </component>
+            <component>
+        <id>choice_ckusghghw00bi266f9unux0gy</id>
+        <description lang="en-US">Ger&amp;auml;teauswahl und -lagerung</description>
+      </component>
+            <component>
+        <id>choice_ckusghghw00bg266fk1ncuvoy</id>
+        <description lang="en-US">Materialentsorgung</description>
+      </component>
+            <component>
+        <id>choice_ckusgio2600dl266fs7e9yfw9</id>
+        <description lang="en-US">Entsorgung Baustellenabfall</description>
+      </component>
+            <component>
+        <id>choice_ckusgivyl00dz266fl2ve5t54</id>
+        <description lang="en-US">Urlaub w&amp;auml;hrend der Bauphase</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GvF1kaFscXBqdgY3SODp29fywd38yoql_rise/Ydjqhp1X3nGgzpz5pGMyAtaX9A2MgNjP/ckusgjbij00e6266ffkv3gvoe" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nennen Sie Ma&amp;szlig;nahmen seitens des Unternehmers zur Reduzierung von unproduktiven Zeiten auf der Baustelle.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusgjbij00e7266fkv3wzt5a</correctResponsePattern>
+            <correctResponsePattern>choice_ckusgjbij00e8266ftpvgp5cn</correctResponsePattern>
+            <correctResponsePattern>choice_ckusgjbij00ea266f2l0d1d5f</correctResponsePattern>
+            <correctResponsePattern>choice_ckusgjbij00e9266fy0lrrn5f</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusgjbij00e7266fkv3wzt5a</id>
+        <description lang="en-US">Optimierung des Baustellenablaufs</description>
+      </component>
+            <component>
+        <id>choice_ckusgjbij00e9266fy0lrrn5f</id>
+        <description lang="en-US">Einweisung der Baustellenverantwortlichen</description>
+      </component>
+            <component>
+        <id>choice_ckusgjbij00ea266f2l0d1d5f</id>
+        <description lang="en-US">Material- und Werkzeugdisposition</description>
+      </component>
+            <component>
+        <id>choice_ckusgjbij00e8266ftpvgp5cn</id>
+        <description lang="en-US">Vorgabezeiten festlegen</description>
+      </component>
+            <component>
+        <id>choice_ckusgk06s00fn266fq4e0tgks</id>
+        <description lang="en-US">Meldung unvorhergesehener Arbeiten</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GvF1kaFscXBqdgY3SODp29fywd38yoql_rise/Ydjqhp1X3nGgzpz5pGMyAtaX9A2MgNjP/ckusgk3h000fu266f073hpdiz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nennen Sie Ma&amp;szlig;nahmen seitens des Unternehmers zur Reduzierung von unproduktiven Zeiten auf der Baustelle.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusgk3h000fv266ffmiu9yu1</correctResponsePattern>
+            <correctResponsePattern>choice_ckusgk3h000fw266f5bpr4pn7</correctResponsePattern>
+            <correctResponsePattern>choice_ckusgk3h000fx266fhixj25eg</correctResponsePattern>
+            <correctResponsePattern>choice_ckusgk3h000fy266fertlqgkp</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusgk3h000fv266ffmiu9yu1</id>
+        <description lang="en-US">Ausf&amp;uuml;hrungszeiten kontrollieren</description>
+      </component>
+            <component>
+        <id>choice_ckusgk3h000fx266fhixj25eg</id>
+        <description lang="en-US">Pausenzeiten kontrollieren</description>
+      </component>
+            <component>
+        <id>choice_ckusgk3h000fy266fertlqgkp</id>
+        <description lang="en-US">Digitale Zeiterfassung</description>
+      </component>
+            <component>
+        <id>choice_ckusgk3h000fw266f5bpr4pn7</id>
+        <description lang="en-US">Baustellenmappe erstellen</description>
+      </component>
+            <component>
+        <id>choice_ckusgksbx00hw266f390lf4e1</id>
+        <description lang="en-US">Dokumentieren von Zusatzauftr&amp;auml;gen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GvF1kaFscXBqdgY3SODp29fywd38yoql_rise/Ydjqhp1X3nGgzpz5pGMyAtaX9A2MgNjP/ckusglcw800i4266fnkjepvvi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r die Arbeiten am Logistikzentrum ist ein bindender Fertigstellungstermin festgelegt.&lt;br&gt;Welche Steuerungsinstrumente stehen Ihnen zur Verf&amp;uuml;gung, um diesen Termin einzuhalten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusglcw800i5266f7d837yle</correctResponsePattern>
+            <correctResponsePattern>choice_ckusglcw800i8266fexjny9l4</correctResponsePattern>
+            <correctResponsePattern>choice_ckusglcw800i7266fwnfpfaut</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusglcw800i5266f7d837yle</id>
+        <description lang="en-US">Aufstellen eines individuellen Bauzeitenplanes</description>
+      </component>
+            <component>
+        <id>choice_ckusglcw800i7266fwnfpfaut</id>
+        <description lang="en-US">Flexibler Arbeitnehmereinsatz, z.B. durch Abziehen von Mitarbeitern anderer Baustellen oder Mehrarbeit der Mitarbeiter</description>
+      </component>
+            <component>
+        <id>choice_ckusglcw800i8266fexjny9l4</id>
+        <description lang="en-US">Klare Absprache mit den anderen Gewerken</description>
+      </component>
+            <component>
+        <id>choice_ckusglcw800i6266f5ecite11</id>
+        <description lang="en-US">Fuhrpark vergr&amp;ouml;&amp;szlig;ern</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GvF1kaFscXBqdgY3SODp29fywd38yoql_rise/Ydjqhp1X3nGgzpz5pGMyAtaX9A2MgNjP/ckusgmo8j00kx266f1lzbee74" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r die Arbeiten am Logistikzentrum ist ein bindender Fertigstellungstermin festgelegt.&lt;br&gt;Welche Steuerungsinstrumente stehen Ihnen zur Verf&amp;uuml;gung, um diesen Termin einzuhalten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusgmo8j00ky266f3m72n57c</correctResponsePattern>
+            <correctResponsePattern>choice_ckusgmo8j00l0266fzsgq80dt</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusgmo8j00ky266f3m72n57c</id>
+        <description lang="en-US">Einsatz von Leiharbeitnehmern</description>
+      </component>
+            <component>
+        <id>choice_ckusgmo8j00l0266fzsgq80dt</id>
+        <description lang="en-US">Einsatz von Maschinentechnik</description>
+      </component>
+            <component>
+        <id>choice_ckusgmo8j00l1266f84skeo9k</id>
+        <description lang="en-US">Besseres Material einsetzen</description>
+      </component>
+            <component>
+        <id>choice_ckusgmo8j00kz266f0lifopfh</id>
+        <description lang="en-US">Extraverg&amp;uuml;tung f&amp;uuml;r Mitarbeiter mit dem Bauherrn aushandeln</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

@@ -2,7 +2,7 @@
 <tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
   <activities>
     <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise" type="http://adlnet.gov/expapi/activities/course">
-      <name lang="en-US">Baustellenorganisation und Arbeitssicherheit - Teil 1</name>
+      <name lang="en-US">Arbeitssicherheit und Umweltschutz - Teil 1</name>
       <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
       <launch lang="en-US">index.html</launch>
     </activity>
@@ -11,51 +11,8 @@
       <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
     </activity>
             
-    <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d/cktd8r5i6002w266ea0k3cmeu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Nennen Sie 5 baustellenorganisatorische Aspekte im Zusammenhang mit Beschichtungsarbeiten in einem Industriegeb&amp;auml;ude, die Sie mit dem Bauleiter des Auftraggebers ansprechen sollten.</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cktd8r5i6002x266eywrdngyy</correctResponsePattern>
-            <correctResponsePattern>choice_cktd8r5i6002y266emszek8kb</correctResponsePattern>
-            <correctResponsePattern>choice_cktd8r5i6002z266eyuid3kyk</correctResponsePattern>
-            <correctResponsePattern>choice_cktd8r5i60030266elg31vt2m</correctResponsePattern>
-            <correctResponsePattern>choice_cktd8ry6p0053266ere9ojcu1</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cktd8r5i6002x266eywrdngyy</id>
-        <description lang="en-US">Welche Toiletten k&amp;ouml;nnen genutzt werden?</description>
-      </component>
-            <component>
-        <id>choice_cktd8r5i6002z266eyuid3kyk</id>
-        <description lang="en-US">Welche Parkpl&amp;auml;tze d&amp;uuml;rfen genutzt werden?&amp;nbsp;</description>
-      </component>
-            <component>
-        <id>choice_cktd8r5i60030266elg31vt2m</id>
-        <description lang="en-US">Wo k&amp;ouml;nnen Arbeitsb&amp;uuml;hnen und Fahrger&amp;uuml;ste eingesetzt werden?</description>
-      </component>
-            <component>
-        <id>choice_cktd8r5i6002y266emszek8kb</id>
-        <description lang="en-US">Wo k&amp;ouml;nnen Container abgestellt werden?</description>
-      </component>
-            <component>
-        <id>choice_cktd8ry6p0053266ere9ojcu1</id>
-        <description lang="en-US">Welche Strom &amp;ndash;und Wasseranschl&amp;uuml;sse sind vorhanden?</description>
-      </component>
-            <component>
-        <id>choice_cktd8s104005e266eyr9lowvu</id>
-        <description lang="en-US">Wie viele Mitarbeiter d&amp;uuml;rfen gleichzeitig auf der Baustelle arbeiten?</description>
-      </component>
-            <component>
-        <id>choice_cktd8s4n7005q266eu2azif4q</id>
-        <description lang="en-US">M&amp;uuml;ssen &amp;Uuml;berstunden angemeldet werden?</description>
-      </component>
-            </choices>
-          </activity>
-        
     <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d/cktd8u3jc0070266e2xle94wc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">In den B&amp;uuml;ror&amp;auml;umen sind alte CV &amp;ndash; Bel&amp;auml;ge verlegt, die Asbestpappe enthalten k&amp;ouml;nnten.&lt;br&gt;Sie &amp;uuml;berpr&amp;uuml;fen diese Vermutung, da sich dies gravierend auf die Planung der nachfolgenden Arbeitsschritte auswirkt.&lt;br&gt;Wie &amp;uuml;berpr&amp;uuml;fen Sie, ob es sich um einen mit asbesthaltiger Pappe unterlegten CV &amp;ndash; Belag handelt?</name>
+      <name lang="en-US">In den B&amp;uuml;ror&amp;auml;umen sind alte CV &amp;ndash; Bel&amp;auml;ge verlegt, die Asbestpappe enthalten k&amp;ouml;nnten. Sie &amp;uuml;berpr&amp;uuml;fen diese Vermutung, da sich dies gravierend auf die Planung der nachfolgenden Arbeitsschritte auswirkt.&lt;br&gt;Wie &amp;uuml;berpr&amp;uuml;fen Sie, ob es sich um einen mit asbesthaltiger Pappe unterlegten CV &amp;ndash; Belag handelt?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -87,7 +44,7 @@
           </activity>
         
     <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d/cktd8wher00b8266e789ney3b" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">In den B&amp;uuml;ror&amp;auml;umen sind alte CV &amp;ndash; Bel&amp;auml;ge verlegt, die Asbestpappe enthalten k&amp;ouml;nnten.&lt;br&gt;Sie &amp;uuml;berpr&amp;uuml;fen diese Vermutung, da sich dies gravierend auf die Planung der nachfolgenden Arbeitsschritte auswirkt.&lt;br&gt;Erl&amp;auml;utern Sie, warum der Umgang mit Asbest sehr gef&amp;auml;hrlich ist und Asbestose verursachen kann?</name>
+      <name lang="en-US">In den B&amp;uuml;ror&amp;auml;umen sind alte CV &amp;ndash; Bel&amp;auml;ge verlegt, die Asbestpappe enthalten k&amp;ouml;nnten. Sie &amp;uuml;berpr&amp;uuml;fen diese Vermutung, da sich dies gravierend auf die Planung der nachfolgenden Arbeitsschritte auswirkt.&lt;br&gt;Erl&amp;auml;utern Sie, warum der Umgang mit Asbest sehr gef&amp;auml;hrlich ist und Asbestose verursachen kann?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -100,7 +57,7 @@
       </component>
             <component>
         <id>choice_cktd8wher00ba266eza6kr2bo</id>
-        <description lang="en-US">Choice 2</description>
+        <description lang="en-US">Asbest ist ungef&amp;auml;hrlich</description>
       </component>
             <component>
         <id>choice_cktd8x3b000bz266ewhh7blm6</id>
@@ -110,7 +67,7 @@
           </activity>
         
     <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d/cktd8y9m900c0266erqc9ar9m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Nachdem der Nachweis f&amp;uuml;r Asbest in einem Bodenbelag erfolgt ist, planen Sie das Entfernen und Entsorgen des Bodenbelages. Sie w&amp;auml;hlen dazu ein Verfahren, welches daf&amp;uuml;r zugelassen ist nur eine &amp;bdquo;schwache Exposition&amp;ldquo; zu verursachen.&lt;br&gt;Welche Aspekte nach der TRSG 519 (Technische Regeln f&amp;uuml;r Gefahrstoffe Asbest) m&amp;uuml;ssen sie beachten? </name>
+      <name lang="en-US">Nachdem der Nachweis f&amp;uuml;r Asbest in einem Bodenbelag erfolgt ist, planen Sie das Entfernen und Entsorgen des Bodenbelages. Sie w&amp;auml;hlen dazu ein Verfahren, welches daf&amp;uuml;r zugelassen ist nur eine &amp;bdquo;schwache Exposition&amp;ldquo; zu verursachen.&lt;br&gt;Welche Aspekte nach der TRSG 519 (Technische Regeln f&amp;uuml;r Gefahrstoffe Asbest) m&amp;uuml;ssen sie beachten?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -346,6 +303,34 @@
             <component>
         <id>choice_cktd9orrk00v8266euypouwaf</id>
         <description lang="en-US">Preis</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise/hKgmTf1VGHpdQnUkbrhv3ev2ed_u6l1d/ckusf5z8m0072266fv2uop1a9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was ist der AGW-Grenzwert und welche Festlegung ist korrekt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckusf5z8m0073266fj1guw00f</correctResponsePattern>
+            <correctResponsePattern>choice_ckusf5z8m0075266fbr7hil6c</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckusf5z8m0073266fj1guw00f</id>
+        <description lang="en-US">Der Arbeitsplatzgrenzwert (AGW) ist die zeitlich gewichtete durchschnittliche Konzentration eines Stoffes in der Luft am Arbeitsplatz, bei der eine akute oder chronische Sch&amp;auml;digung der Gesundheit der Besch&amp;auml;ftigten nicht zu erwarten ist.</description>
+      </component>
+            <component>
+        <id>choice_ckusf5z8m0075266fbr7hil6c</id>
+        <description lang="en-US">Bei der Festlegung wird von einer in der Regel achtst&amp;uuml;ndigen Exposition an f&amp;uuml;nf Tagen in der Woche w&amp;auml;hrend der Lebensarbeitszeit ausgegangen.</description>
+      </component>
+            <component>
+        <id>choice_ckusf5z8m0076266fx8cym0vs</id>
+        <description lang="en-US">Der Arbeitsplatzgrenzwert (AGW) ist die zeitlich gewichtete durchschnittliche Konzentration eines Stoffes in der Luft am Arbeitsplatz, bei der eine akute oder chronische Sch&amp;auml;digung der Gesundheit der Besch&amp;auml;ftigten zu erwarten ist.</description>
+      </component>
+            <component>
+        <id>choice_ckusf5z8m0074266fknr3i1r6</id>
+        <description lang="en-US">Bei der Festlegung wird von einer in der Regel sechsst&amp;uuml;ndigen Exposition an vier Tagen in der Woche w&amp;auml;hrend der Lebensarbeitszeit ausgegangen.</description>
       </component>
             </choices>
           </activity>

@@ -3,13 +3,13 @@
 //
 // ActivityID that is sent for the statement's object
 //
-TC_COURSE_ID = "http://-siLvQVfpOVGE-kcnei0CE16xiekk0u9_rise"
+TC_COURSE_ID = "http://ekh86kd_P9dvbYZQN09Shrea1UEeXTOo_rise"
 
 //
 // CourseName for the activity
 //
 TC_COURSE_NAME = {
-  "en-US": "Arbeitssicherheit und Umweltschutz - Teil 1"
+  "en-US": "Arbeitssicherheit und Umweltschutz - Teil 2"
 };
 
 //
