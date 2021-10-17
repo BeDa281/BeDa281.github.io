@@ -2,7 +2,7 @@
 <tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
   <activities>
     <activity id="http://ND2Gu45b6R-U0-MluZ4aVXm-WEidvxXz_rise" type="http://adlnet.gov/expapi/activities/course">
-      <name lang="en-US">Aufmaßseminar - Teil 1</name>
+      <name lang="en-US">Aufmaßseminar - Grundlagen</name>
       <description lang="en-US"></description>
       <launch lang="en-US">index.html</launch>
     </activity>
@@ -14,8 +14,12 @@
       <name lang="en-US">Definitionen, Begriffe/blocks</name>
       <description lang="en-US"></description>
     </activity>
-          <activity id="http://ND2Gu45b6R-U0-MluZ4aVXm-WEidvxXz_rise/k_fG2EKkDZdLOhfYuZIh7pQd6b1r9xZP" type="http://adlnet.gov/expapi/activities/module">
-      <name lang="en-US">Ermittlung der Maße /blocks</name>
+          <activity id="http://ND2Gu45b6R-U0-MluZ4aVXm-WEidvxXz_rise/73zQetAcqjKrC4yhQHtQ366IJEE4BluA" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Übermessungsregeln/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ND2Gu45b6R-U0-MluZ4aVXm-WEidvxXz_rise/o3JUky0Aeex_YpsJdtewh96VW52Y6Bw7" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Einzelregelungen/blocks</name>
       <description lang="en-US"></description>
     </activity>
         </activities>

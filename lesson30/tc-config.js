@@ -3,13 +3,13 @@
 //
 // ActivityID that is sent for the statement's object
 //
-TC_COURSE_ID = "http://ND2Gu45b6R-U0-MluZ4aVXm-WEidvxXz_rise"
+TC_COURSE_ID = "http://9IcroYtf_eQoORdFIavtlAWFossRjmwb_rise"
 
 //
 // CourseName for the activity
 //
 TC_COURSE_NAME = {
-  "en-US": "Aufmaßseminar - Grundlagen"
+  "en-US": "Aufmaßseminar - Ermittlung der Maße II"
 };
 
 //

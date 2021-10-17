@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://9IcroYtf_eQoORdFIavtlAWFossRjmwb_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Aufmaßseminar - Ermittlung der Maße II</name>
+      <description lang="en-US"></description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://9IcroYtf_eQoORdFIavtlAWFossRjmwb_rise/dglXFO2dI2V7uiuUKlrlyWweLCzHUYUn" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Rohrgeländer, Schieber , Flansche, Armaturen/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://9IcroYtf_eQoORdFIavtlAWFossRjmwb_rise/MtdjqqlBPK7BMgz55J09Bc1ukCCgu57i" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Profile, Heizkörper, Trapezprofile, Wellbleche/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://9IcroYtf_eQoORdFIavtlAWFossRjmwb_rise/lYRVgJm4AAWXCmncPHxTm42-LTwwC7wh" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Bauteilmaße/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://9IcroYtf_eQoORdFIavtlAWFossRjmwb_rise/mRMADAfk33t-5U--J9pXTA9i2yRrK_pY" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Imprägnierungen /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://9IcroYtf_eQoORdFIavtlAWFossRjmwb_rise/GvZeIl_800eIbT97Woa9dvATFYuIIA9o" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Übermessungsregeln/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://yn8VQ1lzw9SVD1-tokBmvAmmkqLDN5BO_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Aufmaßseminar - Ermittlung der Maße I</name>
+      <description lang="en-US"></description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://yn8VQ1lzw9SVD1-tokBmvAmmkqLDN5BO_rise/ToURkQnaqIvA476Xz3q7VN0BgiUV8mkx" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Ermittlung der Maße /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://yn8VQ1lzw9SVD1-tokBmvAmmkqLDN5BO_rise/HeZlfCDllFb0eVgTpoEJQo-boExAfcl0" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Beliebig geformte Bauteile/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://yn8VQ1lzw9SVD1-tokBmvAmmkqLDN5BO_rise/BOQTIZwA2wlAuenUKXVZDNW6fgcpDt7O" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Rückflächen von Nischen sowie Leibungen/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://yn8VQ1lzw9SVD1-tokBmvAmmkqLDN5BO_rise/sObHUKDXXVUTilBCst5CI1D-tcPKbeTZ" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Zusammenhängende Aussparungen/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://yn8VQ1lzw9SVD1-tokBmvAmmkqLDN5BO_rise/FjAz0G-NV1yEW9r4yfXyiztHpCdjaly9" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Fenster, Türen, Trennwände, Bekleidungen/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
