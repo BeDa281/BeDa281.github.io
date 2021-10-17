@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://GE1chkXJMlaIjdSat2eCAuB_YUw9BsWe_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Mitarbeiterabrechnung - Teil 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://GE1chkXJMlaIjdSat2eCAuB_YUw9BsWe_rise/JvjYohz0EIKwJXMOev0vkXV8Fi6RtOUG" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://GE1chkXJMlaIjdSat2eCAuB_YUw9BsWe_rise/JvjYohz0EIKwJXMOev0vkXV8Fi6RtOUG/ckuv19otq0031266ictu41afy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie beabsichtigen, in Ihrem Betrieb bei Gesellen, die mit &amp;uuml;bertariflichen Stundenlohn entlohnt werden, Leistungslohn zu vereinbaren. In Ihrem Betrieb existiert kein Betriebsrat.&amp;nbsp;&lt;br&gt;Welche der folgenden Aussagen ist richtig? &amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv1ag3e0035266igb839m9a</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv19otq0032266ii22ann3q</id>
+        <description lang="en-US">Leistungslohn kann in Ihrem Betrieb mit Zustimmung der Gewerkschaft vereinbart werden.</description>
+      </component>
+            <component>
+        <id>choice_ckuv19otq0033266iudxx8win</id>
+        <description lang="en-US">Leistungslohn kann ohne Zustimmung der Gewerkschaft vereinbart werden, wenn der Geselle bei Erf&amp;uuml;llung der Leistungsvorgabe einen Zuschlag von mindestens 10 % auf seinen vereinbarten Stundenlohn erh&amp;auml;lt.</description>
+      </component>
+            <component>
+        <id>choice_ckuv1aaj10034266ib8sun70o</id>
+        <description lang="en-US">Leistungslohn kann ohne Zustimmung der Gewerkschaft vereinbart werden. Dem Gesellen kann bei Nichterf&amp;uuml;llung der Leistungsvorgabe entsprechend weniger Lohn ausgezahlt werden, wenn mindestens der Branchen-Mindestlohn f&amp;uuml;r die geleisteten Stunden gezahlt wird.</description>
+      </component>
+            <component>
+        <id>choice_ckuv1ag3e0035266igb839m9a</id>
+        <description lang="en-US">Leistungslohn kann ohne Zustimmung der Gewerkschaft vereinbart werden. Dem Gesellen kann bei Nichterf&amp;uuml;llung der Leistungsvorgabe entsprechend weniger Lohn ausgezahlt werden, wenn mindestens der tarifliche Stundenlohn f&amp;uuml;r die geleisteten Stunden gezahlt wird.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GE1chkXJMlaIjdSat2eCAuB_YUw9BsWe_rise/JvjYohz0EIKwJXMOev0vkXV8Fi6RtOUG/ckuv1bofi0036266igl54t9fc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r welche der genannten Personengruppen der fiktiven &amp;quot;Alles ums Haus GmbH&amp;quot; ist eine Anmeldung zur Malerkasse erforderlich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv1bofi0037266ie6tyyza4</correctResponsePattern>
+            <correctResponsePattern>choice_ckuv1bofi0038266iepk6ztag</correctResponsePattern>
+            <correctResponsePattern>choice_ckuv1bofi003a266ift5gucks</correctResponsePattern>
+            <correctResponsePattern>choice_ckuv1bofi0039266ixcxxm1cp</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv1bofi0037266ie6tyyza4</id>
+        <description lang="en-US">Malergesellen</description>
+      </component>
+            <component>
+        <id>choice_ckuv1bofi0039266ixcxxm1cp</id>
+        <description lang="en-US">Malerhelfer</description>
+      </component>
+            <component>
+        <id>choice_ckuv1bofi003a266ift5gucks</id>
+        <description lang="en-US">Handwerker anderer Gewerke, die mit Hausmeisterdiensten besch&amp;auml;ftigt werden</description>
+      </component>
+            <component>
+        <id>choice_ckuv1bofi0038266iepk6ztag</id>
+        <description lang="en-US">B&amp;uuml;roangestellte</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GE1chkXJMlaIjdSat2eCAuB_YUw9BsWe_rise/JvjYohz0EIKwJXMOev0vkXV8Fi6RtOUG/ckuv1fl1p00b8266i8h7fc5u3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r welche der genannten Personengruppen der fiktiven &amp;quot;Alles ums Haus GmbH&amp;quot; muss welcher Mindestlohn gezahlt werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckuv1fl1q00b9266iri7qyp47[.]target_ckuv1fl1q00b9266iri7qyp47</correctResponsePattern>
+            <correctResponsePattern>source_ckuv1fl1q00ba266iqgcchu2k[.]target_ckuv1fl1q00ba266iqgcchu2k</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckuv1fl1q00b9266iri7qyp47</id>
+        <description lang="en-US">Malergesellen></description>
+      </component>
+            <component>
+        <id>source_ckuv1fl1q00ba266iqgcchu2k</id>
+        <description lang="en-US">Büroangestellte></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckuv1fl1q00b9266iri7qyp47</id>
+            <description lang="en-US">Branchen Mindestlohn</description>
+          </component>
+                  <component>
+            <id>target_ckuv1fl1q00ba266iqgcchu2k</id>
+            <description lang="en-US">Gesetzlicher Mindestlohn</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://GE1chkXJMlaIjdSat2eCAuB_YUw9BsWe_rise/JvjYohz0EIKwJXMOev0vkXV8Fi6RtOUG/ckuv1hhmr00bj266in2y7sfb2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Familienbetrieb aus Polen hat f&amp;uuml;r Sie bereits als Subunternehmer gearbeitet. Nun erw&amp;auml;gen Sie, dass der 17-j&amp;auml;hrige und der 19-j&amp;auml;hrige Sohn der Familie in Ihrem Betrieb in Deutschland in der auftragsstarken Zeit aushelfen. Im Gespr&amp;auml;ch ist eine Einstellung f&amp;uuml;r 3 - 4 Monate mit einem Lohn oberhalb des polnischen und unterhalb des deutschen Mindestlohnes f&amp;uuml;r Maler.&lt;br&gt;Ben&amp;ouml;tigen Sie f&amp;uuml;r die polnischen Helfer eine Arbeitserlaubnis?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv1hhmr00bk266il7bgpuo5</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv1hhmr00bk266il7bgpuo5</id>
+        <description lang="en-US">Nein</description>
+      </component>
+            <component>
+        <id>choice_ckuv1hhmr00bl266i3nerzm0p</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GE1chkXJMlaIjdSat2eCAuB_YUw9BsWe_rise/JvjYohz0EIKwJXMOev0vkXV8Fi6RtOUG/ckuv1iube00bm266i2t29b23y" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Familienbetrieb aus Polen hat f&amp;uuml;r Sie bereits als Subunternehmer gearbeitet. Nun erw&amp;auml;gen Sie, dass der 17-j&amp;auml;hrige und der 19-j&amp;auml;hrige Sohn der Familie in Ihrem Betrieb in Deutschland in der auftragsstarken Zeit aushelfen. Im Gespr&amp;auml;ch ist eine Einstellung f&amp;uuml;r 3 - 4 Monate mit einem Lohn oberhalb des polnischen und unterhalb des deutschen Mindestlohnes f&amp;uuml;r Maler.&lt;br&gt;D&amp;uuml;rfen Sie die polnischen Helfer zu den genannten L&amp;ouml;hnen besch&amp;auml;ftigen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv1iube00bo266iudoe9evr</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv1iube00bn266iye33xjsz</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            <component>
+        <id>choice_ckuv1iube00bo266iudoe9evr</id>
+        <description lang="en-US">Nur den unter 17-j&amp;auml;hrigen, da der Mindestlohn ab dem 18. Lebensjahr gilt</description>
+      </component>
+            <component>
+        <id>choice_ckuv1ksgu00bp266ij5zrxfc4</id>
+        <description lang="en-US">Nein, beide m&amp;uuml;ssen den Mindestlohn bekommen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GE1chkXJMlaIjdSat2eCAuB_YUw9BsWe_rise/JvjYohz0EIKwJXMOev0vkXV8Fi6RtOUG/ckuv1nkt200bq266ieejz50gi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Familienbetrieb aus Polen hat f&amp;uuml;r Sie bereits als Subunternehmer gearbeitet. Nun erw&amp;auml;gen Sie, dass der 17-j&amp;auml;hrige und der 19-j&amp;auml;hrige Sohn der Familie in Ihrem Betrieb in Deutschland in der auftragsstarken Zeit aushelfen. Im Gespr&amp;auml;ch ist eine Einstellung f&amp;uuml;r 3 - 4 Monate mit einem Lohn oberhalb des polnischen und unterhalb des deutschen Mindestlohnes f&amp;uuml;r Maler.&lt;br&gt;Welchen Mindestlohn muss der 19-j&amp;auml;hrige bekommen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv1nkt200bs266i2q9xs52x</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv1nkt200br266irmrw05j0</id>
+        <description lang="en-US">Gesetzlicher Mindestlohn</description>
+      </component>
+            <component>
+        <id>choice_ckuv1nkt200bs266i2q9xs52x</id>
+        <description lang="en-US">Mindestlohn Maler und Lackierer</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GE1chkXJMlaIjdSat2eCAuB_YUw9BsWe_rise/JvjYohz0EIKwJXMOev0vkXV8Fi6RtOUG/ckuv1p7eb00bt266i5f6d164y" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Familienbetrieb aus Polen hat f&amp;uuml;r Sie bereits als Subunternehmer gearbeitet. Nun erw&amp;auml;gen Sie, dass der 17-j&amp;auml;hrige und der 19-j&amp;auml;hrige Sohn der Familie in Ihrem Betrieb in Deutschland in der auftragsstarken Zeit aushelfen. Im Gespr&amp;auml;ch ist eine Einstellung f&amp;uuml;r 3 - 4 Monate mit einem Lohn oberhalb des polnischen und unterhalb des deutschen Mindestlohnes f&amp;uuml;r Maler.&lt;br&gt;In welchem Land (Polen oder Deutschland) besteht f&amp;uuml;r die polnischen Helfer grunds&amp;auml;tzlich Sozialversicherungspflicht?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv1p7eb00bu266i6z6dl1bw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv1p7eb00bu266i6z6dl1bw</id>
+        <description lang="en-US">Deutschland, da hier der Betrieb ans&amp;auml;ssig ist</description>
+      </component>
+            <component>
+        <id>choice_ckuv1p7eb00bw266iu58xz5dr</id>
+        <description lang="en-US">Polen, da dies die staatsangeh&amp;ouml;rigkeit der Personen ist</description>
+      </component>
+            <component>
+        <id>choice_ckuv1p7eb00bx266intzuvksu</id>
+        <description lang="en-US">In beiden L&amp;auml;ndern</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GE1chkXJMlaIjdSat2eCAuB_YUw9BsWe_rise/JvjYohz0EIKwJXMOev0vkXV8Fi6RtOUG/ckuv1rfa800h1266ifytdav24" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Familienbetrieb aus Polen hat f&amp;uuml;r Sie bereits als Subunternehmer gearbeitet. Nun erw&amp;auml;gen Sie, dass der 17-j&amp;auml;hrige und der 19-j&amp;auml;hrige Sohn der Familie in Ihrem Betrieb in Deutschland in der auftragsstarken Zeit aushelfen. Im Gespr&amp;auml;ch ist eine Einstellung f&amp;uuml;r 3 - 4 Monate mit einem Lohn oberhalb des polnischen und unterhalb des deutschen Mindestlohnes f&amp;uuml;r Maler.&lt;br&gt;Welche Aussagen zur Anmeldung bei der Urlaubskasse sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv1rfa900h2266iqjx4tniz</correctResponsePattern>
+            <correctResponsePattern>choice_ckuv1rfa900h4266i12w9kkew</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv1rfa900h2266iqjx4tniz</id>
+        <description lang="en-US">Der 17 J&amp;auml;hrige musst nicht bei der UK angemeldet werden, weil am nur Personen teilnehmen k&amp;ouml;nnen, die am 10. Januar das 18. Lebensjahr vollendet haben.</description>
+      </component>
+            <component>
+        <id>choice_ckuv1rfa900h4266i12w9kkew</id>
+        <description lang="en-US">Der 19 J&amp;auml;hre muss bei UK angemeldet werden. Das UK-Verfahren ist im RTV geregelt und deshalb allgemeinverbindlich und f&amp;uuml;r jeden gewerblichen Mitarbeiter anzuwenden.</description>
+      </component>
+            <component>
+        <id>choice_ckuv1rfa900h5266ibxihgixx</id>
+        <description lang="en-US">Beide m&amp;uuml;ssen bei der UK angemeldet werden. Da ausnahmslos jeder Mitarbeitende gemeldet werden muss.</description>
+      </component>
+            <component>
+        <id>choice_ckuv1ud2u00qd266iise6kfyo</id>
+        <description lang="en-US">Keiner muss bei der UK angemeldet werden, da eine Anmeldung nur nur f&amp;uuml;r in Deutschlandland gemeldete Mitarbeitende gilt. </description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GE1chkXJMlaIjdSat2eCAuB_YUw9BsWe_rise/JvjYohz0EIKwJXMOev0vkXV8Fi6RtOUG/ckuv1vv2300vm266i0epg59ev" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ihr Betrieb f&amp;uuml;hrt f&amp;uuml;r die Mitarbeiter ein Arbeitszeitkonto. Da die Gutstunden auf dem Arbeitszeitkonto erst beim &amp;bdquo;Abfeiern&amp;ldquo; auszahlungswirksam werden, m&amp;ouml;chten Sie als Unternehmer nach einem Gespr&amp;auml;ch mit Ihrem Steuerberater die Aufwendungen f&amp;uuml;r die Gutstunden, die in das Folgejahr &amp;uuml;bernommen werden, in der Bilanz als R&amp;uuml;ckstellung ber&amp;uuml;cksichtigen lassen.&lt;br&gt;&lt;br&gt;Welche Gr&amp;ouml;&amp;szlig;en w&amp;uuml;rden Sie bei der Bildung/Berechnung der R&amp;uuml;ckstellung ber&amp;uuml;cksichtigen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv1vv2400vn266i6jriy1sm</correctResponsePattern>
+            <correctResponsePattern>choice_ckuv1vv2400vq266i93knx91l</correctResponsePattern>
+            <correctResponsePattern>choice_ckuv1vv2400vp266ix9961t4r</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv1vv2400vn266i6jriy1sm</id>
+        <description lang="en-US">gearbeitete Stunden mit Stundenlohn bewerten</description>
+      </component>
+            <component>
+        <id>choice_ckuv1vv2400vp266ix9961t4r</id>
+        <description lang="en-US">Beitr&amp;auml;ge f&amp;uuml;r die Sozialversicherung Arbeitgeber</description>
+      </component>
+            <component>
+        <id>choice_ckuv1vv2400vq266i93knx91l</id>
+        <description lang="en-US">Beitr&amp;auml;ge f&amp;uuml;r die Urlaubskasse</description>
+      </component>
+            <component>
+        <id>choice_ckuv1vv2400vo266ix6o3mhyi</id>
+        <description lang="en-US">Beitr&amp;auml;ge f&amp;uuml;r Sozialversicherung Arbeitnehmer</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GE1chkXJMlaIjdSat2eCAuB_YUw9BsWe_rise/JvjYohz0EIKwJXMOev0vkXV8Fi6RtOUG/ckuv1yht8010p266igw386cdb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ihr Betrieb f&amp;uuml;hrt f&amp;uuml;r die Mitarbeiter ein Arbeitszeitkonto. Da die Gutstunden auf dem Arbeitszeitkonto erst beim &amp;bdquo;Abfeiern&amp;ldquo; auszahlungswirksam werden, m&amp;ouml;chten Sie als Unternehmer nach einem Gespr&amp;auml;ch mit Ihrem Steuerberater die Aufwendungen f&amp;uuml;r die Gutstunden, die in das Folgejahr &amp;uuml;bernommen werden, in der Bilanz als R&amp;uuml;ckstellung ber&amp;uuml;cksichtigen lassen.&lt;br&gt;&lt;br&gt;Welche Gr&amp;ouml;&amp;szlig;en w&amp;uuml;rden Sie bei der Bildung / Berechnung der R&amp;uuml;ckstellung ber&amp;uuml;cksichtigen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv1yht8010q266ifto4mqh1</correctResponsePattern>
+            <correctResponsePattern>choice_ckuv1yht8010s266ibgwwwyyg</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv1yht8010q266ifto4mqh1</id>
+        <description lang="en-US">Beitr&amp;auml;ge f&amp;uuml;r die Berufsgenossenschaft</description>
+      </component>
+            <component>
+        <id>choice_ckuv1yht8010s266ibgwwwyyg</id>
+        <description lang="en-US">Umlage U1 und U2 (Ausgleichskasse, Lohnfortzahlung, Mutterschutz)</description>
+      </component>
+            <component>
+        <id>choice_ckuv1yht8010t266i20bgj35g</id>
+        <description lang="en-US">Beitr&amp;auml;ge f&amp;uuml;r Fortbildungen</description>
+      </component>
+            <component>
+        <id>choice_ckuv1yht8010r266i6o6wsdr6</id>
+        <description lang="en-US">Beitr&amp;auml;ge f&amp;uuml;r Zahnersatz</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://sYgqLpN1a6pV4JF4D0n9tjvtiG4rx47a_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Mitarbeiterabrechnung - Teil 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://sYgqLpN1a6pV4JF4D0n9tjvtiG4rx47a_rise/40tDTtgFnHgMsiz9wuEdzCJCvV6JehnC" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://sYgqLpN1a6pV4JF4D0n9tjvtiG4rx47a_rise/40tDTtgFnHgMsiz9wuEdzCJCvV6JehnC/ckuv0hc020035266ijhev6p7z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Das Maler- und Lackiererhandwerk geh&amp;ouml;rt zu den Branchen, f&amp;uuml;r die besondere gesetzliche Pflichten nach dem Arbeitnehmerentsendegesetz, Schwarzarbeitsbek&amp;auml;mpfungsgesetz bzw. Sozialgesetzbuch gelten.&amp;nbsp;&lt;br&gt;Eine dieser Pflichten ist die Aufzeichnung der Arbeitszeit. In Ihrem Betrieb werden Wochenzettel verwendet, in denen die Mitarbeiter f&amp;uuml;r jeden Arbeitstag Datum, Stundenzahl und T&amp;auml;tigkeit eintragen, z.B.:&lt;ul&gt;&lt;li&gt;Dienstag, 10. Juli 2012&lt;/li&gt;&lt;li&gt;8,5 Stunden&lt;/li&gt;&lt;li&gt;Fassadenbeschichtung mit Silikatfarbe&lt;/li&gt;&lt;/ul&gt;Erf&amp;uuml;llt dieser Wochenzettel die Anforderungen an die Arbeitszeit-Aufzeichnung nach dem Arbeitnehmerentsendegesetz?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv0hc020037266i65h7v2ot</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv0hc020036266ic0dlhcub</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            <component>
+        <id>choice_ckuv0hc020037266i65h7v2ot</id>
+        <description lang="en-US">Nein</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sYgqLpN1a6pV4JF4D0n9tjvtiG4rx47a_rise/40tDTtgFnHgMsiz9wuEdzCJCvV6JehnC/ckuv0ineb0038266ipm1rvqyh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Das Maler- und Lackiererhandwerk geh&amp;ouml;rt zu den Branchen, f&amp;uuml;r die besondere gesetzliche Pflichten nach dem Arbeitnehmerentsendegesetz, Schwarzarbeitsbek&amp;auml;mpfungsgesetz bzw. Sozialgesetzbuch gelten.&amp;nbsp;&lt;br&gt;Eine dieser Pflichten ist die Aufzeichnung der Arbeitszeit. In Ihrem Betrieb werden Wochenzettel verwendet, in denen die Mitarbeiter f&amp;uuml;r jeden Arbeitstag Datum, Stundenzahl und T&amp;auml;tigkeit eintragen, z.B.:&lt;ul&gt;&lt;li&gt;Dienstag, 10. Juli 2012&lt;/li&gt;&lt;li&gt;8,5 Stunden&lt;/li&gt;&lt;li&gt;Fassadenbeschichtung mit Silikatfarbe&lt;/li&gt;&lt;/ul&gt;Welche Elemente fehlen um den Anforderungen gerecht zu werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv0ineb0039266il6n4qn7b</correctResponsePattern>
+            <correctResponsePattern>choice_ckuv0ineb003b266i045rc7eb</correctResponsePattern>
+            <correctResponsePattern>choice_ckuv0ineb003c266impuwp2cq</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv0ineb0039266il6n4qn7b</id>
+        <description lang="en-US">Arbeitsbeginn</description>
+      </component>
+            <component>
+        <id>choice_ckuv0ineb003b266i045rc7eb</id>
+        <description lang="en-US">Arbeitsende</description>
+      </component>
+            <component>
+        <id>choice_ckuv0ineb003c266impuwp2cq</id>
+        <description lang="en-US">Pausezeiten</description>
+      </component>
+            <component>
+        <id>choice_ckuv0ineb003a266iklub1ez0</id>
+        <description lang="en-US">Vorgesetzter</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sYgqLpN1a6pV4JF4D0n9tjvtiG4rx47a_rise/40tDTtgFnHgMsiz9wuEdzCJCvV6JehnC/ckuv0lfty008z266i0hf7ymub" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wer ist f&amp;uuml;r die Aufzeichnung nach dem Arbeitnehmerentsendegesetz verantwortlich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv0lfty0091266ibz07t9vy</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv0lfty0090266i320omwb1</id>
+        <description lang="en-US">Arbeitnehmer</description>
+      </component>
+            <component>
+        <id>choice_ckuv0lfty0091266ibz07t9vy</id>
+        <description lang="en-US">Arbeitgeber</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sYgqLpN1a6pV4JF4D0n9tjvtiG4rx47a_rise/40tDTtgFnHgMsiz9wuEdzCJCvV6JehnC/ckuv0m3880092266ix9nbi07n" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der hier genannten sind branchentypische Pflichten, die Ihr Betrieb aufgrund des Arbeitnehmerentsendegesetzes, Schwarzarbeitsbek&amp;auml;mpfungsgesetzes bzw. Sozialgesetzbuchs besonders beachten muss?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv0m3890093266iicx47blf</correctResponsePattern>
+            <correctResponsePattern>choice_ckuv0m3890095266iwnsjyg0f</correctResponsePattern>
+            <correctResponsePattern>choice_ckuv0m3890096266igaavi8sc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv0m3890093266iicx47blf</id>
+        <description lang="en-US">Sofortmeldung zur Sozial-Versicherung</description>
+      </component>
+            <component>
+        <id>choice_ckuv0m3890095266iwnsjyg0f</id>
+        <description lang="en-US">Gew&amp;auml;hrleistung von Mindestlohn</description>
+      </component>
+            <component>
+        <id>choice_ckuv0m3890096266igaavi8sc</id>
+        <description lang="en-US">Belehrung der Mitarbeiter &amp;uuml;ber die Pflicht den Personalausweis mit zu f&amp;uuml;hren</description>
+      </component>
+            <component>
+        <id>choice_ckuv0m3890094266iidea8rkq</id>
+        <description lang="en-US">Abschlagszahlung</description>
+      </component>
+            <component>
+        <id>choice_ckuv0o8rg00d7266isrsgdzp5</id>
+        <description lang="en-US">Eintragung Transparenzregister </description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sYgqLpN1a6pV4JF4D0n9tjvtiG4rx47a_rise/40tDTtgFnHgMsiz9wuEdzCJCvV6JehnC/ckuv0pfmz00ec266icxn1a2mt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Auf einer Baustelle tauchen w&amp;auml;hrend der laufenden Arbeiten Fragestellungen hinsichtlich der denkmalschutzgerechten Bauausf&amp;uuml;hrung aufgrund der Bauplanung auf. Es findet eine umfangreiche Baustellenbesichtigung statt, die Arbeiten m&amp;uuml;ssen daher am Nachmittag teilweise ruhen. Da eine Fortsetzung an diesem Tag ungewiss ist, schicken Sie einen Teil der Mitarbeiter vorgezogen in den Feierabend.&amp;nbsp;&lt;br&gt;Bei der Lohnabrechnung werden diesen Mitarbeitern die Stunden vom Arbeitszeitkonto, das im Betrieb gef&amp;uuml;hrt wird, abgezogen. Ein Mitarbeiter beanstandet dies.&amp;nbsp;&lt;br&gt;Waren Sie berechtigt, die Stunden abzuziehen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv0pfmz00ee266iqfv42hu1</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv0pfmz00ed266i85tuxm8a</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            <component>
+        <id>choice_ckuv0pfmz00ee266iqfv42hu1</id>
+        <description lang="en-US">Nein</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sYgqLpN1a6pV4JF4D0n9tjvtiG4rx47a_rise/40tDTtgFnHgMsiz9wuEdzCJCvV6JehnC/ckuv0qsrz00ef266i8xvcgxqe" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Auf einer Baustelle tauchen w&amp;auml;hrend der laufenden Arbeiten Fragestellungen hinsichtlich der denkmalschutzgerechten Bauausf&amp;uuml;hrung aufgrund der Bauplanung auf. Es findet eine umfangreiche Baustellenbesichtigung statt, die Arbeiten m&amp;uuml;ssen daher am Nachmittag teilweise ruhen. Da eine Fortsetzung an diesem Tag ungewiss ist, schicken Sie einen Teil der Mitarbeiter vorgezogen in den Feierabend.&amp;nbsp;&lt;br&gt;Bei der Lohnabrechnung werden diesen Mitarbeitern die Stunden vom Arbeitszeitkonto, das im Betrieb gef&amp;uuml;hrt wird, abgezogen. Ein Mitarbeiter beanstandet dies.&amp;nbsp;&lt;br&gt;Sie waren nicht berechtigt, die Stunden abzuziehen - warum?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv0qss000eg266iwwyf9wiz</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv0qss000eg266iwwyf9wiz</id>
+        <description lang="en-US">Die Mitarbeitenden stellten ihre Arbeitskraft zur Verf&amp;uuml;gung und wurden vom Chef nach Hause geschickt.</description>
+      </component>
+            <component>
+        <id>choice_ckuv0qss000ei266iic3jrbso</id>
+        <description lang="en-US">Die Mitarbeitenden haben immer Anspruch auf vollen Lohnausgleich.</description>
+      </component>
+            <component>
+        <id>choice_ckuv0t8y200ko266iham84q7t</id>
+        <description lang="en-US">Das Arbeitszeitkonto bleibt von der tats&amp;auml;chlich geleisteten Arbeit unangetastet. </description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sYgqLpN1a6pV4JF4D0n9tjvtiG4rx47a_rise/40tDTtgFnHgMsiz9wuEdzCJCvV6JehnC/ckuv0ujdd00kp266if0fotg2o" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie wickeln eine ca. 500 km entfernte Ausw&amp;auml;rtsbaustelle ab. Die Wochenarbeitszeit betr&amp;auml;gt 40 Stunden (8 Stunden t&amp;auml;glich); insgesamt 7 Wochen.&lt;br&gt;Ein Geselle ist mit seinem privaten PKW am Montag der ersten Woche zu dieser Bau- stelle gefahren. An drei Freitagen, einschlie&amp;szlig;lich des Freitags am Ende der Arbeiten auf dieser Baustelle, ist der Geselle nach Hause gefahren. In der &amp;uuml;brigen Zeit hat er in einer nahe der Baustelle gelegenen Pension &amp;uuml;bernachtet, die der Betrieb bezahlt hat.&lt;br&gt;Nach den Arbeitszeit-Aufzeichnungen hat der Geselle 248 Stunden auf der Baustelle gearbeitet. Das Lohnb&amp;uuml;ro hat f&amp;uuml;r den Gesellen diese gearbeiteten Stunden, Ausl&amp;ouml;sun- gen und 2 x Fahrtkosten in den Lohnabrechnungen ber&amp;uuml;cksichtigt. Der Geselle verlangt von Ihnen die Bezahlung von weiteren 32 Stunden (4 Tage x 8 Stunden) f&amp;uuml;r Reisetage und zus&amp;auml;tzlich 2 x Fahrtkosten f&amp;uuml;r die vorgenommenen Heim- reisen.&lt;br&gt;Hat der Geselle noch Lohn- bzw. Fahrtkosten-Anspr&amp;uuml;che?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv0ujde00kt266id1ya80q0</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv0ujdd00kq266ignn5pm3d</id>
+        <description lang="en-US">Der Geselle hat keine weiteren Anspr&amp;uuml;che, das Lohnb&amp;uuml;ro hat die Ausw&amp;auml;rtsbaustelle richtig abgerechnet. Bezahlt wird nur Lohn f&amp;uuml;r die tats&amp;auml;chliche Arbeitszeit sowie Fahrtkosten f&amp;uuml;r An- und Abreise.</description>
+      </component>
+            <component>
+        <id>choice_ckuv0ujdd00ks266imdynkb63</id>
+        <description lang="en-US">Der Geselle hat keine Lohnanspr&amp;uuml;che mehr, aber Anspruch auf die Fahrtkosten. Bezahlt wird der Lohn f&amp;uuml;r die tats&amp;auml;chliche Arbeitszeit und die entstandenen Fahrtkosten f&amp;uuml;r die beiden Heimfahrten.</description>
+      </component>
+            <component>
+        <id>choice_ckuv0ujde00kt266id1ya80q0</id>
+        <description lang="en-US">Der Geselle hat noch Anspruch auf Lohn f&amp;uuml;r 16 Stunden sowie 1 x Fahrtkosten. Bezahlt wird der Lohn f&amp;uuml;r die tats&amp;auml;chliche Arbeitszeit, Lohn f&amp;uuml;r An- und Abreise sowie Fahrkosten f&amp;uuml;r eine berechtigte Heimfahrt.</description>
+      </component>
+            <component>
+        <id>choice_ckuv0ujdd00kr266ig54yi6ud</id>
+        <description lang="en-US">Der Geselle hat noch Anspruch auf Lohn f&amp;uuml;r 24 Stunden sowie 1 x Fahrtkosten. Bezahlt wird Lohn f&amp;uuml;r die tats&amp;auml;chliche Arbeitszeit, Lohn f&amp;uuml;r An- und Abreise sowie Lohn und Fahrkosten f&amp;uuml;r eine berechtigte Heimfahrt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sYgqLpN1a6pV4JF4D0n9tjvtiG4rx47a_rise/40tDTtgFnHgMsiz9wuEdzCJCvV6JehnC/ckuv0x9pu00my266i0lyb1si0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ihr Maler- und Lackiererbetrieb ist bislang kein Mitglied der Maler- und Lackiererinnung. Das T&amp;auml;tigkeitsspektrum Ihres Betriebes umfa&amp;szlig;t:&lt;ul&gt;&lt;li&gt;40 % Anstricharbeiten&lt;/li&gt;&lt;li&gt;35 % WDVS-Arbeiten&lt;/li&gt;&lt;li&gt;20 % Beton-Oberfl&amp;auml;chensanierung&lt;/li&gt;&lt;li&gt;5 % Ger&amp;uuml;stbau.&lt;/li&gt;&lt;/ul&gt;Von welcher Urlaubs-/Sozialkasse wird Ihr Betrieb erfasst?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv0x9pu00n2266il5r51cmx</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv0x9pu00mz266inu9pjxet</id>
+        <description lang="en-US">Sozialkasse des Ger&amp;uuml;stbaugewerbes (SOKA)</description>
+      </component>
+            <component>
+        <id>choice_ckuv0x9pu00n1266ijws9y722</id>
+        <description lang="en-US">Urlaubskasse der Betonbauer (URBE)</description>
+      </component>
+            <component>
+        <id>choice_ckuv0x9pu00n2266il5r51cmx</id>
+        <description lang="en-US">Sozialkassen der Bauwirtschaft (SOKA-BAU)</description>
+      </component>
+            <component>
+        <id>choice_ckuv0x9pu00n0266i6iaqixvj</id>
+        <description lang="en-US">Gemeinn&amp;uuml;tzige Urlaubskasse f&amp;uuml;r das Maler- und Lackiererhandwerk</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sYgqLpN1a6pV4JF4D0n9tjvtiG4rx47a_rise/40tDTtgFnHgMsiz9wuEdzCJCvV6JehnC/ckuv0z4uw00pz266iss1ijkv9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wer hat im deutschen Sozialversicherungssystem die Funktion von Einzugsstellen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv0z4uw00q1266i32t57x8w</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv0z4uw00q0266i7ujmja5x</id>
+        <description lang="en-US">Rentenversicherungstr&amp;auml;ger</description>
+      </component>
+            <component>
+        <id>choice_ckuv0z4uw00q1266i32t57x8w</id>
+        <description lang="en-US">Gesetzliche Krankenkassen</description>
+      </component>
+            <component>
+        <id>choice_ckuv0zo9e00q8266ipln4uteb</id>
+        <description lang="en-US">Berufsgenossenschaften </description>
+      </component>
+            <component>
+        <id>choice_ckuv0zshh00q9266i96fokfth</id>
+        <description lang="en-US">Versorgungseinrichtungen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sYgqLpN1a6pV4JF4D0n9tjvtiG4rx47a_rise/40tDTtgFnHgMsiz9wuEdzCJCvV6JehnC/ckuv108jo00qa266iz7wy0086" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welcher Termin gilt f&amp;uuml;r das Einreichen des Beitragsnachweises?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuv108jo00qe266ivw1gg17t</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuv108jo00qb266iojwudoj5</id>
+        <description lang="en-US">Der 10. Tag des Folgemonats, in dem die Besch&amp;auml;ftigung, mit der das Arbeitsentgelt erzielt wird, ausge&amp;uuml;bt worden ist.</description>
+      </component>
+            <component>
+        <id>choice_ckuv108jo00qd266i54fnnoq5</id>
+        <description lang="en-US">Der letzte Bankarbeitstag des Monats, in dem die Besch&amp;auml;ftigung, mit der das Arbeitsentgelt erzielt wird, ausge&amp;uuml;bt worden ist.</description>
+      </component>
+            <component>
+        <id>choice_ckuv108jo00qe266ivw1gg17t</id>
+        <description lang="en-US">Sp&amp;auml;testens zwei Arbeitstage vor F&amp;auml;lligkeit des Gesamtsozialversicherungsbeitrags ist der Beitragsnachweis zu &amp;uuml;bermitteln.</description>
+      </component>
+            <component>
+        <id>choice_ckuv108jo00qc266iiys9ggkr</id>
+        <description lang="en-US">Sp&amp;auml;testens mit der F&amp;auml;lligkeit des Gesamtsozialversicherungsbeitrags ist der Beitragsnachweis zu &amp;uuml;bermitteln.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
