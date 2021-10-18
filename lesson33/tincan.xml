@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://-gLfHpOozEtHkDZNg56kP9Rt_nKFK-pl_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Mitarbeiterführung</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://-gLfHpOozEtHkDZNg56kP9Rt_nKFK-pl_rise/IVSWg9hx5u5iRV7bucw6pNkRWp7Hxq9J" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://-gLfHpOozEtHkDZNg56kP9Rt_nKFK-pl_rise/IVSWg9hx5u5iRV7bucw6pNkRWp7Hxq9J/ckuwf9q4b0033266irdh80y1u" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Mit welchen diesen Ma&amp;szlig;nahmen k&amp;ouml;nnten Sie die Mitarbeiterstruktur und Mitarbeiterf&amp;uuml;hrung in Ihrem Unternehmen verbessern?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwf9q4b0034266i0er8y9qu</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwf9q4b0036266iftmyblcv</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwf9q4b0037266i16fjbb69</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwf9q4b0034266i0er8y9qu</id>
+        <description lang="en-US">Teams bilden, die fachlich und menschlich zusammenpassen</description>
+      </component>
+            <component>
+        <id>choice_ckuwf9q4b0036266iftmyblcv</id>
+        <description lang="en-US">Teams bzw. Mitarbeiter nach ihrem Leistungsverm&amp;ouml;gen einsetzen</description>
+      </component>
+            <component>
+        <id>choice_ckuwf9q4b0037266i16fjbb69</id>
+        <description lang="en-US">Schulungen der Mitarbeiter</description>
+      </component>
+            <component>
+        <id>choice_ckuwf9q4b0035266ir80v0u0o</id>
+        <description lang="en-US">Regelm&amp;auml;&amp;szlig;ige Restukturierung von Teams</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-gLfHpOozEtHkDZNg56kP9Rt_nKFK-pl_rise/IVSWg9hx5u5iRV7bucw6pNkRWp7Hxq9J/ckuwfc7d3008g266ii98v0rws" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Mit welchen diesen Ma&amp;szlig;nahmen k&amp;ouml;nnten Sie die Mitarbeiterstruktur und Mitarbeiterf&amp;uuml;hrung in Ihrem Unternehmen verbessern?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwfc7d3008h266ieqmij0ef</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfc7d3008j266iegg26e3h</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfc7d3008k266idollumhq</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfc7d3008i266i9fmm9bz1</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwfc7d3008h266ieqmij0ef</id>
+        <description lang="en-US">Qualit&amp;auml;ts- und Zeitvorgaben</description>
+      </component>
+            <component>
+        <id>choice_ckuwfc7d3008j266iegg26e3h</id>
+        <description lang="en-US">Mitarbeiter am Erfolg beteiligen</description>
+      </component>
+            <component>
+        <id>choice_ckuwfc7d3008k266idollumhq</id>
+        <description lang="en-US">Pr&amp;auml;mien, Sonderzahlungen, (steuerfreie) Geschenke, Feste</description>
+      </component>
+            <component>
+        <id>choice_ckuwfc7d3008i266i9fmm9bz1</id>
+        <description lang="en-US">Personal an Auftrags- und Kundenstruktur anpassen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-gLfHpOozEtHkDZNg56kP9Rt_nKFK-pl_rise/IVSWg9hx5u5iRV7bucw6pNkRWp7Hxq9J/ckuwfdu4z00af266i4nqwa669" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Als Vorgesetzter und Arbeitgeber sollten Sie in der Lage sein, Konflikte mit Mitarbeitern professionell zu l&amp;ouml;sen oder am besten von vorneherein zu vermeiden.&lt;br&gt;&lt;br&gt;Sie sind nicht zufrieden mit dem, was Ihr Mitarbeiter geleistet hat. Sie f&amp;uuml;hren deshalb ein Mitarbeitergespr&amp;auml;ch - wie k&amp;ouml;nnten Sie vorgehen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwfdu4z00ag266iddsvh71f</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfdu4z00ai266ib7rhbb4y</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwfdu4z00ag266iddsvh71f</id>
+        <description lang="en-US">Grund des/der Leistungshindernisse/s ausfindig machen anschlie&amp;szlig;end motivieren und Hilfestellung bieten. </description>
+      </component>
+            <component>
+        <id>choice_ckuwfdu4z00ai266ib7rhbb4y</id>
+        <description lang="en-US">Konkrete Vereinbarung zur Beseitigung des/der Leistungshindernisse/s treffen</description>
+      </component>
+            <component>
+        <id>choice_ckuwfdu4z00aj266inlw5qq2k</id>
+        <description lang="en-US">Mit Gehaltsk&amp;uuml;rzungen drohen</description>
+      </component>
+            <component>
+        <id>choice_ckuwfdu4z00ah266igdujxyxm</id>
+        <description lang="en-US">Mitarbeiter in Zukunft alleine arbeiten lassen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-gLfHpOozEtHkDZNg56kP9Rt_nKFK-pl_rise/IVSWg9hx5u5iRV7bucw6pNkRWp7Hxq9J/ckuwfhc8g00hk266ipr44q2es" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Als Vorgesetzter und Arbeitgeber sollten Sie in der Lage sein, Konflikte mit Mitarbeitern professionell zu l&amp;ouml;sen oder am besten von vorneherein zu vermeiden.&lt;br&gt;&lt;br&gt;Sie sind nicht zufrieden mit dem, was Ihr Mitarbeiter geleistet hat. Sie f&amp;uuml;hren deshalb ein Mitarbeitergespr&amp;auml;ch - wie k&amp;ouml;nnten Sie vorgehen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwfhc8g00hl266i7xbl0qz9</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfhc8g00hn266iho2mlh83</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfhc8g00ho266iaxqu63oc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwfhc8g00hl266i7xbl0qz9</id>
+        <description lang="en-US">Darstellen was vom Mitarbeiter zuk&amp;uuml;nftig erwartet wird</description>
+      </component>
+            <component>
+        <id>choice_ckuwfhc8g00hn266iho2mlh83</id>
+        <description lang="en-US">Nachfragen, ob Mitarbeiter die Forderungen verstanden hat</description>
+      </component>
+            <component>
+        <id>choice_ckuwfhc8g00ho266iaxqu63oc</id>
+        <description lang="en-US">Arbeitsrechtliche Konsequenzen deutlich machen (Abmahnung / K&amp;uuml;ndigung)</description>
+      </component>
+            <component>
+        <id>choice_ckuwfhc8g00hm266ig9s0i0uh</id>
+        <description lang="en-US">Leistung anderer Mitarbeiter hervorheben</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-gLfHpOozEtHkDZNg56kP9Rt_nKFK-pl_rise/IVSWg9hx5u5iRV7bucw6pNkRWp7Hxq9J/ckuwfj9v200kt266iekmk1c6o" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Trotz des Mitarbeitergespr&amp;auml;chs hat sich an der Qualit&amp;auml;t der Leistung nichts ge&amp;auml;ndert. Sie f&amp;uuml;hren ein Kritikgespr&amp;auml;ch.&lt;br&gt;Wie k&amp;ouml;nnten Sie vorgehen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwfj9v200ku266idtdnkawl</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfj9v200kw266inx3dqmcb</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfj9v200kx266i9ozzpod4</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwfj9v200ku266idtdnkawl</id>
+        <description lang="en-US">Mitarbeiter nach St&amp;auml;rken und Schw&amp;auml;chen fragen</description>
+      </component>
+            <component>
+        <id>choice_ckuwfj9v200kw266inx3dqmcb</id>
+        <description lang="en-US">Bei Schw&amp;auml;chendarstellung auf aktuelle Situation eingehen</description>
+      </component>
+            <component>
+        <id>choice_ckuwfj9v200kx266i9ozzpod4</id>
+        <description lang="en-US">Mitarbeiter auffordern, dass er sagt, was er in Zukunft besser machen m&amp;ouml;chte</description>
+      </component>
+            <component>
+        <id>choice_ckuwfj9v200kv266ida96u2sn</id>
+        <description lang="en-US">Die Kritikpunkte immer wieder wiederholen lassen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-gLfHpOozEtHkDZNg56kP9Rt_nKFK-pl_rise/IVSWg9hx5u5iRV7bucw6pNkRWp7Hxq9J/ckuwfpzk800ua266ie5nogbok" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Obwohl Sie dem Mitarbeiter beim Kritikgespr&amp;auml;ch deutlich gemacht haben, was Sie von ihm in Zukunft erwarten, hat er das nicht umgesetzt, was besprochen war.&amp;nbsp;&lt;br&gt;Welche Elemente m&amp;uuml;ssen Sie beim erstellen einer Abmahnung beachten? &amp;nbsp; &amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwfpzk800ub266insuicp39</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfpzk800ud266iwqjeb5h9</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfpzk800ue266i558yqcoi</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwfpzk800ub266insuicp39</id>
+        <description lang="en-US">Sachverhalt darstellen und bewerten</description>
+      </component>
+            <component>
+        <id>choice_ckuwfpzk800ud266iwqjeb5h9</id>
+        <description lang="en-US">Erinnerung an die besprochenen Vereinbarungen aus dem Mitarbeiter- und Kritikgespr&amp;auml;ch</description>
+      </component>
+            <component>
+        <id>choice_ckuwfpzk800ue266i558yqcoi</id>
+        <description lang="en-US">Datum von Mitarbeiter- und Kritigespr&amp;auml;ch</description>
+      </component>
+            <component>
+        <id>choice_ckuwfpzk800uc266i4fptqua1</id>
+        <description lang="en-US">Bezeugung von einer dritten Person</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-gLfHpOozEtHkDZNg56kP9Rt_nKFK-pl_rise/IVSWg9hx5u5iRV7bucw6pNkRWp7Hxq9J/ckuwft79k011t266i6s7xs42n" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sollte der Mitarbeiter sein Verhalten trotz Mitarbeiter-, Kritikgespr&amp;auml;ch und Abmahnung nicht &amp;auml;ndern folgt die K&amp;uuml;ndigung.&lt;br&gt;Welche Elemente m&amp;uuml;ssen Sie beim erstellen einer K&amp;uuml;ndigung beachten? &amp;nbsp; &amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwft79k011u266iilwoy73w</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwft79k011v266i5dm50avh</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwft79k011w266ivwycwmax</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwft79l011x266ibpuy0rcq</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwft79k011u266iilwoy73w</id>
+        <description lang="en-US">K&amp;uuml;ndigung schriftlich erteilen</description>
+      </component>
+            <component>
+        <id>choice_ckuwft79k011w266ivwycwmax</id>
+        <description lang="en-US">K&amp;uuml;ndigungsgrund nennen</description>
+      </component>
+            <component>
+        <id>choice_ckuwft79l011x266ibpuy0rcq</id>
+        <description lang="en-US">Bezug auf Abmahnung</description>
+      </component>
+            <component>
+        <id>choice_ckuwft79k011v266i5dm50avh</id>
+        <description lang="en-US">K&amp;uuml;ndigungstermin angeben</description>
+      </component>
+            <component>
+        <id>choice_ckuwfv5wh017f266iw0413s3n</id>
+        <description lang="en-US">&amp;quot;Letzte Chance&amp;quot; einr&amp;auml;umen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-gLfHpOozEtHkDZNg56kP9Rt_nKFK-pl_rise/IVSWg9hx5u5iRV7bucw6pNkRWp7Hxq9J/ckuwfw9co019a266iv5tgp563" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Mitarbeiter sollen eine m&amp;ouml;glichst objektive Bewertung ihrer Leistungen erfahren. Dazu f&amp;uuml;hren Sie mit jedem Mitarbeiter ein &amp;bdquo;Jahresgespr&amp;auml;ch&amp;ldquo;. Zur Vorbereitung dieser Gespr&amp;auml;che erstellen Sie eine Checkliste.&lt;br&gt;Welches sind sinnvolle Aspekte, die diese Checkliste enthalten sollte, um eine faire Leistungsbeurteilung der einzelnen Mitarbeiter zu erm&amp;ouml;glichen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwfw9co019b266isx1bsc1l</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfw9co019d266i3msxaz85</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfw9cp019e266iyr07qan6</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfztuz01fv266iw80jnvth</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwfw9co019b266isx1bsc1l</id>
+        <description lang="en-US">P&amp;uuml;nktlichkeit</description>
+      </component>
+            <component>
+        <id>choice_ckuwfw9co019d266i3msxaz85</id>
+        <description lang="en-US">Zuverl&amp;auml;ssigkeit</description>
+      </component>
+            <component>
+        <id>choice_ckuwfw9cp019e266iyr07qan6</id>
+        <description lang="en-US">Ordnung/Sauberkeit am Arbeitsplatz</description>
+      </component>
+            <component>
+        <id>choice_ckuwfw9co019c266izxlubgkv</id>
+        <description lang="en-US">Private Lebenslage</description>
+      </component>
+            <component>
+        <id>choice_ckuwfztuz01fv266iw80jnvth</id>
+        <description lang="en-US">Qualit&amp;auml;t der Arbeit</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-gLfHpOozEtHkDZNg56kP9Rt_nKFK-pl_rise/IVSWg9hx5u5iRV7bucw6pNkRWp7Hxq9J/ckuwfyybn01ff266ioylyrupm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Mitarbeiter sollen eine m&amp;ouml;glichst objektive Bewertung ihrer Leistungen erfahren. Dazu f&amp;uuml;hren Sie mit jedem Mitarbeiter ein &amp;bdquo;Jahresgespr&amp;auml;ch&amp;ldquo;. Zur Vorbereitung dieser Gespr&amp;auml;che erstellen Sie eine Checkliste.&lt;br&gt;Welches sind sinnvolle Aspekte, die diese Checkliste enthalten sollte, um eine faire Leistungsbeurteilung der einzelnen Mitarbeiter zu erm&amp;ouml;glichen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwfyybo01fg266inxjrqg3x</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfyybo01fh266i6xb7049y</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfyybo01fj266iwd9dz14w</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwfyybo01fi266infaamx5q</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwfyybo01fg266inxjrqg3x</id>
+        <description lang="en-US">Arbeitsgeschwindigkeit</description>
+      </component>
+            <component>
+        <id>choice_ckuwfyybo01fi266infaamx5q</id>
+        <description lang="en-US">Auffassungsgabe</description>
+      </component>
+            <component>
+        <id>choice_ckuwfyybo01fj266iwd9dz14w</id>
+        <description lang="en-US">Planungs- und Organisationstalent</description>
+      </component>
+            <component>
+        <id>choice_ckuwfyybo01fh266i6xb7049y</id>
+        <description lang="en-US">Kommunikationsf&amp;auml;higkeit</description>
+      </component>
+            <component>
+        <id>choice_ckuwg279m01ic266ixbnztxm2</id>
+        <description lang="en-US">Teilnahme an sozialen Events</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://-gLfHpOozEtHkDZNg56kP9Rt_nKFK-pl_rise/IVSWg9hx5u5iRV7bucw6pNkRWp7Hxq9J/ckuwg5sfa01m2266il2uex08g" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Mitarbeiter sollen eine m&amp;ouml;glichst objektive Bewertung ihrer Leistungen erfahren. Dazu f&amp;uuml;hren Sie mit jedem Mitarbeiter ein &amp;bdquo;Jahresgespr&amp;auml;ch&amp;ldquo;. Zur Vorbereitung dieser Gespr&amp;auml;che erstellen Sie eine Checkliste.&lt;br&gt;Welches sind sinnvolle Aspekte, die diese Checkliste enthalten sollte, um eine faire Leistungsbeurteilung der einzelnen Mitarbeiter zu erm&amp;ouml;glichen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwg5sfa01m3266ia4c0tm9d</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwg5sfa01m4266iw3krga83</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwg5sfa01m6266iqc6brxzw</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwg5sfa01m5266ijenmmiav</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwg5sfa01m3266ia4c0tm9d</id>
+        <description lang="en-US">Umgangsformen mit Kunden, Kollegen, Vorgesetzten</description>
+      </component>
+            <component>
+        <id>choice_ckuwg5sfa01m5266ijenmmiav</id>
+        <description lang="en-US">Verh&amp;auml;ltnis zu Kollegen und Vorgesetzten</description>
+      </component>
+            <component>
+        <id>choice_ckuwg5sfa01m6266iqc6brxzw</id>
+        <description lang="en-US">Selbst&amp;auml;ndigkeit</description>
+      </component>
+            <component>
+        <id>choice_ckuwg5sfa01m4266iw3krga83</id>
+        <description lang="en-US">Kritikf&amp;auml;higkeit</description>
+      </component>
+            <component>
+        <id>choice_ckuwg95xa01oc266ilz6xpekb</id>
+        <description lang="en-US">Aussprache </description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
