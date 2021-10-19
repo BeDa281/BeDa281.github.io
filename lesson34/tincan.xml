@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://_BP1mCfIswXbZLRGuGNF1quqTZKs5VkK_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Mitarbeitergewinnung</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://_BP1mCfIswXbZLRGuGNF1quqTZKs5VkK_rise/b7AnZUCN44YnL5wNa9U6MgeE5o1XKr-M" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://_BP1mCfIswXbZLRGuGNF1quqTZKs5VkK_rise/b7AnZUCN44YnL5wNa9U6MgeE5o1XKr-M/ckuwgl1ra0032266i1uv2suuo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Als Maler- und Lackierermeister z&amp;auml;hlt Personalwesen und -entwicklung zu einer Ihrer Hauptaufgaben. Als Vorgesetzter und Arbeitgeber sind Sie an einer langfristigen Zusammenarbeit mit Ihren Arbeitnehmern interessiert. Bei der Personalsuche legen Sie deshalb gro&amp;szlig;en Wert darauf, dass sich neue Mitarbeiter neben hohem fachlichem K&amp;ouml;nnen durch Flexibilit&amp;auml;t und Belastbarkeit auszeichnen.&lt;br&gt;Welche dieser M&amp;ouml;glichkeiten w&amp;uuml;rden sich f&amp;uuml;r die Suche nach qualifizierten Mitarbeitern anbieten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwgl1ra0033266iljyijwg4</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwgl1ra0034266immgi3bf0</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwgl1ra0035266i3uidzfkr</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwgne5n0088266iifvsn8h1</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwgl1ra0033266iljyijwg4</id>
+        <description lang="en-US">Stellenausschreibung per Internet (Jobb&amp;ouml;rsen und eigene Homepage)</description>
+      </component>
+            <component>
+        <id>choice_ckuwgl1ra0035266i3uidzfkr</id>
+        <description lang="en-US">Stellenausschreibung in der Tagespresse</description>
+      </component>
+            <component>
+        <id>choice_ckuwgl1ra0034266immgi3bf0</id>
+        <description lang="en-US">Lieferanten und Hersteller &amp;uuml;ber die Suche eines neuen Mitarbeiters informieren</description>
+      </component>
+            <component>
+        <id>choice_ckuwgne5n0088266iifvsn8h1</id>
+        <description lang="en-US">Stellenausschreibung an Agentur f&amp;uuml;r Arbeit</description>
+      </component>
+            <component>
+        <id>choice_ckuwgohg600b1266iwijmaflr</id>
+        <description lang="en-US">Zetteleinwurf in der Nachbarschaft</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://_BP1mCfIswXbZLRGuGNF1quqTZKs5VkK_rise/b7AnZUCN44YnL5wNa9U6MgeE5o1XKr-M/ckuwgoofp00c8266i8u7eknd0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Als Maler- und Lackierermeister z&amp;auml;hlt Personalwesen und -entwicklung zu einer Ihrer Hauptaufgaben. Als Vorgesetzter und Arbeitgeber sind Sie an einer langfristigen Zusammenarbeit mit Ihren Arbeitnehmern interessiert. Bei der Personalsuche legen Sie deshalb gro&amp;szlig;en Wert darauf, dass sich neue Mitarbeiter neben hohem fachlichem K&amp;ouml;nnen durch Flexibilit&amp;auml;t und Belastbarkeit auszeichnen.&lt;br&gt;Welche dieser Verfahren sind geeignete, um geeignete von weniger /ungeeigneten Bewerbern zu unterscheiden? &amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwgoofp00c9266ic7lpl8vj</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwgoofp00cb266iit8qquya</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwgoofp00cc266ihewf2yek</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwgoofp00c9266ic7lpl8vj</id>
+        <description lang="en-US">&amp;uuml;bersichtliche Kurzgliederung mit Bewerberprofil erstellen</description>
+      </component>
+            <component>
+        <id>choice_ckuwgoofp00cb266iit8qquya</id>
+        <description lang="en-US">Auswertung der Bewerbungsunterlagen (Bewerbungsschreiben, T&amp;auml;tigkeitsnachweise, Arbeitszeugnisse, Lebenslauf, Bewerberfoto, Zeugnisse)&lt;br&gt;&lt;br&gt;</description>
+      </component>
+            <component>
+        <id>choice_ckuwgoofp00cc266ihewf2yek</id>
+        <description lang="en-US">Bewerbertest durchf&amp;uuml;hren</description>
+      </component>
+            <component>
+        <id>choice_ckuwgoofp00ca266itvosjfgm</id>
+        <description lang="en-US">Zusage nach zeitlichem Eingang der Unterlagen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://_BP1mCfIswXbZLRGuGNF1quqTZKs5VkK_rise/b7AnZUCN44YnL5wNa9U6MgeE5o1XKr-M/ckuwgtqxt00jl266irlugpatf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Als Maler- und Lackierermeister z&amp;auml;hlt Personalwesen und -entwicklung zu einer Ihrer Hauptaufgaben. Als Vorgesetzter und Arbeitgeber sind Sie an einer langfristigen Zusammenarbeit mit Ihren Arbeitnehmern interessiert. Bei der Personalsuche legen Sie deshalb gro&amp;szlig;en Wert darauf, dass sich neue Mitarbeiter neben hohem fachlichem K&amp;ouml;nnen durch Flexibilit&amp;auml;t und Belastbarkeit auszeichnen.&lt;br&gt;Welche dieser Verfahren sind geeignete, um geeignete von weniger /ungeeigneten Bewerbern zu unterscheiden? &amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwgtqxt00jm266i9w4eb6mf</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwgtqxt00jo266id785twxk</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwgtqxt00jp266itszcomyt</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwgtqxt00jm266i9w4eb6mf</id>
+        <description lang="en-US">Einladung ausgew&amp;auml;hlter Bewerber zum Vorstellungsgespr&amp;auml;ch</description>
+      </component>
+            <component>
+        <id>choice_ckuwgtqxt00jo266id785twxk</id>
+        <description lang="en-US">befristetes Arbeitsverh&amp;auml;ltnis vereinbaren</description>
+      </component>
+            <component>
+        <id>choice_ckuwgtqxt00jp266itszcomyt</id>
+        <description lang="en-US">Vorab-Telefonat vereinbaren</description>
+      </component>
+            <component>
+        <id>choice_ckuwgtqxt00jn266ig8gier9k</id>
+        <description lang="en-US">Online-Personlichkeitstest machen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://_BP1mCfIswXbZLRGuGNF1quqTZKs5VkK_rise/b7AnZUCN44YnL5wNa9U6MgeE5o1XKr-M/ckuwgwz4000ok266ism93zjkz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zur Verst&amp;auml;rkung Ihres &amp;uuml;berregional t&amp;auml;tigen Malerteams suchen Sie erfahrene Maler- und Lackierergesellen mit hohem fachlichem K&amp;ouml;nnen, Flexibilit&amp;auml;t und Belastbarkeit. Es bewirbt sich ein neuer Mitarbeiter. Neben dem &amp;uuml;blichen Anschreiben, in dem der Bewerber seine Qualifikationen darstellt, liegt der Bewerbung nur der nachstehende Lebenslauf bei.&lt;br&gt;Analysieren Sie den Lebenslauf nach Besch&amp;auml;ftigungsl&amp;uuml;cken und Fehlzeiten.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwgwz4100oo266ig8hc576f</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwgwz4100ol266iuxergt32</id>
+        <description lang="en-US">Es gibt keine Besch&amp;auml;ftigungsl&amp;uuml;cken oder Fehlzeiten</description>
+      </component>
+            <component>
+        <id>choice_ckuwgwz4100on266im8s6q5r0</id>
+        <description lang="en-US">Es gibt 1 Besch&amp;auml;ftigungsl&amp;uuml;che</description>
+      </component>
+            <component>
+        <id>choice_ckuwgwz4100oo266ig8hc576f</id>
+        <description lang="en-US">Es gibt mehrere Besch&amp;auml;ftigungsl&amp;uuml;cken</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://_BP1mCfIswXbZLRGuGNF1quqTZKs5VkK_rise/b7AnZUCN44YnL5wNa9U6MgeE5o1XKr-M/ckuwh1ube00vo266ia5mx2d06" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zur Verst&amp;auml;rkung Ihres &amp;uuml;berregional t&amp;auml;tigen Malerteams suchen Sie erfahrene Maler- und Lackierergesellen mit hohem fachlichem K&amp;ouml;nnen, Flexibilit&amp;auml;t und Belastbarkeit. Es bewirbt sich ein neuer Mitarbeiter. Neben dem &amp;uuml;blichen Anschreiben, in dem der Bewerber seine Qualifikationen darstellt, liegt der Bewerbung nur der nachstehende Lebenslauf bei.&lt;br&gt;Welche Arbeits-/ Anstellungsverh&amp;auml;ltnissen mit Zeitdauer sind korrekt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwh1ube00vp266imk5iwzal</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwh1ube00vs266ixmy9kqni</correctResponsePattern>
+            <correctResponsePattern>choice_ckuwh1ube00vq266i22iuq148</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwh1ube00vp266imk5iwzal</id>
+        <description lang="en-US">Autoverk&amp;auml;ufer: 9 Jahre</description>
+      </component>
+            <component>
+        <id>choice_ckuwh1ube00vr266ia452bfe1</id>
+        <description lang="en-US">Autoverk&amp;auml;ufter: 2 Jahre</description>
+      </component>
+            <component>
+        <id>choice_ckuwh1ube00vs266ixmy9kqni</id>
+        <description lang="en-US">Lackierer: 11 Monate</description>
+      </component>
+            <component>
+        <id>choice_ckuwh1ube00vq266i22iuq148</id>
+        <description lang="en-US">Leiharbeitsfirma: 18 Jahre und 8 Monate</description>
+      </component>
+            <component>
+        <id>choice_ckuwh4ipo011q266iwtc20p35</id>
+        <description lang="en-US">Leiharbeitsfirma: 14 Jahre und 2 Monate</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://_BP1mCfIswXbZLRGuGNF1quqTZKs5VkK_rise/b7AnZUCN44YnL5wNa9U6MgeE5o1XKr-M/ckuwh4z0x0137266io9ed3803" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ihr Stammpersonal ist mit dem Auftrag &amp;bdquo;Historisches Amtshaus&amp;ldquo; ausgelastet. Sie haben zus&amp;auml;tzlich wechselnde Auftr&amp;auml;ge im Privatkundengesch&amp;auml;ft, der Auftragsbestand schwankt hier &amp;uuml;blicherweise aber st&amp;auml;rker, die Auftragsentwicklung erscheint Ihnen wirtschaftlich unsicher. Daher wollen Sie zwei Gesellen nicht dauerhaft, sondern befristet einstellen.&lt;br&gt;Geben Sie f&amp;uuml;r die folgenden in Frage kommenden Personen jeweils an, ob ein Sachgrund f&amp;uuml;r einen befristeten Arbeitsvertrag vorhanden ist und/oder ob Sie die Person ohne Sachgrund befristet einstellen d&amp;uuml;rfen.&lt;br&gt;Geselle mit Berufserfahrung, der in den letzten 6 Jahren regelm&amp;auml;&amp;szlig;ig jedes Jahr immer wieder eine gewisse Zeit in Ihrem Betrieb besch&amp;auml;ftigt wurde.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwh4z0x0138266i29q3k9ed</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwh4z0x0138266i29q3k9ed</id>
+        <description lang="en-US">Es liegt kein Sachgrund vor, weil Miterbeiter schon &amp;ouml;fter im besch&amp;auml;ftigt. Befristung des Arbeitsvertrags nicht zul&amp;auml;ssig.</description>
+      </component>
+            <component>
+        <id>choice_ckuwh4z0x0139266i9itsstq0</id>
+        <description lang="en-US">Da der Mitarbeiter schon mehrmals regelm&amp;auml;&amp;szlig;ig besch&amp;auml;ftigt wurde ist eine weitere Befristung des Arbeitsvertrages zul&amp;auml;ssig. </description>
+      </component>
+            <component>
+        <id>choice_ckuxtgi3k002x266i3c7d6cg1</id>
+        <description lang="en-US">Befristung m&amp;ouml;glich, mit oder ohne Sachgrund</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://_BP1mCfIswXbZLRGuGNF1quqTZKs5VkK_rise/b7AnZUCN44YnL5wNa9U6MgeE5o1XKr-M/ckuwh8rlq013a266ijwf67mvs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ihr Stammpersonal ist mit dem Auftrag &amp;bdquo;Historisches Amtshaus&amp;ldquo; ausgelastet. Sie haben zus&amp;auml;tzlich wechselnde Auftr&amp;auml;ge im Privatkundengesch&amp;auml;ft, der Auftragsbestand schwankt hier &amp;uuml;blicherweise aber st&amp;auml;rker, die Auftragsentwicklung erscheint Ihnen wirtschaftlich unsicher. Daher wollen Sie zwei Gesellen nicht dauerhaft, sondern befristet einstellen.&lt;br&gt;Geben Sie f&amp;uuml;r die folgenden in Frage kommenden Personen jeweils an, ob ein Sachgrund f&amp;uuml;r einen befristeten Arbeitsvertrag vorhanden ist und/oder ob Sie die Person ohne Sachgrund befristet einstellen d&amp;uuml;rfen.&lt;br&gt;Geselle mit Berufserfahrung, der die Ausbildung in einem anderen Malerbetrieb absolviert hat und bisher in zwei anderen Malerbetrieben mit befristeten Arbeitsvertr&amp;auml;gen besch&amp;auml;ftigt war.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuwh8rlq013b266intjfmwnw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuwh8rlq013b266intjfmwnw</id>
+        <description lang="en-US">Ausbildung gemacht, in anderen Betrieben besch&amp;auml;ftigt. Erstbesch&amp;auml;ftigung in dem eigenen Betrieb, deshalb befristete Besch&amp;auml;ftigung mit Sachgrund.</description>
+      </component>
+            <component>
+        <id>choice_ckuwh8rlq013d266iwjji1p02</id>
+        <description lang="en-US">Da eine Ausbildung vorliegt gilt trotz Betriebswechel, dass eine befristetet Besch&amp;auml;ftigung nicht m&amp;ouml;glich ist.</description>
+      </component>
+            <component>
+        <id>choice_ckuxtfrie002w266iycttgg4a</id>
+        <description lang="en-US">Befristung m&amp;ouml;glich, mit oder ohne Sachgrund</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://_BP1mCfIswXbZLRGuGNF1quqTZKs5VkK_rise/b7AnZUCN44YnL5wNa9U6MgeE5o1XKr-M/ckuxtgpsm002y266i4xdjbolw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ihr Stammpersonal ist mit dem Auftrag &amp;bdquo;Historisches Amtshaus&amp;ldquo; ausgelastet. Sie haben zus&amp;auml;tzlich wechselnde Auftr&amp;auml;ge im Privatkundengesch&amp;auml;ft, der Auftragsbestand schwankt hier &amp;uuml;blicherweise aber st&amp;auml;rker, die Auftragsentwicklung erscheint Ihnen wirtschaftlich unsicher. Daher wollen Sie zwei Gesellen nicht dauerhaft, sondern befristet einstellen.&lt;br&gt;Geben Sie f&amp;uuml;r die folgenden in Frage kommenden Personen jeweils an, ob ein Sachgrund f&amp;uuml;r einen befristeten Arbeitsvertrag vorhanden ist und/oder ob Sie die Person ohne Sachgrund befristet einstellen d&amp;uuml;rfen.&lt;br&gt;Geselle, der gerade seine Gesellenpr&amp;uuml;fung in Ihrem Betrieb bestanden hat.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuxtgpsn002z266i9vemb7kb</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuxtgpsn002z266i9vemb7kb</id>
+        <description lang="en-US">Befristeter Arbeitsvertrag wegen Neustart ins Berufsleben ohne Sachgrund</description>
+      </component>
+            <component>
+        <id>choice_ckuxtgpsn0031266ip9jnx4vu</id>
+        <description lang="en-US">Befristung m&amp;ouml;glich, mit oder ohne Sachgrund</description>
+      </component>
+            <component>
+        <id>choice_ckuxtgpsn0032266ija5kpfgg</id>
+        <description lang="en-US">Es liegt kein Sachgrund vor, weil Mitarbeiter schon vorher besch&amp;auml;ftigt wurde.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://_BP1mCfIswXbZLRGuGNF1quqTZKs5VkK_rise/b7AnZUCN44YnL5wNa9U6MgeE5o1XKr-M/ckuxtiwzc0067266ivtlnv9td" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ihr Stammpersonal ist mit dem Auftrag &amp;bdquo;Historisches Amtshaus&amp;ldquo; ausgelastet. Sie haben zus&amp;auml;tzlich wechselnde Auftr&amp;auml;ge im Privatkundengesch&amp;auml;ft, der Auftragsbestand schwankt hier &amp;uuml;blicherweise aber st&amp;auml;rker, die Auftragsentwicklung erscheint Ihnen wirtschaftlich unsicher. Daher wollen Sie zwei Gesellen nicht dauerhaft, sondern befristet einstellen.&lt;br&gt;Geben Sie f&amp;uuml;r die folgenden in Frage kommenden Personen jeweils an, ob ein Sachgrund f&amp;uuml;r einen befristeten Arbeitsvertrag vorhanden ist und/oder ob Sie die Person ohne Sachgrund befristet einstellen d&amp;uuml;rfen.&lt;br&gt;Geselle, der gerade seine Gesellenpr&amp;uuml;fung in einem anderen Malerbetrieb bestanden hat.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuxtiwzd0068266i3lwgtb92</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuxtiwzd0068266i3lwgtb92</id>
+        <description lang="en-US">Befristung m&amp;ouml;glich, mit oder ohne Sachgrund.</description>
+      </component>
+            <component>
+        <id>choice_ckuxtiwzd0069266isk5veg79</id>
+        <description lang="en-US">Es liegt kein Sachgrund vor, weil der Mitarbeiter schon im selben Gewerbe besch&amp;auml;ftigt war. </description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
