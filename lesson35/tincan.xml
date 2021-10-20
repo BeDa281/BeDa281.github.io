@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://CVYHYEU7jsi5gtefvcBRF-KBqKgkRuvX_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Rahmentarifvertrag - Teil 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://CVYHYEU7jsi5gtefvcBRF-KBqKgkRuvX_rise/hIuvu2hIQJzbxecW_Un6D_Pv-VKomXpH" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://CVYHYEU7jsi5gtefvcBRF-KBqKgkRuvX_rise/hIuvu2hIQJzbxecW_Un6D_Pv-VKomXpH/ckuzsquk4002w266ip6c7s0bw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Mitarbeiter wurde wegen eines Verkehrsunfalls mit seinem Privatfahrzeug angeklagt und als Angeklagter im Strafprozess vom Gericht geladen.&amp;nbsp;Besteht ein Anspruch auf Lohnfortzahlung f&amp;uuml;r die durch den Strafprozess nicht geleistete Arbeitszeit?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuzsquk4002x266iigwq9z0r</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuzsquk4002x266iigwq9z0r</id>
+        <description lang="en-US">Nein, &amp;nbsp;gem. &amp;sect; 13 Abs. 1 b RTV &amp;bdquo;Bezahlte Freistellung aus sonstigen Gr&amp;uuml;nden&amp;ldquo; entf&amp;auml;llt der Lohnanspruch wenn der Arbeitnehmer als Angeklagter in einem gerichtlichen Verfahren geladen ist.</description>
+      </component>
+            <component>
+        <id>choice_ckuzsquk4002y266if97uw09f</id>
+        <description lang="en-US">Ja, &amp;nbsp;gem. &amp;sect; 13 Abs. 1 b RTV &amp;bdquo;Bezahlte Freistellung aus sonstigen Gr&amp;uuml;nden&amp;ldquo; entsteht der Lohnanspruch wenn der Arbeitnehmer als Angeklagter in einem gerichtlichen Verfahren geladen ist.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CVYHYEU7jsi5gtefvcBRF-KBqKgkRuvX_rise/hIuvu2hIQJzbxecW_Un6D_Pv-VKomXpH/ckuzss5gj002z266i2xvbnirl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Mitarbeiter will f&amp;uuml;r die im Juni geplante Hochzeitsreise, die ihm nach seiner Kenntnis zustehenden zwei Tage bezahlte Freistellung erhalten. Er hat im August des letzten Jahres geheiratet. &amp;nbsp;&lt;br&gt;Besteht nach Tarifrecht Anspruch auf Freistellung?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuzss5gj0030266ikuhkqa0e</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuzss5gj0030266ikuhkqa0e</id>
+        <description lang="en-US">Es besteht kein Anspruch auf Freistellung da die Hochzeitsreise nicht die Eheschlie&amp;szlig;ung ist und nicht im engen zeitlichen Zusammenhang mit der Eheschlie&amp;szlig;ung (&amp;sect; 12 Nr. 2 e RTV) steht.</description>
+      </component>
+            <component>
+        <id>choice_ckuzss5gj0031266iya8l9v3v</id>
+        <description lang="en-US">Es besteht ein Anspruch auf Freistellung da die Hochzeitsreise in Zusammenhang mit der Eheschlie&amp;szlig;ung (&amp;sect; 12 Nr. 2 e RTV) steht.&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CVYHYEU7jsi5gtefvcBRF-KBqKgkRuvX_rise/hIuvu2hIQJzbxecW_Un6D_Pv-VKomXpH/ckuzsvlq70032266iehi29sip" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Einem Mitarbeiter, den Sie f&amp;uuml;r eine Baustelle eingestellt hatten und der dort vorwiegend unter Anleitung im Team t&amp;auml;tig war, haben Sie gek&amp;uuml;ndigt und ihm ein Arbeitszeugnis ausgestellt. Er w&amp;uuml;nscht eine &amp;Auml;nderung des Zeugnisses, in der Sie best&amp;auml;tigen sollen, dass er selbst&amp;auml;ndig gearbeitet und Mitarbeiter sowie Auszubildende angeleitet hat.&lt;br&gt;Besteht ein Rechtsanspruch auf &amp;Auml;nderung des Zeugnisses?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuzsvlq80033266ifck9zfc8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuzsvlq80033266ifck9zfc8</id>
+        <description lang="en-US">Nein, es besteht kein Rechtsanspruch. Der Arbeitgeber darf keine Bescheinigung &amp;uuml;ber T&amp;auml;tigkeiten ausstellen, die der Mitarbeiter nicht ausgef&amp;uuml;hrt hat.</description>
+      </component>
+            <component>
+        <id>choice_ckuzsvlq80034266ihlu92luw</id>
+        <description lang="en-US">Ja, es besteht ein Rechtsanspruch - zum &amp;uuml;bergeordneten Wohle der weiter Vermittlung des Mitarbeiters.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CVYHYEU7jsi5gtefvcBRF-KBqKgkRuvX_rise/hIuvu2hIQJzbxecW_Un6D_Pv-VKomXpH/ckuzsyurg0035266i4dlpxq1e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Einem Mitarbeiter, den Sie f&amp;uuml;r eine Baustelle eingestellt hatten und der dort vorwiegend unter Anleitung im Team t&amp;auml;tig war, haben Sie gek&amp;uuml;ndigt und ihm ein Arbeitszeugnis ausgestellt. Er w&amp;uuml;nscht eine &amp;Auml;nderung des Zeugnisses, in der Sie best&amp;auml;tigen sollen, dass er selbst&amp;auml;ndig gearbeitet und Mitarbeiter sowie Auszubildende angeleitet hat.&lt;br&gt;Welche Rechtsfolgen kann eine Zeugnis&amp;auml;nderung haben?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuzsyurg0036266ithisxgmv</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuzsyurg0036266ithisxgmv</id>
+        <description lang="en-US">Wenn ein falsches Zeugnis ausgestellt wurde, k&amp;ouml;nnte der neue Arbeitgeber Schadensersatz einklagen.</description>
+      </component>
+            <component>
+        <id>choice_ckuzsyurg0037266ilh35ejxo</id>
+        <description lang="en-US">Wenn ein falsches Zeugnis ausgestellt wurde, k&amp;ouml;nnte der Mitarbeiter Schadensersatz einklagen.</description>
+      </component>
+            <component>
+        <id>choice_ckuzsztg70038266ieujbbecy</id>
+        <description lang="en-US">Wenn ein falsches Zeugnis ausgestellt wurde, k&amp;ouml;nnte die Innung Schadensersatz einklagen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CVYHYEU7jsi5gtefvcBRF-KBqKgkRuvX_rise/hIuvu2hIQJzbxecW_Un6D_Pv-VKomXpH/ckuzt0ktp0039266ikm3htus1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Urlaubsanspr&amp;uuml;che f&amp;uuml;r gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk sind gestaffelt von 25 bis 30 Tage. Zur Abwicklung existiert als branchentypische Einrichtung die Urlaubskasse (UK). Im Jahr 2014 betr&amp;auml;gt der Beitragssatz f&amp;uuml;r gewerbliche Arbeitnehmer zur Urlaubskasse und zur Zusatzversorgungskasse 14,35 % des Bruttolohnes. &amp;Uuml;ber die betriebswirtschaftlichen Vor- und Nachteile des Urlaubskassen-Verfahrens gibt es oft unterschiedliche Aussagen.&lt;br&gt;&lt;br&gt;Welche der nachfolgenden Aussagen ist richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuzt1m8g003c266ixdis22bt</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuzt0ktp003a266i3posvjqh</id>
+        <description lang="en-US">Das Urlaubskassen-Verfahren belastet den Betrieb mit 12,35% Lohnzusatzkosten (14,35 % Beitrag Urlaubskasse minus 2% Beitrag Zusatzversorgungskasse).</description>
+      </component>
+            <component>
+        <id>choice_ckuzt0ktp003b266i0d0v5fje</id>
+        <description lang="en-US">Bei Ausscheiden eines Mitarbeiters und Wechsel in einen anderen Maler- und Lackiererbetrieb kommen auf den Betrieb Zusatzkosten zu, da der Resturlaub nicht durch das Urlaubskassen-Verfahren sondern nach dem Bundesurlaubsgesetz abzugelten ist.</description>
+      </component>
+            <component>
+        <id>choice_ckuzt1m8g003c266ixdis22bt</id>
+        <description lang="en-US">Bei einem schwerbehinderten Menschen (30 Tage Urlaubsanspruch zuz&amp;uuml;glich 5 Tage gesetzlicher Zusatzurlaub) und voller Gew&amp;auml;hrung des Urlaubs wird der Betrieb durch das Urlaubskassen-Verfahren kostenm&amp;auml;&amp;szlig;ig entlastet.&lt;br&gt;&lt;br&gt;</description>
+      </component>
+            <component>
+        <id>choice_ckuzt1y28003d266iv1xxayxz</id>
+        <description lang="en-US">Das Urlaubskassen-Verfahren entlastet den Betrieb in keinem Fall betriebswirtschaftlich, da die Verwaltungsaufwendungen nur in der Urlaubskasse in Wiesbaden entstehen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CVYHYEU7jsi5gtefvcBRF-KBqKgkRuvX_rise/hIuvu2hIQJzbxecW_Un6D_Pv-VKomXpH/ckuzt2kco003e266iru4j3lwx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ihr Malergeselle Lars Schmidt wird &amp;uuml;blicherweise nicht mit W&amp;auml;rmed&amp;auml;mm-Verbundsystem-Arbeiten (WDVS) sondern mit anderen Malerarbeiten im Betrieb besch&amp;auml;ftigt. F&amp;uuml;r den Auftrag &amp;quot;Einfamilienhaus&amp;quot; ist es jedoch notwendig, den Gesellen bei der D&amp;auml;mmung von Dach und Fassade mit einzusetzen. Von seiner t&amp;auml;glichen Einsatzzeit (8 Stunden) entfallen 90 % auf D&amp;auml;mmplatten kleben, Armierungsschicht und Putz aufbringen. 10% verbleiben f&amp;uuml;r Bohren zur Befestigung von Sockelschienen sowie Transport- und Reinigungsarbeiten. Sie verg&amp;uuml;ten dem Gesellen alle Arbeiten mit dem bislang gezahlten und arbeitsvertraglich vereinbarten Stundenlohn. Der Geselle beanstandet die Lohnabrechnung und verlangt Zuschlag f&amp;uuml;r die gesamte Einsatzzeit mit WDVS, da diese Arbeiten f&amp;uuml;r ihn ein Erschwernis darstellen.&lt;br&gt;&lt;br&gt;Hat der Geselle Lars Schmidt Anspruch auf Zuschlag?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuzt2kco003f266ih5rr4nqi</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuzt2kco003f266ih5rr4nqi</id>
+        <description lang="en-US">Nein, der Geselle hat keinen Anspruch auf Zuschlag.</description>
+      </component>
+            <component>
+        <id>choice_ckuzt2kco003g266ixd8rxv6s</id>
+        <description lang="en-US">Ja, der Geselle hat einen Ansprch auf Zuschlag</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CVYHYEU7jsi5gtefvcBRF-KBqKgkRuvX_rise/hIuvu2hIQJzbxecW_Un6D_Pv-VKomXpH/ckuzt3efw003h266i2g8iibxo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ihr Malergeselle Lars Schmidt wird &amp;uuml;blicherweise nicht mit W&amp;auml;rmed&amp;auml;mm-Verbundsystem-Arbeiten (WDVS) sondern mit anderen Malerarbeiten im Betrieb besch&amp;auml;ftigt. F&amp;uuml;r den Auftrag &amp;quot;Einfamilienhaus&amp;quot; ist es jedoch notwendig, den Gesellen bei der D&amp;auml;mmung von Dach und Fassade mit einzusetzen. Von seiner t&amp;auml;glichen Einsatzzeit (8 Stunden) entfallen 90 % auf D&amp;auml;mmplatten kleben, Armierungsschicht und Putz aufbringen. 10% verbleiben f&amp;uuml;r Bohren zur Befestigung von Sockelschienen sowie Transport- und Reinigungsarbeiten. Sie verg&amp;uuml;ten dem Gesellen alle Arbeiten mit dem bislang gezahlten und arbeitsvertraglich vereinbarten Stundenlohn. Der Geselle beanstandet die Lohnabrechnung und verlangt Zuschlag f&amp;uuml;r die gesamte Einsatzzeit mit WDVS, da diese Arbeiten f&amp;uuml;r ihn ein Erschwernis darstellen.&lt;br&gt;Warum hat der Geselle keinen Anspruch auf Zuschlag? </name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuzt3efx003i266iv2v48sjt</correctResponsePattern>
+            <correctResponsePattern>choice_ckuzt3efx003j266i9p1t5xdf</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuzt3efx003i266iv2v48sjt</id>
+        <description lang="en-US">WDVS-Arbeiten sind nach RTV grunds&amp;auml;tzlich nicht zuschlagspflichtig.</description>
+      </component>
+            <component>
+        <id>choice_ckuzt3efx003j266i9p1t5xdf</id>
+        <description lang="en-US">Zuschl&amp;auml;ge fallen nur dann an, wenn bei WDVS-Arbeiten zus&amp;auml;tzliche Erschwernisse anfallen, z. B. Bohrarbeiten (&amp;sect; 35 Nr. 1f RTV) und diese mehr als 1 Stunde am Tag ausmachen.</description>
+      </component>
+            <component>
+        <id>choice_ckuzt53l4005f266i1x3gyn3s</id>
+        <description lang="en-US">Zuschl&amp;auml;ge fallen nur dann an, wenn bei WDVS-Arbeiten zus&amp;auml;tzliche Erschwernisse anfallen, z. B. Bohrarbeiten (&amp;sect; 35 Nr. 1f RTV) und diese mehr als 4 Stunde am Tag ausmachen.</description>
+      </component>
+            <component>
+        <id>choice_ckuzt9eq8006f266iko2tbkf4</id>
+        <description lang="en-US">Da an diesem Arbeitstag ausschlie&amp;szlig;lich WDVS-Arbeiten geleistet wurden. </description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CVYHYEU7jsi5gtefvcBRF-KBqKgkRuvX_rise/hIuvu2hIQJzbxecW_Un6D_Pv-VKomXpH/ckuztaovo00az266i2gq0hkma" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Geselle ist seit 6 Jahren bei Ihnen besch&amp;auml;ftigt. Sie haben mit dem Gesellen einen Lohn von 15,00 &amp;euro;/Std. vereinbart, der Tariflohn betr&amp;auml;gt 14,73 &amp;euro;/Std. Zum 31. Januar will der Geselle selbst k&amp;uuml;ndigen und aus Ihrem Betrieb ausscheiden, um in einen anderen Malerbetrieb als Fachkraft zu wechseln. Sie haben f&amp;uuml;r den Gesellen bisher ein Arbeitszeitkonto gef&amp;uuml;hrt. Aufgrund der guten Auftragslage Ihres Betriebes im letzten Sommer und Herbst besteht zu Ende Januar (31.1.) auf dem Konto noch ein Guthaben von 120 Stunden. &lt;br&gt;Welche K&amp;uuml;ndigungsfrist nach RTV hat der Geselle?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuztaovo00b0266i8ab5q7jf</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuztaovo00b0266i8ab5q7jf</id>
+        <description lang="en-US">12 Werktage, &amp;sect; 45 Nr. 1 RTV</description>
+      </component>
+            <component>
+        <id>choice_ckuztaovo00b1266iwwl75zia</id>
+        <description lang="en-US">24 Werktage, &amp;sect; 55 Nr. 1 RTV</description>
+      </component>
+            <component>
+        <id>choice_ckuztbecw00b2266i8bvdx5ha</id>
+        <description lang="en-US">36 Werktage, &amp;sect; 35 Nr. 1 RTV</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CVYHYEU7jsi5gtefvcBRF-KBqKgkRuvX_rise/hIuvu2hIQJzbxecW_Un6D_Pv-VKomXpH/ckuztc75u00b3266iqs89vybh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Geselle ist seit 6 Jahren bei Ihnen besch&amp;auml;ftigt. Sie haben mit dem Gesellen einen Lohn von 15,00 &amp;euro;/Std. vereinbart, der Tariflohn betr&amp;auml;gt 14,73 &amp;euro;/Std. Zum 31. Januar will der Geselle selbst k&amp;uuml;ndigen und aus Ihrem Betrieb ausscheiden, um in einen anderen Malerbetrieb als Fachkraft zu wechseln. Sie haben f&amp;uuml;r den Gesellen bisher ein Arbeitszeitkonto gef&amp;uuml;hrt. Aufgrund der guten Auftragslage Ihres Betriebes im letzten Sommer und Herbst besteht zu Ende Januar (31.1.) auf dem Konto noch ein Guthaben von 120 Stunden.&lt;br&gt;Hat der Geselle Anspruch auf Auszahlung der Guthaben aus dem Arbeitszeitkonto?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuztc75u00b4266i3vh950wb</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuztc75u00b4266i3vh950wb</id>
+        <description lang="en-US">Ja. &amp;sect; 9 Nr, RTV sieht eine Auszahlung bei Ausscheiden vor, unabh&amp;auml;ngig davon, wer gek&amp;uuml;ndigt hat.</description>
+      </component>
+            <component>
+        <id>choice_ckuztc75u00b5266ifhpm9c89</id>
+        <description lang="en-US">Nein. &amp;sect; 9 Nr, RTV sieht eine Auszahlung bei Ausscheiden nur dann vor, wenn der Arbeitgeber gek&amp;uuml;ndigt hat.</description>
+      </component>
+            <component>
+        <id>choice_ckuztkaye00ef266i6x4a15hq</id>
+        <description lang="en-US">Nein. &amp;sect; 9 Nr, RTV sieht eine Auszahlung bei Ausscheiden nur dann vor, wenn der Mitarbeiter mindestens 10 Jahre im Betrieb t&amp;auml;tig war.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CVYHYEU7jsi5gtefvcBRF-KBqKgkRuvX_rise/hIuvu2hIQJzbxecW_Un6D_Pv-VKomXpH/ckuztd4c800b6266irp7m8kge" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Geselle ist seit 6 Jahren bei Ihnen besch&amp;auml;ftigt. Sie haben mit dem Gesellen einen Lohn von 15,00 &amp;euro;/Std. vereinbart, der Tariflohn betr&amp;auml;gt 14,73 &amp;euro;/Std. Zum 31. Januar will der Geselle selbst k&amp;uuml;ndigen und aus Ihrem Betrieb ausscheiden, um in einen anderen Malerbetrieb als Fachkraft zu wechseln. Sie haben f&amp;uuml;r den Gesellen bisher ein Arbeitszeitkonto gef&amp;uuml;hrt. Aufgrund der guten Auftragslage Ihres Betriebes im letzten Sommer und Herbst besteht zu Ende Januar (31.1.) auf dem Konto noch ein Guthaben von 120 Stunden.&lt;br&gt;Wie hoch ist die Auszahlung aus dem Arbeitszeitkonto?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuztd4c800b7266ivo4ikxp3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuztd4c800b7266ivo4ikxp3</id>
+        <description lang="en-US">Auszahlungsbetrag: 120 Std. &amp;middot; 15,00 &amp;euro;/Std. vereinbarter Lohn/Std. zuz&amp;uuml;glich 25 % Mehrarbeitszuschlag &amp;nbsp;= 2.250,00 &amp;euro;</description>
+      </component>
+            <component>
+        <id>choice_ckuztd4c800b9266i5qddfc0x</id>
+        <description lang="en-US">Auszahlungsbetrag: 120 Std. &amp;middot; 14,73 &amp;euro;/Std. vereinbarter Lohn/Std. zuz&amp;uuml;glich 25 % Mehrarbeitszuschlag &amp;nbsp;= 2.209,50 &amp;euro;</description>
+      </component>
+            <component>
+        <id>choice_ckuztd4c800ba266ikfibggku</id>
+        <description lang="en-US">Auszahlungsbetrag: 120 Std / 2 = 60 Std. &amp;middot; 15,00&amp;euro;/Std. vereinbarter Lohn/Std. zuz&amp;uuml;glich 25 % Mehrarbeitszuschlag &amp;nbsp;= 1.125,00 &amp;euro;</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
