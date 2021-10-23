@@ -51,7 +51,7 @@
           </activity>
         
     <activity id="http://GvF1kaFscXBqdgY3SODp29fywd38yoql_rise/Ydjqhp1X3nGgzpz5pGMyAtaX9A2MgNjP/ckusganfx006t266fapt45ugs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">F&amp;uuml;r die Beschichtungsarbeiten in der Produktionshalle sin Fahrger&amp;uuml;ste vorgesehen.&lt;br&gt;Welche Eigenschaften treffen auf Fahrger&amp;uuml;ste zu?</name>
+      <name lang="en-US">F&amp;uuml;r die Beschichtungsarbeiten in der Produktionshalle sind Fahrger&amp;uuml;ste vorgesehen.&lt;br&gt;Welche Eigenschaften treffen auf Fahrger&amp;uuml;ste zu?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
