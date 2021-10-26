@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://D6_ZTixkZWkk1CaCMXWyxOGCCb0WThea_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Zinsberechnung</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://D6_ZTixkZWkk1CaCMXWyxOGCCb0WThea_rise/vBptl-bweahetbBT7ewqmy6MrH7rHnJo" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://D6_ZTixkZWkk1CaCMXWyxOGCCb0WThea_rise/vBptl-bweahetbBT7ewqmy6MrH7rHnJo/ckv8cz6yp0037266imypdyudr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r den Auftrag &amp;nbsp; konnten Sie mit Ihrem Lieferanten f&amp;uuml;r den Werkstoffeinkauf von 54.000 &amp;euro; bei einer Zahlungsfrist von 14 Tagen 2 % Skonto aushandeln. Andernfalls zahlen Sie nach 30 Tagen ohne Abzug. Bei der Bank l&amp;auml;ge der Zinssatz bei 12,00 % p.a.&amp;nbsp;&lt;br&gt;Wie entscheiden Sie nach der Vergleichsberechnung?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckv8cz6yp0038266i9v2bfwky</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckv8cz6yp0038266i9v2bfwky</id>
+        <description lang="en-US">F&amp;uuml;r die Firma w&amp;uuml;rde es sich also lohnen, einen Kredit aufzunehmen, um den Skontoabzug in Anspruch nehmen zu k&amp;ouml;nnen</description>
+      </component>
+            <component>
+        <id>choice_ckv8cz6yp003a266if6471k2v</id>
+        <description lang="en-US">F&amp;uuml;r die Firma w&amp;uuml;rde es sich nicht lohnen, einen Kredit aufzunehmen, um den Skontoabzug in Anspruch nehmen zu k&amp;ouml;nnen</description>
+      </component>
+            <component>
+        <id>choice_ckv8cz6yp003b266iizlvnu1k</id>
+        <description lang="en-US">F&amp;uuml;r die Firma w&amp;uuml;rde es sich nur bei einem ganz niedrigen Zinssatz lohnen, einen Kredit aufzunehmen, um den Skontoabzug in Anspruch nehmen zu k&amp;ouml;nnen</description>
+      </component>
+            <component>
+        <id>choice_ckv8cz6yp0039266ije95jo0g</id>
+        <description lang="en-US">F&amp;uuml;r die Firma w&amp;uuml;rde es sich immer lohnen (gleichg&amp;uuml;ltig wie hoch der Bankzinssatz ist), einen Kredit aufzunehmen, um den Skontoabzug in Anspruch nehmen zu k&amp;ouml;nnen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://D6_ZTixkZWkk1CaCMXWyxOGCCb0WThea_rise/vBptl-bweahetbBT7ewqmy6MrH7rHnJo/ckv8d0nad003i266ig10yyrek" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Formeln zur Berechnung des Jahreszinssatz des Skontos ist richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckv8d0nad003j266ipqa4bqem</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckv8d0nad003j266ipqa4bqem</id>
+        <description lang="en-US">(% Skonto x 360 Tage) &amp;divide; [Zahlungsziel (Tage) - Skontofrist (Tage)]</description>
+      </component>
+            <component>
+        <id>choice_ckv8d0nad003k266iw7oyhkz4</id>
+        <description lang="en-US">(% Skonto x 365 Tage) &amp;divide; [Zahlungsziel (Tage) - Skontofrist (Tage)]</description>
+      </component>
+            <component>
+        <id>choice_ckv8d1tyb003l266i0f0zpxc7</id>
+        <description lang="en-US">(% Skonto x 360 Tage) &amp;divide; [Skontofrist (Tage) - Zahlungsziel (Tage)]</description>
+      </component>
+            <component>
+        <id>choice_ckv8d2yns003m266iyfdru941</id>
+        <description lang="en-US">[Skontofrist (Tage) - Zahlungsziel (Tage)] &amp;divide; (% Skonto x 365 Tage)&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://D6_ZTixkZWkk1CaCMXWyxOGCCb0WThea_rise/vBptl-bweahetbBT7ewqmy6MrH7rHnJo/ckv8d4sc5003n266iz2d3w5fa" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was bedeutet 12% p.a.?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckv8d4sc5003o266ikypei9s0</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckv8d4sc5003o266ikypei9s0</id>
+        <description lang="en-US">12 % Zinsen werden f&amp;uuml;r ein Jahr erhoben.</description>
+      </component>
+            <component>
+        <id>choice_ckv8d4sc5003p266i1qbarlib</id>
+        <description lang="en-US">12 % Zinsen werden pro Person Kreditnehmer erhoben unabh&amp;auml;ngig vom Zeitraum.</description>
+      </component>
+            <component>
+        <id>choice_ckv8d5mb7003q266izzf9zo8t</id>
+        <description lang="en-US">12 % Zinsen werden f&amp;uuml;r einen geliehenen Betrag erhoben unabh&amp;auml;ngig des R&amp;uuml;ckzahlungszeitraums.</description>
+      </component>
+            <component>
+        <id>choice_ckv8d5vgh003r266icc0tuznn</id>
+        <description lang="en-US">12 % Zinsen werden f&amp;uuml;r ein Monat erhoben.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://D6_ZTixkZWkk1CaCMXWyxOGCCb0WThea_rise/vBptl-bweahetbBT7ewqmy6MrH7rHnJo/ckv8d68ix003s266in02qrg9e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie berechnen sich ein Bank Jahreszins pro Monat?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckv8d68iy003t266i78e7k6xb</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckv8d68iy003t266i78e7k6xb</id>
+        <description lang="en-US">Zinsen pro Monat = (Kreditbetrag x Zinssatz) &amp;divide; (100 x 12)</description>
+      </component>
+            <component>
+        <id>choice_ckv8d68iy003u266i3j8ao90c</id>
+        <description lang="en-US">Zinsen pro Monatstage (30/31/Februar 28 oder 29) = (Kreditbetrag x Zinssatz) &amp;divide; (100 x Monatstage)</description>
+      </component>
+            <component>
+        <id>choice_ckv8d6vty003v266i0lv6zy9m</id>
+        <description lang="en-US">Zinsen pro Vierteljahr = (Kreditbetrag x Zinssatz) &amp;divide; (100 x 12)</description>
+      </component>
+            <component>
+        <id>choice_ckv8d757c003w266ia3rs5kh2</id>
+        <description lang="en-US">Zinsen pro Monat = (Kreditbetrag &amp;divide; Zinssatz) &amp;divide; (100 x 12)</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://D6_ZTixkZWkk1CaCMXWyxOGCCb0WThea_rise/vBptl-bweahetbBT7ewqmy6MrH7rHnJo/ckv8d7zcv003x266iom5cuw00" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie viele Banktage hat ein Bankjahr/ Monat?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckv8d7zcv003y266i7yhnomio</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckv8d7zcv003y266i7yhnomio</id>
+        <description lang="en-US">360 Banktage/ 30 Monatstage</description>
+      </component>
+            <component>
+        <id>choice_ckv8d7zcv003z266ikpxvfxg0</id>
+        <description lang="en-US">365 Banktage/ 31 Monatstage</description>
+      </component>
+            <component>
+        <id>choice_ckv8d8mj20040266iydsdnb4f</id>
+        <description lang="en-US">365/ im Schaltjahr 366 Banktage/ 30 Monatstage</description>
+      </component>
+            <component>
+        <id>choice_ckv8d8se10041266i2nm0b0bf</id>
+        <description lang="en-US">360 Banktage/ je nach Monat</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

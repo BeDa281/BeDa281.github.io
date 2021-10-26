@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://ff48VKF4NK0FU6VkOFUkJZD0Pu6NeqyF_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Rahmentarifvertrag - Teil 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://ff48VKF4NK0FU6VkOFUkJZD0Pu6NeqyF_rise/007A4BVk-JfoZnhHeWSV1G853IdyNA9X" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://ff48VKF4NK0FU6VkOFUkJZD0Pu6NeqyF_rise/007A4BVk-JfoZnhHeWSV1G853IdyNA9X/ckuztn7rj002w266ietw1edzw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Regelungen zur Urlaubskasse sind f&amp;uuml;r Malerbetriebe allgemeinverbindlich.&amp;nbsp;In welchen Tarifvertr&amp;auml;gen werden die Urlaubskasse und das Urlaubskassen-Verfahren geregelt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuztn7rk002x266i6f3uy13t</correctResponsePattern>
+            <correctResponsePattern>choice_ckuztn7rk002y266iqdvddq13</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuztn7rk002x266i6f3uy13t</id>
+        <description lang="en-US">Rahmentarifvertrag f&amp;uuml;r die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk (RTV)</description>
+      </component>
+            <component>
+        <id>choice_ckuztn7rk002y266iqdvddq13</id>
+        <description lang="en-US">Tarifvertrag &amp;uuml;ber das Verfahren f&amp;uuml;r den Urlaub und die Zusatzversorgung im&lt;br&gt;Maler- und Lackiererhandwerk (VTV Maler-Lackierer)</description>
+      </component>
+            <component>
+        <id>choice_ckuztoxbv003m266i4b5pu0gp</id>
+        <description lang="en-US">Tarifvertrag des Innungsverband Nordrhein f&amp;uuml;r gewerbliche Arbeitnehmer im Malergewerbe (TIN)</description>
+      </component>
+            <component>
+        <id>choice_ckuztq9y4006z266imoxnlsn0</id>
+        <description lang="en-US">Tarifvertrag &amp;uuml;ber das Verfahren f&amp;uuml;r den Urlaub und die Zusatzversorgung im&lt;br&gt;Ausschreibungsblatt des Malerdachverbands (TVMD)</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ff48VKF4NK0FU6VkOFUkJZD0Pu6NeqyF_rise/007A4BVk-JfoZnhHeWSV1G853IdyNA9X/ckuztrlv8009b266i7irkdciy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was bedeutet Allgemeinverbindlichkeit eines Tarifvertrages?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuztrlv8009c266ivkv57ryn</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuztrlv8009c266ivkv57ryn</id>
+        <description lang="en-US">Der Tarifvertrag gilt f&amp;uuml;r alle Arbeitgeber und alle Arbeitnehmer, unabh&amp;auml;ngig davon, ob sie im Arbeitgeberverband oder in der Gewerkschaft organisiert sind.</description>
+      </component>
+            <component>
+        <id>choice_ckuztrlv8009d266iom1kdn6t</id>
+        <description lang="en-US">Der Tarifvertrag gilt f&amp;uuml;r alle Arbeitgeber, 
+unabh&amp;auml;ngig davon, ob sie im Arbeitgeberverband organisiert sind.</description>
+      </component>
+            <component>
+        <id>choice_ckuztt2m8009e266iycvkbth4</id>
+        <description lang="en-US">Der Tarifvertrag gilt f&amp;uuml;r alle Arbeitnehmer, unabh&amp;auml;ngig davon, ob sie in der Gewerkschaft organisiert sind.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ff48VKF4NK0FU6VkOFUkJZD0Pu6NeqyF_rise/007A4BVk-JfoZnhHeWSV1G853IdyNA9X/ckuzttur8009f266ia2glxllt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wer erkl&amp;auml;rt die Allgemeinverbindlichkeit eines Tarifvertrages?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuzttur9009g266idf1quna5</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuzttur9009g266idf1quna5</id>
+        <description lang="en-US">Bundesministerium f&amp;uuml;r Arbeit und Soziales</description>
+      </component>
+            <component>
+        <id>choice_ckuzttur9009h266ibjeef058</id>
+        <description lang="en-US">Bundesministerium f&amp;uuml;r Wirtschaft</description>
+      </component>
+            <component>
+        <id>choice_ckuztui2r009i266iqj4w243u</id>
+        <description lang="en-US">Bundesministerium f&amp;uuml;r Tarifangelegenheiten</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ff48VKF4NK0FU6VkOFUkJZD0Pu6NeqyF_rise/007A4BVk-JfoZnhHeWSV1G853IdyNA9X/ckuztuz4f009j266ij6uzvf2y" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche dieser sind weitere Tarifvertr&amp;auml;ge, die im Maler- und Lackiererhandwerk allgemeinverbindlich sind.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuztuz4g009k266ip8f742k2</correctResponsePattern>
+            <correctResponsePattern>choice_ckuztuz4g009l266izjg19fzq</correctResponsePattern>
+            <correctResponsePattern>choice_ckuztuz4g009n266ihm3od888</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuztuz4g009k266ip8f742k2</id>
+        <description lang="en-US">Rechtsverordnung des Tarifvertrages zur Regelung eines Mindestlohnes f&amp;uuml;r gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk.</description>
+      </component>
+            <component>
+        <id>choice_ckuztuz4g009m266ioq0ja3v1</id>
+        <description lang="en-US">Tarifvertrag &amp;uuml;ber die Gew&amp;auml;hrung von Zahnzusatzversicherungen im Maler- und Lackiererhandwerk.</description>
+      </component>
+            <component>
+        <id>choice_ckuztuz4g009n266ihm3od888</id>
+        <description lang="en-US">Tarifvertrag &amp;uuml;ber die Gew&amp;auml;hrung verm&amp;ouml;genswirksamer Leistungen im Maler- und Lackiererhandwerk.</description>
+      </component>
+            <component>
+        <id>choice_ckuztuz4g009l266izjg19fzq</id>
+        <description lang="en-US">Tarifvertrag &amp;uuml;ber eine zus&amp;auml;tzliche Altersversorgung im Maler- und Lackiererhandwerk.</description>
+      </component>
+            <component>
+        <id>choice_ckuztw8ad00d3266iyi8wtn83</id>
+        <description lang="en-US">Tarifvertrag &amp;uuml;ber die Gew&amp;auml;hrung von Unternehmensanteilen im Maler- und Lackiererhandwerk.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ff48VKF4NK0FU6VkOFUkJZD0Pu6NeqyF_rise/007A4BVk-JfoZnhHeWSV1G853IdyNA9X/ckuztx3qa00el266i5d2n4vqb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Eine Gesellin will zu ihrem Freund umziehen, da dies f&amp;uuml;r sie bei der Wohnungsmiete g&amp;uuml;nstiger ist. Sie verlangt von Ihnen 1 Tag bezahlte Freistellung f&amp;uuml;r den Umzug.&lt;br&gt;Ist der Anspruch gerechtfertigt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuztx3qa00em266ijdx6wyrw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuztx3qa00em266ijdx6wyrw</id>
+        <description lang="en-US">Nein, die Gesellin hat keinen Anspruch auf Freistellung.</description>
+      </component>
+            <component>
+        <id>choice_ckuztx3qa00en266iqhneyhrq</id>
+        <description lang="en-US">Ja, die Gesellin hat einen Anspruch auf Freistellung.</description>
+      </component>
+            <component>
+        <id>choice_ckuzty5g000eo266ivn1vmm8t</id>
+        <description lang="en-US">Ja, die Gesellin hat einen Anspruch auf maximal 2 Tage Freistellung.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ff48VKF4NK0FU6VkOFUkJZD0Pu6NeqyF_rise/007A4BVk-JfoZnhHeWSV1G853IdyNA9X/ckuztz2dt00ep266i8g0puwkf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Eine Gesellin will zu ihrem Freund umziehen, da dies f&amp;uuml;r sie bei der Wohnungsmiete g&amp;uuml;nstiger ist. Sie verlangt von Ihnen 1 Tag bezahlte Freistellung f&amp;uuml;r den Umzug.&lt;br&gt;Warum hat die Gesellin hat keinen Anspruch auf Freistellung?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuztz2dt00eq266iyz0l9ezp</correctResponsePattern>
+            <correctResponsePattern>choice_ckuztz2dt00er266ivgatsazz</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuztz2dt00eq266iyz0l9ezp</id>
+        <description lang="en-US">Nach RTV (&amp;sect; 12 Nr. 2f ) besteht nur bei betrieblich veranlasstem Umzug ein Freistellungsanspruch. </description>
+      </component>
+            <component>
+        <id>choice_ckuztz2dt00er266ivgatsazz</id>
+        <description lang="en-US">Der Umzug der Gesellin erfolgt aus privaten Gr&amp;uuml;nden.</description>
+      </component>
+            <component>
+        <id>choice_ckuzu02rv00f4266i65negcoz</id>
+        <description lang="en-US">Der Freund bezahlt die Miete alleine - es handelt sich daher um keine Bedarfsgemeinschaft.</description>
+      </component>
+            <component>
+        <id>choice_ckuzu0l0v00i4266iumvl09xd</id>
+        <description lang="en-US">Nach RTV (&amp;sect; 12 Nr. 2f ) besteht bei Umz&amp;uuml;gen generell kein Freistellungsanspruch. </description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ff48VKF4NK0FU6VkOFUkJZD0Pu6NeqyF_rise/007A4BVk-JfoZnhHeWSV1G853IdyNA9X/ckuzu1rl200jx266i7ktuty15" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Teil Ihrer Mitarbeiter f&amp;auml;hrt t&amp;auml;glich direkt von ihrer jeweiligen Wohnung zu den ausw&amp;auml;rtigen Baustellen des Betriebes und kehrt abends zur&amp;uuml;ck. F&amp;uuml;r die Fahrten zur Baustelle kann kein Firmenfahrzeug gestellt werden, diese Mitarbeiter benutzen ihren privaten PKW. Ein Betriebsrat existiert in Ihrem Betrieb nicht. Sie haben mit den betroffenen Mitarbeitern folgende Vereinbarung getroffen:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Die Arbeitszeit beginnt und endet an der ausw&amp;auml;rtigen Baustelle, Fahrzeit wird nicht mit Lohn verg&amp;uuml;tet.&lt;/li&gt;&lt;li&gt;Die Mitarbeiter benutzen ihren privaten PKW im Auftrag des Betriebes.&lt;/li&gt;&lt;li&gt;Die Mitarbeiter erhalten eine Pauschale (Verpflegungsmehraufwendungen) von 6,00 &amp;euro; am Tag, die steuerfrei ausgezahlt wird.&lt;/li&gt;&lt;li&gt;Die Mitarbeiter erhalten 50 % der steuerfrei ersetzbaren Fahrtkosten erstattet, die &amp;uuml;ber die Fahrtkosten von Wohnung zum Betriebssitz (Werkstatt) und zur&amp;uuml;ck hinausgehen.&lt;/li&gt;&lt;/ul&gt;Ein Geselle, mit dem diese Vereinbarung besteht, war auf der Baustelle Seniorenwohnhaus eingesetzt. Diese Baustelle ist 60 km entfernt von der Wohnung des Gesellen, die Fahrzeit Wohnung zur Baustelle betr&amp;auml;gt 1 &amp;frac12; Stunden. Dies ist &amp;frac12; Stunde und 20 km (eine Wegstrecke) mehr als die Fahrt zum Betrieb.&lt;br&gt;&lt;br&gt;Bei der Lohnabrechnung kommt es zwischen diesem Mitarbeiter und dem Lohnb&amp;uuml;ro zu Meinungsverschiedenheiten, wie die Baustelle abzurechnen ist. Welche der nachfolgenden Aussagen ist nach RTV richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckuzu1rl200k0266iz2nemx4i</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckuzu1rl200jy266irqbau67a</id>
+        <description lang="en-US">Die Vereinbarung ist zul&amp;auml;ssig, kann jedoch bei der Baustelle Seniorenwohnhaus&lt;br&gt;nicht angewandt werden, da die Fahrzeit mehr als 1 &amp;frac14; Stunden betrug. Der Mitarbeiter hat daher je Tag Anspruch auf 24 &amp;euro; Ausl&amp;ouml;sung und Fahrtkosten f&amp;uuml;r mehr gefahrene 40 km.</description>
+      </component>
+            <component>
+        <id>choice_ckuzu1rl200k0266iz2nemx4i</id>
+        <description lang="en-US">Die Vereinbarung ist zul&amp;auml;ssig. Der Mitarbeiter hat daher je Tag Anspruch auf &amp;nbsp;6,00 &amp;euro; Pauschale und Fahrtkosten f&amp;uuml;r 20 km (50 % der mehr gefahrenen 40 km).</description>
+      </component>
+            <component>
+        <id>choice_ckuzu1rl200k1266ive6mfgap</id>
+        <description lang="en-US">Die Vereinbarung ist teilweise unzul&amp;auml;ssig. Die Pauschale muss bei Baustellen ab 30 km Entfernung mehr als 6,00 &amp;euro; betragen: Die Pauschalen nach RTV ist 8,18 &amp;euro; West bzw. 6,65 &amp;euro; Ost. Der Mitarbeiter hat je Tag Anspruch auf die Pauschale nach RTV und Fahrtkosten f&amp;uuml;r mehr gefahrene 40 km.</description>
+      </component>
+            <component>
+        <id>choice_ckuzu1rl200jz266i0qdk8gz8</id>
+        <description lang="en-US">Die Vereinbarung ist unzul&amp;auml;ssig, da sie nicht mit dem Betriebsrat geschlossen wurde. Der Mitarbeiter hat daher je Tag Anspruch auf die Pauschale nach RTV (8,18 &amp;euro; West, 6,65 &amp;euro; Ost), Fahrtkosten f&amp;uuml;r gefahrene 120 km sowie Lohn f&amp;uuml;r die t&amp;auml;gliche Reisezeit zur ausw&amp;auml;rtigen Baustelle und zur&amp;uuml;ck.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
