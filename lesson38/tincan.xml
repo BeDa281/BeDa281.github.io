@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://4LbU2gYUHK7nU6vyQj1H0eumCmZKEXn6_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Kooperationen - Anwendung</name>
+      <description lang="en-US">&lt;br&gt;&lt;br&gt;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://4LbU2gYUHK7nU6vyQj1H0eumCmZKEXn6_rise/7ANkzlVH4Fc4v--aKufoEk2qFdiUm0Z9" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Formen von Kooperationen/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://4LbU2gYUHK7nU6vyQj1H0eumCmZKEXn6_rise/mrLJHdvI06uTebenolw3LiOqv6w5wBWx" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Kooperationsverträge gestalten/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://4LbU2gYUHK7nU6vyQj1H0eumCmZKEXn6_rise/HrHvCHSVkVEaGu0ZgNL93ic7HKM85sID" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Risiken betrieblicher  Kooperationen/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
