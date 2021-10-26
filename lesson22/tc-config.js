@@ -9,7 +9,7 @@ TC_COURSE_ID = "http://oEmta3U1tWa2fKkfJ_Lj8cZnJtBXJzDs_rise"
 // CourseName for the activity
 //
 TC_COURSE_NAME = {
-  "en-US": "VOB A &amp; B - Teil 9"
+  "en-US": "VOB A &amp; B - Teil 4"
 };
 
 //
