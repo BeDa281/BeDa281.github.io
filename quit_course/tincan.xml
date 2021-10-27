@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://UIP73bJ0yfkFelT8_V0_JZNmIM5HBjFk_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Kurs beenden</name>
+      <description lang="en-US">In diesem Kurs erh&amp;auml;ltst du eine kurze Einf&amp;uuml;hrung in die Nutzung der App.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://UIP73bJ0yfkFelT8_V0_JZNmIM5HBjFk_rise/XkEjrsh9vsaY_pKWpBgm76Y0wcCZaNAX" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Kurs beenden/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
