@@ -29,7 +29,7 @@
       </component>
             <component>
         <id>choice_cku1bzav9002w266f4nzrbq57</id>
-        <description lang="en-US">Der Auftraggeber besitzt keinerlei Anspruch auf die Der Auftraggeber.</description>
+        <description lang="en-US">Der Auftraggeber besitzt keinerlei Anspruch auf die Gewährleistungsbürgschaft.</description>
       </component>
             <component>
         <id>choice_cku1bzemz002x266fbetlib6i</id>
@@ -276,10 +276,6 @@
             <component>
         <id>choice_cktbupdns00et266e6yc1vp0u</id>
         <description lang="en-US">Benutzende Gewerke </description>
-      </component>
-            <component>
-        <id>choice_cktbupr9500f2266evq1rturv</id>
-        <description lang="en-US">Anschrift des Ger&amp;uuml;stherstellers</description>
       </component>
             <component>
         <id>choice_cktbupw4k00fb266exouff5gz</id>
