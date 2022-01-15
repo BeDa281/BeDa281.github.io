@@ -12,7 +12,7 @@
     </activity>
             
     <activity id="http://2sTL19VPCzAJ-HTvfmfYsPVyhrtPxdrf_rise/yGTICuOsqXFnlNbseXURK1NnacugDdzH/ckty33oba002z3g6azxle7067" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Auf einer anderen Baustelle steht Ihr Baustellenleiter bei der Fertigstellung von B&amp;uuml;ror&amp;auml;umen unter erheblichem Zeitdruck. Er erkennt zwar die wellenartige Oberfl&amp;auml;che des Putzes und teilt diesen Mangel auch m&amp;uuml;ndlich dem Bauleiter mit. Als nach zwei Tagen jedoch keine Reaktion erfolgt, ordnet er die Tapezierarbeiten an. Der Auftraggeber nimmt die Leistung in 5 B&amp;uuml;ror&amp;auml;umen nicht ab und verlangt die Beseitigung der Tapezierung inklusive Nachbesserung der mangelhaften Putzoberfl&amp;auml;che.&amp;nbsp;&lt;br&gt;Wie ist die Rechtslage?</name>
+      <name lang="en-US">Auf einer anderen Baustelle steht Ihr Baustellenleiter bei der Fertigstellung von B&amp;uuml;ror&amp;auml;umen unter erheblichem Zeitdruck. Er erkennt zwar die wellenartige Oberfl&amp;auml;che des Putzes und teilt diesen Mangel auch m&amp;uuml;ndlich dem Auftraggeber mit. Als nach zwei Tagen jedoch keine Reaktion erfolgt, ordnet er die Tapezierarbeiten an. Der Auftraggeber nimmt die Leistung in 5 B&amp;uuml;ror&amp;auml;umen nicht ab und verlangt die Beseitigung der Tapezierung inklusive Nachbesserung der mangelhaften Putzoberfl&amp;auml;che.&amp;nbsp;&lt;br&gt;Wie ist die Rechtslage?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -130,10 +130,6 @@
             <component>
         <id>choice_ckty38j4a006b3g6ay2rlcakx</id>
         <description lang="en-US">Wenn die Art der Leistung von einem unbeschr&amp;auml;nkten Kreis von Unternehmen ausgef&amp;uuml;hrt werden kann.</description>
-      </component>
-            <component>
-        <id>choice_ckty38j4a00693g6a0zjvghw7</id>
-        <description lang="en-US">Wenn die Art der Leistung nur von einem beschr&amp;auml;nkten Kreis von Unternehmen ausgef&amp;uuml;hrt werden kann.</description>
       </component>
             </choices>
           </activity>
