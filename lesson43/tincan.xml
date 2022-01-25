@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://RGj2kP9I3Np5uUen3ehgFkbAoZxHv8MA_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Aufmaß - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://RGj2kP9I3Np5uUen3ehgFkbAoZxHv8MA_rise/JSE5JHk30YA8tcS68iDdnUw9i-tvGKeq" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://RGj2kP9I3Np5uUen3ehgFkbAoZxHv8MA_rise/JSE5JHk30YA8tcS68iDdnUw9i-tvGKeq/ckyu0gq48002w266j518cxbme" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Unter den Fenstern befinden sich Heizk&amp;ouml;rpernischen, die wie die Wand bearbeitet werden.&lt;br&gt;&lt;br&gt;Wie sind die Heizk&amp;ouml;rpernischen abzurechnen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckyu0gq48002x266jv2o80h7d</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckyu0gq48002x266jv2o80h7d</id>
+        <description lang="en-US">R&amp;uuml;ckfl&amp;auml;che und Leibungen der Nische werden zus&amp;auml;tzlich gerechnet.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0gq48002y266jtjay26jx</id>
+        <description lang="en-US">Heizk&amp;ouml;rpernischen werden immer &amp;uuml;bermessen.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0hs8n002z266jphclxg84</id>
+        <description lang="en-US">Heizk&amp;ouml;rpernischen sind unter 2,5 m&amp;sup2; separat zu berechnen.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0i0fo0030266j8f5uhbkm</id>
+        <description lang="en-US">Heizk&amp;ouml;rpernischen &amp;uuml;ber 2,5 m&amp;sup2; bleiben unber&amp;uuml;cksichtigt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://RGj2kP9I3Np5uUen3ehgFkbAoZxHv8MA_rise/JSE5JHk30YA8tcS68iDdnUw9i-tvGKeq/ckyu0it970031266jnxmcmi35" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie werden die Eckverb&amp;auml;nde und Fensterumrahmungen beim Aufma&amp;szlig; der Fassadenbeschichtung Hauses ber&amp;uuml;cksichtigt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckyu0it970032266ja7l9381p</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckyu0it970032266ja7l9381p</id>
+        <description lang="en-US">Fl&amp;auml;chenabschlie&amp;szlig;ende Eckverb&amp;auml;nde und Umrahmungen werden kleiner/gleich 30 cm Einzelbreite, unabh&amp;auml;ngig davon, ob sie behandelt werden, &amp;uuml;bermessen.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0it970033266jx9fetgo9</id>
+        <description lang="en-US">Fl&amp;auml;chenabschlie&amp;szlig;ende Eckverb&amp;auml;nde und Umrahmungen werden kleiner/gleich 100 cm Einzelbreite, unabh&amp;auml;ngig davon, ob sie behandelt werden, &amp;uuml;bermessen.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0k9u70034266jp56qtw4g</id>
+        <description lang="en-US">Fl&amp;auml;chenabschlie&amp;szlig;ende Eckverb&amp;auml;nde und Umrahmungen werden kleiner/gleich 25 cm Einzelbreite, unabh&amp;auml;ngig davon, ob sie behandelt werden, &amp;uuml;bermessen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://RGj2kP9I3Np5uUen3ehgFkbAoZxHv8MA_rise/JSE5JHk30YA8tcS68iDdnUw9i-tvGKeq/ckyu0kei20035266jevgh5xk0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie wird das Beschichten von Dachrinnen und Fallrohren &amp;nbsp;aufgemessen? &amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckyu0kei20036266jsdszmecb</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckyu0kei20036266jsdszmecb</id>
+        <description lang="en-US">Bei der Ermittlung der Ma&amp;szlig;e wird jeweils das gr&amp;ouml;&amp;szlig;te, gegebenenfalls abgewickelte Bauteil zugrunde gelegt. Dachrinnen werden am Wulst, Fallrohre im Au&amp;szlig;enbogen gemessen.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0kei20037266j2xa657ii</id>
+        <description lang="en-US">Bei der Ermittlung der Ma&amp;szlig;e wird jeweils das gr&amp;ouml;&amp;szlig;te, gegebenenfalls abgewickelte Bauteil zugrunde gelegt. Dachrinnen werden am Wulst, Fallrohre im Innenbogen gemessen.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0lck70038266j0vpgqpx1</id>
+        <description lang="en-US">Bei der Ermittlung der Ma&amp;szlig;e wird jeweils das gr&amp;ouml;&amp;szlig;te, gegebenenfalls abgewickelte Bauteil zugrunde gelegt. Dachrinnen werden in der mittleren Rinne nach Metern und &amp;nbsp;Au&amp;szlig;enbogen nach St&amp;uuml;ckzahl gemessen.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0lony0039266jmjv8o87m</id>
+        <description lang="en-US">Bei der Ermittlung der Ma&amp;szlig;e wird jeweils das gr&amp;ouml;&amp;szlig;te, gegebenenfalls abgewickelte Bauteil zugrunde gelegt. Dachrinnen werden nach Tabellen abgerechnet.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://RGj2kP9I3Np5uUen3ehgFkbAoZxHv8MA_rise/JSE5JHk30YA8tcS68iDdnUw9i-tvGKeq/ckyu0lx82003a266j57iq426z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie werden Heizk&amp;ouml;rpernischen und Leibungen unter Fenstern mit &amp;uuml;ber 2,5 m&amp;sup2;, die wie die W&amp;auml;nde bearbeitet werden, nach VOB/C ATV DIN 18363 abgerechnet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckyu0lx83003b266jnzqw8tcg</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckyu0lx83003b266jnzqw8tcg</id>
+        <description lang="en-US">Bei Nischen &amp;uuml;ber 2,5 m&amp;sup2;, die gleich behandelt werden wie W&amp;auml;nde, werden nur die Leibungen gesondert gerechnet.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0lx83003c266jz1ppdf4k</id>
+        <description lang="en-US">Bei Nischen &amp;uuml;ber 2,5 m&amp;sup2;, die gleich behandelt werden wie W&amp;auml;nde, werden nur die Leibungen &amp;uuml;bermessen.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0mtkf003d266jdx36oml0</id>
+        <description lang="en-US">Bei Nischen &amp;uuml;ber 2,5 m&amp;sup2;, die gleich behandelt werden wie W&amp;auml;nde, werden nur die Leibungen nach m&amp;sup2; bemessen.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0n2ps003e266jlx8ywhp1</id>
+        <description lang="en-US">Bei Nischen &amp;uuml;ber 2,5 m&amp;sup2;, die gleich behandelt werden wie W&amp;auml;nde, werden nur die Leibungen in die Flache der W&amp;auml;nde miteingerechnet.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://RGj2kP9I3Np5uUen3ehgFkbAoZxHv8MA_rise/JSE5JHk30YA8tcS68iDdnUw9i-tvGKeq/ckyu0nvk7003f266j9ptwr4r8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Es sollen bei Renovierungsarbeiten die bestehenden Fu&amp;szlig;leisten entschichtet und mit Klarlack versiegelt werden.&lt;br&gt;Bis zu welcher L&amp;auml;nge d&amp;uuml;rfen Unterbrechungen &amp;uuml;bermessen werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckyu0nvk7003g266j7ilwf0ys</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckyu0nvk7003g266j7ilwf0ys</id>
+        <description lang="en-US">Bei der Abrechnung nach L&amp;auml;ngenma&amp;szlig; werden Unterbrechungen bis 1m &amp;uuml;bermessen.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0nvk7003h266jt3nqc8cc</id>
+        <description lang="en-US">Bei der Abrechnung nach L&amp;auml;ngenma&amp;szlig; werden Unterbrechungen bis 2 m &amp;uuml;bermessen.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0os7k003i266jx92eeadl</id>
+        <description lang="en-US">Bei der Abrechnung nach L&amp;auml;ngenma&amp;szlig; werden Unterbrechungen bis 0,5 m &amp;uuml;bermessen.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0ovgm003j266j6k7nlg3s</id>
+        <description lang="en-US">Bei der Abrechnung nach L&amp;auml;ngenma&amp;szlig; werden Unterbrechungen bis 0,90 m &amp;uuml;bermessen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://RGj2kP9I3Np5uUen3ehgFkbAoZxHv8MA_rise/JSE5JHk30YA8tcS68iDdnUw9i-tvGKeq/ckyu0pa3s003k266j6bhaj6yi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Im Flur eines Bauernhauses befindet sich an der Decke ein tragender Holzbalken mit folgenden Ma&amp;szlig;en: L&amp;auml;nge: 7 m; Breite: 0,25 m; H&amp;ouml;he (Ausladung): 0,20 m.&lt;br&gt;Bei diesem Balken handelt es sich nach VOB/C ATV DIN 18363 um eine Unterbrechung der aufzumessenden Deckenfl&amp;auml;che.&lt;br&gt;Welche Breite ist f&amp;uuml;r eine Unterbrechung der Fl&amp;auml;che entscheidend? </name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckyu0pa3s003l266jufaztwi8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckyu0pa3s003l266jufaztwi8</id>
+        <description lang="en-US">Unterbrechungen d&amp;uuml;rfen bis zu einer Breite von 30 cm &amp;uuml;bermessen werden.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0pa3s003m266jd1pxllgs</id>
+        <description lang="en-US">Unterbrechungen d&amp;uuml;rfen bis zu einer Breite von 40 cm &amp;uuml;bermessen werden.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0q33h003n266j361ot5rb</id>
+        <description lang="en-US">Unterbrechungen d&amp;uuml;rfen bis zu einer Breite von 60 cm &amp;uuml;bermessen werden.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0qee1003o266jy9rlqloa</id>
+        <description lang="en-US">Unterbrechungen d&amp;uuml;rfen grunds&amp;auml;tzlich &amp;uuml;bermessen werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://RGj2kP9I3Np5uUen3ehgFkbAoZxHv8MA_rise/JSE5JHk30YA8tcS68iDdnUw9i-tvGKeq/ckyu0qj0d003p266jnaxsmlvx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wandfl&amp;auml;chen eines Treppenhauses ist zu beschichten. Die an die Wand angrenzenden Podeste im Treppenhaus haben eine H&amp;ouml;he von 25 cm.&amp;nbsp;&lt;br&gt;Wie sind diese bei der Abrechnung der Wandfl&amp;auml;che nach DIN 18363 zu ber&amp;uuml;cksichtigen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckyu0qj0d003q266j0zyzxjhu</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckyu0qj0d003q266j0zyzxjhu</id>
+        <description lang="en-US">Podeste sind Unterbrechungen in einer zu bearbeitenden Fl&amp;auml;che, die mit einer Einzelbreite bis 30 cm zu &amp;uuml;bermessen sind.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0qj0d003r266jegerjddt</id>
+        <description lang="en-US">Podeste sind Unterbrechungen in einer zu bearbeitenden Fl&amp;auml;che, die mit einer Einzelbreite bis 40 cm zu &amp;uuml;bermessen sind.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0ryve003s266j7xrducwx</id>
+        <description lang="en-US">Podeste sind keine Unterbrechungen in einer zu bearbeitenden Fl&amp;auml;che, die zu &amp;uuml;bermessen sind.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0s2e5003t266jqnngqdz4</id>
+        <description lang="en-US">Podeste sind Unterbrechungen in einer zu bearbeitenden Fl&amp;auml;che, die nicht zu ber&amp;uuml;cksichtigen sind.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://RGj2kP9I3Np5uUen3ehgFkbAoZxHv8MA_rise/JSE5JHk30YA8tcS68iDdnUw9i-tvGKeq/ckyu0sawd003u266jquh7sap5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie werden Treppenwangen abgerechnet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckyu0sawd003v266j9o7nyifo</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckyu0sawd003v266j9o7nyifo</id>
+        <description lang="en-US">Treppenwangen werden im L&amp;auml;ngenma&amp;szlig; nach Meter (m) abgerechnet.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0sawd003w266jwmda19u3</id>
+        <description lang="en-US">Treppenwangen werden Quadratmeter (m&amp;sup2;) abgerechnet.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0t7n2003x266j0witkysh</id>
+        <description lang="en-US">Treppenwangen werden mit dem kleinsumschriebenen Rechteck Stufe f&amp;uuml;r Stufe berechnet</description>
+      </component>
+            <component>
+        <id>choice_ckyu0tahc003y266ji2blkrsm</id>
+        <description lang="en-US">Treppenwangen werden pauschal nach Aufwand abgerechnet.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://RGj2kP9I3Np5uUen3ehgFkbAoZxHv8MA_rise/JSE5JHk30YA8tcS68iDdnUw9i-tvGKeq/ckyu0tufw003z266jl3kvh8dh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In einem Keller werden neue FH-T&amp;uuml;ren mit Stahlumfassungszargen eingebaut.&lt;br&gt;T&amp;uuml;rblattst&amp;auml;rke: 0,08 m, Abwicklung der Zarge: 0,40 m.&lt;br&gt;Wie werden solche T&amp;uuml;ren und Zargen abgerechnet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckyu0tufx0040266jd35qckub</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckyu0tufx0040266jd35qckub</id>
+        <description lang="en-US">Bei T&amp;uuml;ren gr&amp;ouml;&amp;szlig;er 60mm Dicke (St&amp;auml;rke), bei Futter und Bekleidungen von T&amp;uuml;ren und Fenstern sowie bei Stahlzargen und der gleichen wird die abgewickelte Fl&amp;auml;che gerechnet.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0tufx0041266jaa6zfkst</id>
+        <description lang="en-US">Bei T&amp;uuml;ren gr&amp;ouml;&amp;szlig;er 40 mm Dicke (St&amp;auml;rke), bei Futter und Bekleidungen von T&amp;uuml;ren und Fenstern sowie bei Stahlzargen und der gleichen wird die abgewickelte Fl&amp;auml;che gerechnet.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0uqfr0042266jo3go6dry</id>
+        <description lang="en-US">Bei T&amp;uuml;ren gr&amp;ouml;&amp;szlig;er 50mm Dicke (St&amp;auml;rke), bei Futter und Bekleidungen von T&amp;uuml;ren und Fenstern sowie bei Stahlzargen und der gleichen wird die abgewickelte Fl&amp;auml;che gerechnet.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0uul50043266jhq2norgt</id>
+        <description lang="en-US">Bei T&amp;uuml;ren gr&amp;ouml;&amp;szlig;er 60mm Dicke (St&amp;auml;rke), bei Futter und Bekleidungen von T&amp;uuml;ren und Fenstern sowie bei Stahlzargen und der gleichen wird die Fl&amp;auml;che pauschal gerechnet.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://RGj2kP9I3Np5uUen3ehgFkbAoZxHv8MA_rise/JSE5JHk30YA8tcS68iDdnUw9i-tvGKeq/ckyu0vbyj0044266jtzvxn1go" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie werden nach DIN 18363 in den WCs befindende &amp;nbsp; rundum &amp;nbsp;Fliesensockel von 12 cm H&amp;ouml;he bei der Abrechnung von zu beschichtenden Wandfl&amp;auml;chen ber&amp;uuml;cksichtigt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckyu0vbyk0045266jjy3j76cm</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckyu0vbyk0045266jjy3j76cm</id>
+        <description lang="en-US">Leisten, Sockelflie&amp;szlig;en bis 10 cm werden &amp;uuml;bermessen &amp;uuml;ber 10cm H&amp;ouml;he von der zu beschichtenden Fl&amp;auml;che abgezogen.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0vbyk0046266j3qjtnu6b</id>
+        <description lang="en-US">Leisten, Sockelflie&amp;szlig;en bis 20 cm werden &amp;uuml;bermessen &amp;uuml;ber 20 cm H&amp;ouml;he von der zu beschichtenden Fl&amp;auml;che abgezogen.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0wbiz0047266j7fu4kdjq</id>
+        <description lang="en-US">Leisten, Sockelflie&amp;szlig;en bis 5 cm werden &amp;uuml;bermessen &amp;uuml;ber 5 cm H&amp;ouml;he von der zu beschichtenden Fl&amp;auml;che abgezogen.</description>
+      </component>
+            <component>
+        <id>choice_ckyu0wl890048266jwo63u1wc</id>
+        <description lang="en-US">Leisten, Sockelflie&amp;szlig;en werden grunds&amp;auml;tzlich &amp;uuml;bermessen.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
