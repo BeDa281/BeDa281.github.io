@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://11upEJmRlccCXboULQuGm8X7cBkKnDHn_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Farbenlehre - Quiz 3</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://11upEJmRlccCXboULQuGm8X7cBkKnDHn_rise/iD5qWkm2Wcd9cjxmtkuGDQXJynPz_2g3" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://11upEJmRlccCXboULQuGm8X7cBkKnDHn_rise/iD5qWkm2Wcd9cjxmtkuGDQXJynPz_2g3/ckz89l2fb002w266jr16y14mc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Architekt macht Ihnen folgende Farbtonangabe: S 10 80 Y70R.Welchem Farbordnungssystem ist dieser Farbton zuzuordnen? &amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz89lw78002z266jgdazkjxa</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz89l2fb002x266jtlesiz8s</id>
+        <description lang="en-US">Sto Color System</description>
+      </component>
+            <component>
+        <id>choice_ckz89l2fb002y266jtv5nne47</id>
+        <description lang="en-US">Caparol 3-D System</description>
+      </component>
+            <component>
+        <id>choice_ckz89lw78002z266jgdazkjxa</id>
+        <description lang="en-US">&amp;nbsp;NCS-System</description>
+      </component>
+            <component>
+        <id>choice_ckz89lyy30030266jfw02tixf</id>
+        <description lang="en-US">&amp;nbsp;Brillux Farbplanungssystem</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://11upEJmRlccCXboULQuGm8X7cBkKnDHn_rise/iD5qWkm2Wcd9cjxmtkuGDQXJynPz_2g3/ckz89m4t00031266jdw0bqig1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Als &amp;hellip;&amp;hellip; bezeichnet man den Sachverhalt in der Optik, dass unterschiedliche&lt;br&gt;Lichtspektren f&amp;uuml;r eine gegebene Lichtart denselben Farbeindruck hervorrufen k&amp;ouml;nnen.Wie nennt man dieses Ph&amp;auml;nomen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz89oepu0034266jerz7rast</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz89m4t10032266jpqsh3p4h</id>
+        <description lang="en-US">UV-Lichtwellen</description>
+      </component>
+            <component>
+        <id>choice_ckz89m4t10033266ji7hj2hy5</id>
+        <description lang="en-US">UV-Absorbtion</description>
+      </component>
+            <component>
+        <id>choice_ckz89oepu0034266jerz7rast</id>
+        <description lang="en-US">Meatamarie</description>
+      </component>
+            <component>
+        <id>choice_ckz89ohw40035266j5pb7hq0o</id>
+        <description lang="en-US">&amp;nbsp;Hellbezugswert</description>
+      </component>
+            <component>
+        <id>choice_ckz89olq60036266j6byute97</id>
+        <description lang="en-US">Pigmentunechtheit</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://11upEJmRlccCXboULQuGm8X7cBkKnDHn_rise/iD5qWkm2Wcd9cjxmtkuGDQXJynPz_2g3/ckz89ot1r0037266jlxvs6g16" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was bedeutet die Metamarie f&amp;uuml;r Ihre Beratungst&amp;auml;tigkeit beim Kunden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz89ot1s0039266jdr1srab2</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz89ot1s0038266jpe93b90q</id>
+        <description lang="en-US">Es spielt absolut keine Rolle</description>
+      </component>
+            <component>
+        <id>choice_ckz89ot1s0039266jdr1srab2</id>
+        <description lang="en-US">Bei der Farbtonauswahl sind unterschiedliche Licht- bzw. Beleuchtungsverh&amp;auml;ltnisse&lt;br&gt;(in B&amp;uuml;ro, Werkstatt oder beim Kunden) zu beachten.</description>
+      </component>
+            <component>
+        <id>choice_ckz89prn1003a266jnxlqql7l</id>
+        <description lang="en-US">&amp;nbsp;Es sind nur helle Farbt&amp;ouml;ne im Innenbereich zu verwenden</description>
+      </component>
+            <component>
+        <id>choice_ckz89puo4003b266joiywbj1p</id>
+        <description lang="en-US">&amp;nbsp;Es sind nur reine Buntt&amp;ouml;ne im Innenbereich zu verwenden</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://11upEJmRlccCXboULQuGm8X7cBkKnDHn_rise/iD5qWkm2Wcd9cjxmtkuGDQXJynPz_2g3/ckz89qa16003c266j484ee3m6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Durch welche &amp;nbsp;Merkmale l&amp;auml;sst sich eine Farbnuance nach DIN genau festlegen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz89qa17003d266jy8liovda</correctResponsePattern>
+            <correctResponsePattern>choice_ckz89qa17003g266jthiyp1rx</correctResponsePattern>
+            <correctResponsePattern>choice_ckz89qa17003f266j8lm17szd</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz89qa17003d266jy8liovda</id>
+        <description lang="en-US">Farbton</description>
+      </component>
+            <component>
+        <id>choice_ckz89qa17003f266j8lm17szd</id>
+        <description lang="en-US">S&amp;auml;ttigung</description>
+      </component>
+            <component>
+        <id>choice_ckz89qa17003g266jthiyp1rx</id>
+        <description lang="en-US">Helligkeit</description>
+      </component>
+            <component>
+        <id>choice_ckz89qa17003e266j0hehha7o</id>
+        <description lang="en-US">Grauabstufung</description>
+      </component>
+            <component>
+        <id>choice_ckz89qw55004r266jk8bx43t7</id>
+        <description lang="en-US">Buntt&amp;ouml;ne</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://11upEJmRlccCXboULQuGm8X7cBkKnDHn_rise/iD5qWkm2Wcd9cjxmtkuGDQXJynPz_2g3/ckz89rf1b005g266jv6i4cdxx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Erkl&amp;auml;ren Sie, was in der Farbenlehre unter einem Qualit&amp;auml;tskontrast zu verstehen ist.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz89rf1c005h266jhdqy8ufa</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz89rf1c005h266jhdqy8ufa</id>
+        <description lang="en-US">Verwendung unterschiedlicher S&amp;auml;ttigungsstufen in einem Farbbereich; wird durch Auffhellung, Abdunklung oder komplement&amp;auml;re Vergrauung erreicht.</description>
+      </component>
+            <component>
+        <id>choice_ckz89rf1c005i266jrrwvcvr6</id>
+        <description lang="en-US">Er entsteht durch die Gegen&amp;uuml;berstellung von vielen und wenigen oder gro&amp;szlig;en und kleinen Fl&amp;auml;chen.</description>
+      </component>
+            <component>
+        <id>choice_ckz89sal1005j266jjf9i9hcb</id>
+        <description lang="en-US">&amp;nbsp;Es handelt sich um einen rein physiologischen Korrekturvorgang des Sehorgans, also um einen biologischen, physiologischen Aspekt.</description>
+      </component>
+            <component>
+        <id>choice_ckz89sl9j005k266jrscqrhs7</id>
+        <description lang="en-US">Entsteht bei der Kombination von mindestens zwei reinen Farben. Der Kontrast ist besonders hoch, wenn reinbunte, kr&amp;auml;ftige Farben gew&amp;auml;hlt werden, die auf dem Farbkreis weit auseinanderliegen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://11upEJmRlccCXboULQuGm8X7cBkKnDHn_rise/iD5qWkm2Wcd9cjxmtkuGDQXJynPz_2g3/ckz89t7g7005l266jhimsfi0r" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ist es richtig dass zur Veranschaulichung und Beratung beim Kunden, zur Systematisierung, zur Standardisierung von Farbwerten Farbordnungssysteme verwendet werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz89t7g8005m266jahk0yzo7</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz89t7g8005m266jahk0yzo7</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            <component>
+        <id>choice_ckz89t7g8005n266je7hd8bzd</id>
+        <description lang="en-US">Nein</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://11upEJmRlccCXboULQuGm8X7cBkKnDHn_rise/iD5qWkm2Wcd9cjxmtkuGDQXJynPz_2g3/ckz89txht005o266ji948puuz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nennen Sie herstellerneutrale Farbordnungssysteme. &amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz89txht005p266jv5hy6459</correctResponsePattern>
+            <correctResponsePattern>choice_ckz89txht005r266jsjon5gos</correctResponsePattern>
+            <correctResponsePattern>choice_ckz89txht005s266jmljduudc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz89txht005p266jv5hy6459</id>
+        <description lang="en-US">RAL klassik</description>
+      </component>
+            <component>
+        <id>choice_ckz89txht005r266jsjon5gos</id>
+        <description lang="en-US">RAL Design</description>
+      </component>
+            <component>
+        <id>choice_ckz89txht005s266jmljduudc</id>
+        <description lang="en-US">NCS</description>
+      </component>
+            <component>
+        <id>choice_ckz89txht005q266jroesr0e5</id>
+        <description lang="en-US">3 D Classic</description>
+      </component>
+            <component>
+        <id>choice_ckz89ui3l0075266j2gv63xwn</id>
+        <description lang="en-US">Scala</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://11upEJmRlccCXboULQuGm8X7cBkKnDHn_rise/iD5qWkm2Wcd9cjxmtkuGDQXJynPz_2g3/ckz89v8ss007v266jx4gzuj2x" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wof&amp;uuml;r steht die Abk&amp;uuml;rzung RGB?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz89v8st007w266jb3iqt3bp</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz89v8st007w266jb3iqt3bp</id>
+        <description lang="en-US">Red, Green, Blue</description>
+      </component>
+            <component>
+        <id>choice_ckz89v8st007x266jn8fqmigj</id>
+        <description lang="en-US">Red, Green, Black</description>
+      </component>
+            <component>
+        <id>choice_ckz89vmem007y266j1efgrj9m</id>
+        <description lang="en-US">Red, Grey, Blue</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://11upEJmRlccCXboULQuGm8X7cBkKnDHn_rise/iD5qWkm2Wcd9cjxmtkuGDQXJynPz_2g3/ckz89vzpz007z266jc45vzwv9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wof&amp;uuml;r steht die Abk&amp;uuml;rzung CMYK?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz89vzpz0081266jbxjl3v5n</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz89vzpz0080266jf88optuc</id>
+        <description lang="en-US">Creative Mix of Yellow and Black</description>
+      </component>
+            <component>
+        <id>choice_ckz89vzpz0081266jbxjl3v5n</id>
+        <description lang="en-US">Cyan, Magenta, Yellow, Key (Black)</description>
+      </component>
+            <component>
+        <id>choice_ckz89wme50082266jr5cc522g</id>
+        <description lang="en-US">Coloring Mitxture of Young Key</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://11upEJmRlccCXboULQuGm8X7cBkKnDHn_rise/iD5qWkm2Wcd9cjxmtkuGDQXJynPz_2g3/ckz89wysh0083266jyijl50c4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Farbmischungen den jeweiligen Abk&amp;uuml;rzungen zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckz89wysi0084266jumajsfze[.]target_ckz89wysi0084266jumajsfze</correctResponsePattern>
+            <correctResponsePattern>source_ckz89wysi0085266jwma86hf8[.]target_ckz89wysi0085266jwma86hf8</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckz89wysi0084266jumajsfze</id>
+        <description lang="en-US">RGB></description>
+      </component>
+            <component>
+        <id>source_ckz89wysi0085266jwma86hf8</id>
+        <description lang="en-US">CMYK></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckz89wysi0084266jumajsfze</id>
+            <description lang="en-US">additive Farbmischung, Lichtmischung</description>
+          </component>
+                  <component>
+            <id>target_ckz89wysi0085266jwma86hf8</id>
+            <description lang="en-US">subtraktive Farbmischung, Pigmentmischung</description>
+          </component>
+              </target>
+          </activity>
+            </activities>
+</tincan>

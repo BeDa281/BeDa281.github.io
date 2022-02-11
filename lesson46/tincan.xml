@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://84z7g0h8c9USoLc9dq6PbyPq1LHIKyFe_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Farbenlehre - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://84z7g0h8c9USoLc9dq6PbyPq1LHIKyFe_rise/8UkqNbxcUlU3uh0AgzvrkioyLmTZx_Gv" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://84z7g0h8c9USoLc9dq6PbyPq1LHIKyFe_rise/8UkqNbxcUlU3uh0AgzvrkioyLmTZx_Gv/ckz6vm66u0036266jvg9m9rcq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Farben beeinflussen Gef&amp;uuml;hle und Stimmungen des Menschen. Welche Wirkungen hat der Farbton Orange?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz6vm66v0038266jsasj3ghn</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz6vm66v0037266jjqgvwut3</id>
+        <description lang="en-US">Beruhigend, erfrischend, nat&amp;uuml;rlich</description>
+      </component>
+            <component>
+        <id>choice_ckz6vm66v0038266jsasj3ghn</id>
+        <description lang="en-US">Aktiv, warm, aufdringlich</description>
+      </component>
+            <component>
+        <id>choice_ckz6vn95o0039266juiug6zjs</id>
+        <description lang="en-US">Agressiv, leidenschaftlich, erregend</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://84z7g0h8c9USoLc9dq6PbyPq1LHIKyFe_rise/8UkqNbxcUlU3uh0AgzvrkioyLmTZx_Gv/ckz6vpp3t003a266jqrpfr9nn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In welcher Reihenfolge sind die Buntt&amp;ouml;ne im RAL DESIGN System, bei 0 Grad&lt;br&gt;beginnend, angeordnet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz6vqpjb003e266j507b40x7</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz6vpp3t003b266jajo020hu</id>
+        <description lang="en-US">Blau, Rot, Gelb&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckz6vpp3t003c266jrvd8va47</id>
+        <description lang="en-US">Wei&amp;szlig;, Gelb, Rot, Gr&amp;uuml;n, Blau, Schwarz</description>
+      </component>
+            <component>
+        <id>choice_ckz6vqk7m003d266jvmerrvkx</id>
+        <description lang="en-US">Blau, Gr&amp;uuml;n, Gelb, Rot</description>
+      </component>
+            <component>
+        <id>choice_ckz6vqpjb003e266j507b40x7</id>
+        <description lang="en-US">Rot, Gelb, Gr&amp;uuml;n, Blau</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://84z7g0h8c9USoLc9dq6PbyPq1LHIKyFe_rise/8UkqNbxcUlU3uh0AgzvrkioyLmTZx_Gv/ckz6vseya003f266jbzmgq7pb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welches der genannten Beispiele beschreibt eine psychologische Farbwirkung?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz6vt6jd003i266j1nyxwpph</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz6vseyb003g266jb1puhs39</id>
+        <description lang="en-US">Rot erh&amp;ouml;ht die Motorik.</description>
+      </component>
+            <component>
+        <id>choice_ckz6vseyb003h266jyvyu384i</id>
+        <description lang="en-US">Helle Farbt&amp;ouml;ne reflektieren mehr Licht als dunkle.</description>
+      </component>
+            <component>
+        <id>choice_ckz6vt6jd003i266j1nyxwpph</id>
+        <description lang="en-US">Rotorange wirkt warm, Blaugr&amp;uuml;n wirkt k&amp;uuml;hl.</description>
+      </component>
+            <component>
+        <id>choice_ckz6vtcpm003j266jp0t64ipz</id>
+        <description lang="en-US">Reine Farbt&amp;ouml;ne treten in den Vordergrund.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://84z7g0h8c9USoLc9dq6PbyPq1LHIKyFe_rise/8UkqNbxcUlU3uh0AgzvrkioyLmTZx_Gv/ckz6vu1l2003k266julit6hui" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Rohrleitungen m&amp;uuml;ssen aus Sicherheitsgr&amp;uuml;nden nach dem Durchflussstoff gekennzeichnet werden.&lt;br&gt;&lt;br&gt;Ordnen Sie dem Kennzeichnungsfarbton den entsprechenden Durchflussstoff zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckz6vu1l2003l266jtfafuzx2[.]target_ckz6vu1l2003l266jtfafuzx2</correctResponsePattern>
+            <correctResponsePattern>source_ckz6vu1l2003m266jlccvkqpq[.]target_ckz6vu1l2003m266jlccvkqpq</correctResponsePattern>
+            <correctResponsePattern>source_ckz6vu1l2003n266jf3et4gu1[.]target_ckz6vu1l2003n266jf3et4gu1</correctResponsePattern>
+            <correctResponsePattern>source_ckz88wsas002w266jolwbfsq0[.]target_ckz88wsas002w266jolwbfsq0</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckz6vu1l2003l266jtfafuzx2</id>
+        <description lang="en-US">Gas></description>
+      </component>
+            <component>
+        <id>source_ckz6vu1l2003m266jlccvkqpq</id>
+        <description lang="en-US">Wasser></description>
+      </component>
+            <component>
+        <id>source_ckz6vu1l2003n266jf3et4gu1</id>
+        <description lang="en-US">Luft></description>
+      </component>
+            <component>
+        <id>source_ckz88wsas002w266jolwbfsq0</id>
+        <description lang="en-US">Dampf></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckz6vu1l2003l266jtfafuzx2</id>
+            <description lang="en-US">Gelb</description>
+          </component>
+                  <component>
+            <id>target_ckz6vu1l2003m266jlccvkqpq</id>
+            <description lang="en-US">Grün</description>
+          </component>
+                  <component>
+            <id>target_ckz6vu1l2003n266jf3et4gu1</id>
+            <description lang="en-US">Blau</description>
+          </component>
+                  <component>
+            <id>target_ckz88wsas002w266jolwbfsq0</id>
+            <description lang="en-US">Rot</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://84z7g0h8c9USoLc9dq6PbyPq1LHIKyFe_rise/8UkqNbxcUlU3uh0AgzvrkioyLmTZx_Gv/ckz88yj6v002x266j323vbs0k" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was beschreibt den Simultankontrast?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz88yj6v002z266j2oyzi57y</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz88yj6v002y266jre7pgdod</id>
+        <description lang="en-US">Farbt&amp;ouml;ne, die im Farbkreis gegen&amp;uuml;ber liegen.</description>
+      </component>
+            <component>
+        <id>choice_ckz88yj6v002z266j2oyzi57y</id>
+        <description lang="en-US">Der zu betrachtende Farbton hat je nach Farbton des Hintergrundes eine andere Wirkung.</description>
+      </component>
+            <component>
+        <id>choice_ckz897y9k0034266j7vtsg4qn</id>
+        <description lang="en-US">&amp;nbsp;Wenn in einer Gestaltung gleichzeitig warme und kalte Farbt&amp;ouml;ne vorhanden sind.</description>
+      </component>
+            <component>
+        <id>choice_ckz8983ys0035266j1901lye5</id>
+        <description lang="en-US">Wenn es beim Betrachten farbiger Fl&amp;auml;chen zum klaren Abzeichnen der Konturen kommt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://84z7g0h8c9USoLc9dq6PbyPq1LHIKyFe_rise/8UkqNbxcUlU3uh0AgzvrkioyLmTZx_Gv/ckz890gwb0030266j0s87y1b1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die folgenden Begriffen den jeweiligen Beschreibungen zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckz890gwc0031266jyijnsfew[.]target_ckz890gwc0031266jyijnsfew</correctResponsePattern>
+            <correctResponsePattern>source_ckz890gwc0032266jkc1ezn2h[.]target_ckz890gwc0032266jkc1ezn2h</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckz890gwc0031266jyijnsfew</id>
+        <description lang="en-US">Hellbezugswert></description>
+      </component>
+            <component>
+        <id>source_ckz890gwc0032266jkc1ezn2h</id>
+        <description lang="en-US">Metamerie></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckz890gwc0031266jyijnsfew</id>
+            <description lang="en-US">ist ein Maß für die Helligkeit einer Oberfläche.</description>
+          </component>
+                  <component>
+            <id>target_ckz890gwc0032266jkc1ezn2h</id>
+            <description lang="en-US">gleicher Farbton wirkt unter verschiedenen Lichtspektren unterschiedlich.</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://84z7g0h8c9USoLc9dq6PbyPq1LHIKyFe_rise/8UkqNbxcUlU3uh0AgzvrkioyLmTZx_Gv/ckz8995hm0036266j0mnmewef" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Auf welchen Farbton, wenn er im Innenraum Verwendung findet, trifft die folgende Aussage zu: Er wirkt im Raum beruhigend und sorgt f&amp;uuml;r Ausgleich, Sicherheit und Geborgenheit.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz8995hm0037266j2t5lmhih</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz8995hm0037266j2t5lmhih</id>
+        <description lang="en-US">Gr&amp;uuml;n</description>
+      </component>
+            <component>
+        <id>choice_ckz8995hm0038266jkdcukw6c</id>
+        <description lang="en-US">Orange</description>
+      </component>
+            <component>
+        <id>choice_ckz89adya0039266jvlmkmvzi</id>
+        <description lang="en-US">Blau</description>
+      </component>
+            <component>
+        <id>choice_ckz89ak0d003a266jiw873a11</id>
+        <description lang="en-US">Violett</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://84z7g0h8c9USoLc9dq6PbyPq1LHIKyFe_rise/8UkqNbxcUlU3uh0AgzvrkioyLmTZx_Gv/ckz89b5pp003b266jstwqmsub" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie sind im RAL DESIGN System die Farbt&amp;ouml;ne geordnet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz89b5pq003f266jufas394f</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz89b5pq003c266j5l0r9r2d</id>
+        <description lang="en-US">Nach der Helligkeit</description>
+      </component>
+            <component>
+        <id>choice_ckz89b5pq003e266jrygnona0</id>
+        <description lang="en-US">&amp;nbsp;Nach der Farbwahrnehmung des Menschen</description>
+      </component>
+            <component>
+        <id>choice_ckz89b5pq003f266jufas394f</id>
+        <description lang="en-US">&amp;nbsp;Nach Buntton, Helligkeit und Buntheit</description>
+      </component>
+            <component>
+        <id>choice_ckz89b5pq003d266jhqirsw97</id>
+        <description lang="en-US">&amp;nbsp;Nach Farbton, S&amp;auml;ttigung und Helligkeit</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://84z7g0h8c9USoLc9dq6PbyPq1LHIKyFe_rise/8UkqNbxcUlU3uh0AgzvrkioyLmTZx_Gv/ckz89covk003m266j9gclmxrp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Auf welchen Farbkontrast nach Itten trifft folgende Aussage zu?&lt;br&gt;&lt;em&gt;&amp;quot;Zu seiner Darstellung sind mindestens drei klar voneinander abstehende Farben notwendig. Die Wirkung ist immer bunt, laut, kraftvoll und entschieden.&amp;ldquo;&lt;/em&gt;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz89covk003o266joy3drldv</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz89covk003n266j1qdmxbib</id>
+        <description lang="en-US">Simultankontrast</description>
+      </component>
+            <component>
+        <id>choice_ckz89covk003o266joy3drldv</id>
+        <description lang="en-US">Farbe-an-sich-Kontrast</description>
+      </component>
+            <component>
+        <id>choice_ckz89e4pg003p266jrszgwi6i</id>
+        <description lang="en-US">&amp;nbsp;Hell-Dunkel-Kontrast</description>
+      </component>
+            <component>
+        <id>choice_ckz89e80p003q266jrirgoqcu</id>
+        <description lang="en-US">Quantit&amp;auml;tskontrast</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://84z7g0h8c9USoLc9dq6PbyPq1LHIKyFe_rise/8UkqNbxcUlU3uh0AgzvrkioyLmTZx_Gv/ckz89enll003r266jkhot74wi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Mit welchem Farbton assoziert man Lust, Freude, Heiterkeit, Genuss und Energie?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz89f8v0003u266jg8ffzsyo</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz89enlm003s266jtsuod98w</id>
+        <description lang="en-US">Violett</description>
+      </component>
+            <component>
+        <id>choice_ckz89enlm003t266jyepo7a6c</id>
+        <description lang="en-US">Gr&amp;uuml;n</description>
+      </component>
+            <component>
+        <id>choice_ckz89f8v0003u266jg8ffzsyo</id>
+        <description lang="en-US">Orange</description>
+      </component>
+            <component>
+        <id>choice_ckz89fc2y003v266jr6lmgsf6</id>
+        <description lang="en-US">Blau</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

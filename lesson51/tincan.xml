@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://QOPfomrct-qAFOL8OtmuWoLReLWsPufW_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Schadstoffsanierung - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://QOPfomrct-qAFOL8OtmuWoLReLWsPufW_rise/0fRXLG_ygU9sjxpNxK-xWxF6SmcWJBNi" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://QOPfomrct-qAFOL8OtmuWoLReLWsPufW_rise/0fRXLG_ygU9sjxpNxK-xWxF6SmcWJBNi/ckz07yd7n0032266j5xyo6xrv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Das Sanierungsgebot schwach-gebundener Asbestprodukte wird ermittelt durch:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz07yd7n0034266jrce4wyv6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz07yd7n0033266j95e7gqwp</id>
+        <description lang="en-US">EG-REACH-Verordnung 1907/2006</description>
+      </component>
+            <component>
+        <id>choice_ckz07yd7n0034266jrce4wyv6</id>
+        <description lang="en-US">Das Bewertungsformblatt der Asbestrichtlinie 1996/2019</description>
+      </component>
+            <component>
+        <id>choice_ckz07yvjs0035266jrw03afe0</id>
+        <description lang="en-US">Die DGUV Regel 101-004</description>
+      </component>
+            <component>
+        <id>choice_ckz07yyc50036266j6sza7opb</id>
+        <description lang="en-US">Das Infektionsschutzgesetz (IfSG)</description>
+      </component>
+            <component>
+        <id>choice_ckz07z0ws0037266jqkkatkpb</id>
+        <description lang="en-US">Landesbauordnungen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://QOPfomrct-qAFOL8OtmuWoLReLWsPufW_rise/0fRXLG_ygU9sjxpNxK-xWxF6SmcWJBNi/ckz07z8jo0038266j2ba778bc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r Arbeiten an Asbestprodukten ist immer:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz07z8jo003b266jvadhf1is</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07z8jo003c266j8asqqvoj</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz07z8jo0039266j87ksnm8x</id>
+        <description lang="en-US">Ein F&amp;uuml;hrerschein Klasse B notwendig</description>
+      </component>
+            <component>
+        <id>choice_ckz07z8jo003b266jvadhf1is</id>
+        <description lang="en-US">Eine Sachkunde nach TRGS 519 -Asbest- notwendig</description>
+      </component>
+            <component>
+        <id>choice_ckz07z8jo003c266j8asqqvoj</id>
+        <description lang="en-US">Eine Anzeige an die Aufsichtsbeh&amp;ouml;rde notwendig</description>
+      </component>
+            <component>
+        <id>choice_ckz07z8jo003a266jef6vxn17</id>
+        <description lang="en-US">Eine Sachkunde nach DGUV Regel 101-004 notwendig</description>
+      </component>
+            <component>
+        <id>choice_ckz07zulp004j266j3klacwa9</id>
+        <description lang="en-US">Ein polizeiliches F&amp;uuml;hrungszeugnis des Aufsichtsf&amp;uuml;hrenden notwendig</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://QOPfomrct-qAFOL8OtmuWoLReLWsPufW_rise/0fRXLG_ygU9sjxpNxK-xWxF6SmcWJBNi/ckz0804i20054266j6san0k86" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Leitsubstanz nach EPA wird f&amp;uuml;r die Feststellung des kanzerogenen Potentials bei polyzyklischen aromatischen Kohlenwasserstoffen (PAK) herangezogen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz0804i20057266jxg5su485</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz0804i20055266jhxyrhyxv</id>
+        <description lang="en-US">Bonza[i]pyren</description>
+      </component>
+            <component>
+        <id>choice_ckz0804i20057266jxg5su485</id>
+        <description lang="en-US">Benzo[a]pyren</description>
+      </component>
+            <component>
+        <id>choice_ckz0804i20058266j8mdzsr4g</id>
+        <description lang="en-US">Benzi[n]ono</description>
+      </component>
+            <component>
+        <id>choice_ckz0804i20056266jmzbnfsrf</id>
+        <description lang="en-US">Bonzo[p]asta</description>
+      </component>
+            <component>
+        <id>choice_ckz081cwk0061266jdimcvd7o</id>
+        <description lang="en-US">Benzyl(o)ren</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://QOPfomrct-qAFOL8OtmuWoLReLWsPufW_rise/0fRXLG_ygU9sjxpNxK-xWxF6SmcWJBNi/ckz082e2f006u266j7l63fn4q" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welcher Gefahrstoff entsteht bei einem Brand immer?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz082e2g006v266jly6333xr</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz082e2g006v266jly6333xr</id>
+        <description lang="en-US">PAK</description>
+      </component>
+            <component>
+        <id>choice_ckz082e2g006w266j38ribprw</id>
+        <description lang="en-US">KMF</description>
+      </component>
+            <component>
+        <id>choice_ckz082pph006x266jl6aecnli</id>
+        <description lang="en-US">Echter Hausschwamm</description>
+      </component>
+            <component>
+        <id>choice_ckz082vy9006y266j6x4f2ggc</id>
+        <description lang="en-US">Bleimennige</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://QOPfomrct-qAFOL8OtmuWoLReLWsPufW_rise/0fRXLG_ygU9sjxpNxK-xWxF6SmcWJBNi/ckz0833if006z266j7xswpoki" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Chlororganische Holzschutzmittel (DDT, Lindan, PCP) sind:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz0833if0070266jrhwl1x4p</correctResponsePattern>
+            <correctResponsePattern>choice_ckz0833if0071266jqfbyy5yc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz0833if0070266jrhwl1x4p</id>
+        <description lang="en-US">Schwerfl&amp;uuml;chtig und geruchlos</description>
+      </component>
+            <component>
+        <id>choice_ckz0833if0072266j83uzi6a9</id>
+        <description lang="en-US">Leichtfl&amp;uuml;chtig und riechen muffig</description>
+      </component>
+            <component>
+        <id>choice_ckz0833if0073266j7na8zbtn</id>
+        <description lang="en-US">Nur in Dachgeschossen anzutreffen</description>
+      </component>
+            <component>
+        <id>choice_ckz0833if0071266jqfbyy5yc</id>
+        <description lang="en-US">Haben akute und chronische Gesundheitsrisiken</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://QOPfomrct-qAFOL8OtmuWoLReLWsPufW_rise/0fRXLG_ygU9sjxpNxK-xWxF6SmcWJBNi/ckz0844iz007v266jlhnm38op" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wichtige Technische Regeln f&amp;uuml;r Gefahrstoffe (TRGS) sind:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz0844iz007w266jcg939ajm</correctResponsePattern>
+            <correctResponsePattern>choice_ckz0844iz007x266jkgzces65</correctResponsePattern>
+            <correctResponsePattern>choice_ckz0844iz007z266jwpdvusfy</correctResponsePattern>
+            <correctResponsePattern>choice_ckz0844iz007y266jzc9ud9gr</correctResponsePattern>
+            <correctResponsePattern>choice_ckz084xll008r266jp3ro5vp9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz0844iz007w266jcg939ajm</id>
+        <description lang="en-US">519 - Asbest &amp;ndash; Abbruch-, Sanierungs- oder Instandhaltungsarbeiten</description>
+      </component>
+            <component>
+        <id>choice_ckz0844iz007y266jzc9ud9gr</id>
+        <description lang="en-US">521 - Abbruch-, Sanierungs- oder Instandhaltungsarbeiten mit alter Mineralwolle</description>
+      </component>
+            <component>
+        <id>choice_ckz0844iz007z266jwpdvusfy</id>
+        <description lang="en-US">551 - Teer und andere Pyrolyseprodukte aus organischem Material</description>
+      </component>
+            <component>
+        <id>choice_ckz0844iz007x266jkgzces65</id>
+        <description lang="en-US">900 &amp;ndash; Arbeitsplatzgrenzwerte (AGW)</description>
+      </component>
+            <component>
+        <id>choice_ckz084xll008r266jp3ro5vp9</id>
+        <description lang="en-US">905 - Verzeichnis krebserzeugender, keimzellmutagener oder reproduktionstoxischer Stoffe</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://QOPfomrct-qAFOL8OtmuWoLReLWsPufW_rise/0fRXLG_ygU9sjxpNxK-xWxF6SmcWJBNi/ckz085k2m0095266j6p99jpxu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die DGUV Regel 101-004 (ehem. BGR 128) regelt u.a. den Umgang mit:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz085k2m0097266ju51d6lia</correctResponsePattern>
+            <correctResponsePattern>choice_ckz085k2m0099266jeht9zbfe</correctResponsePattern>
+            <correctResponsePattern>choice_ckz086er300a1266jhuyzptqi</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz085k2m0096266j86ozkubs</id>
+        <description lang="en-US">Asbest</description>
+      </component>
+            <component>
+        <id>choice_ckz085k2m0098266jveqh2dd2</id>
+        <description lang="en-US">Alten k&amp;uuml;nstlichen Mineralfasern (KMF)</description>
+      </component>
+            <component>
+        <id>choice_ckz085k2m0099266jeht9zbfe</id>
+        <description lang="en-US">Schwermetallen</description>
+      </component>
+            <component>
+        <id>choice_ckz085k2m0097266ju51d6lia</id>
+        <description lang="en-US">Holzschutzmitteln</description>
+      </component>
+            <component>
+        <id>choice_ckz086er300a1266jhuyzptqi</id>
+        <description lang="en-US">PAK/ Teerprodukten</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://QOPfomrct-qAFOL8OtmuWoLReLWsPufW_rise/0fRXLG_ygU9sjxpNxK-xWxF6SmcWJBNi/ckz086q6200ah266jmvrwc4rf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Gewerbeabfallverordnung (GewAbfV) fordert:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz086q6200al266jgyszakk5</correctResponsePattern>
+            <correctResponsePattern>choice_ckz086q6200ak266j7f3sbdbv</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz086q6200ai266jibtt7fp8</id>
+        <description lang="en-US">Die Verpackung von Abf&amp;auml;llen in Big-Bags</description>
+      </component>
+            <component>
+        <id>choice_ckz086q6200ak266j7f3sbdbv</id>
+        <description lang="en-US">Die getrennte Sammlung und Verwertung von nicht gef&amp;auml;hrlichen Abf&amp;auml;llen</description>
+      </component>
+            <component>
+        <id>choice_ckz086q6200al266jgyszakk5</id>
+        <description lang="en-US">Der Erzeuger muss die Erf&amp;uuml;llung seiner Pflichten dokumentieren</description>
+      </component>
+            <component>
+        <id>choice_ckz086q6200aj266jaw2af0t1</id>
+        <description lang="en-US">Die getrennte Sammlung und Verwertung von gef&amp;auml;hrlichen Abf&amp;auml;llen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://QOPfomrct-qAFOL8OtmuWoLReLWsPufW_rise/0fRXLG_ygU9sjxpNxK-xWxF6SmcWJBNi/ckz087vdk00ca266jevav105f" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Beim Einsatz von Atemschutzger&amp;auml;ten (Masken) gilt:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz087vdk00cd266j78wrgjqk</correctResponsePattern>
+            <correctResponsePattern>choice_ckz087vdk00ce266jv7hxy808</correctResponsePattern>
+            <correctResponsePattern>choice_ckz0892xz00dm266jum8rsbqd</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz087vdk00cb266jxnql6f3f</id>
+        <description lang="en-US">Bei Faserst&amp;auml;uben (Asbest, KMF) werden A-Filter eingesetzt</description>
+      </component>
+            <component>
+        <id>choice_ckz087vdk00cd266j78wrgjqk</id>
+        <description lang="en-US">Bei Faserst&amp;auml;uben (Asbest, KMF) werden mindestens P2-Filter eingesetzt</description>
+      </component>
+            <component>
+        <id>choice_ckz087vdk00ce266jv7hxy808</id>
+        <description lang="en-US">Bei teils fl&amp;uuml;chtigen Gefahrstoffen wie PAK oder HSM werden Kombinationsfilter eingesetzt (A2/P3-Filter)</description>
+      </component>
+            <component>
+        <id>choice_ckz087vdk00cc266jexlf0uyg</id>
+        <description lang="en-US">F&amp;uuml;r Atemschutzger&amp;auml;te gibt es keine Tragezeitbegrenzung</description>
+      </component>
+            <component>
+        <id>choice_ckz0892xz00dm266jum8rsbqd</id>
+        <description lang="en-US">F&amp;uuml;r die PSA ist der Auftragnehmer / Unternehmer zust&amp;auml;ndig</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://QOPfomrct-qAFOL8OtmuWoLReLWsPufW_rise/0fRXLG_ygU9sjxpNxK-xWxF6SmcWJBNi/ckz089q7t00e4266jywbndxsj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Pers&amp;ouml;nliche Schutzausr&amp;uuml;stung (PSA) auf der Baustelle allgemein und bei Arbeiten mit Gefahrstoffen besteht in der Regel aus:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz089q7t00e5266jlzyvnrro</correctResponsePattern>
+            <correctResponsePattern>choice_ckz089q7t00e6266j74dn379w</correctResponsePattern>
+            <correctResponsePattern>choice_ckz08aitj00g7266jrdthd9yu</correctResponsePattern>
+            <correctResponsePattern>choice_ckz089q7t00e8266j99ogfmjo</correctResponsePattern>
+            <correctResponsePattern>choice_ckz089q7t00e7266jripg2wuu</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz089q7t00e5266jlzyvnrro</id>
+        <description lang="en-US">Helm</description>
+      </component>
+            <component>
+        <id>choice_ckz089q7t00e7266jripg2wuu</id>
+        <description lang="en-US">Schutzanzug</description>
+      </component>
+            <component>
+        <id>choice_ckz089q7t00e8266j99ogfmjo</id>
+        <description lang="en-US">Voll- oder Halbmaske</description>
+      </component>
+            <component>
+        <id>choice_ckz089q7t00e6266j74dn379w</id>
+        <description lang="en-US">Handschuhe</description>
+      </component>
+            <component>
+        <id>choice_ckz08aitj00g7266jrdthd9yu</id>
+        <description lang="en-US">Arbeitsschutzschuhe</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

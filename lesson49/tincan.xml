@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://451ll0Bu4W-4yYzuG-2k9OXl5xNuOl9B_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Farbenlehre - Quiz 5</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://451ll0Bu4W-4yYzuG-2k9OXl5xNuOl9B_rise/yuK2sTpYwp6b1yGkI6WLxxbexVbYbtyb" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://451ll0Bu4W-4yYzuG-2k9OXl5xNuOl9B_rise/yuK2sTpYwp6b1yGkI6WLxxbexVbYbtyb/ckz8aw9qb002w266ju3e4bepu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Farbtemperatur ist f&amp;uuml;r das Abnehmen, Bestimmen und Nachmischen von Farbt&amp;ouml;nen besser geeignet?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz8aw9qb002x266jpmpjdq8e</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz8aw9qb002x266jpmpjdq8e</id>
+        <description lang="en-US">5500 K = Tageslicht</description>
+      </component>
+            <component>
+        <id>choice_ckz8aw9qb002y266jtipwgpcl</id>
+        <description lang="en-US">3000 K= Warmwei&amp;szlig;</description>
+      </component>
+            <component>
+        <id>choice_ckz8ax0i8002z266jqio10wa3</id>
+        <description lang="en-US">2000 K= Kaltwei&amp;szlig;</description>
+      </component>
+            <component>
+        <id>choice_ckz8ax4lu0030266j44s34qob</id>
+        <description lang="en-US">4500 K= Tageslicht</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://451ll0Bu4W-4yYzuG-2k9OXl5xNuOl9B_rise/yuK2sTpYwp6b1yGkI6WLxxbexVbYbtyb/ckz8b4uzo003e266jke2t0tvd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nennen Sie den jeweils ma&amp;szlig;geblichen Farbkontrast auf dem dargestellten Bild ohne Beachtung des Hell-Dunkel-Kontrasts.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz8b4uzo003g266js2bbjdlv</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz8b4uzo003f266jnircfkpt</id>
+        <description lang="en-US">Flimmerkontrast, Qualit&amp;auml;tskontrast</description>
+      </component>
+            <component>
+        <id>choice_ckz8b4uzo003g266js2bbjdlv</id>
+        <description lang="en-US">Warm-Kalt-Kontrast, Komplement&amp;auml;rkontrast, Quantit&amp;auml;tskontrast</description>
+      </component>
+            <component>
+        <id>choice_ckz8b5ykv003i266jz5mncnov</id>
+        <description lang="en-US">Farbe-an-sich-Kontrast, Hell-Dunkel-Kontrast</description>
+      </component>
+            <component>
+        <id>choice_ckz8b624j003j266jzssh694o</id>
+        <description lang="en-US">Komplement&amp;auml;rkontrast</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://451ll0Bu4W-4yYzuG-2k9OXl5xNuOl9B_rise/yuK2sTpYwp6b1yGkI6WLxxbexVbYbtyb/ckz8b1yyc0038266j98lqykq1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nennen Sie den jeweils ma&amp;szlig;geblichen Farbkontrast auf dem dargestellten Bild ohne Beachtung des Hell-Dunkel-Kontrasts.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz8b3dbw003d266ju4x169f9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz8b1yyc0039266j6gw4luy9</id>
+        <description lang="en-US">Flimmerkontrast</description>
+      </component>
+            <component>
+        <id>choice_ckz8b1yyc003a266jfdfrgm8u</id>
+        <description lang="en-US">Kalt-Warm-Kontrast</description>
+      </component>
+            <component>
+        <id>choice_ckz8b3aei003c266jupu1ql65</id>
+        <description lang="en-US">Qualit&amp;auml;tskontrast</description>
+      </component>
+            <component>
+        <id>choice_ckz8b3dbw003d266ju4x169f9</id>
+        <description lang="en-US">Farbe-an-sich-Kontrast</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://451ll0Bu4W-4yYzuG-2k9OXl5xNuOl9B_rise/yuK2sTpYwp6b1yGkI6WLxxbexVbYbtyb/ckz8aydbd0034266jf6xre95m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die folgenden Aussagen f&amp;uuml;r das Nachmischen, Abnehmen und Bestimmen von Farbt&amp;ouml;nen richtig zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckz8aydbe0035266jhubw72n6[.]target_ckz8aydbe0035266jhubw72n6</correctResponsePattern>
+            <correctResponsePattern>source_ckz8aydbe0036266j1wxyj4ij[.]target_ckz8aydbe0036266j1wxyj4ij</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckz8aydbe0035266jhubw72n6</id>
+        <description lang="en-US">Warmweiß ></description>
+      </component>
+            <component>
+        <id>source_ckz8aydbe0036266j1wxyj4ij</id>
+        <description lang="en-US">Tageslicht ></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckz8aydbe0035266jhubw72n6</id>
+            <description lang="en-US">Nicht geeignet für die Bestimmung von Farbtönen. Licht wirkt gelblich. </description>
+          </component>
+                  <component>
+            <id>target_ckz8aydbe0036266j1wxyj4ij</id>
+            <description lang="en-US">Ideale Farbtemperatur zur Bestimmung von Farbtönen. Licht wirkt neutral.</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://451ll0Bu4W-4yYzuG-2k9OXl5xNuOl9B_rise/yuK2sTpYwp6b1yGkI6WLxxbexVbYbtyb/ckz8b71yx003k266jv0x6oxeq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei der Erstellung von digitalen Farbentw&amp;uuml;rfen spielt die &amp;bdquo;Kalibrierung&amp;ldquo; eine wichtige Rolle. Trifft die folgende Aussage zu?&lt;br&gt;&lt;em&gt;Bei einer Kalibrierung wird der Monitor eines PCs mittels Hard- und Software so eingestellt, dass die am Bildschirm dargestellten Farben mit dem vom Farbdrucker erstellten Auszug m&amp;ouml;glichst genau &amp;uuml;bereinstimmen.&lt;/em&gt;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz8b71yy003l266jyry64fa0</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz8b71yy003l266jyry64fa0</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            <component>
+        <id>choice_ckz8b71yy003m266jc35ctvph</id>
+        <description lang="en-US">Nein</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://451ll0Bu4W-4yYzuG-2k9OXl5xNuOl9B_rise/yuK2sTpYwp6b1yGkI6WLxxbexVbYbtyb/ckz8b8fj6003n266jo50t0v8i" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Farbt&amp;ouml;ne beeinflussen optisch die Proportionen eines Raumes. Beurteilen Sie hierzu die beiden gezeigten Darstellungen. &amp;nbsp; &amp;nbsp;&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz8b8fj7003p266jpmpd4i3b</correctResponsePattern>
+            <correctResponsePattern>choice_ckz8b8fj7003r266j64z6llvq</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz8b8fj7003o266jrr3vr5rd</id>
+        <description lang="en-US">Raum A wirkt durch die helle Decke niedrig. Die kr&amp;auml;ftigen Seitenw&amp;auml;nde sowie die hellere R&amp;uuml;ckwand lassen den Raum beengt wirken.</description>
+      </component>
+            <component>
+        <id>choice_ckz8b8fj7003q266jjhz7gr3y</id>
+        <description lang="en-US">Raum B wirkt durch die dunklere Decke h&amp;ouml;her. Die helleren W&amp;auml;nde lassen ihn breiter wirken.</description>
+      </component>
+            <component>
+        <id>choice_ckz8b8fj7003r266j64z6llvq</id>
+        <description lang="en-US">Choice 3</description>
+      </component>
+            <component>
+        <id>choice_ckz8b8fj7003p266jpmpd4i3b</id>
+        <description lang="en-US">Raum B wirkt durch die dunklere Decke niedriger. Die helleren W&amp;auml;nde lassen ihn breiter wirken.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://451ll0Bu4W-4yYzuG-2k9OXl5xNuOl9B_rise/yuK2sTpYwp6b1yGkI6WLxxbexVbYbtyb/ckzefzxlq0008266j4bj661j3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Im Laufe der Zeit haben sich verschiedene Pers&amp;ouml;nlichkeiten und Institutionen mit der Entwicklung von Farbenlehren und Farbsystemen befasst. Ordnen Sie diese den Jahreszalen richtig zu. </name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzefzxlq0009266jave0wnxb[.]target_ckzefzxlq0009266jave0wnxb</correctResponsePattern>
+            <correctResponsePattern>source_ckzefzxlq000a266jgk6kt83l[.]target_ckzefzxlq000a266jgk6kt83l</correctResponsePattern>
+            <correctResponsePattern>source_ckzefzxlq000b266jw0xejr03[.]target_ckzefzxlq000b266jw0xejr03</correctResponsePattern>
+            <correctResponsePattern>source_ckzeg81k1000c266jgh8bxfkw[.]target_ckzeg81k1000c266jgh8bxfkw</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzefzxlq0009266jave0wnxb</id>
+        <description lang="en-US">Johann Wolfgang von Goethe></description>
+      </component>
+            <component>
+        <id>source_ckzefzxlq000a266jgk6kt83l</id>
+        <description lang="en-US">Johannes Itten></description>
+      </component>
+            <component>
+        <id>source_ckzefzxlq000b266jw0xejr03</id>
+        <description lang="en-US">Wilhelm Ostwald></description>
+      </component>
+            <component>
+        <id>source_ckzeg81k1000c266jgh8bxfkw</id>
+        <description lang="en-US">NCS></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzefzxlq0009266jave0wnxb</id>
+            <description lang="en-US">~ 1810</description>
+          </component>
+                  <component>
+            <id>target_ckzefzxlq000a266jgk6kt83l</id>
+            <description lang="en-US">~ 1961</description>
+          </component>
+                  <component>
+            <id>target_ckzefzxlq000b266jw0xejr03</id>
+            <description lang="en-US">~ 1916</description>
+          </component>
+                  <component>
+            <id>target_ckzeg81k1000c266jgh8bxfkw</id>
+            <description lang="en-US">seit 1946</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://451ll0Bu4W-4yYzuG-2k9OXl5xNuOl9B_rise/yuK2sTpYwp6b1yGkI6WLxxbexVbYbtyb/ckzegfcvo000d266jkzwsi8pm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bringen Sie die Arbeitsg&amp;auml;nge einer Polimentvergoldung in die richtige Reihenfolge.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzegfcvp000e266j0qokvdif[.]target_ckzegfcvp000e266j0qokvdif</correctResponsePattern>
+            <correctResponsePattern>source_ckzegfcvp000f266jb2qek93z[.]target_ckzegfcvp000f266jb2qek93z</correctResponsePattern>
+            <correctResponsePattern>source_ckzegfcvp000g266jspqesyu5[.]target_ckzegfcvp000g266jspqesyu5</correctResponsePattern>
+            <correctResponsePattern>source_ckzeggahr000h266jkr8p5ic0[.]target_ckzeggahr000h266jkr8p5ic0</correctResponsePattern>
+            <correctResponsePattern>source_ckzeggbrv000i266jk4qi57mv[.]target_ckzeggbrv000i266jk4qi57mv</correctResponsePattern>
+            <correctResponsePattern>source_ckzeggeeb000j266jeawm33t4[.]target_ckzeggeeb000j266jeawm33t4</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzegfcvp000e266j0qokvdif</id>
+        <description lang="en-US">Leimgrundierung></description>
+      </component>
+            <component>
+        <id>source_ckzegfcvp000f266jb2qek93z</id>
+        <description lang="en-US">mehrmals Kreidegrund auftragen und schleifen></description>
+      </component>
+            <component>
+        <id>source_ckzegfcvp000g266jspqesyu5</id>
+        <description lang="en-US">mehrmaliger Auftrag von Poliment></description>
+      </component>
+            <component>
+        <id>source_ckzeggahr000h266jkr8p5ic0</id>
+        <description lang="en-US">Anfeuchten mit einer wässrig-alkoholischen Lösung (Netze)></description>
+      </component>
+            <component>
+        <id>source_ckzeggbrv000i266jk4qi57mv</id>
+        <description lang="en-US">Auflegen von Blattgold></description>
+      </component>
+            <component>
+        <id>source_ckzeggeeb000j266jeawm33t4</id>
+        <description lang="en-US">nach Trocknung mit Polierstein gleichmäßig polieren></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzegfcvp000e266j0qokvdif</id>
+            <description lang="en-US">1</description>
+          </component>
+                  <component>
+            <id>target_ckzegfcvp000f266jb2qek93z</id>
+            <description lang="en-US">2</description>
+          </component>
+                  <component>
+            <id>target_ckzegfcvp000g266jspqesyu5</id>
+            <description lang="en-US">3</description>
+          </component>
+                  <component>
+            <id>target_ckzeggahr000h266jkr8p5ic0</id>
+            <description lang="en-US">4</description>
+          </component>
+                  <component>
+            <id>target_ckzeggbrv000i266jk4qi57mv</id>
+            <description lang="en-US">5</description>
+          </component>
+                  <component>
+            <id>target_ckzeggeeb000j266jeawm33t4</id>
+            <description lang="en-US">6</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://451ll0Bu4W-4yYzuG-2k9OXl5xNuOl9B_rise/yuK2sTpYwp6b1yGkI6WLxxbexVbYbtyb/ckzegjzjp000k266j36rzt6v1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sicherheitszeichen und Gefahrensymbole haben eine feststehende Farbkombination. Ordnen Sie den Begriffen den nachstehenden Farbkombinationen zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzegjzjp000l266jk27notgf[.]target_ckzegjzjp000l266jk27notgf</correctResponsePattern>
+            <correctResponsePattern>source_ckzegjzjp000m266j8s6pbn33[.]target_ckzegjzjp000m266j8s6pbn33</correctResponsePattern>
+            <correctResponsePattern>source_ckzegjzjp000n266j1siaygom[.]target_ckzegjzjp000n266j1siaygom</correctResponsePattern>
+            <correctResponsePattern>source_ckzegkhs5000o266jjtxqp0yc[.]target_ckzegkhs5000o266jjtxqp0yc</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzegjzjp000l266jk27notgf</id>
+        <description lang="en-US">Rettung></description>
+      </component>
+            <component>
+        <id>source_ckzegjzjp000m266j8s6pbn33</id>
+        <description lang="en-US">Verbot></description>
+      </component>
+            <component>
+        <id>source_ckzegjzjp000n266j1siaygom</id>
+        <description lang="en-US">Gebot ></description>
+      </component>
+            <component>
+        <id>source_ckzegkhs5000o266jjtxqp0yc</id>
+        <description lang="en-US">Gefahr ></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzegjzjp000l266jk27notgf</id>
+            <description lang="en-US">Grün – Weiß </description>
+          </component>
+                  <component>
+            <id>target_ckzegjzjp000m266j8s6pbn33</id>
+            <description lang="en-US">Rot – Weiß </description>
+          </component>
+                  <component>
+            <id>target_ckzegjzjp000n266j1siaygom</id>
+            <description lang="en-US">Blau – Weiß</description>
+          </component>
+                  <component>
+            <id>target_ckzegkhs5000o266jjtxqp0yc</id>
+            <description lang="en-US">Geld – Schwarz</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://451ll0Bu4W-4yYzuG-2k9OXl5xNuOl9B_rise/yuK2sTpYwp6b1yGkI6WLxxbexVbYbtyb/ckzegrzpo000p266jwhrj1hpz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen &amp;nbsp;Sie die Erl&amp;auml;uterungen den jeweiligen Kontrasten zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzegrzpo000q266jgvwuykn7[.]target_ckzegrzpo000q266jgvwuykn7</correctResponsePattern>
+            <correctResponsePattern>source_ckzegrzpp000r266jc89pzr1o[.]target_ckzegrzpp000r266jc89pzr1o</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzegrzpo000q266jgvwuykn7</id>
+        <description lang="en-US">Qualitätskontrast></description>
+      </component>
+            <component>
+        <id>source_ckzegrzpp000r266jc89pzr1o</id>
+        <description lang="en-US">Quantitätskontrast></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzegrzpo000q266jgvwuykn7</id>
+            <description lang="en-US">entsteht, wenn reine, bunte, leuchtende Farben neben getrübten, gebrochenen, stumpfen sind</description>
+          </component>
+                  <component>
+            <id>target_ckzegrzpp000r266jc89pzr1o</id>
+            <description lang="en-US">entsteht durch Gegenüberstellung von vielen und wenigen oder großen und kleinen Flächen</description>
+          </component>
+              </target>
+          </activity>
+            </activities>
+</tincan>

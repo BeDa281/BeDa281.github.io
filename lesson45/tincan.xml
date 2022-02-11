@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://51taRhDuwj04wuJ4UTYQ_M9anbDJLirO_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Farbenlehre - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://51taRhDuwj04wuJ4UTYQ_M9anbDJLirO_rise/kY5xc5n-KhpE5LddYowQZDq6q24QX8DI" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://51taRhDuwj04wuJ4UTYQ_M9anbDJLirO_rise/kY5xc5n-KhpE5LddYowQZDq6q24QX8DI/ckz6ush2m002w266jr61w46gs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Farben beeinflussen Gef&amp;uuml;hle und Stimmungen des Menschen. Welche Wirkungen hat der Farbton Violett?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz6ut8in0030266jojzgkxz2</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz6ush2m002x266j28gbtz2b</id>
+        <description lang="en-US">Beruhigend, erfrischend, nat&amp;uuml;rlich</description>
+      </component>
+            <component>
+        <id>choice_ckz6ush2m002y266jub9zx6mc</id>
+        <description lang="en-US">Anregend, belebend, erheiternd</description>
+      </component>
+            <component>
+        <id>choice_ckz6ut53v002z266jpcpuo2vy</id>
+        <description lang="en-US">Agressiv, leidenschaftlich, erregend</description>
+      </component>
+            <component>
+        <id>choice_ckz6ut8in0030266jojzgkxz2</id>
+        <description lang="en-US">Feierlich, w&amp;uuml;rdig, geheimnisvoll</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://51taRhDuwj04wuJ4UTYQ_M9anbDJLirO_rise/kY5xc5n-KhpE5LddYowQZDq6q24QX8DI/ckz6utioj0031266j1oaloa3w" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Mit welchem Farbton assoziiert man Lust, Freude, Heiterkeit, Genuss und Energie?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz6uufb00034266j4kgixdod</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz6utioj0032266j8terw7x4</id>
+        <description lang="en-US">Violett</description>
+      </component>
+            <component>
+        <id>choice_ckz6utioj0033266ja1xjodgy</id>
+        <description lang="en-US">Gr&amp;uuml;n</description>
+      </component>
+            <component>
+        <id>choice_ckz6uufb00034266j4kgixdod</id>
+        <description lang="en-US">Orange</description>
+      </component>
+            <component>
+        <id>choice_ckz6uuiue0035266jxm1l9gxd</id>
+        <description lang="en-US">Blau</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://51taRhDuwj04wuJ4UTYQ_M9anbDJLirO_rise/kY5xc5n-KhpE5LddYowQZDq6q24QX8DI/ckz6uzquh0039266jnnzzpows" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordenen Sie die Begriffe richtig zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckz6uzquh003a266jwv48um5q[.]target_ckz6uzquh003a266jwv48um5q</correctResponsePattern>
+            <correctResponsePattern>source_ckz6uzquh003b266j2kw47gg7[.]target_ckz6uzquh003b266j2kw47gg7</correctResponsePattern>
+            <correctResponsePattern>source_ckz6uzquh003c266jvky8tl4g[.]target_ckz6uzquh003c266jvky8tl4g</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckz6uzquh003a266jwv48um5q</id>
+        <description lang="en-US">Dominante></description>
+      </component>
+            <component>
+        <id>source_ckz6uzquh003b266j2kw47gg7</id>
+        <description lang="en-US">Subdominante></description>
+      </component>
+            <component>
+        <id>source_ckz6uzquh003c266jvky8tl4g</id>
+        <description lang="en-US">Akzent></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckz6uzquh003a266jwv48um5q</id>
+            <description lang="en-US">der vorherrschende Farbton eines Gebäudes, die Fläche mit dem größten Anteil.</description>
+          </component>
+                  <component>
+            <id>target_ckz6uzquh003b266j2kw47gg7</id>
+            <description lang="en-US">ergänzender Farbton, z.B. für schmückende Ergänzungen mit geringerem Flächenanteil.</description>
+          </component>
+                  <component>
+            <id>target_ckz6uzquh003c266jvky8tl4g</id>
+            <description lang="en-US">betonender Farbton, z.B. für Details, schmückende Beiwerke einer Fassade.</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://51taRhDuwj04wuJ4UTYQ_M9anbDJLirO_rise/kY5xc5n-KhpE5LddYowQZDq6q24QX8DI/ckz6v3cph003d266j114oyyw5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nennen Sie die 3 Farbkontraste die bei der Farbgebung dieser Fassade eingesetzt wurden.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz6v3cpi003e266j984q85mt</correctResponsePattern>
+            <correctResponsePattern>choice_ckz6v3cpi003f266jv5ap8wd5</correctResponsePattern>
+            <correctResponsePattern>choice_ckz6v3cpi003h266jgwneuaci</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz6v3cpi003e266j984q85mt</id>
+        <description lang="en-US">Farbe an sich Kontrast</description>
+      </component>
+            <component>
+        <id>choice_ckz6v3cpi003g266jo6etw7o3</id>
+        <description lang="en-US">Hell Dunkel Kontrast</description>
+      </component>
+            <component>
+        <id>choice_ckz6v3cpi003h266jgwneuaci</id>
+        <description lang="en-US">Qualit&amp;auml;tkontrast (Farbe-Nichtfarbe)</description>
+      </component>
+            <component>
+        <id>choice_ckz6v3cpi003f266jv5ap8wd5</id>
+        <description lang="en-US">Quantit&amp;auml;tskontrast Mengenverh&amp;auml;ltnis</description>
+      </component>
+            <component>
+        <id>choice_ckz6v5ixb004x266jcq9lbkfy</id>
+        <description lang="en-US">Flimmerkontrast</description>
+      </component>
+            <component>
+        <id>choice_ckz6v5mzr0058266j58xyic2f</id>
+        <description lang="en-US">Sukzessivkontrast</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://51taRhDuwj04wuJ4UTYQ_M9anbDJLirO_rise/kY5xc5n-KhpE5LddYowQZDq6q24QX8DI/ckz6v69cq005u266jx74c4awm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der optische Wirkungen werden durch die Farbgestaltung erzielt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz6v69cq005v266jbsdlcd7i</correctResponsePattern>
+            <correctResponsePattern>choice_ckz6v69cq005w266j4hke21gw</correctResponsePattern>
+            <correctResponsePattern>choice_ckz6v8apd0064266jvssseqtm</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz6v69cq005v266jbsdlcd7i</id>
+        <description lang="en-US">Akzentuierung/Betonung der Fenster</description>
+      </component>
+            <component>
+        <id>choice_ckz6v69cq005w266j4hke21gw</id>
+        <description lang="en-US">Auflockerung der grauen Fassade&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckz6v8apd0064266jvssseqtm</id>
+        <description lang="en-US">Eint&amp;ouml;nigkeit der grauen Fl&amp;auml;che durch Fensterglas und Fassade wird aufgehoben</description>
+      </component>
+            <component>
+        <id>choice_ckz6v8i2w006d266jg01thass</id>
+        <description lang="en-US">Unruhige Stimmung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://51taRhDuwj04wuJ4UTYQ_M9anbDJLirO_rise/kY5xc5n-KhpE5LddYowQZDq6q24QX8DI/ckz6v8mlz006k266jjurajaoi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der optische Wirkungen werden durch die Farbgestaltung erzielt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz6v8mm0006l266jsy5bbikx</correctResponsePattern>
+            <correctResponsePattern>choice_ckz6v8mm0006n266jblahkx35</correctResponsePattern>
+            <correctResponsePattern>choice_ckz6v8mm0006o266j2ot7rktm</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz6v8mm0006l266jsy5bbikx</id>
+        <description lang="en-US">freundliche Anmutung&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckz6v8mm0006n266jblahkx35</id>
+        <description lang="en-US">hebt die strenge (gleichm&amp;auml;&amp;szlig;ige oder geometrische) Gliederung auf&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckz6v8mm0006o266j2ot7rktm</id>
+        <description lang="en-US">stellt Spannung in der Fl&amp;auml;che her</description>
+      </component>
+            <component>
+        <id>choice_ckz6v8mm0006m266jm800pvca</id>
+        <description lang="en-US">wirkt aggressiv</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://51taRhDuwj04wuJ4UTYQ_M9anbDJLirO_rise/kY5xc5n-KhpE5LddYowQZDq6q24QX8DI/ckz6vbe2e0092266jrywyjtu8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Auf vielen Farbtonkarten sind zu der eigentlichen Farbtonangabe zus&amp;auml;tzliche Informationen in Form von Buchstaben- und/oder Zahlenkombinationen aufgedruckt (z. B.: H29 C4 L85).&lt;br&gt;Wof&amp;uuml;r stehen in diesem Zusammenhang die Buchstaben H, C und L?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz6vbe2g0093266jpsibjs4z</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz6vbe2g0093266jpsibjs4z</id>
+        <description lang="en-US">H: Farbton, C: S&amp;auml;ttigung, L: Helligkeit</description>
+      </component>
+            <component>
+        <id>choice_ckz6vbe2g0094266jr7s7foob</id>
+        <description lang="en-US">&amp;nbsp;H: Helligkeit, C: Farbton, L: S&amp;auml;ttigung</description>
+      </component>
+            <component>
+        <id>choice_ckz6vcdlf0095266jc9mknn3v</id>
+        <description lang="en-US">&amp;nbsp;H: S&amp;auml;ttigung, C: Helligkeit, L: Farbton</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://51taRhDuwj04wuJ4UTYQ_M9anbDJLirO_rise/kY5xc5n-KhpE5LddYowQZDq6q24QX8DI/ckz6vd8c10096266jkm7tiysn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Beschreiben Sie, bei welcher Kombination von Farben ein Flimmern entsteht.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz6vd8c10097266ja77s93s6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz6vd8c10097266ja77s93s6</id>
+        <description lang="en-US">Wenn zwei Farben gleicher Helligkeit nebeneinander liegen.</description>
+      </component>
+            <component>
+        <id>choice_ckz6vd8c10099266jihiktjnv</id>
+        <description lang="en-US">Wenn zwei nebeneinanderliegenden Farben aus Ittens Farbkreis nebeneinander liegen.</description>
+      </component>
+            <component>
+        <id>choice_ckz6vd8c1009a266j9jtmrkrs</id>
+        <description lang="en-US">Wenn drei Farben gleicher Dunkelheit aneinander liegen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://51taRhDuwj04wuJ4UTYQ_M9anbDJLirO_rise/kY5xc5n-KhpE5LddYowQZDq6q24QX8DI/ckz6vemnu009l266j2oefkrwa" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Kann das Auftreten des Flimmereffektes (Flimmerkontrast) bei einer Farbgestaltung durch das Herstellen eines deutlichen Hell-Dunkel-Kontrastes zwischen den Farbt&amp;ouml;nen (Aufhellen oder Verdunkeln einzelner Farbt&amp;ouml;ne) und/oder durch Trennung der Farbt&amp;ouml;ne mit einer zus&amp;auml;tzlichen Farbe vermieden werden? &amp;nbsp; &amp;nbsp; &amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz6vemnv009m266jl83dyipw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz6vemnv009m266jl83dyipw</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            <component>
+        <id>choice_ckz6vemnv009n266j8kktuh7h</id>
+        <description lang="en-US">Nein</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://51taRhDuwj04wuJ4UTYQ_M9anbDJLirO_rise/kY5xc5n-KhpE5LddYowQZDq6q24QX8DI/ckz6vffge009o266jzd8339k3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welches sind die Elementarfarben des NCS-Systems?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz6vffgf009r266jrbrky00b</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz6vffgf009p266joxuxgak8</id>
+        <description lang="en-US">Gelb, Rot, Blau</description>
+      </component>
+            <component>
+        <id>choice_ckz6vffgf009r266jrbrky00b</id>
+        <description lang="en-US">Schwarz, Wei&amp;szlig;, Gelb, Rot, Blau, Gr&amp;uuml;n</description>
+      </component>
+            <component>
+        <id>choice_ckz6vffgf009s266j9pydpz7m</id>
+        <description lang="en-US">Blau, Gr&amp;uuml;n, Gelb, Schwarz, Grau, Wei&amp;szlig;</description>
+      </component>
+            <component>
+        <id>choice_ckz6vffgf009q266jsg3sv971</id>
+        <description lang="en-US">Gelb, Rot, Blau, Gr&amp;uuml;n</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

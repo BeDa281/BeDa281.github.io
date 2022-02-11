@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://8DRSa7XyDv4BozITpvOCE5HVKto6HHe2_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Farbenlehre - Quiz 4</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://8DRSa7XyDv4BozITpvOCE5HVKto6HHe2_rise/oVcWmBmHP2oNr0rZL10RfwARdRxbl-xs" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://8DRSa7XyDv4BozITpvOCE5HVKto6HHe2_rise/oVcWmBmHP2oNr0rZL10RfwARdRxbl-xs/ckz8a1qyq002w266j8uoosp1j" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie zu den Abk&amp;uuml;rzungen RGB und CMYK je einen Einsatzbereich zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckz8a1qyq002x266jpti0m4gl[.]target_ckz8a1qyq002x266jpti0m4gl</correctResponsePattern>
+            <correctResponsePattern>source_ckz8a1qyq002y266jo0f2vm73[.]target_ckz8a1qyq002y266jo0f2vm73</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckz8a1qyq002x266jpti0m4gl</id>
+        <description lang="en-US">RGB></description>
+      </component>
+            <component>
+        <id>source_ckz8a1qyq002y266jo0f2vm73</id>
+        <description lang="en-US">CMYK></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckz8a1qyq002x266jpti0m4gl</id>
+            <description lang="en-US">Darstellung auf Monitoren und Displays, Spektralfarbenzerlegung (Regenbogen), Bühne</description>
+          </component>
+                  <component>
+            <id>target_ckz8a1qyq002y266jo0f2vm73</id>
+            <description lang="en-US">Farbausgabe mittels Drucker, Pigmentmischung mit Farben (Maler)</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://8DRSa7XyDv4BozITpvOCE5HVKto6HHe2_rise/oVcWmBmHP2oNr0rZL10RfwARdRxbl-xs/ckz8a5kwg0030266jagas3kmm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welches Ma&amp;szlig;verh&amp;auml;ltnis entspricht dem Goldenen Schnitt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz8a61m30033266j8kvftzkk</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz8a5kwg0031266jacmuatws</id>
+        <description lang="en-US">A &amp;nbsp; &amp;frac14; &amp;nbsp;zu &amp;nbsp;&amp;frac34;</description>
+      </component>
+            <component>
+        <id>choice_ckz8a5kwg0032266jksinjwn2</id>
+        <description lang="en-US">50 zu 50</description>
+      </component>
+            <component>
+        <id>choice_ckz8a61m30033266j8kvftzkk</id>
+        <description lang="en-US">5 zu 8</description>
+      </component>
+            <component>
+        <id>choice_ckz8a64zs0034266jbju1gbdd</id>
+        <description lang="en-US">20 zu 80</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://8DRSa7XyDv4BozITpvOCE5HVKto6HHe2_rise/oVcWmBmHP2oNr0rZL10RfwARdRxbl-xs/ckz8a6hz70035266jq2gemzr3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wof&amp;uuml;r steht in der Farbpsychologie die Farbe Blau?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz8a6hz70036266jg9qftzjh</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz8a6hz70036266jg9qftzjh</id>
+        <description lang="en-US">Sympathie, Harmonie, Freundschaft, Treue</description>
+      </component>
+            <component>
+        <id>choice_ckz8a6hz70037266j7mgsfu7u</id>
+        <description lang="en-US">&amp;nbsp;Leidenschaft, Liebe, Hass, Zorn</description>
+      </component>
+            <component>
+        <id>choice_ckz8a727q0038266j2720r7u0</id>
+        <description lang="en-US">&amp;nbsp;Fr&amp;ouml;mmigkeit, Eitelkeit, Extravaganz, Untreue</description>
+      </component>
+            <component>
+        <id>choice_ckz8a76ej0039266jlksp36t4</id>
+        <description lang="en-US">&amp;nbsp;Aktivit&amp;auml;t, W&amp;auml;rme, Energie Fr&amp;ouml;hlichkeit</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://8DRSa7XyDv4BozITpvOCE5HVKto6HHe2_rise/oVcWmBmHP2oNr0rZL10RfwARdRxbl-xs/ckz8a7iki003a266jcerwz8lr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Begriffe aus der Farbgestaltung zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckz8a7iki003b266j90n4ptak[.]target_ckz8a7iki003b266j90n4ptak</correctResponsePattern>
+            <correctResponsePattern>source_ckz8a7iki003c266jljam7z4j[.]target_ckz8a7iki003c266jljam7z4j</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckz8a7iki003b266j90n4ptak</id>
+        <description lang="en-US">Monochrome Farbgestaltung></description>
+      </component>
+            <component>
+        <id>source_ckz8a7iki003c266jljam7z4j</id>
+        <description lang="en-US">Polychrome Farbgestaltung></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckz8a7iki003b266j90n4ptak</id>
+            <description lang="en-US">Verwendung eines einzelnen Farbtons und dessen Aufhellungen oder Abdunkelungen S/W</description>
+          </component>
+                  <component>
+            <id>target_ckz8a7iki003c266jljam7z4j</id>
+            <description lang="en-US">Einsatz von verschiedenen Bunttönen zur Erzielung von farbigen Gestaltungen und Effekten</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://8DRSa7XyDv4BozITpvOCE5HVKto6HHe2_rise/oVcWmBmHP2oNr0rZL10RfwARdRxbl-xs/ckz8acdt2003i266jd619hb3r" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Begriffe richtig zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckz8acdt3003j266j4e6sfqsb[.]target_ckz8acdt3003j266j4e6sfqsb</correctResponsePattern>
+            <correctResponsePattern>source_ckz8acdt3003k266jnpctnfnw[.]target_ckz8acdt3003k266jnpctnfnw</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckz8acdt3003j266j4e6sfqsb</id>
+        <description lang="en-US">matt></description>
+      </component>
+            <component>
+        <id>source_ckz8acdt3003k266jnpctnfnw</id>
+        <description lang="en-US">glänzend></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckz8acdt3003j266j4e6sfqsb</id>
+            <description lang="en-US">Diffuse Reflexion</description>
+          </component>
+                  <component>
+            <id>target_ckz8acdt3003k266jnpctnfnw</id>
+            <description lang="en-US">Gerichtete Reflexion</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://8DRSa7XyDv4BozITpvOCE5HVKto6HHe2_rise/oVcWmBmHP2oNr0rZL10RfwARdRxbl-xs/ckz8a9oju003e266ja4pve7ik" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie zu, warum das menschliche Auge Oberfl&amp;auml;chen gl&amp;auml;nzend oder matt wahrnimmt.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckz8a9ojv003f266jls0wezcx[.]target_ckz8a9ojv003f266jls0wezcx</correctResponsePattern>
+            <correctResponsePattern>source_ckz8a9ojv003g266jkxnzbj41[.]target_ckz8a9ojv003g266jkxnzbj41</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckz8a9ojv003f266jls0wezcx</id>
+        <description lang="en-US">glänzend></description>
+      </component>
+            <component>
+        <id>source_ckz8a9ojv003g266jkxnzbj41</id>
+        <description lang="en-US">matt></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckz8a9ojv003f266jls0wezcx</id>
+            <description lang="en-US">Lichtstrahlen werden parallel und im gleichen Winkel reflektiert . </description>
+          </component>
+                  <component>
+            <id>target_ckz8a9ojv003g266jkxnzbj41</id>
+            <description lang="en-US">Lichtstrahlen werken in unterschiedlichen Winkeln reflektiert. </description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://8DRSa7XyDv4BozITpvOCE5HVKto6HHe2_rise/oVcWmBmHP2oNr0rZL10RfwARdRxbl-xs/ckz8aidsw003n266jyb7enie5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie zu, durch welche Arbeitsg&amp;auml;nge sich in der Praxis gl&amp;auml;nzende und matte Oberfl&amp;auml;chen erzielen lassen. &amp;nbsp; &amp;nbsp;&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckz8aidsx003o266jm0na4m0u[.]target_ckz8aidsx003o266jm0na4m0u</correctResponsePattern>
+            <correctResponsePattern>source_ckz8aidsx003p266j8geoifvs[.]target_ckz8aidsx003p266j8geoifvs</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckz8aidsx003o266jm0na4m0u</id>
+        <description lang="en-US">matt></description>
+      </component>
+            <component>
+        <id>source_ckz8aidsx003p266j8geoifvs</id>
+        <description lang="en-US">glänzend></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckz8aidsx003o266jm0na4m0u</id>
+            <description lang="en-US">Durch Schleifen sowie durch die Verwendung von besonderen Werkstoffen.</description>
+          </component>
+                  <component>
+            <id>target_ckz8aidsx003p266j8geoifvs</id>
+            <description lang="en-US">Durch Polieren sowie durch die Verwendung von besonderen Werkstoffen. </description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://8DRSa7XyDv4BozITpvOCE5HVKto6HHe2_rise/oVcWmBmHP2oNr0rZL10RfwARdRxbl-xs/ckz8allqi003u266jwmq4qocq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Eine Lichtquelle hat eine Farbtemperatur von 3000 K, eine andere 5500 K. Ordnen Sie richtig zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckz8allqi003v266jzpgc4vut[.]target_ckz8allqi003v266jzpgc4vut</correctResponsePattern>
+            <correctResponsePattern>source_ckz8allqi003w266jpfiad5l9[.]target_ckz8allqi003w266jpfiad5l9</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckz8allqi003v266jzpgc4vut</id>
+        <description lang="en-US">3000 K ></description>
+      </component>
+            <component>
+        <id>source_ckz8allqi003w266jpfiad5l9</id>
+        <description lang="en-US">5500 K></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckz8allqi003v266jzpgc4vut</id>
+            <description lang="en-US">Warmweiß</description>
+          </component>
+                  <component>
+            <id>target_ckz8allqi003w266jpfiad5l9</id>
+            <description lang="en-US">Tageslicht</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://8DRSa7XyDv4BozITpvOCE5HVKto6HHe2_rise/oVcWmBmHP2oNr0rZL10RfwARdRxbl-xs/ckz8amkzz003y266js4ibk70g" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Eine Lichtquelle hat eine Farbtemperatur von 3000 K, welche Aussage trifft zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz8amkzz003z266jljiho7li</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz8amkzz003z266jljiho7li</id>
+        <description lang="en-US">Schafft eine Atmosph&amp;auml;re, in der sich der Mensch wohlf&amp;uuml;hlt und die Wohnr&amp;auml;ume nicht zu k&amp;uuml;hl wirken l&amp;auml;sst.</description>
+      </component>
+            <component>
+        <id>choice_ckz8amkzz0040266j8n4nswwo</id>
+        <description lang="en-US">Neutrales, helles Licht. Ideal in Arbeitsr&amp;auml;umen, in Wohnr&amp;auml;umen eher zu k&amp;uuml;hl.</description>
+      </component>
+            <component>
+        <id>choice_ckz8ao1y7004v266jy4rwqft8</id>
+        <description lang="en-US">Grelles Licht. Wirkt bei Konzentrationsaufgaben stimulierend.</description>
+      </component>
+            <component>
+        <id>choice_ckz8aotgw007b266jtwdowcpm</id>
+        <description lang="en-US"></description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://8DRSa7XyDv4BozITpvOCE5HVKto6HHe2_rise/oVcWmBmHP2oNr0rZL10RfwARdRxbl-xs/ckz8aq4rb008t266jrx5ps747" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Eine Lichtquelle hat eine Farbtemperatur von 5500 K, welche Aussage trifft zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz8aq4rc008w266jg925k9d4</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz8aq4rc008u266j9i5apl3j</id>
+        <description lang="en-US">Schafft eine Atmosph&amp;auml;re, in der sich der Mensch wohlf&amp;uuml;hlt und die Wohnr&amp;auml;ume nicht zu k&amp;uuml;hl wirken l&amp;auml;sst.</description>
+      </component>
+            <component>
+        <id>choice_ckz8aq4rc008w266jg925k9d4</id>
+        <description lang="en-US">Neutrales, helles Licht. Ideal in Arbeitsr&amp;auml;umen, in Wohnr&amp;auml;umen eher zu k&amp;uuml;hl.</description>
+      </component>
+            <component>
+        <id>choice_ckz8aq4rc008x266jf3q7o0ge</id>
+        <description lang="en-US">Grelles Licht. Wirkt bei Konzentrationsaufgaben stimulierend.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

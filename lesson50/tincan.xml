@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://d9ra8mzaZBOrHCTTIXdvggdjIkWuaD-W_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Schadstoffsanierung - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://d9ra8mzaZBOrHCTTIXdvggdjIkWuaD-W_rise/Fy9QwhIHMCezvjEJl3agsOtZQiIF-Yr4" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://d9ra8mzaZBOrHCTTIXdvggdjIkWuaD-W_rise/Fy9QwhIHMCezvjEJl3agsOtZQiIF-Yr4/ckz07l62k002w266jeswwu7wa" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Asbestprodukte werden definitionsgem&amp;auml;&amp;szlig; eingeteilt in:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz07l62k002x266j811tgi6j</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07l62k002y266jy5l67r59</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07mamt002z266jb0t5c7t1</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz07l62k002x266j811tgi6j</id>
+        <description lang="en-US">Schwach-gebundene Asbestprodukte (Dichte &amp;lt; 1.000 kg/m&amp;sup3;)</description>
+      </component>
+            <component>
+        <id>choice_ckz07l62k002y266jy5l67r59</id>
+        <description lang="en-US">Fest-gebundene Asbestprodukte (Dichte &amp;gt; 1.000 kg/m&amp;sup3;)</description>
+      </component>
+            <component>
+        <id>choice_ckz07mamt002z266jb0t5c7t1</id>
+        <description lang="en-US">Asbestzement-Produkte (Dichte &amp;gt; 1.400 kg/m&amp;sup3;)</description>
+      </component>
+            <component>
+        <id>choice_ckz07mddw0030266jhhlgsp64</id>
+        <description lang="en-US">Schwarze Asbestprodukte</description>
+      </component>
+            <component>
+        <id>choice_ckz07mfv40031266j7atkedr0</id>
+        <description lang="en-US">Wei&amp;szlig;e Asbestprodukte</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d9ra8mzaZBOrHCTTIXdvggdjIkWuaD-W_rise/Fy9QwhIHMCezvjEJl3agsOtZQiIF-Yr4/ckz07mslk003d266jpkmnmtcf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wann wurde die Herstellung und das In-Verkehr-Bringen von Asbest in Deutschland verboten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz07mslk003f266jrzhqty4f</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz07mslk003e266j8ruqe0qt</id>
+        <description lang="en-US">2003</description>
+      </component>
+            <component>
+        <id>choice_ckz07mslk003g266jk6u5r53e</id>
+        <description lang="en-US">1926</description>
+      </component>
+            <component>
+        <id>choice_ckz07mslk003h266jsceup6ao</id>
+        <description lang="en-US">1980</description>
+      </component>
+            <component>
+        <id>choice_ckz07mslk003f266jrzhqty4f</id>
+        <description lang="en-US">1993</description>
+      </component>
+            <component>
+        <id>choice_ckz07np6q004v266jf5777nqd</id>
+        <description lang="en-US">2015</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d9ra8mzaZBOrHCTTIXdvggdjIkWuaD-W_rise/Fy9QwhIHMCezvjEJl3agsOtZQiIF-Yr4/ckz07o5rl0054266j5hg6gr14" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was trifft auf k&amp;uuml;nstliche Mineralfasern (KMF) in Deutschland zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz07o5rl0055266jlz5fhkot</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07o5rl0056266jzqr41ds0</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07pgwf007e266jg2stnnhm</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz07o5rl0055266jlz5fhkot</id>
+        <description lang="en-US">Alte&amp;ldquo; k&amp;uuml;nstliche Mineralfasern werden ab 2000 nicht mehr hergestellt</description>
+      </component>
+            <component>
+        <id>choice_ckz07o5rl0058266jnckqeba7</id>
+        <description lang="en-US">Neue und alte KMF werden im Tagebau aus Mineralgestein gewonnen</description>
+      </component>
+            <component>
+        <id>choice_ckz07o5rl0056266jzqr41ds0</id>
+        <description lang="en-US">&amp;bdquo;Alte&amp;ldquo; k&amp;uuml;nstliche Mineralfasern sind lungeng&amp;auml;ngig</description>
+      </component>
+            <component>
+        <id>choice_ckz07pgwf007e266jg2stnnhm</id>
+        <description lang="en-US">Arbeiten an KMF bed&amp;uuml;rfen die Fachkunde nach TRGS 521 (oder Sachkunde nach TRGS 519)</description>
+      </component>
+            <component>
+        <id>choice_ckz07pkdn007p266jucfjpvnr</id>
+        <description lang="en-US">&amp;bdquo;alte&amp;ldquo; KMF sind nicht gef&amp;auml;hrlicher Abfall</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d9ra8mzaZBOrHCTTIXdvggdjIkWuaD-W_rise/Fy9QwhIHMCezvjEJl3agsOtZQiIF-Yr4/ckz07q8lc008x266jfgcf6ab4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Naphthalin als eine Substanz der 16 PAK nach EPA ist:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz07q8lc008z266jv13j357l</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07qtzh009i266jpfdyqyzr</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07qx77009v266jq9mug5ge</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz07q8lc008y266j3omxhspy</id>
+        <description lang="en-US">Schwerfl&amp;uuml;chtig</description>
+      </component>
+            <component>
+        <id>choice_ckz07q8lc008z266jv13j357l</id>
+        <description lang="en-US">Choice 2</description>
+      </component>
+            <component>
+        <id>choice_ckz07qtzh009i266jpfdyqyzr</id>
+        <description lang="en-US">Riecht muffig</description>
+      </component>
+            <component>
+        <id>choice_ckz07qx77009v266jq9mug5ge</id>
+        <description lang="en-US">Kann Baustoffe leicht durchdringen</description>
+      </component>
+            <component>
+        <id>choice_ckz07qzdu00a6266j4r1jm0mi</id>
+        <description lang="en-US">Geruchlos</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d9ra8mzaZBOrHCTTIXdvggdjIkWuaD-W_rise/Fy9QwhIHMCezvjEJl3agsOtZQiIF-Yr4/ckz07r9sp00as266js1jcl4yl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Folgende Verdachtsmomente auf Gefahrstoffe bestehen grunds&amp;auml;tzlich:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz07r9sp00at266jy7o5r7vb</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07r9sp00aw266j71c22ytj</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07r9sp00av266j4e2h8sld</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz07r9sp00at266jy7o5r7vb</id>
+        <description lang="en-US">Dachpappen k&amp;ouml;nnen PAK/ teerhaltig und asbesthaltig sein</description>
+      </component>
+            <component>
+        <id>choice_ckz07r9sp00av266j4e2h8sld</id>
+        <description lang="en-US">Geb&amp;auml;udefugenmassen k&amp;ouml;nnen asbesthaltig und PCB-haltig sein</description>
+      </component>
+            <component>
+        <id>choice_ckz07r9sp00aw266j71c22ytj</id>
+        <description lang="en-US">Choice 3</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d9ra8mzaZBOrHCTTIXdvggdjIkWuaD-W_rise/Fy9QwhIHMCezvjEJl3agsOtZQiIF-Yr4/ckz07s5yz00cc266jfcpxsyxm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Gefahrstoffverordnung (GefStoffV) regelt:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz07s5yz00ce266jgfyts0f5</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz07s5yz00cd266jbooz9pth</id>
+        <description lang="en-US">Die Entsorgung gef&amp;auml;hrlicher Abf&amp;auml;lle</description>
+      </component>
+            <component>
+        <id>choice_ckz07s5yz00ce266jgfyts0f5</id>
+        <description lang="en-US">Den Arbeitsschutz bei Arbeiten mit Gefahrstoffen</description>
+      </component>
+            <component>
+        <id>choice_ckz07srgg00cf266jbcrtfymi</id>
+        <description lang="en-US">Die Entsorgung nicht gef&amp;auml;hrlicher Abf&amp;auml;lle</description>
+      </component>
+            <component>
+        <id>choice_ckz07suad00cg266j5pt1sat9</id>
+        <description lang="en-US">Arbeitsplatzgrenzwerte (AGW)</description>
+      </component>
+            <component>
+        <id>choice_ckz07swui00ch266jhymbfmoq</id>
+        <description lang="en-US">Die Einstufung von Schimmelpilzen in Risikogruppen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d9ra8mzaZBOrHCTTIXdvggdjIkWuaD-W_rise/Fy9QwhIHMCezvjEJl3agsOtZQiIF-Yr4/ckz07t8pp00ci266jw699sxfc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Sicherheits- und Gesundheitsschutzkoordinator (SiGeKo) nach BauStellV...</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz07t8pp00cl266jl53wmo28</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07t8pp00cm266jx57z1kfj</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07u2n800ee266jclgexl57</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz07t8pp00cj266j48vvj4ux</id>
+        <description lang="en-US">Erstellt den A&amp;amp;S-Plan</description>
+      </component>
+            <component>
+        <id>choice_ckz07t8pp00cl266jl53wmo28</id>
+        <description lang="en-US">Choice 2</description>
+      </component>
+            <component>
+        <id>choice_ckz07t8pp00cm266jx57z1kfj</id>
+        <description lang="en-US">Ist die gesamte Bauzeit zust&amp;auml;ndig</description>
+      </component>
+            <component>
+        <id>choice_ckz07t8pp00ck266jd690jyjt</id>
+        <description lang="en-US">Choice 4</description>
+      </component>
+            <component>
+        <id>choice_ckz07u2n800ee266jclgexl57</id>
+        <description lang="en-US">Wird vom Bauherrn ernannt</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d9ra8mzaZBOrHCTTIXdvggdjIkWuaD-W_rise/Fy9QwhIHMCezvjEJl3agsOtZQiIF-Yr4/ckz07ugpw00ev266j5tkzhsgi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussagen zum Kreislaufwirtschaftsgesetz (KrWG) stimmen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz07ugpw00ex266j60ln3xn1</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07ugpw00ey266joebw5vxa</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz07ugpw00ew266jey2s6p7l</id>
+        <description lang="en-US">Der Erzeuger von Abf&amp;auml;llen ist zur Verwertung von Abf&amp;auml;llen nicht verpflichtet&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</description>
+      </component>
+            <component>
+        <id>choice_ckz07ugpw00ey266joebw5vxa</id>
+        <description lang="en-US">Der Erzeuger muss die Verwertung von Abf&amp;auml;llen der Beseitigung vorziehen</description>
+      </component>
+            <component>
+        <id>choice_ckz07ugpw00ez266jlyuty820</id>
+        <description lang="en-US">Der Erzeuger kann gef&amp;auml;hrlichen Abfall mit nicht gef&amp;auml;hrlichem Abfall verd&amp;uuml;nnen</description>
+      </component>
+            <component>
+        <id>choice_ckz07ugpw00ex266j60ln3xn1</id>
+        <description lang="en-US">Choice 4</description>
+      </component>
+            <component>
+        <id>choice_ckz07vaxv00ge266j5joafy1c</id>
+        <description lang="en-US">Das KrWG gilt nur f&amp;uuml;r Pfandflaschen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d9ra8mzaZBOrHCTTIXdvggdjIkWuaD-W_rise/Fy9QwhIHMCezvjEJl3agsOtZQiIF-Yr4/ckz07vodk00gp266j6e66rfnq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei Einsatz von Schutzma&amp;szlig;nahmen ist zu beachten:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz07vodk00gq266jad8uolph</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07vodk00gs266jl3tbhuz4</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz07vodk00gq266jad8uolph</id>
+        <description lang="en-US">Technisch-organisatorische vor pers&amp;ouml;nlichen Schutzma&amp;szlig;nahmen (PSA) &amp;nbsp; &amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckz07vodk00gs266jl3tbhuz4</id>
+        <description lang="en-US">Beschaffung, Wartung und Verwendung von PSA ist Aufgabe des Auftragnehmers</description>
+      </component>
+            <component>
+        <id>choice_ckz07vodk00gt266jzfvfger1</id>
+        <description lang="en-US">F&amp;uuml;r Atemschutzger&amp;auml;te gibt es keine Tragezeitbegrenzung</description>
+      </component>
+            <component>
+        <id>choice_ckz07vodk00gr266j2y7w5xdc</id>
+        <description lang="en-US">Choice 4</description>
+      </component>
+            <component>
+        <id>choice_ckz07w7ly00hx266jgq7phdri</id>
+        <description lang="en-US">PSA soll im Schwarzbereich gelagert werden</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d9ra8mzaZBOrHCTTIXdvggdjIkWuaD-W_rise/Fy9QwhIHMCezvjEJl3agsOtZQiIF-Yr4/ckz07wmq200ij266jh1vug0dj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zu den technischen Arbeitsschutzma&amp;szlig;nahmen bei Gefahrstoffarbeiten z&amp;auml;hlen:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz07wmq200ik266jmpskrips</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07wmq200il266jm7uw6848</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07wmq200in266j7dfau16u</correctResponsePattern>
+            <correctResponsePattern>choice_ckz07wmq200im266jdtx6wcu2</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz07wmq200ik266jmpskrips</id>
+        <description lang="en-US">Schwarz-Wei&amp;szlig;-Trennung</description>
+      </component>
+            <component>
+        <id>choice_ckz07wmq200im266jdtx6wcu2</id>
+        <description lang="en-US">Choice 2</description>
+      </component>
+            <component>
+        <id>choice_ckz07wmq200in266j7dfau16u</id>
+        <description lang="en-US">Choice 3</description>
+      </component>
+            <component>
+        <id>choice_ckz07wmq200il266jm7uw6848</id>
+        <description lang="en-US">Direktabgesaugte Ger&amp;auml;te wie z.B. Fr&amp;auml;sen oder Deltaschleifer</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

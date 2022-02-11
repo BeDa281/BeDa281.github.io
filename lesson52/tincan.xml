@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://2y5CwU-U73WSLE5-IuCX2pf1rWpclvBN_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Allgemein - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://2y5CwU-U73WSLE5-IuCX2pf1rWpclvBN_rise/g2b-EUQdvG62xhzjgg3opMo8ICe9_86l" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://2y5CwU-U73WSLE5-IuCX2pf1rWpclvBN_rise/g2b-EUQdvG62xhzjgg3opMo8ICe9_86l/ckzh162kx0003266jb2lx69jn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie sollen auf einer Baustelle kunststoffverg&amp;uuml;teten Spritzm&amp;ouml;rtel (SPCC/SRM) im Trockenspritzverfahren auf eine Wand mit fl&amp;auml;chig freigelegter und bereits feststoffgestrahlter Bewehrung applizieren. Die &amp;Uuml;berdeckung soll 2cm betragen.&amp;nbsp;&lt;br&gt;Wie ist der mineralische Korrosionsschutz der Bewehrung auszuf&amp;uuml;hren?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzh172jn0006266jlcgo9q92</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzh162kx0004266jgsaosouz</id>
+        <description lang="en-US">Bei Spritzm&amp;ouml;rteln und Spritzbetonen kann generell auf einen Korrosionsschutz verzichtet werden.</description>
+      </component>
+            <component>
+        <id>choice_ckzh162kx0005266j7nygyeiw</id>
+        <description lang="en-US">Der Korrosionsschutz wird zweilagig ausgef&amp;uuml;hrt.</description>
+      </component>
+            <component>
+        <id>choice_ckzh172jn0006266jlcgo9q92</id>
+        <description lang="en-US">Der Korrosionsschutz wird dreilagig ausgef&amp;uuml;hrt. </description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://2y5CwU-U73WSLE5-IuCX2pf1rWpclvBN_rise/g2b-EUQdvG62xhzjgg3opMo8ICe9_86l/ckzh191w80007266jeatjvzhh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie wollen zur Sanierung eines freigelegten St&amp;uuml;tzenfu&amp;szlig;es in einer Tiefgarage Vergussm&amp;ouml;rtel einsetzen.&amp;nbsp;&lt;br&gt;Welche Schwindma&amp;szlig;klasse d&amp;uuml;rfen Sie einsetzen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzh1efv5000a266j4u8g4km8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzh191w80008266j8gw4h0c8</id>
+        <description lang="en-US">SKVB 0, SKVB I</description>
+      </component>
+            <component>
+        <id>choice_ckzh191w80009266jhsvw44zr</id>
+        <description lang="en-US">SKMV I, SKMV III</description>
+      </component>
+            <component>
+        <id>choice_ckzh1efv5000a266j4u8g4km8</id>
+        <description lang="en-US">SKVM 0, SKVM I, SKVM II</description>
+      </component>
+            <component>
+        <id>choice_ckzh1ej9l000b266jysr05mxn</id>
+        <description lang="en-US">SKVM III</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://2y5CwU-U73WSLE5-IuCX2pf1rWpclvBN_rise/g2b-EUQdvG62xhzjgg3opMo8ICe9_86l/ckzh1fr32001s266jwemsxaik" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie sollen entsprechend dem Instandsetzungsprinzip R einen vollfl&amp;auml;chigen Spritzm&amp;ouml;rtelauftrag zur Realkalisierung einer Fl&amp;auml;che aufbringen. Als Material kommt rein mineralischer Spritzm&amp;ouml;rtel (analog DIN 18551) mit einem Gr&amp;ouml;&amp;szlig;tk&amp;ouml;rn kleiner 4mm zum Einsatz.&amp;nbsp;&lt;br&gt;Wie gro&amp;szlig; ist die Mindestschichtst&amp;auml;rke?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzh1gc1j001v266j4rae7h82</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzh1fr32001t266ji9ptek2n</id>
+        <description lang="en-US">10 mm</description>
+      </component>
+            <component>
+        <id>choice_ckzh1fr32001u266jh21c92zf</id>
+        <description lang="en-US">12 mm</description>
+      </component>
+            <component>
+        <id>choice_ckzh1gc1j001v266j4rae7h82</id>
+        <description lang="en-US">15 mm</description>
+      </component>
+            <component>
+        <id>choice_ckzh1gej2001w266jych5jgcc</id>
+        <description lang="en-US">20 mm</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://2y5CwU-U73WSLE5-IuCX2pf1rWpclvBN_rise/g2b-EUQdvG62xhzjgg3opMo8ICe9_86l/ckzh1iwdy001x266jvot07b5t" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie haben den Auftrag am St&amp;uuml;tzpfeiler einer L&amp;auml;rmschutzwand an einer Stra&amp;szlig;e mehrere Schadstellen instandzusetzen.&amp;nbsp;&lt;br&gt;Welche Dokumentation m&amp;uuml;ssen Sie durchf&amp;uuml;hren?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzh1iwdz001y266jx0timmio</correctResponsePattern>
+            <correctResponsePattern>choice_ckzh1iwdz001z266ju93iivac</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzh1iwdz001y266jx0timmio</id>
+        <description lang="en-US">Anmeldung zur Fremd&amp;uuml;berwachung (bspw. Landesg&amp;uuml;tegemeinschaft)</description>
+      </component>
+            <component>
+        <id>choice_ckzh1iwdz001z266ju93iivac</id>
+        <description lang="en-US">Eigen&amp;uuml;berwachung durch das ausf&amp;uuml;hrende Unternehmen</description>
+      </component>
+            <component>
+        <id>choice_ckzh1k0ma003s266jbd4bhn6p</id>
+        <description lang="en-US">Keine Dokumentation aufgrund der Kleinteiligkeit der Ma&amp;szlig;nahme</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://2y5CwU-U73WSLE5-IuCX2pf1rWpclvBN_rise/g2b-EUQdvG62xhzjgg3opMo8ICe9_86l/ckzh1k7qt0048266jkacg1nmw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie sollen an einer Br&amp;uuml;cke Betonschadstellen verschlie&amp;szlig;en. Welches Material w&amp;auml;hlen sie hierf&amp;uuml;r?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzh1l3pb004c266jvgj02dzj</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzh1k7qu0049266jga2hrqiu</id>
+        <description lang="en-US">Grobm&amp;ouml;rtel der Klasse R3</description>
+      </component>
+            <component>
+        <id>choice_ckzh1k7qu004a266jtxocjqlp</id>
+        <description lang="en-US">Grobm&amp;ouml;rtel der Klasse R4</description>
+      </component>
+            <component>
+        <id>choice_ckzh1l0lx004b266j9ylm99i4</id>
+        <description lang="en-US">Grobm&amp;ouml;rtel der Klasse R3 oder R4 mit der Expositionsklasse XDYN</description>
+      </component>
+            <component>
+        <id>choice_ckzh1l3pb004c266jvgj02dzj</id>
+        <description lang="en-US">Ich schlage dem Auftraggeber ein Material projektspezifisch vor und lasse es mir freigeben.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://2y5CwU-U73WSLE5-IuCX2pf1rWpclvBN_rise/g2b-EUQdvG62xhzjgg3opMo8ICe9_86l/ckzh1mkcl0060266ji4iu8jdy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie sollen in einem Tunnelbauwerk eine durch ein Fahrzeug besch&amp;auml;digte St&amp;uuml;tzwand des Tunnelportals instandsetzen. Die Schadstelle ist 0,80 cm x 1,55 cm gro&amp;szlig;. Aufgrund der N&amp;auml;he zur Fahrbahn k&amp;ouml;nnen die Arbeiten nur Nachts unter hohem Zeitdruck ausgef&amp;uuml;hrt werden.&amp;nbsp;&lt;br&gt;Daher denken Sie &amp;uuml;ber den Einsatz von schnellh&amp;auml;rtendem Reaktionsharzbeton (PRC) nach? Kann dieser hierf&amp;uuml;r eingesetzt werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzh1nkpf0063266j570x9sto</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzh1mkcl0061266jxtlbyh5j</id>
+        <description lang="en-US">Ja, das Material kann eingesetzt werden, sofern die vorgeschriebenen Expostions- und Festigkeitsklassen eingehalten sind.</description>
+      </component>
+            <component>
+        <id>choice_ckzh1mkcl0062266jrqxiroex</id>
+        <description lang="en-US">Nein, Reaktionsharzbetone sind f&amp;uuml;r Ingenieurbauwerke nicht zugelassen.</description>
+      </component>
+            <component>
+        <id>choice_ckzh1nkpf0063266j570x9sto</id>
+        <description lang="en-US">Nein, die Schadstelle ist zu gro&amp;szlig;.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckzh1nngv0064266jz0uj2931</id>
+        <description lang="en-US">Nein, Reaktionsharzbetone sind f&amp;uuml;r statisch relevante Bauteile nicht zugelassen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://2y5CwU-U73WSLE5-IuCX2pf1rWpclvBN_rise/g2b-EUQdvG62xhzjgg3opMo8ICe9_86l/ckzh1offw0065266j3eomebxe" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Aufgrund winterlicher Verh&amp;auml;ltnisse k&amp;ouml;nnen Sie auf ihrer Baustelle an einer Talsperre nicht arbeiten. Luft- und Umgebungstemperaturen betragen ca. 3&amp;deg;C. Um dennoch voranzukommen, entscheiden Sie sich Aufma&amp;szlig;e zu erstellen und Untergrundpr&amp;uuml;fungen durchzuf&amp;uuml;hren. Dabei wollen Sie auch diverse Abrei&amp;szlig;festigkeiten (Haftzugpr&amp;uuml;fung) ermitteln.&amp;nbsp;&lt;br&gt;Wie gehen sie hierzu vor?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzh1pdkt0069266jy0uytixr</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzh1offw0066266jh9van95b</id>
+        <description lang="en-US">Sie verkleben die Pr&amp;uuml;fstempel mit dem &amp;uuml;blichen Kleber und nehmen eine etwas l&amp;auml;ngere Wartezeit in Kauf.</description>
+      </component>
+            <component>
+        <id>choice_ckzh1offx0067266jkub3vfo4</id>
+        <description lang="en-US">Sie verwenden einen speziellen tieftemperaturh&amp;auml;rtenden Kleber f&amp;uuml;r Haftzugstempel.</description>
+      </component>
+            <component>
+        <id>choice_ckzh1pasy0068266jfhdmor00</id>
+        <description lang="en-US">Sie w&amp;auml;rmen den Untergrund mit einem Gasbrenner vor.</description>
+      </component>
+            <component>
+        <id>choice_ckzh1pdkt0069266jy0uytixr</id>
+        <description lang="en-US">Bei Untergrundtemperaturen unter 5&amp;deg;C d&amp;uuml;rfen keine Abrei&amp;szlig;festigkeiten ermittelt werden.&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://2y5CwU-U73WSLE5-IuCX2pf1rWpclvBN_rise/g2b-EUQdvG62xhzjgg3opMo8ICe9_86l/ckzh1q5k5006a266jw9rw5e99" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie werden von einem Kunden zu einem Ortstermin in eine Tiefgarage gerufen. Sie sollen ein Angebot f&amp;uuml;r eine Bodenbeschichtung erstellen. Sie bieten dem Kunden aufgrund der &amp;ouml;rtlichen Gegebenheiten eine OS 8 &amp;ndash; Beschichtung an. Dieses Angebot erhalten Sie auch sp&amp;auml;ter beauftragt und f&amp;uuml;hren die Arbeiten durch.&amp;nbsp;&lt;br&gt;Welche zus&amp;auml;tzlichen Arbeiten m&amp;uuml;ssen Sie ausf&amp;uuml;hren:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzh1q5k5006d266jlg23l5da</correctResponsePattern>
+            <correctResponsePattern>choice_ckzh1r3b80089266j2pc8uwga</correctResponsePattern>
+            <correctResponsePattern>choice_ckzh1r6tl008k266jq9gt9a90</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzh1q5k5006b266j6j65qoae</id>
+        <description lang="en-US">Ich muss auf die Notwendigkeit einer regelm&amp;auml;&amp;szlig;igen Wartung der Beschichtung nach Abschluss der Arbeiten hinweisen.</description>
+      </component>
+            <component>
+        <id>choice_ckzh1q5k5006d266jlg23l5da</id>
+        <description lang="en-US">Ich muss auf die Notwendigkeit einer regelm&amp;auml;&amp;szlig;igen Wartung der Beschichtung hinweisen w&amp;auml;hrend der Angebotsphase der Arbeiten hinweisen.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckzh1q5k5006e266jtaimprsi</id>
+        <description lang="en-US">Ich muss die die Notwendigkeit einer regelm&amp;auml;&amp;szlig;igen Wartung der Beschichtung in meinen Einheitspreisen ber&amp;uuml;cksichtigen (Wartung ist eine Nebenleistung)</description>
+      </component>
+            <component>
+        <id>choice_ckzh1q5k5006c266je9oyx5qp</id>
+        <description lang="en-US">Ich muss auf die Rissbehandlung bei eventuell auftretenden Rissen nach Abschluss der Arbeiten hinweisen.</description>
+      </component>
+            <component>
+        <id>choice_ckzh1r3b80089266j2pc8uwga</id>
+        <description lang="en-US">Ich muss auf die Rissbehandlung bei eventuell auftretenden Rissen w&amp;auml;hrend der Angebotsphase der Arbeiten hinweisen.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckzh1r6tl008k266jq9gt9a90</id>
+        <description lang="en-US">Ich sollte die Reinigungs- und Pflegeanleitung &amp;uuml;bergeben.&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://2y5CwU-U73WSLE5-IuCX2pf1rWpclvBN_rise/g2b-EUQdvG62xhzjgg3opMo8ICe9_86l/ckzh1rxfh009u266jt2jvc2v4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Eine bestehende Tiefgarage aus den 70er Jahren soll saniert werden. Der Kunde ruft Sie zu einem Ortstermin und bittet um ein Angebot. Vor Ort sind f&amp;uuml;r Sie augenscheinlich keine Sch&amp;auml;den zu erkennen.&amp;nbsp;&lt;br&gt;Wie gehen Sie vor?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzh1rxfi009w266jrm1zrjy1</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzh1rxfh009v266j5hbe75nq</id>
+        <description lang="en-US">Sie lassen sich von Ihrem Materiallieferanten ein Leistungsverzeichnis erstellen.</description>
+      </component>
+            <component>
+        <id>choice_ckzh1rxfi009w266jrm1zrjy1</id>
+        <description lang="en-US">Sie erl&amp;auml;utern dem Kunden, dass eine Angebotserstellung ohne weitere Bauteiluntersuchungen oder das Einschalten eines sachkundigen Planers nicht m&amp;ouml;glich ist.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckzh1sxj900a4266jxcqk66oc</id>
+        <description lang="en-US">Sie weisen darauf hin, dass zun&amp;auml;chst ein Instandsetzungsprinzip erstellt werden muss.</description>
+      </component>
+            <component>
+        <id>choice_ckzh1t0z000a5266jri9k2jz9</id>
+        <description lang="en-US">Sie weisen in ihrem Angebot darauf hin, dass sp&amp;auml;tere Sch&amp;auml;den aus Chloridbelastungen des Bauwerks aus der Gew&amp;auml;hrleistung ausgeschlossen sind.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
