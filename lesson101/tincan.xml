@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://vqjLOFsfM1Jb3D8CZzvU3jFU7yTU2lkL_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildungsvoraussetzungen - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://vqjLOFsfM1Jb3D8CZzvU3jFU7yTU2lkL_rise/U0WX6AZkdsmcN_8fZZnOhyAiothrhQnx" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://vqjLOFsfM1Jb3D8CZzvU3jFU7yTU2lkL_rise/U0WX6AZkdsmcN_8fZZnOhyAiothrhQnx/ckz5uzruv0033266j6yxd5qd5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie arbeiten in einem Betrieb, der bisher nicht ausgebildet hat. Welches Argument k&amp;ouml;nnte f&amp;uuml;r die Aufnahme von Auszubildenden sprechen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5uzruw0035266jn2oqs6fc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5uzruw0034266jb4682gcf</id>
+        <description lang="en-US">Sie k&amp;ouml;nnen eine gelernte Fachkraft einsparen, da ab dem zweiten Lehrjahr der Auszubildende voll eingesetzt werden muss.</description>
+      </component>
+            <component>
+        <id>choice_ckz5uzruw0035266jn2oqs6fc</id>
+        <description lang="en-US">Sie bilden Fachkr&amp;auml;fte aus, die sp&amp;auml;ter - auch im eigenen Betrieb - dringend gebraucht werden, und &amp;uuml;bernehmen somit Verantwortung.</description>
+      </component>
+            <component>
+        <id>choice_ckz5v0guy0036266j96123j0y</id>
+        <description lang="en-US">Sie k&amp;ouml;nnen F&amp;ouml;rdermittel f&amp;uuml;r die Auszubildenden erhalten, welche die Ausbildungsverg&amp;uuml;tung &amp;uuml;bersteigen.</description>
+      </component>
+            <component>
+        <id>choice_ckz5v10f50038266jswlhk1mr</id>
+        <description lang="en-US">Auszubildende k&amp;ouml;nnen auch gut zu nicht betrieblichen Zwecken eingesetzt werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vqjLOFsfM1Jb3D8CZzvU3jFU7yTU2lkL_rise/U0WX6AZkdsmcN_8fZZnOhyAiothrhQnx/ckz5v15io0039266jj2xgc7vs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In der beruflichen Ausbildung wird vom &amp;quot;Dualen System&amp;quot; gesprochen. Was ist damit gemeint?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5v1tn4003c266j6aq8ig6j</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5v15ip003a266j8aho6etf</id>
+        <description lang="en-US">Der Ausbildungsvertrag wird von 2 Parteien (Auszubildende/r und Betrieb) unterschrieben.</description>
+      </component>
+            <component>
+        <id>choice_ckz5v15ip003b266jfgjs3bet</id>
+        <description lang="en-US">Die IHK f&amp;uuml;hrt 2 verschiedene Pr&amp;uuml;fungen, die praktische und die schriftliche Pr&amp;uuml;fung, durch.</description>
+      </component>
+            <component>
+        <id>choice_ckz5v1tn4003c266j6aq8ig6j</id>
+        <description lang="en-US">Die Berufsausbildung wird durch die Berufsschule und den Ausbildungsbetrieb durchgef&amp;uuml;hrt.</description>
+      </component>
+            <component>
+        <id>choice_ckz5v1x6v003d266jehy5cq18</id>
+        <description lang="en-US">Die Zusammenarbeit von Betrieb und Industrie- und Handelskammer oder Handwerkskammer wird als &amp;quot;Duales System&amp;quot; bezeichnet.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vqjLOFsfM1Jb3D8CZzvU3jFU7yTU2lkL_rise/U0WX6AZkdsmcN_8fZZnOhyAiothrhQnx/ckz5v2fvg003e266jtogvkcnh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In der Berufsausbildung sind die Ausbildungsinhalte festgelegt. Wo k&amp;ouml;nnen Sie diese Inhalte nachlesen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5v2fvg003f266jvaconxz5</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5v2fvg003f266jvaconxz5</id>
+        <description lang="en-US">Im Ausbildungsberufsbild und Ausbildungsrahmenplan</description>
+      </component>
+            <component>
+        <id>choice_ckz5v2fvg003g266jgslvymtk</id>
+        <description lang="en-US">Im Ausbildungsberufsbild und Ausbildungsvertrag</description>
+      </component>
+            <component>
+        <id>choice_ckz5v2xv1003h266jth7d9iyt</id>
+        <description lang="en-US">In der Ausbildereignungsverordnung und dem Rahmenstoffplan</description>
+      </component>
+            <component>
+        <id>choice_ckz5v3103003i266je6tyca70</id>
+        <description lang="en-US">In dem Ausbildungsrahmenplan und den Pr&amp;uuml;fungsrichtlinien</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vqjLOFsfM1Jb3D8CZzvU3jFU7yTU2lkL_rise/U0WX6AZkdsmcN_8fZZnOhyAiothrhQnx/ckz5v3g94003j266jt9r7ecv7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie planen einen Ausbildungsplatz neu zu besetzen und erhalten eine Bewerbung von einem jungen Mann ohne Schulabschluss. D&amp;uuml;rfen Sie den jungen Mann ohne Schulabschluss ausbilden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5v3g95003k266j2p14sj9a</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5v3g95003k266j2p14sj9a</id>
+        <description lang="en-US">Nein, f&amp;uuml;r eine Ausbildung im &amp;bdquo;Dualen System&amp;ldquo; ist ein Schulabschluss Voraussetzung.</description>
+      </component>
+            <component>
+        <id>choice_ckz5v3g95003l266ju8zsnqq2</id>
+        <description lang="en-US">Nein, da er wahrscheinlich den schulischen Teil nicht schaffen wird.</description>
+      </component>
+            <component>
+        <id>choice_ckz5v46rx003m266jafhfq2z7</id>
+        <description lang="en-US">Nein, die Berufsschule nimmt ihn ohne Schulabschluss nicht auf.</description>
+      </component>
+            <component>
+        <id>choice_ckz5v4ap0003n266jp09fuflo</id>
+        <description lang="en-US">Ja, f&amp;uuml;r die Berufsausbildung im &amp;quot;Dualen System&amp;quot; gibt es keinen vorgeschriebenen Schulabschluss.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vqjLOFsfM1Jb3D8CZzvU3jFU7yTU2lkL_rise/U0WX6AZkdsmcN_8fZZnOhyAiothrhQnx/ckz5v51yj003o266jrb1qt8jr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r die Ausbildung des Auszubildenden Cedrik Klinge wird ein betrieblicher Ausbildungsplan erstellt. Welcher Faktor ist bei der zeitlichen Einteilung zu ber&amp;uuml;cksichtigen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5v51yj003p266j7ctk8wj6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5v51yj003p266j7ctk8wj6</id>
+        <description lang="en-US">Der Urlaub von Cedrik Klinge</description>
+      </component>
+            <component>
+        <id>choice_ckz5v51yj003q266jsk9gb030</id>
+        <description lang="en-US">Der Urlaub des Ausbilders</description>
+      </component>
+            <component>
+        <id>choice_ckz5v5w6y003r266j9wuavoys</id>
+        <description lang="en-US">Die Weihnachtsfeier des Betriebes</description>
+      </component>
+            <component>
+        <id>choice_ckz5v607y003s266juub399gy</id>
+        <description lang="en-US">Eine m&amp;ouml;gliche Erk&amp;auml;ltung von Cedrik Klinge im Winter</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vqjLOFsfM1Jb3D8CZzvU3jFU7yTU2lkL_rise/U0WX6AZkdsmcN_8fZZnOhyAiothrhQnx/ckz5v780o003t266j3samy7sr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Sie werden vom Eigent&amp;uuml;mer des Betriebes beauftragt, einen Personalfragebogen an Bewerber /-innen f&amp;uuml;r einen Ausbildungsplatz als Industriekauffrau/-mann zu verschicken.&lt;br&gt;&lt;br&gt;Welche Fragen sind &lt;u&gt;&lt;strong&gt;un&lt;/strong&gt;&lt;/u&gt;zul&amp;auml;ssig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5v780o003v266j2r0phibj</correctResponsePattern>
+            <correctResponsePattern>choice_ckz5v8d2a003y266jdx8chnca</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5v780o003u266jbv5l5lac</id>
+        <description lang="en-US">Haben Sie einen F&amp;uuml;hrerschein?</description>
+      </component>
+            <component>
+        <id>choice_ckz5v780o003v266j2r0phibj</id>
+        <description lang="en-US">Liegt eine Schwangerschaft vor?</description>
+      </component>
+            <component>
+        <id>choice_ckz5v84qs003w266j53y7kw4f</id>
+        <description lang="en-US">Welchen Schulabschluss haben Sie?</description>
+      </component>
+            <component>
+        <id>choice_ckz5v88tq003x266jiw4x6l77</id>
+        <description lang="en-US">Welche Zensuren haben Sie in Mathematik und Physik?</description>
+      </component>
+            <component>
+        <id>choice_ckz5v8d2a003y266jdx8chnca</id>
+        <description lang="en-US">Sind Sie Mitglied einer Gewerkschaft?</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vqjLOFsfM1Jb3D8CZzvU3jFU7yTU2lkL_rise/U0WX6AZkdsmcN_8fZZnOhyAiothrhQnx/ckz5v8yag004c266jah8xvsix" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Sie werden vom Eigent&amp;uuml;mer des Betriebes beauftragt, einen Personalfragebogen an Bewerber /-innen f&amp;uuml;r einen Ausbildungsplatz als Industriekauffrau/-mann zu verschicken.&lt;br&gt;&lt;br&gt;Aufgrund des Personalfragebogens kommen 8 Bewerber /-innen in die engere Auswahl. Welche Aufgabe w&amp;auml;re f&amp;uuml;r einen weiteren Test geeignet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5v8yag004f266jzbaajdq1</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5v8yag004f266jzbaajdq1</id>
+        <description lang="en-US">Sie pr&amp;uuml;fen mit einem Deutschtest die Sprachkenntnisse.</description>
+      </component>
+            <component>
+        <id>choice_ckz5v8yag004g266jdmzjl3n9</id>
+        <description lang="en-US">Sie pr&amp;uuml;fen mit einem Sporttest die k&amp;ouml;rperliche Belastbarkeit.</description>
+      </component>
+            <component>
+        <id>choice_ckz5v8yag004e266jzz5jlkk8</id>
+        <description lang="en-US">Sie pr&amp;uuml;fen mit verschiedenen Tests die naturwissenschaftlichen Kenntnisse.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vag29007p266j7o7a2yi5</id>
+        <description lang="en-US">F&amp;uuml;r die Ausbildung als Industriekaufmann / Industriekauffrau ist haupts&amp;auml;chlich technisches Verst&amp;auml;ndnis erforderlich, das gepr&amp;uuml;ft werden muss.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vqjLOFsfM1Jb3D8CZzvU3jFU7yTU2lkL_rise/U0WX6AZkdsmcN_8fZZnOhyAiothrhQnx/ckz5vazn60086266jxlqx6ji6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Sie werden vom Eigent&amp;uuml;mer des Betriebes beauftragt, einen Personalfragebogen an Bewerber /-innen f&amp;uuml;r einen Ausbildungsplatz als Industriekauffrau/-mann zu verschicken.&lt;br&gt;&lt;br&gt;Aufgrund der Testaufgaben hat sich eine geeignete Bewerberin herausgestellt. Emily May ist 19 Jahre und freut sich auf ihre Ausbildung. Sie wollen mit ihr einen Ausbildungsvertrag abschlie&amp;szlig;en. Welche Aussage ist richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5vazn60087266jlr43cdhh</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5vazn60087266jlr43cdhh</id>
+        <description lang="en-US">Der Ausbildungsvertrag kommt zustande durch die Unterschrift von Emily May und dem Vertreter des Ausbildungsbetriebes.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vazn60088266j18vg58b6</id>
+        <description lang="en-US">Der Ausbildungsvertrag bedarf der Unterschrift der Eltern von Emily May, da diese sie finanziell unterst&amp;uuml;tzen.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vbqxa0089266ju100wqq9</id>
+        <description lang="en-US">Der Ausbildungsvertrag bedarf einer besonderen Form, da Emily May schon vollj&amp;auml;hrig ist.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vbu22008a266jqz2lyrvm</id>
+        <description lang="en-US">Ein m&amp;uuml;ndlich geschlossener Ausbildungsvertrag zwischen Emily May und dem Ausbildungsbetrieb w&amp;auml;re unwirksam.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vqjLOFsfM1Jb3D8CZzvU3jFU7yTU2lkL_rise/U0WX6AZkdsmcN_8fZZnOhyAiothrhQnx/ckz5vc6oj008h266jm6sjgsaw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie lange darf die Probezeit im Berufsausbildungsvertrag nach dem Berufsbildungsgesetz dauern?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5vcwoq008l266jomr0njgt</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5vc6ok008i266jnk2dke59</id>
+        <description lang="en-US">Die Probezeit betr&amp;auml;gt 3 Monate.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vc6ok008j266jfa6mtamt</id>
+        <description lang="en-US">Die Probezeit liegt zwischen 1 Monat und 6 Monaten.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vctr5008k266jk7qgl2rs</id>
+        <description lang="en-US">Die Probezeit betr&amp;auml;gt 4 Monate.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vcwoq008l266jomr0njgt</id>
+        <description lang="en-US">Die Probezeit muss zwischen 1 Monat und 4 Monaten liegen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vqjLOFsfM1Jb3D8CZzvU3jFU7yTU2lkL_rise/U0WX6AZkdsmcN_8fZZnOhyAiothrhQnx/ckz5vdjnu008m266jxphk6a61" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ist eine Verl&amp;auml;ngerung der Probezeit m&amp;ouml;glich? Welche Aussage ist zutreffend?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5vdjnu008n266jjakhamnk</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5vdjnu008n266jjakhamnk</id>
+        <description lang="en-US">Eine Verl&amp;auml;ngerung ist nicht vorgesehen, da der Auszubildende besonderen Schutz genie&amp;szlig;t.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vdjnu008o266jraq9b31i</id>
+        <description lang="en-US">Eine Verl&amp;auml;ngerung ist m&amp;ouml;glich, wenn noch nicht absehbar ist, ob der Auszubildende geeignet ist.</description>
+      </component>
+            <component>
+        <id>choice_ckz5ve2xe008p266jb5wadk1p</id>
+        <description lang="en-US">Eine Verl&amp;auml;ngerung ist m&amp;ouml;glich, wenn der Auszubildende 1/3 der Ausbildungszeit ausf&amp;auml;llt, z. B. durch Krankheit. Diese M&amp;ouml;glichkeit muss vorher vereinbart worden sein.</description>
+      </component>
+            <component>
+        <id>choice_ckz5ve741008q266j2r5vnynb</id>
+        <description lang="en-US">&lt;br&gt;Eine Verl&amp;auml;ngerung ist m&amp;ouml;glich, wenn beide Parteien dies m&amp;ouml;chten.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

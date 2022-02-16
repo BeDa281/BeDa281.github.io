@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://Czh2bGfzPa9sSXi5VFyOXBSX-jiWk-A3_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildungsvoraussetzungen - Quiz 4</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://Czh2bGfzPa9sSXi5VFyOXBSX-jiWk-A3_rise/fGMtPPgf5TnUpcEH2u5lPj-pTjzP9h2T" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://Czh2bGfzPa9sSXi5VFyOXBSX-jiWk-A3_rise/fGMtPPgf5TnUpcEH2u5lPj-pTjzP9h2T/ckz9p03lz0033266jtdjt5zuk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Staatlich anerkannte Ausbildungsberufe werden in einem Verzeichnis eingetragen. Von wem wird dieses Verzeichnis gef&amp;uuml;hrt und herausgeben?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9p03m00035266jlddpsmvc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9p03m00034266jyw2z7rvr</id>
+        <description lang="en-US">Deutscher Industrie- und Handelstag</description>
+      </component>
+            <component>
+        <id>choice_ckz9p03m00035266jlddpsmvc</id>
+        <description lang="en-US">Bundesinstitut f&amp;uuml;r Berufsbildung&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckz9p0tve0036266j8clr7x46</id>
+        <description lang="en-US">Kultusministerium der L&amp;auml;nder</description>
+      </component>
+            <component>
+        <id>choice_ckz9p0wum0037266jpbqvrgs4</id>
+        <description lang="en-US">Bundeswirtschaftsministerium</description>
+      </component>
+            <component>
+        <id>choice_ckz9p103d0038266j4dsr40v4</id>
+        <description lang="en-US">Bundesamt f&amp;uuml;r Bildung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Czh2bGfzPa9sSXi5VFyOXBSX-jiWk-A3_rise/fGMtPPgf5TnUpcEH2u5lPj-pTjzP9h2T/ckz9p1b770039266ju2awwwms" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In der heutigen Zeit &amp;auml;ndern sich berufliche Anforderungen. Wer ist f&amp;uuml;r die Entwicklung und Erlassung neuer und ge&amp;auml;nderter Ausbildungsordnungen zust&amp;auml;ndig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9p1b77003b266j30zufxhz</correctResponsePattern>
+            <correctResponsePattern>choice_ckz9p1b77003c266jz6j5iek0</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9p1b77003c266jz6j5iek0</id>
+        <description lang="en-US">F&amp;uuml;r die Entwicklung ist das Bundesinstitut f&amp;uuml;r Berufsbildung zust&amp;auml;ndig.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p1b77003d266jiqowx0i5</id>
+        <description lang="en-US">F&amp;uuml;r die Entwicklung ist der entsprechende Arbeitgeberverband zust&amp;auml;ndig.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p1b77003b266j30zufxhz</id>
+        <description lang="en-US">F&amp;uuml;r die Erlassung ist das zust&amp;auml;ndige Bundesministerium zust&amp;auml;ndig.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p21mk004u266j5rhwgpjq</id>
+        <description lang="en-US">F&amp;uuml;r die Erlassung sind die Kultusminister der L&amp;auml;nder zust&amp;auml;ndig.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Czh2bGfzPa9sSXi5VFyOXBSX-jiWk-A3_rise/fGMtPPgf5TnUpcEH2u5lPj-pTjzP9h2T/ckz9p2bgz005g266jneiw7ifb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In den &amp;sect;&amp;sect; 29 und 30 BBiG werden Aussagen zur pers&amp;ouml;nlichen und fachlichen Eignung get&amp;auml;tigt. Welche Eignungen sind &amp;sect; 29 zugeordnet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9p2bgz005j266jylmhako9</correctResponsePattern>
+            <correctResponsePattern>choice_ckz9p2bgz005k266jkkc7qd9j</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9p2bgz005h266jwq9ubqvs</id>
+        <description lang="en-US">&amp;hellip; geeignet ist, wer die erforderlichen beruflichen Kenntnisse und&lt;br&gt;F&amp;auml;higkeiten besitzt.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p2bgz005j266jylmhako9</id>
+        <description lang="en-US">&amp;hellip; nicht geeignet ist, wer Kinder und Jugendliche nicht besch&amp;auml;ftigen darf.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p2bgz005k266jkkc7qd9j</id>
+        <description lang="en-US">&amp;hellip; nicht geeignet ist, wer wiederholt oder schwer gegen dieses Gesetz oder die&lt;br&gt;aufgrund dieses Gesetzes erlassenen Vorschriften und Bestimmungen&lt;br&gt;versto&amp;szlig;en hat.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p2bgz005i266j67d465u4</id>
+        <description lang="en-US">&amp;hellip; geeignet ist, wer eine Abschlusspr&amp;uuml;fung an einer deutschen Hochschule in einer&lt;br&gt;dem Ausbildungsberuf entsprechenden Fachrichtung bestanden hat.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p31650073266jj5k3ndfh</id>
+        <description lang="en-US">&amp;hellip;.geeignet ist, wer im Ausland einen Bildungsabschluss in einem entsprechenden&lt;br&gt;Ausbildungsberuf erworben hat, dessen Gleichwertigkeit nach den gesetzlichen&lt;br&gt;Regelungen festgestellt worden ist.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Czh2bGfzPa9sSXi5VFyOXBSX-jiWk-A3_rise/fGMtPPgf5TnUpcEH2u5lPj-pTjzP9h2T/ckz9p3fhk007x266joz8n4j81" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Der Malerbetrieb Valkner GmbH hat 3 ausgelernte Maler als Gesellen besch&amp;auml;ftigt. Peter Valkner ist Malermeister.&lt;br&gt;&lt;br&gt;Wie viele Auszubildende sollte der Malerbetrieb nach Empfehlung des Bundesinstituts f&amp;uuml;r Berufsbildung (BBIB) h&amp;ouml;chstens ausbilden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9p3fhk007y266j4rwsvgqs</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9p3fhk007y266j4rwsvgqs</id>
+        <description lang="en-US">1 Auszubildende</description>
+      </component>
+            <component>
+        <id>choice_ckz9p3fhk007z266jd40yt6bb</id>
+        <description lang="en-US">2 Auszubildende</description>
+      </component>
+            <component>
+        <id>choice_ckz9p48yd0080266jlk9e7fl8</id>
+        <description lang="en-US">&amp;nbsp;3 Auszubildende</description>
+      </component>
+            <component>
+        <id>choice_ckz9p4brw0081266jiskm9v8h</id>
+        <description lang="en-US">&amp;nbsp;4 Auszubildende</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Czh2bGfzPa9sSXi5VFyOXBSX-jiWk-A3_rise/fGMtPPgf5TnUpcEH2u5lPj-pTjzP9h2T/ckz9p4up20082266jy69ptkma" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Der Malerbetrieb Valkner GmbH hat 3 ausgelernte Maler als Gesellen besch&amp;auml;ftigt. Peter Valkner ist Malermeister.&lt;br&gt;Der Malermeister kann nicht alle Ausbildungsinhalte selber abdecken und besch&amp;auml;ftigt sich mit dem Thema &amp;bdquo;Verbundausbildung&amp;ldquo;. Welche Aussagen dazu sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9p4up20083266jnkcg2drd</correctResponsePattern>
+            <correctResponsePattern>choice_ckz9p5mbb008q266jrtpb0m4m</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9p4up20083266jnkcg2drd</id>
+        <description lang="en-US">Es ist eine M&amp;ouml;glichkeit f&amp;uuml;r kleinere Betriebe mit anderen Betrieben zusammen auszubilden, um somit alle Fachbereiche abzudecken.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p4up20084266jvl2jwzc7</id>
+        <description lang="en-US">Das Gehalt des Auszubildenden wird zwischen den Betrieben nach dem jeweiligen Ausbildungsanteil aufgebracht.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p5mbb008q266jrtpb0m4m</id>
+        <description lang="en-US">Die Gesamtverantwortung f&amp;uuml;r die Ausbildung liegt beim koordinierenden Betrieb, der mit dem Auszubildenden den Vertrag abschlie&amp;szlig;t.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p5q0m0095266jz42sod0n</id>
+        <description lang="en-US">Der Ausbildungsvertrag wird von dem Auszubildenden und allen Partnern der Verbundausbildung unterschrieben.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Czh2bGfzPa9sSXi5VFyOXBSX-jiWk-A3_rise/fGMtPPgf5TnUpcEH2u5lPj-pTjzP9h2T/ckz9p620z009g266jacqtevmm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zurzeit werden Ihre Auszubildenden in verschiedenen Werkst&amp;auml;tten direkt in der Produktion ausgebildet. Welchen Vorteil hat das?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9p6hzj009k266j5ys2czi8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9p620z009h266jnidb3tz1</id>
+        <description lang="en-US">Es sind keine Ausbilder erforderlich, da der Auszubildende &amp;quot;nebenbei&amp;quot; ausgebildet werden kann.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p620z009i266j0y20ao1y</id>
+        <description lang="en-US">Die Produktion kann auf die Ausbildungsinhalte abgestimmt werden.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p6fdu009j266juoz9udmg</id>
+        <description lang="en-US">Die Produktion kann bei Fragen des Auszubildenden jederzeit unterbrochen werden.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p6hzj009k266j5ys2czi8</id>
+        <description lang="en-US">Die Ausbildung direkt am Arbeitsplatz hat einen hohen Praxisbezug.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Czh2bGfzPa9sSXi5VFyOXBSX-jiWk-A3_rise/fGMtPPgf5TnUpcEH2u5lPj-pTjzP9h2T/ckz9p6yba009l266jjso07tl7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie &amp;uuml;berlegen, die Auszubildenden nicht in einzelnen Werkst&amp;auml;tten auszubilden, sondern einen zentralen Lernort zu schaffen. Nennen Sie den Vorteil.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9p7ac5009o266j3xbce47w</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9p6ybb009m266j5bg0j70i</id>
+        <description lang="en-US">Der Praxisbezug wird erh&amp;ouml;ht, da in einer Lehrwerkstatt ausgebildet wird.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p6ybb009n266j0epxx9p1</id>
+        <description lang="en-US">Es ist kein Ausbilder notwendig. Die Auszubildenden im dritten Lehrjahr unterrichten die &amp;quot;Anf&amp;auml;nger&amp;quot;.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p7ac5009o266j3xbce47w</id>
+        <description lang="en-US">Gerade zu Beginn der Ausbildung k&amp;ouml;nnen die Auszubildenden Grundfertigkeiten ohne Zeitdruck erlernen.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p7dp9009p266je1cjn3rv</id>
+        <description lang="en-US">Die Ausbildungszeit kann verk&amp;uuml;rzt werden, da intensiver auf die Pr&amp;uuml;fung hingearbeitet werden kann.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Czh2bGfzPa9sSXi5VFyOXBSX-jiWk-A3_rise/fGMtPPgf5TnUpcEH2u5lPj-pTjzP9h2T/ckz9p7pqh009q266jbkmw5uxz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Leonie Meier, Auszubildende im Hotelgewerbe, soll in einem Hotel &amp;quot;garni&amp;quot; (Hotel nur mit Fr&amp;uuml;hst&amp;uuml;ck) zur Hotelfachfrau ausgebildet werden. Zum Berufsbild geh&amp;ouml;rt auch die &amp;quot;Arbeit im Restaurant&amp;quot;. Dieser Bereich kann somit nicht vollst&amp;auml;ndig vermittelt werden.&amp;nbsp;Welche Aussage ist richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9p7pqh009r266j442p19kr</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9p7pqh009r266j442p19kr</id>
+        <description lang="en-US">Der Ausbildungsbestandteil &amp;quot;Arbeit im Restaurant&amp;quot; kann auch in einem Partnerrestaurant durchgef&amp;uuml;hrt werden.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p7pqh009t266j2z5h4jfx</id>
+        <description lang="en-US">Eine Ausbildung zur Hotelfachfrau ist in dem Hotel &amp;quot;garni&amp;quot; nicht m&amp;ouml;glich.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p7pqh009u266jrv6wf1ln</id>
+        <description lang="en-US">Auf den Ausbildungsteil &amp;quot;Arbeit im Restaurant&amp;quot; kann verzichtet werden, wenn die Auszubildende dies rechtzeitig vor Beginn der Ausbildung erf&amp;auml;hrt.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p7pqh009s266jmncrwaj4</id>
+        <description lang="en-US">Der Schwerpunkt der Ausbildung liegt im Empfangsbereich. Es kann somit auf diesen Teil verzichtet werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Czh2bGfzPa9sSXi5VFyOXBSX-jiWk-A3_rise/fGMtPPgf5TnUpcEH2u5lPj-pTjzP9h2T/ckz9p980h00be266jco9ii7kd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sonny Sunshine ist 17 Jahre alt und beginnt eine Ausbildung. Wie lange darf Sonny ohne Pause arbeiten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9p980h00bh266jr8dqj8v9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9p980h00bf266jxxhpryeh</id>
+        <description lang="en-US">Sp&amp;auml;testens nach 3,5 Stunden Arbeitszeit muss eine Pause gew&amp;auml;hrt werden.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p980h00bh266jr8dqj8v9</id>
+        <description lang="en-US">Sp&amp;auml;testens nach 4,5 Stunden Arbeitszeit muss eine Pause gew&amp;auml;hrt werden.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p980h00bi266juejbukjt</id>
+        <description lang="en-US">Sp&amp;auml;testens nach 3 Stunden Arbeitszeit muss eine Pause gew&amp;auml;hrt werden.</description>
+      </component>
+            <component>
+        <id>choice_ckz9p980h00bg266jo9ery7hm</id>
+        <description lang="en-US">Sp&amp;auml;testens nach 4 Stunden Arbeitszeit muss eine Pause gew&amp;auml;hrt werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Czh2bGfzPa9sSXi5VFyOXBSX-jiWk-A3_rise/fGMtPPgf5TnUpcEH2u5lPj-pTjzP9h2T/ckz9pa7zu00bp266jue98jtfs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sonny Sunshine ist 17 Jahre alt und beginnt eine Ausbildung. Sie hat eine t&amp;auml;gliche Arbeitszeit von 8 Stunden. Wie hoch ist der Pausenanspruch und wie lang muss die Pause mindestens sein?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9pbchg00bt266j0a2iq6k7</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9pa7zu00bq266j587gl4pc</id>
+        <description lang="en-US">Sonny hat Anspruch auf 60 Minuten Pause. Eine Pause muss mindestens 10 Min. lang sein.</description>
+      </component>
+            <component>
+        <id>choice_ckz9pa7zu00br266jcz41k43v</id>
+        <description lang="en-US">Sonny hat Anspruch auf 45 Minuten Pause. Eine Pause muss mindestens 15 Min. lang sein.</description>
+      </component>
+            <component>
+        <id>choice_ckz9pb9p900bs266jd2kb0qlx</id>
+        <description lang="en-US">Sonny hat Anspruch auf 90 Minuten Pause. Eine Pause muss mindestens 10 Min. lang sein.</description>
+      </component>
+            <component>
+        <id>choice_ckz9pbchg00bt266j0a2iq6k7</id>
+        <description lang="en-US">Sonny hat Anspruch auf 60 Minuten Pause. Eine Pause muss mindestens 15 Min.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

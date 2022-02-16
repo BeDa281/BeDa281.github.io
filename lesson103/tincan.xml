@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://ijpS7M-t-UPE6HnEnLK2uXGTNeYXKMuO_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildungsvoraussetzungen - Quiz 3</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://ijpS7M-t-UPE6HnEnLK2uXGTNeYXKMuO_rise/E4gmlY6t2mYexcWwpBk4gv-c9FGxZp8H" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://ijpS7M-t-UPE6HnEnLK2uXGTNeYXKMuO_rise/E4gmlY6t2mYexcWwpBk4gv-c9FGxZp8H/ckz9ooekh002w266joamxnvcy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche rechtliche Anforderung wird an den Ausbildenden gestellt?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9ooekh002x266jxpgwepxo</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9ooekh002x266jxpgwepxo</id>
+        <description lang="en-US">Der Ausbildende muss pers&amp;ouml;nlich geeignet sein.</description>
+      </component>
+            <component>
+        <id>choice_ckz9ooekh002y266jlx02dr62</id>
+        <description lang="en-US">Der Ausbildende muss das 22. Lebensjahr vollendet haben.</description>
+      </component>
+            <component>
+        <id>choice_ckz9op1dp002z266j94vbrldm</id>
+        <description lang="en-US">Der Ausbildende muss die Ausbildung pers&amp;ouml;nlich vornehmen.</description>
+      </component>
+            <component>
+        <id>choice_ckz9op48s0030266jfm34axp4</id>
+        <description lang="en-US">Der Ausbildende &amp;uuml;bernimmt die Ausbildung im theoretischen Bereich.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ijpS7M-t-UPE6HnEnLK2uXGTNeYXKMuO_rise/E4gmlY6t2mYexcWwpBk4gv-c9FGxZp8H/ckz9op99b0031266jvqop0c81" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aufgaben hat der Betrieb im Dualen System?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9op99b0033266j6hog8ggk</correctResponsePattern>
+            <correctResponsePattern>choice_ckz9oq2s3003x266jslec4xgb</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9op99b0032266j1ltu8zr9</id>
+        <description lang="en-US">Vermittlung von beruflichem Fachwissen</description>
+      </component>
+            <component>
+        <id>choice_ckz9op99b0033266j6hog8ggk</id>
+        <description lang="en-US">Vermittlung von Fertigkeiten im Beruf</description>
+      </component>
+            <component>
+        <id>choice_ckz9opzhv003k266j4jklknfn</id>
+        <description lang="en-US">Erweiterung der allgemeinen Bildung</description>
+      </component>
+            <component>
+        <id>choice_ckz9oq2s3003x266jslec4xgb</id>
+        <description lang="en-US">Planung der betrieblichen Ausbildung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ijpS7M-t-UPE6HnEnLK2uXGTNeYXKMuO_rise/E4gmlY6t2mYexcWwpBk4gv-c9FGxZp8H/ckz9oqbr5004g266jicngcogj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussagen zur Ausbildungsordnung sind NICHT richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9oqbr5004h266jrjgv9uxg</correctResponsePattern>
+            <correctResponsePattern>choice_ckz9or44b004o266ju0m5vkpc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9oqbr5004h266jrjgv9uxg</id>
+        <description lang="en-US">Die Ausbildungsordnung regelt den Schutz der Jugend in der Berufsausbildung.</description>
+      </component>
+            <component>
+        <id>choice_ckz9oqbr5004i266jcwzmwar0</id>
+        <description lang="en-US">Die Ausbildungsordnung sichert bundeseinheitliche Ausbildungsstandards.</description>
+      </component>
+            <component>
+        <id>choice_ckz9or44b004o266ju0m5vkpc</id>
+        <description lang="en-US">Die Ausbildungsordnung f&amp;uuml;hrt zu verschiedenen Ausbildungsstandards der Bundesl&amp;auml;nder.</description>
+      </component>
+            <component>
+        <id>choice_ckz9or6za004p266jzgip2nj0</id>
+        <description lang="en-US">In der Ausbildungsordnung ist die Ausbildungsdauer des Berufes geregelt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ijpS7M-t-UPE6HnEnLK2uXGTNeYXKMuO_rise/E4gmlY6t2mYexcWwpBk4gv-c9FGxZp8H/ckz9orgfc0058266jni3d4xza" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche rechtliche Anforderung wird an den Ausbilder gestellt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9orgfc0059266jyhqquj2f</correctResponsePattern>
+            <correctResponsePattern>choice_ckz9os6ym005b266jtal4cn9r</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9orgfc0059266jyhqquj2f</id>
+        <description lang="en-US">Der Ausbilder muss pers&amp;ouml;nlich geeignet sein.</description>
+      </component>
+            <component>
+        <id>choice_ckz9orgfc005a266j79gevgto</id>
+        <description lang="en-US">Der Ausbilder muss das 22. Lebensjahr vollendet haben.</description>
+      </component>
+            <component>
+        <id>choice_ckz9os6ym005b266jtal4cn9r</id>
+        <description lang="en-US">Der Ausbilder muss die Ausbildung im wesentlichen pers&amp;ouml;nlich vornehmen.</description>
+      </component>
+            <component>
+        <id>choice_ckz9os9rb005c266jpym2kafl</id>
+        <description lang="en-US">Der Ausbilder &amp;uuml;bernimmt die Ausbildung im theoretischen Bereich.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ijpS7M-t-UPE6HnEnLK2uXGTNeYXKMuO_rise/E4gmlY6t2mYexcWwpBk4gv-c9FGxZp8H/ckz9osnic005l266jja2mqplc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Anforderungen werden an den Ausbilder gestellt?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9osnic005m266ja69bqf34</correctResponsePattern>
+            <correctResponsePattern>choice_ckz9osnic005o266jbtldewa9</correctResponsePattern>
+            <correctResponsePattern>choice_ckz9osnic005p266jaxiynwk9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9osnic005m266ja69bqf34</id>
+        <description lang="en-US">Der Ausbilder muss fachlich kompetent sein.</description>
+      </component>
+            <component>
+        <id>choice_ckz9osnic005o266jbtldewa9</id>
+        <description lang="en-US">Er soll Erfahrung im Umgang mit jungen Menschen haben.</description>
+      </component>
+            <component>
+        <id>choice_ckz9osnic005p266jaxiynwk9</id>
+        <description lang="en-US">Er sollte gezielt die passenden Ausbildungsmethoden einsetzen.</description>
+      </component>
+            <component>
+        <id>choice_ckz9osnic005n266jharvydzt</id>
+        <description lang="en-US">Er muss Mitglied im Pr&amp;uuml;fungsausschuss der zust&amp;auml;ndigen Stelle sein.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ijpS7M-t-UPE6HnEnLK2uXGTNeYXKMuO_rise/E4gmlY6t2mYexcWwpBk4gv-c9FGxZp8H/ckz9otstp0087266jq28qbtqc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aufgaben hat der Ausbildungsberater der zust&amp;auml;ndigen Stelle?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9otstp008a266j1gu244mb</correctResponsePattern>
+            <correctResponsePattern>choice_ckz9otstp008b266jnpxek23q</correctResponsePattern>
+            <correctResponsePattern>choice_ckz9oufxf009p266jpny3jim6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9otstp0088266jgcku7n2w</id>
+        <description lang="en-US">&amp;Uuml;berwachung der Berufsschule</description>
+      </component>
+            <component>
+        <id>choice_ckz9otstp008a266j1gu244mb</id>
+        <description lang="en-US">Beratung von Auszubildenden</description>
+      </component>
+            <component>
+        <id>choice_ckz9otstp008b266jnpxek23q</id>
+        <description lang="en-US">Bereitstellung von Informationen f&amp;uuml;r Ausbildenden, z. B. Einf&amp;uuml;hrung neuer Berufe</description>
+      </component>
+            <component>
+        <id>choice_ckz9otstp0089266j9iqq0gq4</id>
+        <description lang="en-US">&amp;Uuml;berwachung des Pr&amp;uuml;fungsausschusses</description>
+      </component>
+            <component>
+        <id>choice_ckz9oufxf009p266jpny3jim6</id>
+        <description lang="en-US">Pr&amp;uuml;fung Beratung &amp;Uuml;berwachung der Ausbildung in den&lt;br&gt;Ausbildungsunternehmen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ijpS7M-t-UPE6HnEnLK2uXGTNeYXKMuO_rise/E4gmlY6t2mYexcWwpBk4gv-c9FGxZp8H/ckz9oup3l00ad266juou4s94v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Von welcher Stelle werden die Rahmenlehrpl&amp;auml;ne der Berufsschule erlassen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9oup3l00af266j231tia75</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9oup3l00ae266j7rlx6ez1</id>
+        <description lang="en-US">Industrie- und Handelskammer</description>
+      </component>
+            <component>
+        <id>choice_ckz9oup3l00ag266j918r6bdb</id>
+        <description lang="en-US">Berufsbildungsausschuss</description>
+      </component>
+            <component>
+        <id>choice_ckz9oup3l00ah266jtyyc4l6f</id>
+        <description lang="en-US">Choice 3</description>
+      </component>
+            <component>
+        <id>choice_ckz9oup3l00af266j231tia75</id>
+        <description lang="en-US">Kultusministerium des Bundeslandes</description>
+      </component>
+            <component>
+        <id>choice_ckz9ovhmp00c3266jpah4phiy</id>
+        <description lang="en-US">In der Innungs- Handelskammer</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ijpS7M-t-UPE6HnEnLK2uXGTNeYXKMuO_rise/E4gmlY6t2mYexcWwpBk4gv-c9FGxZp8H/ckz9ovx6g00ci266jo9fv36fn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was unterlegt dem Jugendarbeitsschutzgesetz?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9owj7i00ds266jja2fzgkv</correctResponsePattern>
+            <correctResponsePattern>choice_ckz9owm8700e3266j3p9czxsr</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9ovx6g00cj266jvyfbiezn</id>
+        <description lang="en-US">Dauer der Ausbildungszeit</description>
+      </component>
+            <component>
+        <id>choice_ckz9ovx6g00cl266jgrabz68l</id>
+        <description lang="en-US">Zusammensetzung des Pr&amp;uuml;fungsausschusses</description>
+      </component>
+            <component>
+        <id>choice_ckz9ovx6g00cm266j44f55aud</id>
+        <description lang="en-US">Choice 3</description>
+      </component>
+            <component>
+        <id>choice_ckz9ovx6g00ck266jb4ukk1bd</id>
+        <description lang="en-US">Choice 4</description>
+      </component>
+            <component>
+        <id>choice_ckz9owj7i00ds266jja2fzgkv</id>
+        <description lang="en-US">Regelung der Pausen bei Jugendlichen</description>
+      </component>
+            <component>
+        <id>choice_ckz9owm8700e3266j3p9czxsr</id>
+        <description lang="en-US">Erstuntersuchung, Nachuntersuchung bei jugendlichen Auszubildenden</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ijpS7M-t-UPE6HnEnLK2uXGTNeYXKMuO_rise/E4gmlY6t2mYexcWwpBk4gv-c9FGxZp8H/ckz9ox8w400er266js08hohx7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussagen zum Ausbildungsrahmenplan sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9ox8w400es266jbx15ey36</correctResponsePattern>
+            <correctResponsePattern>choice_ckz9oxuiy00fs266jmllkz7qe</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9ox8w400es266jbx15ey36</id>
+        <description lang="en-US">Der Ausbildungsrahmenplan ist Bestandteil der Ausbildungsordnung.</description>
+      </component>
+            <component>
+        <id>choice_ckz9ox8w400et266j6ka5ih63</id>
+        <description lang="en-US">Im Ausbildungsrahmenplan werden die Lernziele f&amp;uuml;r den Unterricht der Berufsschulen festgelegt.</description>
+      </component>
+            <component>
+        <id>choice_ckz9oxrl900fh266j47abfthd</id>
+        <description lang="en-US">Im Ausbildungsrahmenplan wird der Ablauf der Zwischen- und Abschlusspr&amp;uuml;fung geregelt.</description>
+      </component>
+            <component>
+        <id>choice_ckz9oxuiy00fs266jmllkz7qe</id>
+        <description lang="en-US">Der Ausbildungsrahmenplan bildet die Grundlage f&amp;uuml;r die sachliche und zeitliche Gliederung, die f&amp;uuml;r einen Ausbildungsvertrag vorgeschrieben ist.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ijpS7M-t-UPE6HnEnLK2uXGTNeYXKMuO_rise/E4gmlY6t2mYexcWwpBk4gv-c9FGxZp8H/ckz9oy03o00g9266j8ujh736u" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Punkte muss eine Ausbildungsordnung nach &amp;sect; 5 BBiG mindestens beinhalten?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz9oyia400gc266jzc4javm5</correctResponsePattern>
+            <correctResponsePattern>choice_ckz9oykrz00gd266jrgl49yyi</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz9oy03o00ga266jlvpt3jpj</id>
+        <description lang="en-US">Aufforderung zur F&amp;uuml;hrung eines Ausbildungsausweises</description>
+      </component>
+            <component>
+        <id>choice_ckz9oy03o00gb266j2u3w7zxi</id>
+        <description lang="en-US">Regelungen zum Urlaub</description>
+      </component>
+            <component>
+        <id>choice_ckz9oyia400gc266jzc4javm5</id>
+        <description lang="en-US">Dauer der Ausbildung</description>
+      </component>
+            <component>
+        <id>choice_ckz9oykrz00gd266jrgl49yyi</id>
+        <description lang="en-US">Pr&amp;uuml;fungsanforderungen</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

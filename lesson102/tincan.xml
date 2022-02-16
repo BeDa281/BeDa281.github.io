@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://p2OuIfjDB_reKBceIKBN-Y63_VBfjx68_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildungsvoraussetzungen - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://p2OuIfjDB_reKBceIKBN-Y63_VBfjx68_rise/0F2Xg6irTtEE8QUbctP1LHLP-rARrvZR" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://p2OuIfjDB_reKBceIKBN-Y63_VBfjx68_rise/0F2Xg6irTtEE8QUbctP1LHLP-rARrvZR/ckz5vgakw002w266julgst13s" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">&amp;nbsp;Sie m&amp;ouml;chten Anna Haase einen Ausbildungsplatz anbieten. Sie ist am 26. April 17 Jahre alt geworden. Wie hoch ist ihr Urlaubsanspruch?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5viar2002z266jjgoq2n42</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5vgakw002x266juw9tw9ri</id>
+        <description lang="en-US">Mindestens 30 Werktage</description>
+      </component>
+            <component>
+        <id>choice_ckz5vgakw002y266jxwztqgbl</id>
+        <description lang="en-US">Mindestens 25 Werktage</description>
+      </component>
+            <component>
+        <id>choice_ckz5viar2002z266jjgoq2n42</id>
+        <description lang="en-US">Mindestens 27 Werktage</description>
+      </component>
+            <component>
+        <id>choice_ckz5vie9n0030266j11h5ntoy</id>
+        <description lang="en-US">Mindestens 23 Werktage</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://p2OuIfjDB_reKBceIKBN-Y63_VBfjx68_rise/0F2Xg6irTtEE8QUbctP1LHLP-rARrvZR/ckz5vj35s0031266j8oq840b9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Bewerber m&amp;ouml;chte seine Ausbildung verk&amp;uuml;rzen. In welchem Fall w&amp;auml;re das m&amp;ouml;glich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5vk7tl0035266j6hgngt1s</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5vj35t0032266jjuvvbn5t</id>
+        <description lang="en-US">Mit Abitur w&amp;auml;re eine K&amp;uuml;rzung um 12 Monate m&amp;ouml;glich.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vj35t0033266jlooo61zg</id>
+        <description lang="en-US">Mit einem guten Hauptschulabschluss ist eine K&amp;uuml;rzung um 9 Monate anzustreben.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vk3ye0034266jail8e9q3</id>
+        <description lang="en-US">Eine K&amp;uuml;rzung der Ausbildungszeit ist generell nicht m&amp;ouml;glich.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vk7tl0035266j6hgngt1s</id>
+        <description lang="en-US">Eine K&amp;uuml;rzung ist nur innerhalb der Ausbildung durch gute Leistungen nach &amp;sect; 45 Berufsbildungsgesetz m&amp;ouml;glich.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://p2OuIfjDB_reKBceIKBN-Y63_VBfjx68_rise/0F2Xg6irTtEE8QUbctP1LHLP-rARrvZR/ckz5vkqrm0036266jjbzg3nhd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">&amp;nbsp;F&amp;uuml;r die Berufsausbildung ist eine &amp;bdquo;sachliche und zeitliche Gliederung&amp;ldquo; zu erstellen. Welches ist die Rechtsgrundlage daf&amp;uuml;r?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5vm38v003a266jkvl6oan8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5vkqrn0037266j9f4jzix1</id>
+        <description lang="en-US">Der Rahmenlehrplan</description>
+      </component>
+            <component>
+        <id>choice_ckz5vkqrn0038266jh443rk8r</id>
+        <description lang="en-US">Das B&amp;uuml;rgerliche Gesetzbuch (BGB)</description>
+      </component>
+            <component>
+        <id>choice_ckz5vlyge0039266jzyl7e9fc</id>
+        <description lang="en-US">Das Tarifvertragsgesetz</description>
+      </component>
+            <component>
+        <id>choice_ckz5vm38v003a266jkvl6oan8</id>
+        <description lang="en-US">Das Berufsbildungsgesetz</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://p2OuIfjDB_reKBceIKBN-Y63_VBfjx68_rise/0F2Xg6irTtEE8QUbctP1LHLP-rARrvZR/ckz5vnko9003b266j577ptcgu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie sind neu in einem gr&amp;ouml;&amp;szlig;eren Betrieb mit Betriebsrat und Jugend- und Auszubildendenvertretung und werden dort auch als Ausbilder /-in eingesetzt.&lt;br&gt;Kann der Betriebsrat auf Ihre Ausbildungsmethoden Einfluss nehmen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5vo4lz003e266jryrat6ji</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5vnko9003c266j368zyuf0</id>
+        <description lang="en-US">Der Betriebsrat hat ein Mitspracherecht.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vnko9003d266jukl2srqc</id>
+        <description lang="en-US">Der Betriebsrat muss vor der Ausbildung geh&amp;ouml;rt werden.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vo4lz003e266jryrat6ji</id>
+        <description lang="en-US">Der Betriebsrat kann Vorschl&amp;auml;ge unterbreiten, auf die ein/e Ausbilder/-in eingehen kann, aber nicht muss.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vo7wh003f266jped56480</id>
+        <description lang="en-US">Der Betriebsrat muss Ihren Ausbildungsmethoden zustimmen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://p2OuIfjDB_reKBceIKBN-Y63_VBfjx68_rise/0F2Xg6irTtEE8QUbctP1LHLP-rARrvZR/ckz5vom3g003g266jjx1f27r9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Regelung steht im Betriebsverfassungsgesetz?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5vom3h003h266j31xzdbne</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5vom3h003h266j31xzdbne</id>
+        <description lang="en-US">Der Betriebsrat ist vor jeder K&amp;uuml;ndigung zu h&amp;ouml;ren.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vom3h003i266jb6ekj1df</id>
+        <description lang="en-US">Die Vereinbarung von Vertragsstrafen im Ausbildungsverh&amp;auml;ltnis ist verboten.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vpcqq003j266jw6d3qhxp</id>
+        <description lang="en-US">Der Mindesturlaubsanspruch f&amp;uuml;r Jugendliche</description>
+      </component>
+            <component>
+        <id>choice_ckz5vpgca003k266jct7xg9td</id>
+        <description lang="en-US">Pausenregelung f&amp;uuml;r vollj&amp;auml;hrige Auszubildende</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://p2OuIfjDB_reKBceIKBN-Y63_VBfjx68_rise/0F2Xg6irTtEE8QUbctP1LHLP-rARrvZR/ckz5vptx8003l266jmpbrbvl7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Sie erhalten als Ausbildender von der Kammer die Aufforderung, Ihren Auszubildenden zu einer &amp;uuml;berbetrieblichen Ausbildungsma&amp;szlig;nahme zu entsenden, da dieser zur Teilnahme verpflichtet sei. Dar&amp;uuml;ber hinaus werden Sie aufgefordert, eine Geb&amp;uuml;hr f&amp;uuml;r diesen Unterweisungslehrgang zu bezahlen.&lt;br&gt;&lt;br&gt;Ist Ihr Auszubildender verpflichtet, im vorliegenden Falle teilzunehmen? Was trifft zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5vptx9003m266j8br24e3a</correctResponsePattern>
+            <correctResponsePattern>choice_ckz5vr3h6003o266j9yivu0af</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5vptx9003m266j8br24e3a</id>
+        <description lang="en-US">Ja, wenn Sie die Kosten &amp;uuml;bernehmen.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vptx9003n266jgdznl9ra</id>
+        <description lang="en-US">Ja, wenn der Staat die gesamten Kosten &amp;uuml;bernimmt.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vr3h6003o266j9yivu0af</id>
+        <description lang="en-US">&amp;nbsp;Ja, wenn die Ma&amp;szlig;nahme verpflichtend angeordnet ist.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vr7ey003p266j51cn9pv3</id>
+        <description lang="en-US">&amp;nbsp;Nein, weil er selbst beurteilen kann, ob die Ma&amp;szlig;nahme notwendig ist.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vrack003q266j4ym89g5w</id>
+        <description lang="en-US">Nein, weil Sie im Ausbildungsvertrag die Teilnahmepflicht vertraglich ausgeschlossen haben.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://p2OuIfjDB_reKBceIKBN-Y63_VBfjx68_rise/0F2Xg6irTtEE8QUbctP1LHLP-rARrvZR/ckz5vrzy20046266jua5v6g4g" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Sie erhalten als Ausbildender von der Kammer die Aufforderung, Ihren Auszubildenden zu einer &amp;uuml;berbetrieblichen Ausbildungsma&amp;szlig;nahme zu entsenden, da dieser zur Teilnahme verpflichtet sei. Dar&amp;uuml;ber hinaus werden Sie aufgefordert, eine Geb&amp;uuml;hr f&amp;uuml;r diesen Unterweisungslehrgang zu bezahlen.&lt;br&gt;Sind Sie als Ausbildender verpflichtet, im vorliegenden Falle die Geb&amp;uuml;hr zu entrichten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5vtchk004b266jlkq9f2ts</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5vrzy20047266jq6d6s00h</id>
+        <description lang="en-US">Nein, weil Sie von den Ma&amp;szlig;nahmen keinen betrieblichen Nutzen haben.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vrzy20048266jjua0zumd</id>
+        <description lang="en-US">Nein, weil es zur Pflicht des Auszubildenden geh&amp;ouml;rt, eventuelle Geb&amp;uuml;hren zu entrichten, da er auch einen pers&amp;ouml;nlichen Nutzen hat.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vt6dl0049266jb5lkhwen</id>
+        <description lang="en-US">Nein, weil die Kosten in jedem Fall vom Staat in voller H&amp;ouml;he getragen werden.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vt9ap004a266j0w5q9vmk</id>
+        <description lang="en-US">Nein, weil die Kosten immer von der zust&amp;auml;ndigen Innung &amp;uuml;bernommen werden.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vtchk004b266jlkq9f2ts</id>
+        <description lang="en-US">Ja, ich muss diese Geb&amp;uuml;hr bezahlen, soweit die Kosten nicht anderweitig gedeckt sind.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://p2OuIfjDB_reKBceIKBN-Y63_VBfjx68_rise/0F2Xg6irTtEE8QUbctP1LHLP-rARrvZR/ckz5vuy36005p266jmb0fetru" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Der Inhaber eines Handwerksbetriebes will im Rahmen der in der Allianz f&amp;uuml;r Aus- und Weiterbildung (Vereinbarung zwischen der Bundesregierung, den Spitzenverb&amp;auml;nden der Wirtschaft und dem DGB) vorgesehenen Einstiegsqualifizierung einen jungen Mann einstellen.&lt;br&gt;Welchen Vertrag schlie&amp;szlig;t er f&amp;uuml;r diese Einstiegsqualifizierung in der Regel ab?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5vvr2m005s266jyhy9yrec</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5vuy37005q266jd2p2ixd6</id>
+        <description lang="en-US">Einen unbefristeten Arbeitsvertrag.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vuy37005r266j9me1p529</id>
+        <description lang="en-US">Einen Berufsausbildungsvertrag.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vvr2m005s266jyhy9yrec</id>
+        <description lang="en-US">Einen Einstiegsqualifizierungsvertrag (Praktikantenvertrag).</description>
+      </component>
+            <component>
+        <id>choice_ckz5vvu8h005t266jkgvk7i8p</id>
+        <description lang="en-US">Einen Vorvertrag zu einem Berufsausbildungsvertrag.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vvy88005u266jzruzwpig</id>
+        <description lang="en-US">Einen Leiharbeitsvertrag.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://p2OuIfjDB_reKBceIKBN-Y63_VBfjx68_rise/0F2Xg6irTtEE8QUbctP1LHLP-rARrvZR/ckz5vwbt7005v266jtnqujrf9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aufgaben hat die Berufsschule im Dualen System?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5vwbt7005w266jkwjripd6</correctResponsePattern>
+            <correctResponsePattern>choice_ckz5vwyof006e266j6bn8ehfi</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5vwbt7005w266jkwjripd6</id>
+        <description lang="en-US">Vermittlung von beruflichen Fachwissen</description>
+      </component>
+            <component>
+        <id>choice_ckz5vwbt7005x266jgfwxaymz</id>
+        <description lang="en-US">Vermittlung von Fertigkeiten im Beruf</description>
+      </component>
+            <component>
+        <id>choice_ckz5vwyof006e266j6bn8ehfi</id>
+        <description lang="en-US">Erweiterung der allgemeinen Bildung</description>
+      </component>
+            <component>
+        <id>choice_ckz5vx1kj006p266jrblbamis</id>
+        <description lang="en-US">Planung der betrieblichen Ausbildung</description>
+      </component>
+            <component>
+        <id>choice_ckz5vx4hu0070266j3pkhww8g</id>
+        <description lang="en-US">Vermittlung von Disziplin</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://p2OuIfjDB_reKBceIKBN-Y63_VBfjx68_rise/0F2Xg6irTtEE8QUbctP1LHLP-rARrvZR/ckz5vxkzr007f266j2j9uc1jl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussagen zur Ausbildungsordnung sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckz5vxkzr007h266j8egh2q9p</correctResponsePattern>
+            <correctResponsePattern>choice_ckz5vxkzr007i266juhmjokim</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckz5vxkzr007g266jtbyf6vj4</id>
+        <description lang="en-US">Die Ausbildungsordnung regelt den Schutz der Jugend in der Berufsausbildung.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vxkzr007i266juhmjokim</id>
+        <description lang="en-US">Die Ausbildungsordnung sichert bundeseinheitliche Ausbildungsstandards.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vxkzr007j266jsliy1wup</id>
+        <description lang="en-US">Die Ausbildungsordnung f&amp;uuml;hrt zu verschiedenen Ausbildungsstandards der Bundesl&amp;auml;nder.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vxkzr007h266j8egh2q9p</id>
+        <description lang="en-US">In der Ausbildungsordnung ist die Ausbildungsdauer des Berufes geregelt.</description>
+      </component>
+            <component>
+        <id>choice_ckz5vybh9008v266jtnsluu58</id>
+        <description lang="en-US">Die Ausbildungsordnung ist freiwillig in der Ausbildung anzuwenden.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
