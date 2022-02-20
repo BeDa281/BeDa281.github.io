@@ -82,15 +82,15 @@
       </component>
             <component>
         <id>choice_ckz8a6hz70037266j7mgsfu7u</id>
-        <description lang="en-US">&amp;nbsp;Leidenschaft, Liebe, Hass, Zorn</description>
+        <description lang="en-US">Leidenschaft, Liebe, Hass, Zorn</description>
       </component>
             <component>
         <id>choice_ckz8a727q0038266j2720r7u0</id>
-        <description lang="en-US">&amp;nbsp;Fr&amp;ouml;mmigkeit, Eitelkeit, Extravaganz, Untreue</description>
+        <description lang="en-US">Fr&amp;ouml;mmigkeit, Eitelkeit, Extravaganz, Untreue</description>
       </component>
             <component>
         <id>choice_ckz8a76ej0039266jlksp36t4</id>
-        <description lang="en-US">&amp;nbsp;Aktivit&amp;auml;t, W&amp;auml;rme, Energie Fr&amp;ouml;hlichkeit</description>
+        <description lang="en-US">Aktivit&amp;auml;t, W&amp;auml;rme, Energie Fr&amp;ouml;hlichkeit</description>
       </component>
             </choices>
           </activity>
@@ -264,10 +264,6 @@
             <component>
         <id>choice_ckz8ao1y7004v266jy4rwqft8</id>
         <description lang="en-US">Grelles Licht. Wirkt bei Konzentrationsaufgaben stimulierend.</description>
-      </component>
-            <component>
-        <id>choice_ckz8aotgw007b266jtwdowcpm</id>
-        <description lang="en-US"></description>
       </component>
             </choices>
           </activity>
