@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://Bg-ojdo3OjzAxbhgtlBAToLci13izXNW_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Stilkunde - Quiz 5</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://Bg-ojdo3OjzAxbhgtlBAToLci13izXNW_rise/om69tFO7DGdPxAPa8-KmJzaKk_gnyxMh" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://Bg-ojdo3OjzAxbhgtlBAToLci13izXNW_rise/om69tFO7DGdPxAPa8-KmJzaKk_gnyxMh/ckzznskud0003266ehso1op9s" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Stilrichtungen den Giebelformen zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzznskud0004266esvujckfa[.]target_ckzznskud0004266esvujckfa</correctResponsePattern>
+            <correctResponsePattern>source_ckzznskud0005266ebgao9ple[.]target_ckzznskud0005266ebgao9ple</correctResponsePattern>
+            <correctResponsePattern>source_ckzznskue0006266elc92wcgm[.]target_ckzznskue0006266elc92wcgm</correctResponsePattern>
+            <correctResponsePattern>source_ckzznsz2t0008266evv4hdph1[.]target_ckzznsz2t0008266evv4hdph1</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzznskud0004266esvujckfa</id>
+        <description lang="en-US">Jugendstil></description>
+      </component>
+            <component>
+        <id>source_ckzznskud0005266ebgao9ple</id>
+        <description lang="en-US">Barock></description>
+      </component>
+            <component>
+        <id>source_ckzznskue0006266elc92wcgm</id>
+        <description lang="en-US">Gotik></description>
+      </component>
+            <component>
+        <id>source_ckzznsz2t0008266evv4hdph1</id>
+        <description lang="en-US">Renaissance></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzznskud0004266esvujckfa</id>
+            <description lang="en-US">a</description>
+          </component>
+                  <component>
+            <id>target_ckzznskud0005266ebgao9ple</id>
+            <description lang="en-US">b</description>
+          </component>
+                  <component>
+            <id>target_ckzznskue0006266elc92wcgm</id>
+            <description lang="en-US">c</description>
+          </component>
+                  <component>
+            <id>target_ckzznsz2t0008266evv4hdph1</id>
+            <description lang="en-US">d</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://Bg-ojdo3OjzAxbhgtlBAToLci13izXNW_rise/om69tFO7DGdPxAPa8-KmJzaKk_gnyxMh/ckzzntq6q0009266ep36qmjhi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Beschreibungen den genannten Bauteilen bzw. Gestaltungselementen zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzzntq6r000a266enykh12fr[.]target_ckzzntq6r000a266enykh12fr</correctResponsePattern>
+            <correctResponsePattern>source_ckzzntq6r000b266etmqd7xdh[.]target_ckzzntq6r000b266etmqd7xdh</correctResponsePattern>
+            <correctResponsePattern>source_ckzzntq6r000c266e80ti4ghl[.]target_ckzzntq6r000c266e80ti4ghl</correctResponsePattern>
+            <correctResponsePattern>source_ckzznu5d8000d266epf967wxi[.]target_ckzznu5d8000d266epf967wxi</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzzntq6r000a266enykh12fr</id>
+        <description lang="en-US">Eierstab ></description>
+      </component>
+            <component>
+        <id>source_ckzzntq6r000b266etmqd7xdh</id>
+        <description lang="en-US">Fledermausgaube ></description>
+      </component>
+            <component>
+        <id>source_ckzzntq6r000c266e80ti4ghl</id>
+        <description lang="en-US">Kämpfer beim Fenster ></description>
+      </component>
+            <component>
+        <id>source_ckzznu5d8000d266epf967wxi</id>
+        <description lang="en-US">Akanthus></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzzntq6r000a266enykh12fr</id>
+            <description lang="en-US">Eine fortlaufende Zierleiste mit eiförmigen Elementen</description>
+          </component>
+                  <component>
+            <id>target_ckzzntq6r000b266etmqd7xdh</id>
+            <description lang="en-US">Eine Dachgaube, in geschwungener Form, die in eine Dachfläche eingebunden ist</description>
+          </component>
+                  <component>
+            <id>target_ckzzntq6r000c266e80ti4ghl</id>
+            <description lang="en-US">Waagerechter Riegel für die Trennung zwischen Oberlicht und Fensterflügel </description>
+          </component>
+                  <component>
+            <id>target_ckzznu5d8000d266epf967wxi</id>
+            <description lang="en-US">Bezeichnung eines Ornaments, dass die Gestalt der Blätter in stilisierter Form hat</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://Bg-ojdo3OjzAxbhgtlBAToLci13izXNW_rise/om69tFO7DGdPxAPa8-KmJzaKk_gnyxMh/ckzznvuci000e266e1j2yb295" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welcher Epoche ist diese Innenraumgestaltung zuzuordnen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzznwrja000i266ehhn5bkaq</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzznvuci000f266eusjepdq6</id>
+        <description lang="en-US">Klassizismus</description>
+      </component>
+            <component>
+        <id>choice_ckzznvuci000g266e13mjxspx</id>
+        <description lang="en-US">Bauhaus</description>
+      </component>
+            <component>
+        <id>choice_ckzznwrja000i266ehhn5bkaq</id>
+        <description lang="en-US">Jugendstil</description>
+      </component>
+            <component>
+        <id>choice_ckzznwus0000j266ezas2wgpm</id>
+        <description lang="en-US">Rokoko</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Bg-ojdo3OjzAxbhgtlBAToLci13izXNW_rise/om69tFO7DGdPxAPa8-KmJzaKk_gnyxMh/ckzznzmrr000m266ekciybor7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nennen Sie die Stilepoche, der dieses Geb&amp;auml;ude zuzuordnen ist.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzznzmrr000p266elcl89kkq</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzznzmrr000n266ewb2mpqzx</id>
+        <description lang="en-US">Rokoko</description>
+      </component>
+            <component>
+        <id>choice_ckzznzmrr000p266elcl89kkq</id>
+        <description lang="en-US">Jugenstil</description>
+      </component>
+            <component>
+        <id>choice_ckzznzmrr000q266eht3j9fh0</id>
+        <description lang="en-US">Freie Baukust</description>
+      </component>
+            <component>
+        <id>choice_ckzznzmrr000o266eqp1s2j4j</id>
+        <description lang="en-US">Moderne</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Bg-ojdo3OjzAxbhgtlBAToLci13izXNW_rise/om69tFO7DGdPxAPa8-KmJzaKk_gnyxMh/ckzzo14j5000y266e9m1c2th2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was sind typischen Merkmale des Baustils Jugenstil?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzo14j5000z266eihnyybw4</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzo14j50011266eb81sdbzz</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzo14j5000z266eihnyybw4</id>
+        <description lang="en-US">Organische Formen</description>
+      </component>
+            <component>
+        <id>choice_ckzzo14j50011266eb81sdbzz</id>
+        <description lang="en-US">florale Ornamente</description>
+      </component>
+            <component>
+        <id>choice_ckzzo14j50012266en8h7myne</id>
+        <description lang="en-US">Symetrische Elemente</description>
+      </component>
+            <component>
+        <id>choice_ckzzo14j50010266ehqq1ii29</id>
+        <description lang="en-US">Schafte und Kapitelle</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Bg-ojdo3OjzAxbhgtlBAToLci13izXNW_rise/om69tFO7DGdPxAPa8-KmJzaKk_gnyxMh/ckzzo2e9o003h266ey27gb85i" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was sind typischen Merkmale des Baustils Jugenstil?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzo2e9p003i266eaf8hy93f</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzo2e9p003k266ea7i3yfi8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzo2e9p003i266eaf8hy93f</id>
+        <description lang="en-US">Aufgabe der Symmetrie</description>
+      </component>
+            <component>
+        <id>choice_ckzzo2e9p003k266ea7i3yfi8</id>
+        <description lang="en-US">dekorativ geschwungene Linien</description>
+      </component>
+            <component>
+        <id>choice_ckzzo2e9p003l266e3zt3876d</id>
+        <description lang="en-US">Friese</description>
+      </component>
+            <component>
+        <id>choice_ckzzo2e9p003j266egbfg3mhb</id>
+        <description lang="en-US">klare Linien</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Bg-ojdo3OjzAxbhgtlBAToLci13izXNW_rise/om69tFO7DGdPxAPa8-KmJzaKk_gnyxMh/ckzzo4ny0005d266emc0z09ha" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Stilepochen den Sitzm&amp;ouml;bel richtig zu.&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzzo4ny1005e266e9yh2yurq[.]target_ckzzo4ny1005e266e9yh2yurq</correctResponsePattern>
+            <correctResponsePattern>source_ckzzo4ny1005f266edbxf9b2v[.]target_ckzzo4ny1005f266edbxf9b2v</correctResponsePattern>
+            <correctResponsePattern>source_ckzzo4ny1005g266eob5u4oeg[.]target_ckzzo4ny1005g266eob5u4oeg</correctResponsePattern>
+            <correctResponsePattern>source_ckzzo59xj005i266e6ojvz5ph[.]target_ckzzo59xj005i266e6ojvz5ph</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzzo4ny1005e266e9yh2yurq</id>
+        <description lang="en-US">Bauhaus ></description>
+      </component>
+            <component>
+        <id>source_ckzzo4ny1005f266edbxf9b2v</id>
+        <description lang="en-US">Jugendstil ></description>
+      </component>
+            <component>
+        <id>source_ckzzo4ny1005g266eob5u4oeg</id>
+        <description lang="en-US">Barock></description>
+      </component>
+            <component>
+        <id>source_ckzzo59xj005i266e6ojvz5ph</id>
+        <description lang="en-US">Klassizismus></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzzo4ny1005e266e9yh2yurq</id>
+            <description lang="en-US">a</description>
+          </component>
+                  <component>
+            <id>target_ckzzo4ny1005f266edbxf9b2v</id>
+            <description lang="en-US">b</description>
+          </component>
+                  <component>
+            <id>target_ckzzo4ny1005g266eob5u4oeg</id>
+            <description lang="en-US">c</description>
+          </component>
+                  <component>
+            <id>target_ckzzo59xj005i266e6ojvz5ph</id>
+            <description lang="en-US">d</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://Bg-ojdo3OjzAxbhgtlBAToLci13izXNW_rise/om69tFO7DGdPxAPa8-KmJzaKk_gnyxMh/ckzzo6ocs005j266e1lnlocfj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welcher Architekturbegriff bezeichnet diese Art des Zugangs an Geb&amp;auml;uden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzo6yyh005m266e8o95qkd8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzo6ocs005k266egfx1pbeh</id>
+        <description lang="en-US">S&amp;auml;ulengang</description>
+      </component>
+            <component>
+        <id>choice_ckzzo6ocs005l266evyqnpl0l</id>
+        <description lang="en-US">Kreuzgew&amp;ouml;lbe</description>
+      </component>
+            <component>
+        <id>choice_ckzzo6yyh005m266e8o95qkd8</id>
+        <description lang="en-US">Laubengang</description>
+      </component>
+            <component>
+        <id>choice_ckzzo71mo005n266e85hwdi49</id>
+        <description lang="en-US">Loggia</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Bg-ojdo3OjzAxbhgtlBAToLci13izXNW_rise/om69tFO7DGdPxAPa8-KmJzaKk_gnyxMh/ckzzo76oy005o266ehah3gw4t" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Beschreibung trifft auf den Begriff Pilaster zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzo76oy005q266emhqk6jv7</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzo76oy005p266esqb6912w</id>
+        <description lang="en-US">Eine senkrechte Teilung der Fassade</description>
+      </component>
+            <component>
+        <id>choice_ckzzo76oy005q266emhqk6jv7</id>
+        <description lang="en-US">Ein flach aus der Wand hervorspringender Pfeiler mit Basis, Schaft und Kapitell</description>
+      </component>
+            <component>
+        <id>choice_ckzzo7m9t005r266exqn5xsu9</id>
+        <description lang="en-US">Ein glattes oder plastisches Zierband an Decken und W&amp;auml;nden</description>
+      </component>
+            <component>
+        <id>choice_ckzzo7pv1005s266eyaiwsaow</id>
+        <description lang="en-US">Ein waagerechtes, vorspringendes Bauteil auf einer Fassade</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Bg-ojdo3OjzAxbhgtlBAToLci13izXNW_rise/om69tFO7DGdPxAPa8-KmJzaKk_gnyxMh/ckzzo9zme005t266eym3ey1j9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Eine individuell gestaltete Reihe s&amp;auml;ulenartiger St&amp;uuml;tzen, die als Br&amp;uuml;stung oder Gel&amp;auml;nder an Treppen, Terrassen oder Balkonen dient. Ist &amp;hellip;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzo9zme005w266ev6b7hpyl</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzo9zme005u266e31f1tc0w</id>
+        <description lang="en-US">ein Laubengang</description>
+      </component>
+            <component>
+        <id>choice_ckzzo9zme005w266ev6b7hpyl</id>
+        <description lang="en-US">&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;o:OfficeDocumentSettings&gt;
+  &lt;o:AllowPNG/&gt;
+ &lt;/o:OfficeDocumentSettings&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:WordDocument&gt;
+  &lt;w:View&gt;Normal&lt;/w:View&gt;
+  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+  &lt;w:TrackMoves/&gt;
+  &lt;w:TrackFormatting/&gt;
+  &lt;w:HyphenationZone&gt;21&lt;/w:HyphenationZone&gt;
+  &lt;w:PunctuationKerning/&gt;
+  &lt;w:ValidateAgainstSchemas/&gt;
+  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+  &lt;w:DoNotPromoteQF/&gt;
+  &lt;w:LidThemeOther&gt;DE&lt;/w:LidThemeOther&gt;
+  &lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;
+  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+  &lt;w:Compatibility&gt;
+   &lt;w:BreakWrappedTables/&gt;
+   &lt;w:SnapToGridInCell/&gt;
+   &lt;w:WrapTextWithPunct/&gt;
+   &lt;w:UseAsianBreakRules/&gt;
+   &lt;w:DontGrowAutofit/&gt;
+   &lt;w:SplitPgBreakAndParaMark/&gt;
+   &lt;w:EnableOpenTypeKerning/&gt;
+   &lt;w:DontFlipMirrorIndents/&gt;
+   &lt;w:OverrideTableStyleHps/&gt;
+  &lt;/w:Compatibility&gt;
+  &lt;m:mathPr&gt;
+   &lt;m:mathFont m:val=&#34;Cambria Math&#34;/&gt;
+   &lt;m:brkBin m:val=&#34;before&#34;/&gt;
+   &lt;m:brkBinSub m:val=&#34;&amp;#45;-&#34;/&gt;
+   &lt;m:smallFrac m:val=&#34;off&#34;/&gt;
+   &lt;m:dispDef/&gt;
+   &lt;m:lMargin m:val=&#34;0&#34;/&gt;
+   &lt;m:rMargin m:val=&#34;0&#34;/&gt;
+   &lt;m:defJc m:val=&#34;centerGroup&#34;/&gt;
+   &lt;m:wrapIndent m:val=&#34;1440&#34;/&gt;
+   &lt;m:intLim m:val=&#34;subSup&#34;/&gt;
+   &lt;m:naryLim m:val=&#34;undOvr&#34;/&gt;
+  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;eine Balustrade</description>
+      </component>
+            <component>
+        <id>choice_ckzzo9zme005x266etvcseanf</id>
+        <description lang="en-US">eine Arkade</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

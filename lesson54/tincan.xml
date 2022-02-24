@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://t73M4CoV774aso-jfztEy_9IoYnSHAIS_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Stilkunde - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://t73M4CoV774aso-jfztEy_9IoYnSHAIS_rise/wlefQXjrwE8aIeHJ6pPkmr_LybhtkNCS" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://t73M4CoV774aso-jfztEy_9IoYnSHAIS_rise/wlefQXjrwE8aIeHJ6pPkmr_LybhtkNCS/ckzzg2d260003266eu73do56a" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In der Denkmalpflege finden nachstehende Begriffe Verwendung. Ordnen Sie diese zu.&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzzg2d270004266e2bowagdg[.]target_ckzzg2d270004266e2bowagdg</correctResponsePattern>
+            <correctResponsePattern>source_ckzzg2d270005266eajt1cjf8[.]target_ckzzg2d270005266eajt1cjf8</correctResponsePattern>
+            <correctResponsePattern>source_ckzzg2d270006266erahsl7xm[.]target_ckzzg2d270006266erahsl7xm</correctResponsePattern>
+            <correctResponsePattern>source_ckzzg307y0007266exo0syd9u[.]target_ckzzg307y0007266exo0syd9u</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzzg2d270004266e2bowagdg</id>
+        <description lang="en-US">Konservierung></description>
+      </component>
+            <component>
+        <id>source_ckzzg2d270005266eajt1cjf8</id>
+        <description lang="en-US">Kopie ></description>
+      </component>
+            <component>
+        <id>source_ckzzg2d270006266erahsl7xm</id>
+        <description lang="en-US">Rekonstruktion ></description>
+      </component>
+            <component>
+        <id>source_ckzzg307y0007266exo0syd9u</id>
+        <description lang="en-US">Restaurierung ></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzzg2d270004266e2bowagdg</id>
+            <description lang="en-US">Sicherung des materiellen Bestandes durch Festigung, Reinigung und Entfernung von Stoffen</description>
+          </component>
+                  <component>
+            <id>target_ckzzg2d270005266eajt1cjf8</id>
+            <description lang="en-US">Eine maßstabsgetreue Nachbildung</description>
+          </component>
+                  <component>
+            <id>target_ckzzg2d270006266erahsl7xm</id>
+            <description lang="en-US">Nach altem Vorbild wieder errichten, aufbauen oder zusammenfügen</description>
+          </component>
+                  <component>
+            <id>target_ckzzg307y0007266exo0syd9u</id>
+            <description lang="en-US">Die vorhandene Substanz wieder zur Geltung bringen</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://t73M4CoV774aso-jfztEy_9IoYnSHAIS_rise/wlefQXjrwE8aIeHJ6pPkmr_LybhtkNCS/ckzzg4zvv0008266emdbmhize" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Um &amp;nbsp;zu einer optimalen Innenraumgestaltung zu gelangen, soll von Ihnen eine umfassende Bestandsaufnahme gemacht werden. Nennen Sie die Kriterien, die zu erfassen sind.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzg4zvv0009266en29m81xt</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzg4zvv000a266e6eqymxfx</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzg4zvv000c266eydxy8rpj</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzg4zvv000b266etwqkw47y</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzg4zvv0009266en29m81xt</id>
+        <description lang="en-US">Raumgr&amp;ouml;&amp;szlig;e</description>
+      </component>
+            <component>
+        <id>choice_ckzzg4zvv000b266etwqkw47y</id>
+        <description lang="en-US">Raumproportionen</description>
+      </component>
+            <component>
+        <id>choice_ckzzg4zvv000c266eydxy8rpj</id>
+        <description lang="en-US">Nutzer/Bewohner</description>
+      </component>
+            <component>
+        <id>choice_ckzzg4zvv000a266e6eqymxfx</id>
+        <description lang="en-US">vorhandene Werkstoff</description>
+      </component>
+            <component>
+        <id>choice_ckzzg68nz002v266eh8pkikqi</id>
+        <description lang="en-US">Lage des Hauses (Stadt,Land&amp;hellip;.)</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://t73M4CoV774aso-jfztEy_9IoYnSHAIS_rise/wlefQXjrwE8aIeHJ6pPkmr_LybhtkNCS/ckzzg6c2f0032266ehl3n224l" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Um &amp;nbsp;zu einer optimalen Innenraumgestaltung zu gelangen, soll von Ihnen eine umfassende Bestandsaufnahme gemacht werden. Nennen Sie die Kriterien, die zu erfassen sind.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzg6c2f0033266ezq2nlfrf</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzg6c2f0034266eopeax1et</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzg6c2f0035266efltvxdk6</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzg6c2f0036266e7qskdjxw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzg6c2f0033266ezq2nlfrf</id>
+        <description lang="en-US">Raumnutzung</description>
+      </component>
+            <component>
+        <id>choice_ckzzg6c2f0035266efltvxdk6</id>
+        <description lang="en-US">Raumakustik </description>
+      </component>
+            <component>
+        <id>choice_ckzzg6c2f0036266e7qskdjxw</id>
+        <description lang="en-US">Einrichtungsgegenst&amp;auml;nde</description>
+      </component>
+            <component>
+        <id>choice_ckzzg6c2f0034266eopeax1et</id>
+        <description lang="en-US">Bau- oder Einrichtungsstil</description>
+      </component>
+            <component>
+        <id>choice_ckzzg75ub005j266ep6i9jcuz</id>
+        <description lang="en-US">Gartengestaltung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://t73M4CoV774aso-jfztEy_9IoYnSHAIS_rise/wlefQXjrwE8aIeHJ6pPkmr_LybhtkNCS/ckzzg7hg1005u266e17vlhapj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie nennt man diese Wohnraumgestaltung? &amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzg7hg1005v266eq1w7js1a</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzg7hg1005v266eq1w7js1a</id>
+        <description lang="en-US">&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;o:OfficeDocumentSettings&gt;
+  &lt;o:AllowPNG/&gt;
+ &lt;/o:OfficeDocumentSettings&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:WordDocument&gt;
+  &lt;w:View&gt;Normal&lt;/w:View&gt;
+  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+  &lt;w:TrackMoves/&gt;
+  &lt;w:TrackFormatting/&gt;
+  &lt;w:HyphenationZone&gt;21&lt;/w:HyphenationZone&gt;
+  &lt;w:PunctuationKerning/&gt;
+  &lt;w:ValidateAgainstSchemas/&gt;
+  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+  &lt;w:DoNotPromoteQF/&gt;
+  &lt;w:LidThemeOther&gt;DE&lt;/w:LidThemeOther&gt;
+  &lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;
+  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+  &lt;w:Compatibility&gt;
+   &lt;w:BreakWrappedTables/&gt;
+   &lt;w:SnapToGridInCell/&gt;
+   &lt;w:WrapTextWithPunct/&gt;
+   &lt;w:UseAsianBreakRules/&gt;
+   &lt;w:DontGrowAutofit/&gt;
+   &lt;w:SplitPgBreakAndParaMark/&gt;
+   &lt;w:EnableOpenTypeKerning/&gt;
+   &lt;w:DontFlipMirrorIndents/&gt;
+   &lt;w:OverrideTableStyleHps/&gt;
+  &lt;/w:Compatibility&gt;
+  &lt;m:mathPr&gt;
+   &lt;m:mathFont m:val=&#34;Cambria Math&#34;/&gt;
+   &lt;m:brkBin m:val=&#34;before&#34;/&gt;
+   &lt;m:brkBinSub m:val=&#34;&amp;#45;-&#34;/&gt;
+   &lt;m:smallFrac m:val=&#34;off&#34;/&gt;
+   &lt;m:dispDef/&gt;
+   &lt;m:lMargin m:val=&#34;0&#34;/&gt;
+   &lt;m:rMargin m:val=&#34;0&#34;/&gt;
+   &lt;m:defJc m:val=&#34;centerGroup&#34;/&gt;
+   &lt;m:wrapIndent m:val=&#34;1440&#34;/&gt;
+   &lt;m:intLim m:val=&#34;subSup&#34;/&gt;
+   &lt;m:naryLim m:val=&#34;undOvr&#34;/&gt;
+  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;rustikal</description>
+      </component>
+            <component>
+        <id>choice_ckzzg7hg1005w266exa74djyz</id>
+        <description lang="en-US">puristisch&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckzzg8lig005y266ewdmy2wns</id>
+        <description lang="en-US">mediterran&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckzzg8pxz005z266emeciuif1</id>
+        <description lang="en-US">barock</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://t73M4CoV774aso-jfztEy_9IoYnSHAIS_rise/wlefQXjrwE8aIeHJ6pPkmr_LybhtkNCS/ckzzg9epc0060266e289ta9n8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Diese Gestaltung eines Treppenhauses ist einer bestimmten Stilrichtung zuzuordnen. Nennen Sie diese.&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzg9epc0062266eckzbyar3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzg9epc0061266e545afg7u</id>
+        <description lang="en-US">Jugendstil</description>
+      </component>
+            <component>
+        <id>choice_ckzzg9epc0062266eckzbyar3</id>
+        <description lang="en-US">Bauhaus</description>
+      </component>
+            <component>
+        <id>choice_ckzzg9vsn0063266e6lobqxam</id>
+        <description lang="en-US">Klassizismus</description>
+      </component>
+            <component>
+        <id>choice_ckzzg9x180064266ej9di2nlx</id>
+        <description lang="en-US">Barock</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://t73M4CoV774aso-jfztEy_9IoYnSHAIS_rise/wlefQXjrwE8aIeHJ6pPkmr_LybhtkNCS/ckzzga88f0065266ewvkamr3b" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Treffen die folgenden Begriffe auf die Epoche des Bauhaus&amp;ndash;Stil zu?&lt;br&gt;&lt;ul&gt;&lt;li&gt;Quadratische&lt;/li&gt;&lt;li&gt;&amp;nbsp;kubische Formen&lt;/li&gt;&lt;li&gt;Vrwendung von Prim&amp;auml;rfarben&amp;nbsp;&lt;/li&gt;&lt;li&gt;Vorhangfassaden&lt;/li&gt;&lt;li&gt;&amp;nbsp; funtionelles, schlichtes Design&lt;/li&gt;&lt;/ul&gt;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzga88g0066266ejkvilt0q</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzga88g0066266ejkvilt0q</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            <component>
+        <id>choice_ckzzga88g0067266ebt69kixg</id>
+        <description lang="en-US">Nein</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://t73M4CoV774aso-jfztEy_9IoYnSHAIS_rise/wlefQXjrwE8aIeHJ6pPkmr_LybhtkNCS/ckzzgblh00068266elfukjy69" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die abgebildeten Geb&amp;auml;ude folgenden Baustilen zu:&amp;nbsp;Gotik - Renaissance - Jugendstil - Die Moderne.&amp;nbsp;&lt;br&gt;Kreuzen Sie die richtige Buchstabenfolge an.&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzgemny006c266e7bwpq4wj</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzgblh10069266eiijbb6w4</id>
+        <description lang="en-US">&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;o:OfficeDocumentSettings&gt;
+  &lt;o:AllowPNG/&gt;
+ &lt;/o:OfficeDocumentSettings&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:WordDocument&gt;
+  &lt;w:View&gt;Normal&lt;/w:View&gt;
+  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+  &lt;w:TrackMoves/&gt;
+  &lt;w:TrackFormatting/&gt;
+  &lt;w:HyphenationZone&gt;21&lt;/w:HyphenationZone&gt;
+  &lt;w:PunctuationKerning/&gt;
+  &lt;w:ValidateAgainstSchemas/&gt;
+  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+  &lt;w:DoNotPromoteQF/&gt;
+  &lt;w:LidThemeOther&gt;DE&lt;/w:LidThemeOther&gt;
+  &lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;
+  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+  &lt;w:Compatibility&gt;
+   &lt;w:BreakWrappedTables/&gt;
+   &lt;w:SnapToGridInCell/&gt;
+   &lt;w:WrapTextWithPunct/&gt;
+   &lt;w:UseAsianBreakRules/&gt;
+   &lt;w:DontGrowAutofit/&gt;
+   &lt;w:SplitPgBreakAndParaMark/&gt;
+   &lt;w:EnableOpenTypeKerning/&gt;
+   &lt;w:DontFlipMirrorIndents/&gt;
+   &lt;w:OverrideTableStyleHps/&gt;
+  &lt;/w:Compatibility&gt;
+  &lt;m:mathPr&gt;
+   &lt;m:mathFont m:val=&#34;Cambria Math&#34;/&gt;
+   &lt;m:brkBin m:val=&#34;before&#34;/&gt;
+   &lt;m:brkBinSub m:val=&#34;&amp;#45;-&#34;/&gt;
+   &lt;m:smallFrac m:val=&#34;off&#34;/&gt;
+   &lt;m:dispDef/&gt;
+   &lt;m:lMargin m:val=&#34;0&#34;/&gt;
+   &lt;m:rMargin m:val=&#34;0&#34;/&gt;
+   &lt;m:defJc m:val=&#34;centerGroup&#34;/&gt;
+   &lt;m:wrapIndent m:val=&#34;1440&#34;/&gt;
+   &lt;m:intLim m:val=&#34;subSup&#34;/&gt;
+   &lt;m:naryLim m:val=&#34;undOvr&#34;/&gt;
+  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;A - D - B - C &lt;table border=&#34;1&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; class=&#34;MsoNormalTable&#34; style=&#34;width:372.5pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0cm 0cm 0cm 0cm&#34; width=&#34;497&#34;&gt;&lt;tbody&gt;&lt;tr style=&#34;mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:12.0pt&#34;&gt;&lt;td style=&#34;width:306.0pt;border:none;padding:0cm 0cm 0cm 0cm;
+  height:12.0pt&#34; valign=&#34;top&#34; width=&#34;408&#34;&gt;&lt;p class=&#34;MsoNormal&#34; style=&#34;margin-bottom:0cm;line-height:normal;vertical-align:
+  baseline&#34;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+      </component>
+            <component>
+        <id>choice_ckzzgblh1006a266ekm91i0lw</id>
+        <description lang="en-US">A - C - B - D</description>
+      </component>
+            <component>
+        <id>choice_ckzzgemny006c266e7bwpq4wj</id>
+        <description lang="en-US">D - B - C - A</description>
+      </component>
+            <component>
+        <id>choice_ckzzgeqvu006d266e2e9gh6mf</id>
+        <description lang="en-US">B - D - A - C</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://t73M4CoV774aso-jfztEy_9IoYnSHAIS_rise/wlefQXjrwE8aIeHJ6pPkmr_LybhtkNCS/ckzzgguc9006y266eck5yoip3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Beschreibung trifft auf den Begriff Pilaster zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzgguc90072266e1rmmnncb</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzgguc90071266ebxdld3nu</id>
+        <description lang="en-US">Oberer Abschluss einer S&amp;auml;ule</description>
+      </component>
+            <component>
+        <id>choice_ckzzgguc90072266e1rmmnncb</id>
+        <description lang="en-US">Flache Wandpfeiler mit Basis und Kapitell &amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckzzgguc90070266e06eh27fb</id>
+        <description lang="en-US">Waagerecht verlaufender, oft profilierter Wandstreifen</description>
+      </component>
+            <component>
+        <id>choice_ckzzghuj70079266ea5lhxikx</id>
+        <description lang="en-US">Senkrechter Wandpfeiler ohne Basis und Kapitell &amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://t73M4CoV774aso-jfztEy_9IoYnSHAIS_rise/wlefQXjrwE8aIeHJ6pPkmr_LybhtkNCS/ckzzgi9lj007a266eaekafr2c" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die in der Gestaltung verwendeten Begriffe hinsichtlich der Wirkung richtig zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzzgi9lj007b266e65eldi1a[.]target_ckzzgi9lj007b266e65eldi1a</correctResponsePattern>
+            <correctResponsePattern>source_ckzzgi9lj007c266ezhqfk36t[.]target_ckzzgi9lj007c266ezhqfk36t</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzzgi9lj007b266e65eldi1a</id>
+        <description lang="en-US">rustikal></description>
+      </component>
+            <component>
+        <id>source_ckzzgi9lj007c266ezhqfk36t</id>
+        <description lang="en-US">Modern></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzzgi9lj007b266e65eldi1a</id>
+            <description lang="en-US">ländlich schlicht oder gediegen, in der Regel einfach und grob</description>
+          </component>
+                  <component>
+            <id>target_ckzzgi9lj007c266ezhqfk36t</id>
+            <description lang="en-US">zeitgemäß, dem derzeitigen Trend entsprechend, fortschrittlich</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://t73M4CoV774aso-jfztEy_9IoYnSHAIS_rise/wlefQXjrwE8aIeHJ6pPkmr_LybhtkNCS/ckzzgj7pe007e266erc8h80rx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die in der Gestaltung verwendeten Begriffe hinsichtlich der Oberfl&amp;auml;che / Struktur richtig zu.&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzzgj7pe007f266e141bfbnc[.]target_ckzzgj7pe007f266e141bfbnc</correctResponsePattern>
+            <correctResponsePattern>source_ckzzgj7pe007g266ey9o9qgdj[.]target_ckzzgj7pe007g266ey9o9qgdj</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzzgj7pe007f266e141bfbnc</id>
+        <description lang="en-US">rustikal></description>
+      </component>
+            <component>
+        <id>source_ckzzgj7pe007g266ey9o9qgdj</id>
+        <description lang="en-US">modern></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzzgj7pe007f266e141bfbnc</id>
+            <description lang="en-US">grobe (starke) Strukturen</description>
+          </component>
+                  <component>
+            <id>target_ckzzgj7pe007g266ey9o9qgdj</id>
+            <description lang="en-US">glatte, meist glänzende Oberflächen</description>
+          </component>
+              </target>
+          </activity>
+            </activities>
+</tincan>

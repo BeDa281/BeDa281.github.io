@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://A2CK5P2dotlf8dauJd9dcjmaiRUQNcM-_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Stilkunde - Quiz 3</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://A2CK5P2dotlf8dauJd9dcjmaiRUQNcM-_rise/SMUrAXuG5xQCLD2j5xO73CodDWrlWHlf" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://A2CK5P2dotlf8dauJd9dcjmaiRUQNcM-_rise/SMUrAXuG5xQCLD2j5xO73CodDWrlWHlf/ckzzmhb6c000a266edmwrnhh2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie nennt man diese Wohnraumgestaltung?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzmhb6c000c266e2746mht8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzmhb6c000b266eni1vz9xz</id>
+        <description lang="en-US">Barock</description>
+      </component>
+            <component>
+        <id>choice_ckzzmhb6c000c266e2746mht8</id>
+        <description lang="en-US">Puristisch</description>
+      </component>
+            <component>
+        <id>choice_ckzzmhmjm000d266eip7ig6xw</id>
+        <description lang="en-US">Mediterran</description>
+      </component>
+            <component>
+        <id>choice_ckzzmhpvj000e266ern3o10mf</id>
+        <description lang="en-US">Rustikal</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://A2CK5P2dotlf8dauJd9dcjmaiRUQNcM-_rise/SMUrAXuG5xQCLD2j5xO73CodDWrlWHlf/ckzzmij0a000g266easovxxy0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Dieses Geb&amp;auml;ude ist einer bestimmten Stilrichtung zuzuordnen. Nennen Sie den Baustil dieses Geb&amp;auml;udes.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzmij0a000h266egoa50rh5</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzmij0a000h266egoa50rh5</id>
+        <description lang="en-US">Gotik</description>
+      </component>
+            <component>
+        <id>choice_ckzzmij0a000i266eepa1k7e7</id>
+        <description lang="en-US">Barock</description>
+      </component>
+            <component>
+        <id>choice_ckzzmjl23000k266ee4bv4b13</id>
+        <description lang="en-US">Renaissance</description>
+      </component>
+            <component>
+        <id>choice_ckzzmjoa7000l266e9m06ytji</id>
+        <description lang="en-US">Klassizismus</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://A2CK5P2dotlf8dauJd9dcjmaiRUQNcM-_rise/SMUrAXuG5xQCLD2j5xO73CodDWrlWHlf/ckzzmjw9b000m266ei49lr3ly" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zeigen Sie typische Merkmale der im Bild dargestellten Stilrichtung Gotik auf.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzmjw9b000n266el8hbmq3y</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzmjw9b000o266ebb3gycej</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzmjw9b000n266el8hbmq3y</id>
+        <description lang="en-US">Spitzbogen</description>
+      </component>
+            <component>
+        <id>choice_ckzzmjw9b000o266ebb3gycej</id>
+        <description lang="en-US">Spitzbogengew&amp;ouml;lbe</description>
+      </component>
+            <component>
+        <id>choice_ckzzml037001a266enax6ymkw</id>
+        <description lang="en-US">florale Muster</description>
+      </component>
+            <component>
+        <id>choice_ckzzml3kk001j266eurv6u6xq</id>
+        <description lang="en-US">Stockwerkabgrenzung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://A2CK5P2dotlf8dauJd9dcjmaiRUQNcM-_rise/SMUrAXuG5xQCLD2j5xO73CodDWrlWHlf/ckzzml5zz001q266eef6qb57g" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zeigen Sie typische Merkmale der im Bild dargestellten Stilrichtung Gotik auf.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzml5zz001r266emox505gh</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzml5zz001u266erbnp8oyb</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzml5zz001t266eg4tsnwxf</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzml5zz001r266emox505gh</id>
+        <description lang="en-US">Strebeb&amp;ouml;gen</description>
+      </component>
+            <component>
+        <id>choice_ckzzml5zz001t266eg4tsnwxf</id>
+        <description lang="en-US">Stabwerk</description>
+      </component>
+            <component>
+        <id>choice_ckzzml5zz001u266erbnp8oyb</id>
+        <description lang="en-US">Ma&amp;szlig;werk</description>
+      </component>
+            <component>
+        <id>choice_ckzzml5zz001s266eufhpjlmo</id>
+        <description lang="en-US">Rundb&amp;ouml;gen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://A2CK5P2dotlf8dauJd9dcjmaiRUQNcM-_rise/SMUrAXuG5xQCLD2j5xO73CodDWrlWHlf/ckzzmnghn005b266e1dxyn5fc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Beschreibung trifft auf den Begriff Serifen zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzmnrk5005e266effen21fs</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzmnghn005c266ef2z1tb1d</id>
+        <description lang="en-US">Senkrechter Wandpfeiler ohne Basis und Kapitell</description>
+      </component>
+            <component>
+        <id>choice_ckzzmnghn005d266e1ziq1zcj</id>
+        <description lang="en-US">Verschieden breite Linien</description>
+      </component>
+            <component>
+        <id>choice_ckzzmnrk5005e266effen21fs</id>
+        <description lang="en-US">F&amp;uuml;&amp;szlig;e, die einen Buchstabenstrich abschlie&amp;szlig;en</description>
+      </component>
+            <component>
+        <id>choice_ckzzmnwcc005f266ea8sgfgmb</id>
+        <description lang="en-US">Bauteile, die eine Fassade waagrecht gliedern</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://A2CK5P2dotlf8dauJd9dcjmaiRUQNcM-_rise/SMUrAXuG5xQCLD2j5xO73CodDWrlWHlf/ckzzmo5he005g266e3k4bh0te" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Bau- und Kunststile des 18. und 19. Jahrhunderts in die zeitlich richtige Reihenfolge von alt nach jung. </name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzzmo5he005h266e3qouh08v[.]target_ckzzmo5he005h266e3qouh08v</correctResponsePattern>
+            <correctResponsePattern>source_ckzzmo5he005i266eas0pfn0u[.]target_ckzzmo5he005i266eas0pfn0u</correctResponsePattern>
+            <correctResponsePattern>source_ckzzmo5he005j266e9fhrf8si[.]target_ckzzmo5he005j266e9fhrf8si</correctResponsePattern>
+            <correctResponsePattern>source_ckzzmp1i3005k266eg1nuy1gw[.]target_ckzzmp1i3005k266eg1nuy1gw</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzzmo5he005h266e3qouh08v</id>
+        <description lang="en-US">Klassizismus></description>
+      </component>
+            <component>
+        <id>source_ckzzmo5he005i266eas0pfn0u</id>
+        <description lang="en-US">Biedermeier></description>
+      </component>
+            <component>
+        <id>source_ckzzmo5he005j266e9fhrf8si</id>
+        <description lang="en-US">Historismus></description>
+      </component>
+            <component>
+        <id>source_ckzzmp1i3005k266eg1nuy1gw</id>
+        <description lang="en-US">Jugendstil></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzzmo5he005h266e3qouh08v</id>
+            <description lang="en-US">1 (alt)</description>
+          </component>
+                  <component>
+            <id>target_ckzzmo5he005i266eas0pfn0u</id>
+            <description lang="en-US">2</description>
+          </component>
+                  <component>
+            <id>target_ckzzmo5he005j266e9fhrf8si</id>
+            <description lang="en-US">3</description>
+          </component>
+                  <component>
+            <id>target_ckzzmp1i3005k266eg1nuy1gw</id>
+            <description lang="en-US">4 (jung)</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://A2CK5P2dotlf8dauJd9dcjmaiRUQNcM-_rise/SMUrAXuG5xQCLD2j5xO73CodDWrlWHlf/ckzzmscb2005l266eft5souwa" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Malertechniken den richtigen Beschreibungen zu</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzzmscb3005m266e5zyvs3fc[.]target_ckzzmscb3005m266e5zyvs3fc</correctResponsePattern>
+            <correctResponsePattern>source_ckzzmscb3005n266ecwxuzkpp[.]target_ckzzmscb3005n266ecwxuzkpp</correctResponsePattern>
+            <correctResponsePattern>source_ckzzmscb3005o266efs78osli[.]target_ckzzmscb3005o266efs78osli</correctResponsePattern>
+            <correctResponsePattern>source_ckzzmtorc005p266ewjds4bw8[.]target_ckzzmtorc005p266ewjds4bw8</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzzmscb3005m266e5zyvs3fc</id>
+        <description lang="en-US">Freskomalerei></description>
+      </component>
+            <component>
+        <id>source_ckzzmscb3005n266ecwxuzkpp</id>
+        <description lang="en-US">Patinierung></description>
+      </component>
+            <component>
+        <id>source_ckzzmscb3005o266efs78osli</id>
+        <description lang="en-US">Reißlack></description>
+      </component>
+            <component>
+        <id>source_ckzzmtorc005p266ewjds4bw8</id>
+        <description lang="en-US">Polimentvergoldung></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzzmscb3005m266e5zyvs3fc</id>
+            <description lang="en-US">angerührte Pigmente auf feuchten Kalkputz auftragen</description>
+          </component>
+                  <component>
+            <id>target_ckzzmscb3005n266ecwxuzkpp</id>
+            <description lang="en-US">künstliche Alterung durchführen</description>
+          </component>
+                  <component>
+            <id>target_ckzzmscb3005o266efs78osli</id>
+            <description lang="en-US">unterschiedliche Trockenspannung von Grund- und Decklack nutzen</description>
+          </component>
+                  <component>
+            <id>target_ckzzmtorc005p266ewjds4bw8</id>
+            <description lang="en-US">mit einem Achat auf Hochglanz polieren</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://A2CK5P2dotlf8dauJd9dcjmaiRUQNcM-_rise/SMUrAXuG5xQCLD2j5xO73CodDWrlWHlf/ckzzmuh90005q266e51vma03q" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche 4 Fachwerkbauteile finden Sie an diesem Geb&amp;auml;ude?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzmuh90005r266et3n149r8</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzmuh90005u266eoq1vrthj</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzmuh90005t266e8m2zr8uy</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzmw2mk0081266e6z6a41ey</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzmuh90005r266et3n149r8</id>
+        <description lang="en-US">Strebe</description>
+      </component>
+            <component>
+        <id>choice_ckzzmuh90005t266e8m2zr8uy</id>
+        <description lang="en-US">Br&amp;uuml;stungsriegel</description>
+      </component>
+            <component>
+        <id>choice_ckzzmuh90005u266eoq1vrthj</id>
+        <description lang="en-US">Eckpfosten, -st&amp;auml;nder</description>
+      </component>
+            <component>
+        <id>choice_ckzzmuh90005s266e66u35gex</id>
+        <description lang="en-US">Pilaster</description>
+      </component>
+            <component>
+        <id>choice_ckzzmw2mk0081266e6z6a41ey</id>
+        <description lang="en-US">St&amp;auml;nder</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://A2CK5P2dotlf8dauJd9dcjmaiRUQNcM-_rise/SMUrAXuG5xQCLD2j5xO73CodDWrlWHlf/ckzzmw58a008a266e78fdqgn0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche 4 Fachwerkbauteile finden Sie an diesem Geb&amp;auml;ude?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzmw58b008b266e370pha8x</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzmw58b008c266erwpyh3xk</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzmwlrg0097266eel9tmv9m</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzmwoyc009g266ezfahpsjo</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzmw58b008b266e370pha8x</id>
+        <description lang="en-US">Schwelle</description>
+      </component>
+            <component>
+        <id>choice_ckzzmw58b008c266erwpyh3xk</id>
+        <description lang="en-US">Sturzriegel</description>
+      </component>
+            <component>
+        <id>choice_ckzzmwlrg0097266eel9tmv9m</id>
+        <description lang="en-US">R&amp;auml;hm</description>
+      </component>
+            <component>
+        <id>choice_ckzzmwoyc009g266ezfahpsjo</id>
+        <description lang="en-US">Gefach</description>
+      </component>
+            <component>
+        <id>choice_ckzzmwum6009s266eig2fu67d</id>
+        <description lang="en-US">Kapitell</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://A2CK5P2dotlf8dauJd9dcjmaiRUQNcM-_rise/SMUrAXuG5xQCLD2j5xO73CodDWrlWHlf/ckzzmxxp300ck266eibyr8my6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Aufnahmen den 4 Kapitellarten zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzzmxxp400cl266etbif1f9u[.]target_ckzzmxxp400cl266etbif1f9u</correctResponsePattern>
+            <correctResponsePattern>source_ckzzmxxp400cm266eojtjxmal[.]target_ckzzmxxp400cm266eojtjxmal</correctResponsePattern>
+            <correctResponsePattern>source_ckzzmxxp400cn266e0a9b9doy[.]target_ckzzmxxp400cn266e0a9b9doy</correctResponsePattern>
+            <correctResponsePattern>source_ckzzmyx0i00cp266ey2cz4q9p[.]target_ckzzmyx0i00cp266ey2cz4q9p</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzzmxxp400cl266etbif1f9u</id>
+        <description lang="en-US">Korinth-Kapitell></description>
+      </component>
+            <component>
+        <id>source_ckzzmxxp400cm266eojtjxmal</id>
+        <description lang="en-US">Würfelkapitell></description>
+      </component>
+            <component>
+        <id>source_ckzzmxxp400cn266e0a9b9doy</id>
+        <description lang="en-US">Kompositkapitell></description>
+      </component>
+            <component>
+        <id>source_ckzzmyx0i00cp266ey2cz4q9p</id>
+        <description lang="en-US">Volutenkapitell></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzzmxxp400cl266etbif1f9u</id>
+            <description lang="en-US">a</description>
+          </component>
+                  <component>
+            <id>target_ckzzmxxp400cm266eojtjxmal</id>
+            <description lang="en-US">b</description>
+          </component>
+                  <component>
+            <id>target_ckzzmxxp400cn266e0a9b9doy</id>
+            <description lang="en-US">c</description>
+          </component>
+                  <component>
+            <id>target_ckzzmyx0i00cp266ey2cz4q9p</id>
+            <description lang="en-US">d</description>
+          </component>
+              </target>
+          </activity>
+            </activities>
+</tincan>

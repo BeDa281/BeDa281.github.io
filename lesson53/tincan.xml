@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://FOn98QKOctT17LoauDDtBwE-8zfuQFY6_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Form- und Schriftgestaltung - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://FOn98QKOctT17LoauDDtBwE-8zfuQFY6_rise/hxmLBwQK5jo0ycK7FLoloXpkK5NXUIuG" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://FOn98QKOctT17LoauDDtBwE-8zfuQFY6_rise/hxmLBwQK5jo0ycK7FLoloXpkK5NXUIuG/ckzqy4v4m000c266ed37m6lax" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Begriffe aus der Schriftgestaltung zu:</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzqy4v4m000d266est6bbtun[.]target_ckzqy4v4m000d266est6bbtun</correctResponsePattern>
+            <correctResponsePattern>source_ckzqy4v4m000e266evl3cy0w4[.]target_ckzqy4v4m000e266evl3cy0w4</correctResponsePattern>
+            <correctResponsePattern>source_ckzqy4v4m000f266e4d1s5d3l[.]target_ckzqy4v4m000f266e4d1s5d3l</correctResponsePattern>
+            <correctResponsePattern>source_ckzqy5fdi000g266ewbup50v7[.]target_ckzqy5fdi000g266ewbup50v7</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzqy4v4m000d266est6bbtun</id>
+        <description lang="en-US">Initiale   ></description>
+      </component>
+            <component>
+        <id>source_ckzqy4v4m000e266evl3cy0w4</id>
+        <description lang="en-US">Versalie ></description>
+      </component>
+            <component>
+        <id>source_ckzqy4v4m000f266e4d1s5d3l</id>
+        <description lang="en-US">Wechselstrich ></description>
+      </component>
+            <component>
+        <id>source_ckzqy5fdi000g266ewbup50v7</id>
+        <description lang="en-US">Grotesk ></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzqy4v4m000d266est6bbtun</id>
+            <description lang="en-US">Verzierter Anfangsbuchstabe</description>
+          </component>
+                  <component>
+            <id>target_ckzqy4v4m000e266evl3cy0w4</id>
+            <description lang="en-US">Großbuchstabe</description>
+          </component>
+                  <component>
+            <id>target_ckzqy4v4m000f266e4d1s5d3l</id>
+            <description lang="en-US">Unterschiedliche Breiten einzelner Buchstabenteile/-balken</description>
+          </component>
+                  <component>
+            <id>target_ckzqy5fdi000g266ewbup50v7</id>
+            <description lang="en-US">Serifenlose, klar lesbare Schrifttype</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://FOn98QKOctT17LoauDDtBwE-8zfuQFY6_rise/hxmLBwQK5jo0ycK7FLoloXpkK5NXUIuG/ckzqy8aia000p266e11ktsmds" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bringen Sie die abgebildeten Schrifttypen in die Reihenfolge Ihrer zeitlichen Entstehung.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzqy8aia000q266e1ij36ilt</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzqy8aia000q266e1ij36ilt</id>
+        <description lang="en-US">2 - 3 - 4 - 1</description>
+      </component>
+            <component>
+        <id>choice_ckzqy8aia000s266ehle67x9w</id>
+        <description lang="en-US">2 - 4 - 3 - 1</description>
+      </component>
+            <component>
+        <id>choice_ckzqy8aia000t266e6vh1dpny</id>
+        <description lang="en-US">1 - 4 - 2 -3 </description>
+      </component>
+            <component>
+        <id>choice_ckzqy8aia000r266e3forrzhc</id>
+        <description lang="en-US">3 - 2 - 1 - 4</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOn98QKOctT17LoauDDtBwE-8zfuQFY6_rise/hxmLBwQK5jo0ycK7FLoloXpkK5NXUIuG/ckzqyk9i6004e266eeujs2qq4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Erl&amp;auml;utern Sie folgenden Begriff aus dem Bereich der Schriftgestaltung: Unterl&amp;auml;nge</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzqyk9i6004f266e5qm9zhq3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzqyk9i6004f266e5qm9zhq3</id>
+        <description lang="en-US">Teil des Buchstabenk&amp;ouml;rpers, welcher nach unten verl&amp;auml;ngert ist</description>
+      </component>
+            <component>
+        <id>choice_ckzqyk9i6004g266e0ddch2jc</id>
+        <description lang="en-US">Schm&amp;uuml;ckende und/oder betonende Endung von Buchstaben</description>
+      </component>
+            <component>
+        <id>choice_ckzqykl0u004h266eft7uh7db</id>
+        <description lang="en-US">Schr&amp;auml;g gestellte Buchstaben</description>
+      </component>
+            <component>
+        <id>choice_ckzqyknh3004i266e8j2tq15q</id>
+        <description lang="en-US">Buchstabenabst&amp;auml;nde ausgleichen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOn98QKOctT17LoauDDtBwE-8zfuQFY6_rise/hxmLBwQK5jo0ycK7FLoloXpkK5NXUIuG/ckzqyl3yx004j266e9hmsndv6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Erl&amp;auml;utern Sie folgenden Begriff aus dem Bereich der Schriftgestaltung: Serifen</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzqyl3yx004l266eeok4vypt</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzqyl3yx004k266e0kwoczdu</id>
+        <description lang="en-US">Teil des Buchstabenk&amp;ouml;rpers, welcher nach unten verl&amp;auml;ngert ist</description>
+      </component>
+            <component>
+        <id>choice_ckzqyl3yx004l266eeok4vypt</id>
+        <description lang="en-US">Schm&amp;uuml;ckende und/oder betonende Endung von Buchstaben</description>
+      </component>
+            <component>
+        <id>choice_ckzzdytv40008266enc52jmf1</id>
+        <description lang="en-US">Schr&amp;auml;g gestellte Buchstaben</description>
+      </component>
+            <component>
+        <id>choice_ckzzdyx840009266eou8aa0fr</id>
+        <description lang="en-US">Buchstabenabst&amp;auml;nde ausgleichen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOn98QKOctT17LoauDDtBwE-8zfuQFY6_rise/hxmLBwQK5jo0ycK7FLoloXpkK5NXUIuG/ckzzdzawc000a266esqaca66w" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Erl&amp;auml;utern Sie folgenden Begriff aus dem Bereich der Schriftgestaltung: Kursiv</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzze0a1y000d266euxmjciq0</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzdzawc000b266ebhu7af1n</id>
+        <description lang="en-US">Teil des Buchstabenk&amp;ouml;rpers, welcher nach unten verl&amp;auml;ngert ist</description>
+      </component>
+            <component>
+        <id>choice_ckzzdzawc000c266es4h1fty3</id>
+        <description lang="en-US">Schm&amp;uuml;ckende und/oder betonende Endung von Buchstaben</description>
+      </component>
+            <component>
+        <id>choice_ckzze0a1y000d266euxmjciq0</id>
+        <description lang="en-US">Schr&amp;auml;g gestellte Buchstaben</description>
+      </component>
+            <component>
+        <id>choice_ckzze0djr000e266ek43mo4sw</id>
+        <description lang="en-US">Buchstabenabst&amp;auml;nde ausgleichen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOn98QKOctT17LoauDDtBwE-8zfuQFY6_rise/hxmLBwQK5jo0ycK7FLoloXpkK5NXUIuG/ckzze18ge000k266e9sscsex5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Erl&amp;auml;utern Sie folgenden Begriff aus dem Bereich der Schriftgestaltung: Spationieren</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzze1s21000o266ef3kjabv6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzze18ge000l266enr4ck390</id>
+        <description lang="en-US">Teil des Buchstabenk&amp;ouml;rpers, welcher nach unten verl&amp;auml;ngert ist</description>
+      </component>
+            <component>
+        <id>choice_ckzze18ge000m266e4na1xtze</id>
+        <description lang="en-US">Schm&amp;uuml;ckende und/oder betonende Endung von Buchstaben&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckzze1om9000n266e5jyvfy91</id>
+        <description lang="en-US">Schr&amp;auml;g gestellte Buchstaben</description>
+      </component>
+            <component>
+        <id>choice_ckzze1s21000o266ef3kjabv6</id>
+        <description lang="en-US">Buchstabenabst&amp;auml;nde ausgleichen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOn98QKOctT17LoauDDtBwE-8zfuQFY6_rise/hxmLBwQK5jo0ycK7FLoloXpkK5NXUIuG/ckzzf0wce000p266ersztod46" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r die Beschriftung des Restaurantes im Erdgeschoss des Neubaus schlagen Sie die abgebildete Schrift vor. Wie lautet die Schriftgruppe, der die abgebildete Schrift zuzuordnen ist?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzf0wcf000q266eqean6fev</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzf0wcf000q266eqean6fev</id>
+        <description lang="en-US">Renaissance Antiqua</description>
+      </component>
+            <component>
+        <id>choice_ckzzf0wcf000r266elymw3yky</id>
+        <description lang="en-US">Rundgotisch</description>
+      </component>
+            <component>
+        <id>choice_ckzzf2c7n000t266ezth7m6te</id>
+        <description lang="en-US">&amp;nbsp;Schwabacher</description>
+      </component>
+            <component>
+        <id>choice_ckzzf2gkz000u266en6wfz0zz</id>
+        <description lang="en-US">Serifenlose Linear-Antiqua</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOn98QKOctT17LoauDDtBwE-8zfuQFY6_rise/hxmLBwQK5jo0ycK7FLoloXpkK5NXUIuG/ckzzf6i3s0010266eg9ud1urf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Um welche Schriftart handelt es sich bei dem dargestellten Wort?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzf6i3s0011266ed7qivrvi</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzf6i3s0011266ed7qivrvi</id>
+        <description lang="en-US">Groteske</description>
+      </component>
+            <component>
+        <id>choice_ckzzf6i3s0012266ep9duie9g</id>
+        <description lang="en-US">Antiqua</description>
+      </component>
+            <component>
+        <id>choice_ckzzf71h40013266eo9kd1lx0</id>
+        <description lang="en-US">Unziale</description>
+      </component>
+            <component>
+        <id>choice_ckzzf748x0014266ebx44zno3</id>
+        <description lang="en-US">Fraktur</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOn98QKOctT17LoauDDtBwE-8zfuQFY6_rise/hxmLBwQK5jo0ycK7FLoloXpkK5NXUIuG/ckzzf7js20016266eviymvf2q" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Um welche Schriftart handelt es sich bei dem dargestellten Wort?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzf8me9001a266e1mvkabr9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzf7js20017266efyrgtp0e</id>
+        <description lang="en-US">Fraktur</description>
+      </component>
+            <component>
+        <id>choice_ckzzf7js20018266etrdq9hjb</id>
+        <description lang="en-US">Unziale&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckzzf8me9001a266e1mvkabr9</id>
+        <description lang="en-US">Antiqua </description>
+      </component>
+            <component>
+        <id>choice_ckzzf90ff001b266eqoznjrwq</id>
+        <description lang="en-US">Groteske</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOn98QKOctT17LoauDDtBwE-8zfuQFY6_rise/hxmLBwQK5jo0ycK7FLoloXpkK5NXUIuG/ckzzf9fsp001c266e1v0zd8up" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was wird unter einer &amp;bdquo;Minuskel&amp;ldquo; verstanden? Welche Bezeichnung gibt es noch?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzf9fsp001d266e8ppael4e</id>
+        <description lang="en-US">Minuskeln sind Gro&amp;szlig;buchstaben, sie werden auch &amp;bdquo;Gemeine&amp;ldquo; genannt.</description>
+      </component>
+            <component>
+        <id>choice_ckzzf9fsp001f266ersl6jmp3</id>
+        <description lang="en-US">Minuskeln sind Kleinbuchstaben, sie werden immer mit Serifen geschrieben.</description>
+      </component>
+            <component>
+        <id>choice_ckzzf9fsp001g266e3tbfeqr4</id>
+        <description lang="en-US">Minuskeln sind schwungvolle Verzierungen an Buchstaben, sie werden auch &amp;bdquo;Duktus genannt&amp;ldquo;.</description>
+      </component>
+            <component>
+        <id>choice_ckzzf9fsp001e266eexom9clw</id>
+        <description lang="en-US">Minuskeln sind Kleinbuchstaben, sie werden auch &amp;bdquo;Gemeine&amp;ldquo; genannt.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

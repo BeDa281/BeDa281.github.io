@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://UwN3E4hTsRJQv-yRPK1tdNv1IDXpXXQJ_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Stilkunde - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://UwN3E4hTsRJQv-yRPK1tdNv1IDXpXXQJ_rise/wN3BNynj0ugEYA0ZmfDL9fzSRtJr8H5I" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://UwN3E4hTsRJQv-yRPK1tdNv1IDXpXXQJ_rise/wN3BNynj0ugEYA0ZmfDL9fzSRtJr8H5I/ckzzgmq7v0003266eqabtcne0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie nennt man diese Darstellungsart?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzgmq7v0004266e9wxqti7o</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzgmq7v0004266e9wxqti7o</id>
+        <description lang="en-US">Isometrie&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckzzgmq7v0005266e7m6irwuw</id>
+        <description lang="en-US">Drei-Tafel-Projektion&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckzzgneez0007266efn5thf52</id>
+        <description lang="en-US">Zentralperspektive&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckzzgnhne0008266e6p1m3xgp</id>
+        <description lang="en-US">Vogelperspektive</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://UwN3E4hTsRJQv-yRPK1tdNv1IDXpXXQJ_rise/wN3BNynj0ugEYA0ZmfDL9fzSRtJr8H5I/ckzzgnjjg0009266eg0o8o3e9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nennen Sie die Stilepoche, der dieses Geb&amp;auml;ude zuzuordnen ist.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzgnjjg000a266ewmwxoq9h</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzgnjjg000a266ewmwxoq9h</id>
+        <description lang="en-US">Renessaince</description>
+      </component>
+            <component>
+        <id>choice_ckzzgnjjg000b266eivk2ltd2</id>
+        <description lang="en-US">Barock</description>
+      </component>
+            <component>
+        <id>choice_ckzzgoe71000d266eo2fqfra0</id>
+        <description lang="en-US">Klassizissmus</description>
+      </component>
+            <component>
+        <id>choice_ckzzgoh2h000e266exxezdf5s</id>
+        <description lang="en-US">Jugendstil</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://UwN3E4hTsRJQv-yRPK1tdNv1IDXpXXQJ_rise/wN3BNynj0ugEYA0ZmfDL9fzSRtJr8H5I/ckzzgp4t2000f266et0sddls9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie typische Merkmale des Baustils dieser Epoche zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzgp4t3000g266enbzew6x3</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzgp4t3000i266epj0zqfxw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzgp4t3000g266enbzew6x3</id>
+        <description lang="en-US">Waagerechte betonende Bauteile (Gesimse)</description>
+      </component>
+            <component>
+        <id>choice_ckzzgp4t3000i266epj0zqfxw</id>
+        <description lang="en-US">verzierter Stufengiebel</description>
+      </component>
+            <component>
+        <id>choice_ckzzgp4t3000j266eeosdhl9w</id>
+        <description lang="en-US">Kreuzgratgew&amp;ouml;lbe</description>
+      </component>
+            <component>
+        <id>choice_ckzzgp4t3000h266ecoua8v38</id>
+        <description lang="en-US">Giebel und Fenster mit reichem Schmuck</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://UwN3E4hTsRJQv-yRPK1tdNv1IDXpXXQJ_rise/wN3BNynj0ugEYA0ZmfDL9fzSRtJr8H5I/ckzzgpuwi001u266e7z7if1dl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie typische Merkmale des Baustils dieser Epoche zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzgpuwj001v266e8kg4kye6</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzgpuwj001y266eao3s0obe</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzgpuwj001x266ehoa5i60d</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzgpuwj001v266e8kg4kye6</id>
+        <description lang="en-US">antike S&amp;auml;ulenordnung</description>
+      </component>
+            <component>
+        <id>choice_ckzzgpuwj001x266ehoa5i60d</id>
+        <description lang="en-US">Tonnengew&amp;ouml;lbe</description>
+      </component>
+            <component>
+        <id>choice_ckzzgpuwj001y266eao3s0obe</id>
+        <description lang="en-US">Kassettendecke</description>
+      </component>
+            <component>
+        <id>choice_ckzzgpuwj001w266ea4wv6ye5</id>
+        <description lang="en-US">Farbigkeit und Vergoldungen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://UwN3E4hTsRJQv-yRPK1tdNv1IDXpXXQJ_rise/wN3BNynj0ugEYA0ZmfDL9fzSRtJr8H5I/ckzzgrd5m0043266en5mudcnv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welcher Architekturbegriff bezeichnet diese Art des offenen Durchgangs an Geb&amp;auml;uden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzgs4os0047266e9pckjauj</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzgrd5n0044266eti7j97nc</id>
+        <description lang="en-US">S&amp;auml;ulengang</description>
+      </component>
+            <component>
+        <id>choice_ckzzgrd5n0045266es4ppcy1o</id>
+        <description lang="en-US">Bogengew&amp;ouml;lbe&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckzzgs1cj0046266ebk166fsl</id>
+        <description lang="en-US">Loggia</description>
+      </component>
+            <component>
+        <id>choice_ckzzgs4os0047266e9pckjauj</id>
+        <description lang="en-US">Arkaden</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://UwN3E4hTsRJQv-yRPK1tdNv1IDXpXXQJ_rise/wN3BNynj0ugEYA0ZmfDL9fzSRtJr8H5I/ckzzgsrjm004e266enhd4u807" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Beschreibung trifft auf den Begriff &lt;strong&gt;Fries &lt;/strong&gt;zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzgsrjn004g266etizj82l8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzgsrjn004f266etnbep5v6</id>
+        <description lang="en-US">Eine senkrechte Teilung auf einer Fassade</description>
+      </component>
+            <component>
+        <id>choice_ckzzgsrjn004g266etizj82l8</id>
+        <description lang="en-US">Ein glattes oder plastisches Zierband an W&amp;auml;nden oder Decken</description>
+      </component>
+            <component>
+        <id>choice_ckzzgtays004h266ekyy6tjn4</id>
+        <description lang="en-US">Ein flach aus der Wand hervorspringender Pfeiler mit Basis, Schaft und Kapitell</description>
+      </component>
+            <component>
+        <id>choice_ckzzgtf14004i266euafpsz2m</id>
+        <description lang="en-US">Ein waagerechtes, vorspringendes Bauteil a einer Fassade</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://UwN3E4hTsRJQv-yRPK1tdNv1IDXpXXQJ_rise/wN3BNynj0ugEYA0ZmfDL9fzSRtJr8H5I/ckzzgv8hh004t266emrf3zunz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Im Laufe der Zeit wurden Fenster mit verschiedenen Bauformen bekr&amp;ouml;nt. Um welche beiden Formen handelt es sich hier?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzgv8hh004u266e6bfumsld</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzgv8hh004w266e7aqg5b6g</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzgv8hh004u266e6bfumsld</id>
+        <description lang="en-US">Segmentgiebel</description>
+      </component>
+            <component>
+        <id>choice_ckzzgv8hh004w266e7aqg5b6g</id>
+        <description lang="en-US">Wellengiebel</description>
+      </component>
+            <component>
+        <id>choice_ckzzgv8hh004x266er3ps5jg0</id>
+        <description lang="en-US">Sprenggiebel</description>
+      </component>
+            <component>
+        <id>choice_ckzzgv8hh004v266en826btd4</id>
+        <description lang="en-US">Dreiecksgiebel</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://UwN3E4hTsRJQv-yRPK1tdNv1IDXpXXQJ_rise/wN3BNynj0ugEYA0ZmfDL9fzSRtJr8H5I/ckzzgwmh7007p266e296tieb4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Im Laufe der Zeit wurden Fenster mit verschiedenen Bauformen bekr&amp;ouml;nt. Um welche beiden Formen handelt es sich hier?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzgwmh7007r266ecd6oz94d</correctResponsePattern>
+            <correctResponsePattern>choice_ckzzgwmh7007t266ej02b43mj</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzgwmh7007q266evosmixx1</id>
+        <description lang="en-US">Segmentgiebel</description>
+      </component>
+            <component>
+        <id>choice_ckzzgwmh7007s266equjhwghe</id>
+        <description lang="en-US">Wellengiebel</description>
+      </component>
+            <component>
+        <id>choice_ckzzgwmh7007t266ej02b43mj</id>
+        <description lang="en-US">Sprenggiebel</description>
+      </component>
+            <component>
+        <id>choice_ckzzgwmh7007r266ecd6oz94d</id>
+        <description lang="en-US">Dreiecksgiebel</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://UwN3E4hTsRJQv-yRPK1tdNv1IDXpXXQJ_rise/wN3BNynj0ugEYA0ZmfDL9fzSRtJr8H5I/ckzzgy5hf009h266eljg5cs0r" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die genannten Bauteile bzw. Gestaltungselemente und die jeweilig typische Epoche zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzzgy5hg009i266ewihnen5g[.]target_ckzzgy5hg009i266ewihnen5g</correctResponsePattern>
+            <correctResponsePattern>source_ckzzgy5hg009j266ezi4hc7p1[.]target_ckzzgy5hg009j266ezi4hc7p1</correctResponsePattern>
+            <correctResponsePattern>source_ckzzgy5hg009k266eb80pfix2[.]target_ckzzgy5hg009k266eb80pfix2</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzzgy5hg009i266ewihnen5g</id>
+        <description lang="en-US">Strebebögen></description>
+      </component>
+            <component>
+        <id>source_ckzzgy5hg009j266ezi4hc7p1</id>
+        <description lang="en-US">Ochsenauge></description>
+      </component>
+            <component>
+        <id>source_ckzzgy5hg009k266eb80pfix2</id>
+        <description lang="en-US">Rocaille-Form></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzzgy5hg009i266ewihnen5g</id>
+            <description lang="en-US">Gotik - Kraft/Druck ableitende Bauteile</description>
+          </component>
+                  <component>
+            <id>target_ckzzgy5hg009j266ezi4hc7p1</id>
+            <description lang="en-US">Barock, Jugendstil - senkrechtes, waagrechtes, ovales Fenster</description>
+          </component>
+                  <component>
+            <id>target_ckzzgy5hg009k266eb80pfix2</id>
+            <description lang="en-US">Rokoko - muschelförmiges Ornament </description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://UwN3E4hTsRJQv-yRPK1tdNv1IDXpXXQJ_rise/wN3BNynj0ugEYA0ZmfDL9fzSRtJr8H5I/ckzzh0h2s009l266e9mtpic72" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die nachfolgenden Friese richtig zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzzh0h2t009m266e2p9qu5u3[.]target_ckzzh0h2t009m266e2p9qu5u3</correctResponsePattern>
+            <correctResponsePattern>source_ckzzh0h2t009n266ebwrmmn5k[.]target_ckzzh0h2t009n266ebwrmmn5k</correctResponsePattern>
+            <correctResponsePattern>source_ckzzh0h2t009o266e7xyc61jk[.]target_ckzzh0h2t009o266e7xyc61jk</correctResponsePattern>
+            <correctResponsePattern>source_ckzzh27ov009q266emrlzq61v[.]target_ckzzh27ov009q266emrlzq61v</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzzh0h2t009m266e2p9qu5u3</id>
+        <description lang="en-US">Mäander></description>
+      </component>
+            <component>
+        <id>source_ckzzh0h2t009n266ebwrmmn5k</id>
+        <description lang="en-US">Kreuzbogenfries ></description>
+      </component>
+            <component>
+        <id>source_ckzzh0h2t009o266e7xyc61jk</id>
+        <description lang="en-US">Eierstab mit Zahnfries></description>
+      </component>
+            <component>
+        <id>source_ckzzh27ov009q266emrlzq61v</id>
+        <description lang="en-US">Zickzackfries></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzzh0h2t009m266e2p9qu5u3</id>
+            <description lang="en-US">1</description>
+          </component>
+                  <component>
+            <id>target_ckzzh0h2t009n266ebwrmmn5k</id>
+            <description lang="en-US">2</description>
+          </component>
+                  <component>
+            <id>target_ckzzh0h2t009o266e7xyc61jk</id>
+            <description lang="en-US">3</description>
+          </component>
+                  <component>
+            <id>target_ckzzh27ov009q266emrlzq61v</id>
+            <description lang="en-US">4</description>
+          </component>
+              </target>
+          </activity>
+            </activities>
+</tincan>

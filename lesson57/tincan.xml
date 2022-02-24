@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://to5uqCkY9xe006Ye8x4OpT7TdpjIHAcm_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Stilkunde - Quiz 4</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://to5uqCkY9xe006Ye8x4OpT7TdpjIHAcm_rise/M-7JOC399eBlqCCdrIbfVM7XGmvFXoKB" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://to5uqCkY9xe006Ye8x4OpT7TdpjIHAcm_rise/M-7JOC399eBlqCCdrIbfVM7XGmvFXoKB/ckzzn4f60000b266ehh6hoyv8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die genannten Bauteile bzw. Gestaltungselemente zu und ordnen Sie&lt;br&gt;diesen die jeweils typische Epoche zu:</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzzn4f60000c266e0pgif0h2[.]target_ckzzn4f60000c266e0pgif0h2</correctResponsePattern>
+            <correctResponsePattern>source_ckzzn4f60000d266e7i0t0exz[.]target_ckzzn4f60000d266e7i0t0exz</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzzn4f60000c266e0pgif0h2</id>
+        <description lang="en-US">Kartusche></description>
+      </component>
+            <component>
+        <id>source_ckzzn4f60000d266e7i0t0exz</id>
+        <description lang="en-US">Pass></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzzn4f60000c266e0pgif0h2</id>
+            <description lang="en-US">Zierrahmen (z.B. um Wappen) - Renaissance, Barock</description>
+          </component>
+                  <component>
+            <id>target_ckzzn4f60000d266e7i0t0exz</id>
+            <description lang="en-US">Kreisteil des Maßwerks - Gotik</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://to5uqCkY9xe006Ye8x4OpT7TdpjIHAcm_rise/M-7JOC399eBlqCCdrIbfVM7XGmvFXoKB/ckzzn6ppe000f266e6ius48na" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welchem Baustil ist diese Innenraumausgestaltung zuzuordnen? &amp;nbsp; &amp;nbsp;&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzn87yo000j266ew2frsu14</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzn6ppe000g266e8mqbnbz9</id>
+        <description lang="en-US">Barok</description>
+      </component>
+            <component>
+        <id>choice_ckzzn6ppe000h266e4i8u25bz</id>
+        <description lang="en-US">Gotik</description>
+      </component>
+            <component>
+        <id>choice_ckzzn7hgm000i266emgi1nacc</id>
+        <description lang="en-US">Romantik</description>
+      </component>
+            <component>
+        <id>choice_ckzzn87yo000j266ew2frsu14</id>
+        <description lang="en-US">Renaissance</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://to5uqCkY9xe006Ye8x4OpT7TdpjIHAcm_rise/M-7JOC399eBlqCCdrIbfVM7XGmvFXoKB/ckzzn8oiv000l266eros05rbw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Beschreibung trifft auf den Begriff Architrav zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzzn8oiv000m266ep72vf1qh</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzzn8oiv000m266ep72vf1qh</id>
+        <description lang="en-US">Ein waagerecht auf S&amp;auml;ulen aufliegender Balken in der antiken Baukunst</description>
+      </component>
+            <component>
+        <id>choice_ckzzn8oiv000n266et26g0gzb</id>
+        <description lang="en-US">Eine fortlaufende Reihe von B&amp;ouml;gen</description>
+      </component>
+            <component>
+        <id>choice_ckzzn94k6000o266evnn1i1yc</id>
+        <description lang="en-US">Ein Fries an einer Fassade</description>
+      </component>
+            <component>
+        <id>choice_ckzzn98kt000p266e68dkiice</id>
+        <description lang="en-US">Ein senkrechter Wandpfeiler</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://to5uqCkY9xe006Ye8x4OpT7TdpjIHAcm_rise/M-7JOC399eBlqCCdrIbfVM7XGmvFXoKB/ckzzn9jl5000q266ec95lds8y" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Bau- und Kunststile der vergangenen Jahrhunderte in die zeitlich&amp;nbsp;richtige Reihenfolge von jung nach alt. </name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzzn9jl5000r266eqq6b06ly[.]target_ckzzn9jl5000r266eqq6b06ly</correctResponsePattern>
+            <correctResponsePattern>source_ckzzn9jl5000s266e5gu9ani1[.]target_ckzzn9jl5000s266e5gu9ani1</correctResponsePattern>
+            <correctResponsePattern>source_ckzzn9jl5000t266eccvef6h1[.]target_ckzzn9jl5000t266eccvef6h1</correctResponsePattern>
+            <correctResponsePattern>source_ckzzn9xrk000u266e62wm6wt5[.]target_ckzzn9xrk000u266e62wm6wt5</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzzn9jl5000r266eqq6b06ly</id>
+        <description lang="en-US">Bauhaus></description>
+      </component>
+            <component>
+        <id>source_ckzzn9jl5000s266e5gu9ani1</id>
+        <description lang="en-US">Jugendstil></description>
+      </component>
+            <component>
+        <id>source_ckzzn9jl5000t266eccvef6h1</id>
+        <description lang="en-US">Klassizismus></description>
+      </component>
+            <component>
+        <id>source_ckzzn9xrk000u266e62wm6wt5</id>
+        <description lang="en-US">Rokoko></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzzn9jl5000r266eqq6b06ly</id>
+            <description lang="en-US">1 (jung)</description>
+          </component>
+                  <component>
+            <id>target_ckzzn9jl5000s266e5gu9ani1</id>
+            <description lang="en-US">2</description>
+          </component>
+                  <component>
+            <id>target_ckzzn9jl5000t266eccvef6h1</id>
+            <description lang="en-US">3</description>
+          </component>
+                  <component>
+            <id>target_ckzzn9xrk000u266e62wm6wt5</id>
+            <description lang="en-US">4 (alt)</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://to5uqCkY9xe006Ye8x4OpT7TdpjIHAcm_rise/M-7JOC399eBlqCCdrIbfVM7XGmvFXoKB/ckzzncorm000v266ecyhw53g1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Fenstergestaltungen/Fensterformen den Stilrichtungen zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzzncorm000w266ewxvzeye3[.]target_ckzzncorm000w266ewxvzeye3</correctResponsePattern>
+            <correctResponsePattern>source_ckzzncorm000x266eb69xmz5j[.]target_ckzzncorm000x266eb69xmz5j</correctResponsePattern>
+            <correctResponsePattern>source_ckzzncorm000y266e02zem8jf[.]target_ckzzncorm000y266e02zem8jf</correctResponsePattern>
+            <correctResponsePattern>source_ckzznd9v7000z266elub484e5[.]target_ckzznd9v7000z266elub484e5</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzzncorm000w266ewxvzeye3</id>
+        <description lang="en-US">Rokoko></description>
+      </component>
+            <component>
+        <id>source_ckzzncorm000x266eb69xmz5j</id>
+        <description lang="en-US">Gotik></description>
+      </component>
+            <component>
+        <id>source_ckzzncorm000y266e02zem8jf</id>
+        <description lang="en-US">Bauhaus></description>
+      </component>
+            <component>
+        <id>source_ckzznd9v7000z266elub484e5</id>
+        <description lang="en-US">Jugendstil></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzzncorm000w266ewxvzeye3</id>
+            <description lang="en-US">a</description>
+          </component>
+                  <component>
+            <id>target_ckzzncorm000x266eb69xmz5j</id>
+            <description lang="en-US">b</description>
+          </component>
+                  <component>
+            <id>target_ckzzncorm000y266e02zem8jf</id>
+            <description lang="en-US">c</description>
+          </component>
+                  <component>
+            <id>target_ckzznd9v7000z266elub484e5</id>
+            <description lang="en-US">d</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://to5uqCkY9xe006Ye8x4OpT7TdpjIHAcm_rise/M-7JOC399eBlqCCdrIbfVM7XGmvFXoKB/ckzznecud001g266eunv9cl22" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die genannten Bauteile bzw. Gestaltungselemente richtig zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzznecud001h266e1vw9f2ni[.]target_ckzznecud001h266e1vw9f2ni</correctResponsePattern>
+            <correctResponsePattern>source_ckzznecud001i266ehhzo91dj[.]target_ckzznecud001i266ehhzo91dj</correctResponsePattern>
+            <correctResponsePattern>source_ckzznecud001j266ei7ncbsqp[.]target_ckzznecud001j266ei7ncbsqp</correctResponsePattern>
+            <correctResponsePattern>source_ckzznetyi001k266ez2m82mr7[.]target_ckzznetyi001k266ez2m82mr7</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzznecud001h266e1vw9f2ni</id>
+        <description lang="en-US">Strebebogen></description>
+      </component>
+            <component>
+        <id>source_ckzznecud001i266ehhzo91dj</id>
+        <description lang="en-US">Pilaster></description>
+      </component>
+            <component>
+        <id>source_ckzznecud001j266ei7ncbsqp</id>
+        <description lang="en-US">Kämpfer bei Fenstern></description>
+      </component>
+            <component>
+        <id>source_ckzznetyi001k266ez2m82mr7</id>
+        <description lang="en-US">Erker></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzznecud001h266e1vw9f2ni</id>
+            <description lang="en-US">stützt Außenwände in der Gotik, um Kräfte abzuleiten</description>
+          </component>
+                  <component>
+            <id>target_ckzznecud001i266ehhzo91dj</id>
+            <description lang="en-US">ein in den Mauerverbund eingearbeiteter Teilpfeiler</description>
+          </component>
+                  <component>
+            <id>target_ckzznecud001j266ei7ncbsqp</id>
+            <description lang="en-US">waagerechter Riegel, der untere Anschlag beim Oberlicht</description>
+          </component>
+                  <component>
+            <id>target_ckzznetyi001k266ez2m82mr7</id>
+            <description lang="en-US">geschlossener überdachter Vorbau an einer Außenwand</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://to5uqCkY9xe006Ye8x4OpT7TdpjIHAcm_rise/M-7JOC399eBlqCCdrIbfVM7XGmvFXoKB/ckzznfyca001l266eqneet0iq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welchem Baustil ist diese Innenraumgestaltung zuzuordnen?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzznfycb001o266ettktzzht</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzznfycb001m266e77e2i14n</id>
+        <description lang="en-US">Romantik</description>
+      </component>
+            <component>
+        <id>choice_ckzznfycb001o266ettktzzht</id>
+        <description lang="en-US">Gotik</description>
+      </component>
+            <component>
+        <id>choice_ckzznfycb001p266ehffnjqwp</id>
+        <description lang="en-US">Renaissance</description>
+      </component>
+            <component>
+        <id>choice_ckzznfycb001n266epqa1pso7</id>
+        <description lang="en-US">Klassizismus</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://to5uqCkY9xe006Ye8x4OpT7TdpjIHAcm_rise/M-7JOC399eBlqCCdrIbfVM7XGmvFXoKB/ckzznhb5x002b266ealpdc9js" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Beschreibung trifft auf den Begriff Lisene zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzznhb5y002d266eaymmkrua</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzznhb5y002c266e9dk790d7</id>
+        <description lang="en-US">Der Fu&amp;szlig;bereich eines Pfeilers</description>
+      </component>
+            <component>
+        <id>choice_ckzznhb5y002e266edr3vajwj</id>
+        <description lang="en-US">Ein horizontales Bauglied, das aus der Fassade hervorragt</description>
+      </component>
+            <component>
+        <id>choice_ckzznhb5y002f266eox6xcnjw</id>
+        <description lang="en-US">Ein waagerechtes, glattes Band an Fassaden</description>
+      </component>
+            <component>
+        <id>choice_ckzznhb5y002d266eaymmkrua</id>
+        <description lang="en-US">Eine schmale, leicht hervortretende vertikale Verst&amp;auml;rkung der Wand</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://to5uqCkY9xe006Ye8x4OpT7TdpjIHAcm_rise/M-7JOC399eBlqCCdrIbfVM7XGmvFXoKB/ckzzni63l002m266eoz0gt68g" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Bau- und Kunststile der vergangenen Jahrhunderte in die zeitlich&amp;nbsp;richtige Reihenfolge von jung nach alt.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_ckzzni63l002n266ekmcpllnr[.]target_ckzzni63l002n266ekmcpllnr</correctResponsePattern>
+            <correctResponsePattern>source_ckzzni63l002o266e1qmksfny[.]target_ckzzni63l002o266e1qmksfny</correctResponsePattern>
+            <correctResponsePattern>source_ckzzni63l002p266e3rju5y9y[.]target_ckzzni63l002p266e3rju5y9y</correctResponsePattern>
+            <correctResponsePattern>source_ckzznjbce002q266ezukwys0r[.]target_ckzznjbce002q266ezukwys0r</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_ckzzni63l002n266ekmcpllnr</id>
+        <description lang="en-US">Romantik></description>
+      </component>
+            <component>
+        <id>source_ckzzni63l002o266e1qmksfny</id>
+        <description lang="en-US">Gotik></description>
+      </component>
+            <component>
+        <id>source_ckzzni63l002p266e3rju5y9y</id>
+        <description lang="en-US">Renaissance></description>
+      </component>
+            <component>
+        <id>source_ckzznjbce002q266ezukwys0r</id>
+        <description lang="en-US">Barock></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_ckzzni63l002n266ekmcpllnr</id>
+            <description lang="en-US">1 (jung)</description>
+          </component>
+                  <component>
+            <id>target_ckzzni63l002o266e1qmksfny</id>
+            <description lang="en-US">2</description>
+          </component>
+                  <component>
+            <id>target_ckzzni63l002p266e3rju5y9y</id>
+            <description lang="en-US">3</description>
+          </component>
+                  <component>
+            <id>target_ckzznjbce002q266ezukwys0r</id>
+            <description lang="en-US">4 (alt)</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://to5uqCkY9xe006Ye8x4OpT7TdpjIHAcm_rise/M-7JOC399eBlqCCdrIbfVM7XGmvFXoKB/ckzznli0j002r266eute52x95" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Beschreibung trifft auf den Begriff Arkade zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzznli0j002s266e9nrv84q2</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzznli0j002s266e9nrv84q2</id>
+        <description lang="en-US">Eine fortlaufende Reihe von B&amp;ouml;gen auf Pfeilern oder S&amp;auml;ulen</description>
+      </component>
+            <component>
+        <id>choice_ckzznli0j002u266egaa2kn7p</id>
+        <description lang="en-US">Ein waagerecht auf S&amp;auml;ulen aufliegender Balken</description>
+      </component>
+            <component>
+        <id>choice_ckzznli0j002v266eobks9g9i</id>
+        <description lang="en-US">Ein stiliertes Rankenornament</description>
+      </component>
+            <component>
+        <id>choice_ckzznli0j002t266ehfjv75cg</id>
+        <description lang="en-US">Eine halbrunde Altarnische am Chorende</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
