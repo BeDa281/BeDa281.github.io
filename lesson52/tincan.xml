@@ -2,7 +2,7 @@
 <tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
   <activities>
     <activity id="http://2y5CwU-U73WSLE5-IuCX2pf1rWpclvBN_rise" type="http://adlnet.gov/expapi/activities/course">
-      <name lang="en-US">Allgemein - Quiz 1</name>
+      <name lang="en-US">Betoninstandsetzung - Quiz 1</name>
       <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
       <launch lang="en-US">index.html</launch>
     </activity>

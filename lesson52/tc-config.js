@@ -9,7 +9,7 @@ TC_COURSE_ID = "http://2y5CwU-U73WSLE5-IuCX2pf1rWpclvBN_rise"
 // CourseName for the activity
 //
 TC_COURSE_NAME = {
-  "en-US": "Allgemein - Quiz 1"
+  "en-US": "Betoninstandsetzung - Quiz 1"
 };
 
 //
