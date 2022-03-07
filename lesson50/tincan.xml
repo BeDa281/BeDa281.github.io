@@ -124,7 +124,7 @@
       </component>
             <component>
         <id>choice_ckz07q8lc008z266jv13j357l</id>
-        <description lang="en-US">Choice 2</description>
+        <description lang="en-US">Fl&amp;uuml;chtig</description>
       </component>
             <component>
         <id>choice_ckz07qtzh009i266jpfdyqyzr</id>
@@ -213,7 +213,7 @@
       </component>
             <component>
         <id>choice_ckz07t8pp00cl266jl53wmo28</id>
-        <description lang="en-US">Choice 2</description>
+        <description lang="en-US">Erstellt den SiGe-Plan</description>
       </component>
             <component>
         <id>choice_ckz07t8pp00cm266jx57z1kfj</id>
@@ -221,7 +221,7 @@
       </component>
             <component>
         <id>choice_ckz07t8pp00ck266jd690jyjt</id>
-        <description lang="en-US">Choice 4</description>
+        <description lang="en-US">Ist nur für Arbeiten in kontaminierten Bereichen zust&amp;auml;ndig</description>
       </component>
             <component>
         <id>choice_ckz07u2n800ee266jclgexl57</id>
@@ -241,19 +241,19 @@
             <choices>
             <component>
         <id>choice_ckz07ugpw00ew266jey2s6p7l</id>
-        <description lang="en-US">Der Erzeuger von Abf&amp;auml;llen ist zur Verwertung von Abf&amp;auml;llen nicht verpflichtet&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</description>
+        <description lang="en-US">Der Erzeuger von Abf&amp;auml;llen ist zur Verwertung von Abf&amp;auml;llen nicht verpflichtet.</description>
       </component>
             <component>
         <id>choice_ckz07ugpw00ey266joebw5vxa</id>
-        <description lang="en-US">Der Erzeuger muss die Verwertung von Abf&amp;auml;llen der Beseitigung vorziehen</description>
+        <description lang="en-US">Der Erzeuger muss die Verwertung von Abf&amp;auml;llen der Beseitigung vorziehen.</description>
       </component>
             <component>
         <id>choice_ckz07ugpw00ez266jlyuty820</id>
-        <description lang="en-US">Der Erzeuger kann gef&amp;auml;hrlichen Abfall mit nicht gef&amp;auml;hrlichem Abfall verd&amp;uuml;nnen</description>
+        <description lang="en-US">Der Erzeuger kann gef&amp;auml;hrlichen Abfall mit nicht gef&amp;auml;hrlichem Abfall verd&amp;uuml;nnen.</description>
       </component>
             <component>
         <id>choice_ckz07ugpw00ex266j60ln3xn1</id>
-        <description lang="en-US">Choice 4</description>
+        <description lang="en-US">Die Verantwortlichkeit bleibt trotz Beauftragung Dritter bis zur endg&amp;uuml;ltigen und ordnungsm&amp;auml;ßigen Entsorgung bei dem Erzeuger / Bauherrn.</description>
       </component>
             <component>
         <id>choice_ckz07vaxv00ge266j5joafy1c</id>
@@ -285,7 +285,7 @@
       </component>
             <component>
         <id>choice_ckz07vodk00gr266j2y7w5xdc</id>
-        <description lang="en-US">Choice 4</description>
+        <description lang="en-US">Mitarbeiter m&amp;uuml;ssen nicht unterwiesen werden</description>
       </component>
             <component>
         <id>choice_ckz07w7ly00hx266jgq7phdri</id>
