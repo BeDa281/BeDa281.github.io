@@ -87,7 +87,7 @@
             <choices>
             <component>
         <id>choice_ckz07o5rl0055266jlz5fhkot</id>
-        <description lang="en-US">Alte&amp;ldquo; k&amp;uuml;nstliche Mineralfasern werden ab 2000 nicht mehr hergestellt</description>
+        <description lang="en-US">&amp;bdquo;Alte&amp;ldquo; k&amp;uuml;nstliche Mineralfasern werden ab 2000 nicht mehr hergestellt</description>
       </component>
             <component>
         <id>choice_ckz07o5rl0058266jnckqeba7</id>
@@ -103,7 +103,7 @@
       </component>
             <component>
         <id>choice_ckz07pkdn007p266jucfjpvnr</id>
-        <description lang="en-US">&amp;bdquo;alte&amp;ldquo; KMF sind nicht gef&amp;auml;hrlicher Abfall</description>
+        <description lang="en-US">&amp;bdquo;Alte&amp;ldquo; KMF sind nicht gef&amp;auml;hrlicher Abfall</description>
       </component>
             </choices>
           </activity>
