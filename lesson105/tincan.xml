@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://0TCtK0PuUk6To9tM1JJgqmz-wrELvRmz_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildung vorbereiten - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://0TCtK0PuUk6To9tM1JJgqmz-wrELvRmz_rise/bNBtCx6ztuFKPCP38gNz2mlHfYe4zzf_" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://0TCtK0PuUk6To9tM1JJgqmz-wrELvRmz_rise/bNBtCx6ztuFKPCP38gNz2mlHfYe4zzf_/ckxbo5yir0036266jglol1rsn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Grundlage f&amp;uuml;r eine geordnete und einheitliche Berufsausbildung ist...</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxbo6wgr004u266jfke378w1</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxbo5yis0037266jh09h5pic</id>
+        <description lang="en-US">das Betriebsverfassungsgesetz.</description>
+      </component>
+            <component>
+        <id>choice_ckxbo5yis0038266j98eovjkv</id>
+        <description lang="en-US">das Bundesausbildungsgesetz.</description>
+      </component>
+            <component>
+        <id>choice_ckxbo6nzu0046266jrmnelci7</id>
+        <description lang="en-US">die Ausbildungsplatzbeschreibung.</description>
+      </component>
+            <component>
+        <id>choice_ckxbo6wgr004u266jfke378w1</id>
+        <description lang="en-US">die Ausbildungsordnung.</description>
+      </component>
+            <component>
+        <id>choice_ckxbo6zm60055266jnuqkxs07</id>
+        <description lang="en-US">der Tarifvertrag.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://0TCtK0PuUk6To9tM1JJgqmz-wrELvRmz_rise/bNBtCx6ztuFKPCP38gNz2mlHfYe4zzf_/ckxbo7g02005u266jccw9cw0o" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welches Gesetz untersagt Benachteiligungen unter anderem wegen des Geschlechts sowie der Religion oder Weltanschauung?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxbo8d77005z266jzey5aos6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxbo7g02005v266jtg5agct1</id>
+        <description lang="en-US">Das Berufsbildungsgesetz.</description>
+      </component>
+            <component>
+        <id>choice_ckxbo7g02005w266jpjokbp9x</id>
+        <description lang="en-US">Das Gesetz zur St&amp;auml;rkung der Rolle der Geschlechter.</description>
+      </component>
+            <component>
+        <id>choice_ckxbo82vo005x266j34i7ae2x</id>
+        <description lang="en-US">Die Gleichstellungsverordnung.</description>
+      </component>
+            <component>
+        <id>choice_ckxbo868q005y266jhwhbubzl</id>
+        <description lang="en-US">Die Handwerksordnung.</description>
+      </component>
+            <component>
+        <id>choice_ckxbo8d77005z266jzey5aos6</id>
+        <description lang="en-US">Das Allgemeine Gleichbehandlungsgesetz.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://0TCtK0PuUk6To9tM1JJgqmz-wrELvRmz_rise/bNBtCx6ztuFKPCP38gNz2mlHfYe4zzf_/ckxbo8uvg0060266joh4yrpd6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei der Gewinnung von Lehrlingen empfiehlt es sich, eng mit der Berufsberatung der Agentur f&amp;uuml;r Arbeit zusammenzuarbeiten und deren Aufgaben zu kennen.&lt;br&gt;Aufgabe: Die Berufsberatung hat u. a. die Aufgabe,...</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxbo9yqt0064266j78daxd8z</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxbo8uvg0061266jz9v1zzxw</id>
+        <description lang="en-US">in erster Linie eine Berufslenkung nach dem Bedarf von Wirtschaft und Gesellschaft vorzunehmen.</description>
+      </component>
+            <component>
+        <id>choice_ckxbo8uvg0062266je9lfnmyc</id>
+        <description lang="en-US">nur &amp;uuml;ber berufliche Aufstiegsm&amp;ouml;glichkeiten in verschiedenen Berufen zu beraten.</description>
+      </component>
+            <component>
+        <id>choice_ckxbo9ssp0063266jv85ox557</id>
+        <description lang="en-US">ausschlie&amp;szlig;lich Hinweise &amp;uuml;ber finanzielle F&amp;ouml;rderma&amp;szlig;nahmen der Agentur f&amp;uuml;r Arbeit zur beruflichen Bildung zu geben.</description>
+      </component>
+            <component>
+        <id>choice_ckxbo9yqt0064266j78daxd8z</id>
+        <description lang="en-US">dem jungen Menschen die Erkenntnisse zu vermitteln, die f&amp;uuml;r eine sachgerechte Entscheidung bei der Berufswahl n&amp;ouml;tig sind.</description>
+      </component>
+            <component>
+        <id>choice_ckxboa3g20065266jz4jpzsni</id>
+        <description lang="en-US">in erster Linie den jungen Menschen auf die Notwendigkeit eines mehrmaligen Berufswechsels w&amp;auml;hrend des Berufslebens vorzubereiten.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://0TCtK0PuUk6To9tM1JJgqmz-wrELvRmz_rise/bNBtCx6ztuFKPCP38gNz2mlHfYe4zzf_/ckxbob7nd0066266jv02gdf0z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie haben als Ausbildender im Rahmen eines Vorstellungsgespr&amp;auml;ches mit einem Lehrstellenbewerber vereinbart, dass Sie mit ihm einen Berufsausbildungsvertrag abschlie&amp;szlig;en werden.&lt;br&gt;Aufgabe: Wann m&amp;uuml;ssen Sie den Vertrag im vorliegenden Fall abschlie&amp;szlig;en? Was trifft zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxbocm9l006b266jdr2ib36z</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxbob7nd0067266jiu6bqy5e</id>
+        <description lang="en-US">Vor Beginn der Berufsausbildung.</description>
+      </component>
+            <component>
+        <id>choice_ckxbob7nd0068266jlp4v6ztj</id>
+        <description lang="en-US">Nach Ablauf der Probezeit.</description>
+      </component>
+            <component>
+        <id>choice_ckxboc85l0069266ju8peo6lt</id>
+        <description lang="en-US">Zu einem beliebigen Zeitpunkt w&amp;auml;hrend der Probezeit.</description>
+      </component>
+            <component>
+        <id>choice_ckxbocf3y006a266jnq3zsl7e</id>
+        <description lang="en-US">Einen Monat nach Beginn des Berufsausbildungsverh&amp;auml;ltnisses.</description>
+      </component>
+            <component>
+        <id>choice_ckxbocm9l006b266jdr2ib36z</id>
+        <description lang="en-US">Am ersten Tag der Berufsausbildung.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://0TCtK0PuUk6To9tM1JJgqmz-wrELvRmz_rise/bNBtCx6ztuFKPCP38gNz2mlHfYe4zzf_/ckxbocwb9006c266jxrgatm63" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie bilden als selbstst&amp;auml;ndiger Handwerksmeister einen Lehrling aus, dessen Berufsausbildungsvertrag am 31. Juli endet. Alle Pr&amp;uuml;fungsma&amp;szlig;nahmen werden bereits im Monat Juni durchgef&amp;uuml;hrt. Der Lehrling besteht in allen Pr&amp;uuml;fungsanforderungen die Pr&amp;uuml;fung.&lt;br&gt;Aufgabe: Zu welchem Zeitpunkt endet das Berufsausbildungsverh&amp;auml;ltnis im vorliegenden Fall? Welche Aussage ist richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxbocwb9006d266jxlxiv0mf</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxbocwb9006d266jxlxiv0mf</id>
+        <description lang="en-US">Nur mit Aush&amp;auml;ndigung des Pr&amp;uuml;fungszeugnisses.</description>
+      </component>
+            <component>
+        <id>choice_ckxbocwb9006e266j3yzfs604</id>
+        <description lang="en-US">Mit Ablauf des Monats, in dem der Auszubildende die Pr&amp;uuml;fung bestanden hat.</description>
+      </component>
+            <component>
+        <id>choice_ckxbodqmz006g266jcchywy3z</id>
+        <description lang="en-US">Mit Bekanntgabe des Pr&amp;uuml;fungsergebnisses durch den Pr&amp;uuml;fungsausschuss.</description>
+      </component>
+            <component>
+        <id>choice_ckxbodubf006h266j6fail6f8</id>
+        <description lang="en-US">Mit dem Ende der vereinbarten Ausbildungsdauer.</description>
+      </component>
+            <component>
+        <id>choice_ckxbodxta006i266jcciofsab</id>
+        <description lang="en-US">Mit dem Ablauf der Woche, in der die Pr&amp;uuml;fung bestanden wurde.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://0TCtK0PuUk6To9tM1JJgqmz-wrELvRmz_rise/bNBtCx6ztuFKPCP38gNz2mlHfYe4zzf_/ckxboehg9006j266j82o4o2fk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zwischen Ihnen als Inhaber eines Handwerkbetriebes und den bei Ihnen besch&amp;auml;ftigten Auszubildenden gibt es Meinungsverschiedenheiten, wann der Ausbildungsnachweis zu f&amp;uuml;hren ist. Die Auszubildenden sind der Auffassung, dass die Aufzeichnungen w&amp;auml;hrend der Ausbildungszeit zu erfolgen haben, w&amp;auml;hrend Sie als Ausbilder diese Arbeit in der Freizeit, also au&amp;szlig;erhalb der betrieblichen Arbeitszeit, erledigt haben wollen.&lt;br&gt;Aufgabe: Wer hat recht? Wann sind die Aufzeichnungen zu erledigen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxbofl66006n266j6u8ypn62</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxboehg9006k266j0t6c6ilg</id>
+        <description lang="en-US">W&amp;auml;hrend des Berufsschulunterrichts.</description>
+      </component>
+            <component>
+        <id>choice_ckxboehg9006l266jkgmmj2kw</id>
+        <description lang="en-US">In der Freizeit, also au&amp;szlig;erhalb der Ausbildungszeit.</description>
+      </component>
+            <component>
+        <id>choice_ckxbofhhr006m266j9kn6paxe</id>
+        <description lang="en-US">W&amp;auml;hrend der betrieblichen Ausbildungszeit.</description>
+      </component>
+            <component>
+        <id>choice_ckxbofl66006n266j6u8ypn62</id>
+        <description lang="en-US">W&amp;auml;hrend der betrieblichen Arbeitspausen.</description>
+      </component>
+            <component>
+        <id>choice_ckxbofobs006o266j1o7if3cv</id>
+        <description lang="en-US">Nur w&amp;auml;hrend einer &amp;uuml;berbetrieblichen Ausbildungsma&amp;szlig;nahme.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://0TCtK0PuUk6To9tM1JJgqmz-wrELvRmz_rise/bNBtCx6ztuFKPCP38gNz2mlHfYe4zzf_/ckxbog1b4006p266j3l7qmlz0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie sind Handwerksmeister, der sich vor Kurzem selbstst&amp;auml;ndig gemacht hat und nun einen Lehrling einstellen will. Sie bereiten sich auf das Einstellungsgespr&amp;auml;ch mit dem Bewerber und seinen Eltern vor. Unter anderem wollen Sie feststellen, was hinsichtlich der Ausbildungsverg&amp;uuml;tung gilt.&lt;br&gt;Aufgabe: Welche der nachfolgenden Aussagen ist zutreffend?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxbogrkh006s266jwjachsjh</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxbog1b5006q266jh3qp4v1i</id>
+        <description lang="en-US">Die H&amp;ouml;he der Verg&amp;uuml;tung obliegt nur der freien Vereinbarung der Vertragspartner des Berufsausbildungsverh&amp;auml;ltnisses.</description>
+      </component>
+            <component>
+        <id>choice_ckxbog1b5006r266jok4f0vce</id>
+        <description lang="en-US">Die H&amp;ouml;he der Verg&amp;uuml;tung richtet sich nur nach Empfehlungen der Handwerkskammern.</description>
+      </component>
+            <component>
+        <id>choice_ckxbogrkh006s266jwjachsjh</id>
+        <description lang="en-US">Die H&amp;ouml;he der Verg&amp;uuml;tung richtet sich nur nach Empfehlungen der Landesinnungsverb&amp;auml;nde.</description>
+      </component>
+            <component>
+        <id>choice_ckxbogv95006t266jxurcro5b</id>
+        <description lang="en-US">Die H&amp;ouml;he der Verg&amp;uuml;tung richtet sich nur nach tarifvertraglichen Regelungen des Handwerks und der Industrie.</description>
+      </component>
+            <component>
+        <id>choice_ckxbohavc006u266j9ebpohb5</id>
+        <description lang="en-US">Die Verg&amp;uuml;tung muss angemessen sein und mit fortschreitender Berufsausbildung mindestens j&amp;auml;hrlich ansteigen. Soweit kein Tarifvertrag einschl&amp;auml;gig ist, darf sie einen bestimmten Mindestwert nicht unterschreiten.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://0TCtK0PuUk6To9tM1JJgqmz-wrELvRmz_rise/bNBtCx6ztuFKPCP38gNz2mlHfYe4zzf_/ckxboi8v0006v266jcx1ezdpl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Inhaber eines Handwerksbetriebes hat mit einer Bewerberin einen Berufsausbildungsvertrag abgeschlossen, in dem eine Verk&amp;uuml;rzung der betriebs&amp;uuml;blichen t&amp;auml;glichen Ausbildungszeit um 25 Prozent vorgenommen wurde.Aufgabe: Bis zu welchem Prozentsatz kann dann die &amp;uuml;bliche Ausbildungsverg&amp;uuml;tung gek&amp;uuml;rzt werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxboi8v0006y266jcnugya0v</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxboi8v0006w266jkih6g6tg</id>
+        <description lang="en-US">&amp;Uuml;berhaupt nicht.</description>
+      </component>
+            <component>
+        <id>choice_ckxboi8v0006y266jcnugya0v</id>
+        <description lang="en-US">Um 10 %.</description>
+      </component>
+            <component>
+        <id>choice_ckxboi8v0006z266jj8vrgrvk</id>
+        <description lang="en-US">Um 25 %.</description>
+      </component>
+            <component>
+        <id>choice_ckxboi8v0006x266jdl6sz41e</id>
+        <description lang="en-US">Um 20 %.</description>
+      </component>
+            <component>
+        <id>choice_ckxbokhai0076266jn74bjv9o</id>
+        <description lang="en-US">Um 15 %.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://0TCtK0PuUk6To9tM1JJgqmz-wrELvRmz_rise/bNBtCx6ztuFKPCP38gNz2mlHfYe4zzf_/ckxbol1a80077266j0mckmfgn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein in Ihrem Betrieb besch&amp;auml;ftigter Lehrling ist unverschuldet erkrankt und fehlt nunmehr seit sieben Wochen im Betrieb.&lt;br&gt;Aufgabe: Wie lange m&amp;uuml;ssen Sie in diesem Fall die Verg&amp;uuml;tung an den Lehrling bezahlen? Was trifft zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxbol1a80079266jfa4riezr</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxbol1a80078266jv7ix5oz2</id>
+        <description lang="en-US">Bis zu einer Krankheitsdauer von zwei Wochen.</description>
+      </component>
+            <component>
+        <id>choice_ckxbol1a80079266jfa4riezr</id>
+        <description lang="en-US">Bis zu einer Krankheitsdauer von vier Wochen.</description>
+      </component>
+            <component>
+        <id>choice_ckxboll33007a266jq6wsfm9v</id>
+        <description lang="en-US">Bis zu einer Krankheitsdauer von sechs Wochen.</description>
+      </component>
+            <component>
+        <id>choice_ckxbolok4007b266jl5drrkon</id>
+        <description lang="en-US">Bis zu einer Krankheitsdauer von neun Wochen.</description>
+      </component>
+            <component>
+        <id>choice_ckxbom048007c266juc833y9v</id>
+        <description lang="en-US">Bis zu einer Krankheitsdauer von sieben Wochen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://0TCtK0PuUk6To9tM1JJgqmz-wrELvRmz_rise/bNBtCx6ztuFKPCP38gNz2mlHfYe4zzf_/ckxbomuof007d266jx0lrisxs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie haben als selbstst&amp;auml;ndiger Handwerker erstmals mit einem jungen Mann einen Berufsausbildungsvertrag in einem Ausbildungsberuf des Handwerks abgeschlossen. Von einem Kollegen haben Sie geh&amp;ouml;rt, dass f&amp;uuml;r alle Berufsausbildungsverh&amp;auml;ltnisse die Pflicht zur Eintragung in ein Verzeichnis (Lehrlingsrolle) besteht und daf&amp;uuml;r eine Geb&amp;uuml;hr zu entrichten ist.&lt;br&gt;Aufgabe: Stellen Sie fest, bei welcher Einrichtung Sie die Eintragung in die Lehrlingsrolle in diesem Fall zu beantragen haben! Welche Aussagen treffen zu?Die Eintragung hat zu erfolgen...</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxboo50r007i266jecvj920q</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxbomuof007e266jl63wnblb</id>
+        <description lang="en-US">bei der Innung.</description>
+      </component>
+            <component>
+        <id>choice_ckxbomuof007f266jub8hzt2m</id>
+        <description lang="en-US">bei der Berufsschule.</description>
+      </component>
+            <component>
+        <id>choice_ckxbontrq007g266jl8m7wx52</id>
+        <description lang="en-US">beim Amt f&amp;uuml;r Berufsbildung.</description>
+      </component>
+            <component>
+        <id>choice_ckxboo0vh007h266jg40jcde8</id>
+        <description lang="en-US">bei der Agentur f&amp;uuml;r Arbeit.</description>
+      </component>
+            <component>
+        <id>choice_ckxboo50r007i266jecvj920q</id>
+        <description lang="en-US">bei der Handwerkskammer.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

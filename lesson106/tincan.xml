@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://vydpeI-JuxPDIuvN7EPn1K8FSo7zew57_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildung vorbereiten - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://vydpeI-JuxPDIuvN7EPn1K8FSo7zew57_rise/G9VhluCbu_Zw7aJEmO7j9qdRj3J0oshL" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://vydpeI-JuxPDIuvN7EPn1K8FSo7zew57_rise/G9VhluCbu_Zw7aJEmO7j9qdRj3J0oshL/ckxdjps1d002w266j00fw6h8a" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie haben als selbstst&amp;auml;ndiger Handwerker erstmals mit einem jungen Mann einen Berufsausbildungsvertrag in einem Ausbildungsberuf des Handwerks abgeschlossen. Von einem Kollegen haben Sie geh&amp;ouml;rt, dass f&amp;uuml;r alle Berufsausbildungsverh&amp;auml;ltnisse die Pflicht zur Eintragung in ein Verzeichnis (Lehrlingsrolle) besteht und daf&amp;uuml;r eine Geb&amp;uuml;hr zu entrichten ist.&lt;br&gt;Aufgabe: Stellen Sie fest, wer die Geb&amp;uuml;hr zu entrichten hat! Welche Aussagen treffen zu? Die Geb&amp;uuml;hr hat zu zahlen...</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxdjr0f40030266joiewznom</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxdjps1d002x266j4ijkfnjj</id>
+        <description lang="en-US">die Agentur f&amp;uuml;r Arbeit.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjps1d002y266jodzgazkp</id>
+        <description lang="en-US">der Ausbildende.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjqxwa002z266jxmrbv7uh</id>
+        <description lang="en-US">der Lehrling.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjr0f40030266joiewznom</id>
+        <description lang="en-US">die Eltern des Lehrlings.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjr3sa0031266jkebrzv92</id>
+        <description lang="en-US">das Amt f&amp;uuml;r Ausbildungsf&amp;ouml;rderung.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vydpeI-JuxPDIuvN7EPn1K8FSo7zew57_rise/G9VhluCbu_Zw7aJEmO7j9qdRj3J0oshL/ckxdjrs550032266jgiznjhcw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie haben als Inhaber eines Handwerksbetriebes mit einem Lehrstellenbewerber einen Berufsausbildungsvertrag in Schriftform, wie gesetzlich vorgeschrieben, abgeschlossen. Nach dem Berufsbildungsgesetz ist die elektronische Form ausgeschlossen.&lt;br&gt;Aufgabe: Kann trotzdem der Antrag auf Eintragung in die Lehrlingsrolle und der beizuf&amp;uuml;gende Berufsausbildungsvertrag elektronisch an die Handwerkskammer &amp;uuml;bermittelt werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxdjt5ld0037266jx17l4o9z</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxdjrs550033266jbgaj0ulo</id>
+        <description lang="en-US">Ja, aber nur, wenn dieses Verfahren ausdr&amp;uuml;cklich in der Satzung der Handwerkskammer ausf&amp;uuml;hrlich geregelt ist.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjrs550034266jkbfnk3dq</id>
+        <description lang="en-US">Nein, weil auch daf&amp;uuml;r die elektronische Form nach dem Berufsbildungsgesetz ausgeschlossen ist.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjswa70035266je4ssg75i</id>
+        <description lang="en-US">Nein, weil dies nach dem &amp;bdquo;Gesetz &amp;uuml;ber den Nachweis der f&amp;uuml;r ein Arbeitsverh&amp;auml;ltnis geltenden wesentlichen Bedingungen&amp;ldquo; (&amp;bdquo;Nachweisgesetz&amp;ldquo;) nicht zul&amp;auml;ssig ist.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjt11g0036266j9oo1yutd</id>
+        <description lang="en-US">Nein, weil das nach dem Datenschutzgesetz nicht erlaubt ist.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjt5ld0037266jx17l4o9z</id>
+        <description lang="en-US">Ja, das Berufsbildungsgesetz schlie&amp;szlig;t die elektronische Form der &amp;Uuml;bermittlung nicht aus.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vydpeI-JuxPDIuvN7EPn1K8FSo7zew57_rise/G9VhluCbu_Zw7aJEmO7j9qdRj3J0oshL/ckxdjtisz0038266jirc4tn93" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Ausbildender f&amp;uuml;hrt mit einem minderj&amp;auml;hrigen Lehrstellenbewerber und dessen Eltern ein Gespr&amp;auml;ch &amp;uuml;ber den Abschluss eines Berufsausbildungsvertrages mit einer gem&amp;auml;&amp;szlig; Ausbildungsordnung auf 3 Jahre festgelegten Ausbildungsdauer in einem Handwerksberuf. Der Lehrling will zw&amp;ouml;lf Monate der vorgesehenen Gesamtausbildungsdauer in einem dem Ausbildungsziel dienenden Auslandsaufenthalt verbringen.&lt;br&gt;Aufgabe: Ist die gew&amp;uuml;nschte Dauer der Ausbildung im Ausland nach den Vorschriften des Berufsbildungsgesetzes m&amp;ouml;glich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxdjukf2003d266jng9ruatv</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxdjtisz0039266jjds5bybe</id>
+        <description lang="en-US">Nein, weil die Gesamtdauer der Ausbildung im Ausland ein Viertel der in der Ausbildungsordnung festgelegten Ausbildungsdauer nicht &amp;uuml;berschreiten soll.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjtisz003a266jaad2mt9c</id>
+        <description lang="en-US">Choice 2</description>
+      </component>
+            <component>
+        <id>choice_ckxdjudid003b266jkfcowxe6</id>
+        <description lang="en-US">Nein, weil die Gesamtdauer der Ausbildung im Ausland ein Achtel der in der Ausbildungsordnung festgelegten Ausbildungsdauer nicht &amp;uuml;berschreiten soll.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjuh0j003c266jvkei6asq</id>
+        <description lang="en-US">Nein, weil die Gesamtdauer der Ausbildung im Ausland ein Sechstel der in der Ausbildungsordnung festgelegten Ausbildungsdauer nicht &amp;uuml;berschreiten soll.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjukf2003d266jng9ruatv</id>
+        <description lang="en-US">Nein, weil die Gesamtdauer der Ausbildung im Ausland ein F&amp;uuml;nftel der in der Ausbildungsordnung festgelegten Ausbildungsdauer nicht &amp;uuml;berschreiten soll.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vydpeI-JuxPDIuvN7EPn1K8FSo7zew57_rise/G9VhluCbu_Zw7aJEmO7j9qdRj3J0oshL/ckxdjuuvu003e266j3au3p2hi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein in einem Handwerksbetrieb besch&amp;auml;ftigter Lehrling will im 2. Ausbildungsjahr einen Teil der Ausbildung im Umfang von zehn Wochen im Ausland absolvieren. Der Ausbildende ist mit diesem Auslandsaufenthalt einverstanden. Nach dem Berufsbildungsgesetz und der Handwerksordnung ist f&amp;uuml;r diesen Ausbildungsabschnitt ein Plan erforderlich. Au&amp;szlig;erdem muss dieser Ausbildungsabschnitt im Ausland in geeigneter Weise &amp;uuml;berwacht werden.&amp;nbsp;&lt;br&gt;Aufgabe: Welche Stelle &amp;uuml;berwacht den Auslandsaufenthalt in diesem Fall, und mit wem ist der Plan f&amp;uuml;r die Teilausbildung im Ausland abzustimmen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxdjvws3003i266jgux4unag</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxdjuuvu003f266jpb0j0wng</id>
+        <description lang="en-US">Handwerkskammer</description>
+      </component>
+            <component>
+        <id>choice_ckxdjuuvu003g266jnslv48ux</id>
+        <description lang="en-US">Ausw&amp;auml;rtiges Amt</description>
+      </component>
+            <component>
+        <id>choice_ckxdjvu4z003h266j7okrvlpf</id>
+        <description lang="en-US">Agentur f&amp;uuml;r Arbeit</description>
+      </component>
+            <component>
+        <id>choice_ckxdjvws3003i266jgux4unag</id>
+        <description lang="en-US">Gewerbeaufsichtsamt</description>
+      </component>
+            <component>
+        <id>choice_ckxdjvz7c003j266jvild0dhl</id>
+        <description lang="en-US">Innung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vydpeI-JuxPDIuvN7EPn1K8FSo7zew57_rise/G9VhluCbu_Zw7aJEmO7j9qdRj3J0oshL/ckxdjw764003k266jnbowxutn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie haben sich als Einzelh&amp;auml;ndler mit bestandener Ausbildereignungspr&amp;uuml;fung entschieden, erstmals einen Auszubildenden als Kaufmann/Kauffrau im Einzelhandel auszubilden. Zur Ausbildungsplanung stellen sich folgende Fragen:&lt;br&gt;Aus welchen Quellen entnehme ich die Informationen, welche Kenntnisse und Fertigkeiten ich w&amp;auml;hrend der Ausbildung zu vermitteln habe?&amp;nbsp;Aus dem/den...</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxdjymw5004j266jhla7awqw</correctResponsePattern>
+            <correctResponsePattern>choice_ckxdjyrgz004w266j7awxs6i2</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxdjw764003m266jurvevgsf</id>
+        <description lang="en-US">Lehrplan des Einzelhandelsverbandes.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjyild0047266jpuzhfrsb</id>
+        <description lang="en-US">&lt;br&gt;Rahmenlehrplan der Kultusministerkonferenz.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjymw5004j266jhla7awqw</id>
+        <description lang="en-US">Ausbildungsberufsbild.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjyrgz004w266j7awxs6i2</id>
+        <description lang="en-US">Ausbildungsrahmenplan.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjyz9p005g266js9ygkam2</id>
+        <description lang="en-US">Pr&amp;uuml;fungsbestimmungen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vydpeI-JuxPDIuvN7EPn1K8FSo7zew57_rise/G9VhluCbu_Zw7aJEmO7j9qdRj3J0oshL/ckxdjzxdq006w266jtd7gl5tv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie haben sich als Einzelh&amp;auml;ndler mit bestandener Ausbildereignungspr&amp;uuml;fung entschieden, erst-mals einen Auszubildenden als Kaufmann/Kauffrau im Einzelhandel auszubilden. Zur Ausbildungsplanung stellen sich folgende Fragen:&lt;br&gt;Muss ich f&amp;uuml;r meinen Ein-Mann-Betrieb eine sachliche und zeitliche Gliederung erstellen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxdjzxdq006z266jdxp3xtu5</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxdjzxdq006x266j6tc7rf8a</id>
+        <description lang="en-US">Nein, weil der Ausbildungsrahmenplan bereits ausreichend detaillierte Angaben zur sachlichen und zeitlichen Gliederung enth&amp;auml;lt.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjzxdq006z266jdxp3xtu5</id>
+        <description lang="en-US">Ja. weil die sachliche und zeitliche Gliederung mit dem Ausbildungsvertrag bei der IHK einzureichen ist.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjzxdq0070266jkz1yoey8</id>
+        <description lang="en-US">Nein, weil das Erarbeiten zus&amp;auml;tzlicher betrieblicher Pl&amp;auml;ne nur in gr&amp;ouml;&amp;szlig;eren Unternehmen not-wendig ist.</description>
+      </component>
+            <component>
+        <id>choice_ckxdjzxdq006y266j2uhpvaqr</id>
+        <description lang="en-US">Ja, weil die Zielformulierungen der sachlichen und zeitlichen Gliederung in den Ausbildungs-nachweis aufgenommen werden m&amp;uuml;ssen.</description>
+      </component>
+            <component>
+        <id>choice_ckxdk0t6p007m266jei8g8jh2</id>
+        <description lang="en-US">Nein, weil die Notwendigkeit im Ermessensspielraum des Ausbilders liegt und bei der erstmaligen Ausbildung der Blick f&amp;uuml;r Ausbildungsschwerpunkte fehlt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vydpeI-JuxPDIuvN7EPn1K8FSo7zew57_rise/G9VhluCbu_Zw7aJEmO7j9qdRj3J0oshL/ckxdk17qd007n266j16yvnp17" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie haben sich als Einzelh&amp;auml;ndler mit bestandener Ausbildereignungspr&amp;uuml;fung entschieden, erst-mals einen Auszubildenden als Kaufmann/Kauffrau im Einzelhandel auszubilden. Zur Ausbildungsplanung stellen sich folgende Fragen:&lt;br&gt;Wer ist f&amp;uuml;r mich als Ausbilder Ansprechpartner und Berater f&amp;uuml;r alle ungekl&amp;auml;rten Fragen im Zusammenhang mit der Planung der Ausbildung?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxdk2k9d007y266j0oq1za5y</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxdk17qd007o266j9lz09di9</id>
+        <description lang="en-US">Der Berufsbildungsausschuss der IHK</description>
+      </component>
+            <component>
+        <id>choice_ckxdk17qd007p266jthjsbx0k</id>
+        <description lang="en-US">Der Berufsberater des Arbeitsamtes</description>
+      </component>
+            <component>
+        <id>choice_ckxdk2evx007w266j2uz0116n</id>
+        <description lang="en-US">Der Pr&amp;uuml;fungsausschussvorsitzende der IHK</description>
+      </component>
+            <component>
+        <id>choice_ckxdk2h94007x266jk3n9cz8b</id>
+        <description lang="en-US">Der Ausbildungsberater der Handwerkskammer</description>
+      </component>
+            <component>
+        <id>choice_ckxdk2k9d007y266j0oq1za5y</id>
+        <description lang="en-US">Der Ausbildungsberater der IHK</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vydpeI-JuxPDIuvN7EPn1K8FSo7zew57_rise/G9VhluCbu_Zw7aJEmO7j9qdRj3J0oshL/ckxdk2qvz007z266j94gtu9ut" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie haben sich als Einzelh&amp;auml;ndler mit bestandener Ausbildereignungspr&amp;uuml;fung entschieden, erst-mals einen Auszubildenden als Kaufmann/Kauffrau im Einzelhandel auszubilden. Zur Ausbildungsplanung stellen sich folgende Fragen:Welche Institution kann mir helfen, wenn Zweifel an der Eignung der Bewerber f&amp;uuml;r den Ausbildungsplatz bestehen?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxdk2qvz0083266jfvgmx91z</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxdk2qvz0080266jdjpfpx2p</id>
+        <description lang="en-US">Der Ausbildungsberater der Industrie- und Handelskammer.</description>
+      </component>
+            <component>
+        <id>choice_ckxdk2qvz0082266j8vidispr</id>
+        <description lang="en-US">Der schulpsychologische Dienst der Schule, von der der Auszubildende kommt.</description>
+      </component>
+            <component>
+        <id>choice_ckxdk2qvz0083266jfvgmx91z</id>
+        <description lang="en-US">Der psychologische Dienst des Arbeitsamtes.</description>
+      </component>
+            <component>
+        <id>choice_ckxdk2qvz0081266joloqvr5c</id>
+        <description lang="en-US">Die f&amp;uuml;r den Betrieb zust&amp;auml;ndige &amp;ouml;rtliche Gewerkschaftsvertretung.</description>
+      </component>
+            <component>
+        <id>choice_ckxdk3x5c008t266j6vq2k8rk</id>
+        <description lang="en-US">Das Elternhaus im Zusammenwirken mit dem Klassenlehrer.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vydpeI-JuxPDIuvN7EPn1K8FSo7zew57_rise/G9VhluCbu_Zw7aJEmO7j9qdRj3J0oshL/ckxdk4xnq0096266jx95uquwm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In Ihren &amp;Uuml;berlegungen haben Sie auch &amp;uuml;ber die Errichtung einer Jugend- und Auszubildendenvertretung nachgedacht. Ist in Ihrem Fall die Errichtung einer Jugend- und Auszubildendenvertretung m&amp;ouml;glich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxdk5np2009h266jbsbvgj2f</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxdk4xnq0097266jpgt24p4y</id>
+        <description lang="en-US">Nein, denn eine Jugend- und Auszubildendenvertretung ist nur in Betrieben des Handwerks, nicht in Industriebetrieben zu errichten.</description>
+      </component>
+            <component>
+        <id>choice_ckxdk4xnq0099266jtne9au7u</id>
+        <description lang="en-US">Ja, denn um eine solche Vertretung zu errichten, m&amp;uuml;ssen weniger als f&amp;uuml;nf jugendliche Arbeitnehmer dauernd besch&amp;auml;ftigt sein.</description>
+      </component>
+            <component>
+        <id>choice_ckxdk4xnq009a266j4its1qj8</id>
+        <description lang="en-US">Ja, grunds&amp;auml;tzlich ist in allen Betrieben mit jugendlichen Arbeitnehmern eine Jugend- und Auszubildendenvertretung zu w&amp;auml;hlen.</description>
+      </component>
+            <component>
+        <id>choice_ckxdk4xnq0098266j7uvep02z</id>
+        <description lang="en-US">Nein, denn in Ihrem Betrieb sind nur zwei jugendliche Auszubildende besch&amp;auml;ftigt.</description>
+      </component>
+            <component>
+        <id>choice_ckxdk5np2009h266jbsbvgj2f</id>
+        <description lang="en-US">Ja, denn Sie besch&amp;auml;ftigen mehr als f&amp;uuml;nf Auszubildende unter 25 Jahren.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://vydpeI-JuxPDIuvN7EPn1K8FSo7zew57_rise/G9VhluCbu_Zw7aJEmO7j9qdRj3J0oshL/ckxdk5wss009i266jkvwl9huo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Geben Sie an, welche Arbeitnehmer Ihres Betriebes als Jugend- und Auszubildendenvertreter gew&amp;auml;hlt werden k&amp;ouml;nnten.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckxdk5wss009k266jcv1u11t5</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckxdk5wss009j266jjo6q5yo6</id>
+        <description lang="en-US">das 18. Lebensjahr noch nicht vollendet haben.</description>
+      </component>
+            <component>
+        <id>choice_ckxdk5wss009k266jcv1u11t5</id>
+        <description lang="en-US">das 25. Lebensjahr noch nicht vollendet haben.</description>
+      </component>
+            <component>
+        <id>choice_ckxdk6y5y009y266jfjb9mbyu</id>
+        <description lang="en-US">Mitglied des Betriebsrates sind. </description>
+      </component>
+            <component>
+        <id>choice_ckxdk74ch00a6266jmdki1pm8</id>
+        <description lang="en-US">Mitglied einer Gewerkschaft sind.</description>
+      </component>
+            <component>
+        <id>choice_ckxdk7bwe00ak266jigkr1sfh</id>
+        <description lang="en-US">vollj&amp;auml;hrig sind.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
