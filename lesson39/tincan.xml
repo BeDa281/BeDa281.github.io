@@ -230,7 +230,7 @@
           </activity>
         
     <activity id="http://ok0hVMkZn2-l1hvYYeF1vGCXrOILuMOg_rise/DASXXwhvhxt_cQ08HazVqEdzT6HfwiVx/cktd8bmog003v266e4t7aibyv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Ist das Aufbauen von Ger&amp;uuml;sten, deren Arbeitsb&amp;uuml;hnen &amp;uuml;ber 2m Gel&amp;auml;nde oder Fu&amp;szlig;boden liegen eine Besondere Leistung?</name>
+      <name lang="en-US">Ist das Aufbauen von Ger&amp;uuml;sten, deren Arbeitsb&amp;uuml;hnen &amp;uuml;ber 3,5m Gel&amp;auml;nde oder Fu&amp;szlig;boden liegen eine Besondere Leistung?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
