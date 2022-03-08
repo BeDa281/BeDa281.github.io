@@ -87,7 +87,7 @@
             <choices>
             <component>
         <id>choice_ckz07o5rl0055266jlz5fhkot</id>
-        <description lang="en-US">&amp;bdquo;Alte&amp;ldquo; k&amp;uuml;nstliche Mineralfasern werden ab 2000 nicht mehr hergestellt</description>
+        <description lang="en-US">Alte&amp;ldquo; k&amp;uuml;nstliche Mineralfasern werden ab 2000 nicht mehr hergestellt</description>
       </component>
             <component>
         <id>choice_ckz07o5rl0058266jnckqeba7</id>
@@ -103,7 +103,7 @@
       </component>
             <component>
         <id>choice_ckz07pkdn007p266jucfjpvnr</id>
-        <description lang="en-US">&amp;bdquo;Alte&amp;ldquo; KMF sind nicht gef&amp;auml;hrlicher Abfall</description>
+        <description lang="en-US">&amp;bdquo;alte&amp;ldquo; KMF sind nicht gef&amp;auml;hrlicher Abfall</description>
       </component>
             </choices>
           </activity>
@@ -161,7 +161,7 @@
       </component>
             <component>
         <id>choice_ckz07r9sp00aw266j71c22ytj</id>
-        <description lang="en-US">FH-Türen / Brandschutzt&amp;uuml;ren k&amp;ouml;nnen KMF- und asbesthaltig sein</description>
+        <description lang="en-US">FH-T&amp;uuml;ren / Brandschutzt&amp;uuml;ren k&amp;ouml;nnen KMF- &amp;nbsp;und asbesthaltig sein</description>
       </component>
             </choices>
           </activity>
@@ -221,7 +221,7 @@
       </component>
             <component>
         <id>choice_ckz07t8pp00ck266jd690jyjt</id>
-        <description lang="en-US">Ist nur für Arbeiten in kontaminierten Bereichen zust&amp;auml;ndig</description>
+        <description lang="en-US">Ist nur f&amp;uuml;r Arbeiten in kontaminierten Bereichen zust&amp;auml;ndig</description>
       </component>
             <component>
         <id>choice_ckz07u2n800ee266jclgexl57</id>
@@ -241,7 +241,7 @@
             <choices>
             <component>
         <id>choice_ckz07ugpw00ew266jey2s6p7l</id>
-        <description lang="en-US">Der Erzeuger von Abf&amp;auml;llen ist zur Verwertung von Abf&amp;auml;llen nicht verpflichtet.</description>
+        <description lang="en-US">Der Erzeuger von Abf&amp;auml;llen ist zur Verwertung von Abf&amp;auml;llen nicht verpflichtet.&lt;br&gt;&lt;br&gt;</description>
       </component>
             <component>
         <id>choice_ckz07ugpw00ey266joebw5vxa</id>
@@ -253,11 +253,11 @@
       </component>
             <component>
         <id>choice_ckz07ugpw00ex266j60ln3xn1</id>
-        <description lang="en-US">Die Verantwortlichkeit bleibt trotz Beauftragung Dritter bis zur endg&amp;uuml;ltigen und ordnungsm&amp;auml;ßigen Entsorgung bei dem Erzeuger / Bauherrn.</description>
+        <description lang="en-US">Die Verantwortlichkeit bleibt trotz Beauftragung Dritter bis zur endg&amp;uuml;ltigen und ordnungsm&amp;auml;&amp;szlig;igen Entsorgung bei dem Erzeuger / Bauherrn.</description>
       </component>
             <component>
         <id>choice_ckz07vaxv00ge266j5joafy1c</id>
-        <description lang="en-US">Das KrWG gilt nur f&amp;uuml;r Pfandflaschen</description>
+        <description lang="en-US">Das KrWG gilt nur f&amp;uuml;r Pfandflaschen.</description>
       </component>
             </choices>
           </activity>
@@ -311,7 +311,7 @@
       </component>
             <component>
         <id>choice_ckz07wmq200im266jdtx6wcu2</id>
-        <description lang="en-US">Raumluftfilteranlagen (RFA) und/oder Unterdruckhaltegeräte (UHG)</description>
+        <description lang="en-US">Raumluftfilteranlagen (RFA) und/oder Unterdruckhalteger&amp;auml;te (UHG)</description>
       </component>
             <component>
         <id>choice_ckz07wmq200in266j7dfau16u</id>
