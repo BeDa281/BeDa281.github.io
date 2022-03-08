@@ -12,7 +12,7 @@
     </activity>
             
     <activity id="http://cGoTBN6Z-l0htSRvKlie5_IqJTMKm-Pn_rise/n6eeYZzyptN2ng9JOSK_VQ9cPHoj7Zsg/cktbttqqp002w266e4lo8z8xv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">In den Besonderen Vertragsbedingungen eines Bauvertrages wurde eine Sicherheitsleistung durch Einbehalt von Zahlungen gem&amp;auml;&amp;szlig; &amp;sect; 17 VOB/B vereinbart.&lt;br&gt;Die gesamte H&amp;ouml;he der Sicherheitsleistung betr&amp;auml;gt 5 % von der Auftragssumme f&amp;uuml;r M&amp;auml;ngelanspr&amp;uuml;che.&lt;br&gt;Unter welcher Voraussetzung kann der Auftraggeber auf die &amp;nbsp;Gew&amp;auml;hrleistungsb&amp;uuml;rgschaft zugreifen?</name>
+      <name lang="en-US">In den Besonderen Vertragsbedingungen eines Bauvertrages wurde eine Sicherheitsleistung durch Einbehalt von Zahlungen gem&amp;auml;&amp;szlig; &amp;sect; 17 VOB/B vereinbart.&lt;br&gt;Die gesamte H&amp;ouml;he der Sicherheitsleistung betr&amp;auml;gt 5 % von der Auftragssumme f&amp;uuml;r M&amp;auml;ngelanspr&amp;uuml;che.&lt;br&gt;Unter welcher Voraussetzung kann der Auftraggeber auf die Gew&amp;auml;hrleistungsb&amp;uuml;rgschaft zugreifen?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -29,7 +29,7 @@
       </component>
             <component>
         <id>choice_cku1bzav9002w266f4nzrbq57</id>
-        <description lang="en-US">Der Auftraggeber besitzt keinerlei Anspruch auf die Gewährleistungsbürgschaft.</description>
+        <description lang="en-US">Der Auftraggeber besitzt keinerlei Anspruch auf die Gew&amp;auml;hrleistungsb&amp;uuml;rgschaft.</description>
       </component>
             <component>
         <id>choice_cku1bzemz002x266fbetlib6i</id>
@@ -81,7 +81,7 @@
       </component>
             <component>
         <id>choice_cktbu769a004q266ep9k629ff</id>
-        <description lang="en-US">Ger&amp;uuml;ste bis 2m H&amp;ouml;he &amp;uuml;ber Gel&amp;auml;nde oder Fu&amp;szlig;boden</description>
+        <description lang="en-US">Ger&amp;uuml;ste bis 2 m H&amp;ouml;he &amp;uuml;ber Gel&amp;auml;nde oder Fu&amp;szlig;boden</description>
       </component>
             <component>
         <id>choice_cktbu769a004r266e93e6ti45</id>
