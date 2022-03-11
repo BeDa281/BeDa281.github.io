@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://z6Nu9s8o5waWhbNu1wrowJXUanYOYUGi_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildung durchführen - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://z6Nu9s8o5waWhbNu1wrowJXUanYOYUGi_rise/JR3CW78KE7YDa-eosFgMsGm4kf81KLPo" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://z6Nu9s8o5waWhbNu1wrowJXUanYOYUGi_rise/JR3CW78KE7YDa-eosFgMsGm4kf81KLPo/ckzl75od50003266em6w6nqua" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Durch welche Merkmale sind Richtlernziele gekennzeichnet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzl75od50004266ev7gsugc9</correctResponsePattern>
+            <correctResponsePattern>choice_ckzl75od50007266ego7f07ak</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzl75od50004266ev7gsugc9</id>
+        <description lang="en-US">Sie beziehen sich auf &amp;uuml;bergeordnete Lernziele.</description>
+      </component>
+            <component>
+        <id>choice_ckzl75od50006266ely6vmont</id>
+        <description lang="en-US">Sie beziehen sich auf die Details des Ausbildungsthemas.</description>
+      </component>
+            <component>
+        <id>choice_ckzl75od50007266ego7f07ak</id>
+        <description lang="en-US">Sie geben die Richtung an und sind eher allgemein gehalten.</description>
+      </component>
+            <component>
+        <id>choice_ckzl75od50005266e8zj5gsas</id>
+        <description lang="en-US">Sie beziehen sich auf kleinere Bereiche im Ausbildungsinhalt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://z6Nu9s8o5waWhbNu1wrowJXUanYOYUGi_rise/JR3CW78KE7YDa-eosFgMsGm4kf81KLPo/ckzl77ayx001r266eoe64tnmk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei welchen der folgenden Ziele handelt es sich um Richtlernziele?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzl77ayy001t266ej9wm9wqa</correctResponsePattern>
+            <correctResponsePattern>choice_ckzl77ayy001u266e01zj3ed8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzl77ayy001s266e858wknmj</id>
+        <description lang="en-US">Der Auszubildende soll einen diktierten Gesch&amp;auml;ftsbrief (Angebot) innerhalb von 30 Minuten fehlerfrei mit MS Words schreiben.</description>
+      </component>
+            <component>
+        <id>choice_ckzl77ayy001u266e01zj3ed8</id>
+        <description lang="en-US">Kenntnisse aus dem Bereich Marktforschung erwerben.</description>
+      </component>
+            <component>
+        <id>choice_ckzl77ayy001v266egyju5eir</id>
+        <description lang="en-US">Erstellung eines Formulars nach DIN 5008</description>
+      </component>
+            <component>
+        <id>choice_ckzl77ayy001t266ej9wm9wqa</id>
+        <description lang="en-US">Der Auszubildende soll Kenntnisse der Textverarbeitung erlernen.</description>
+      </component>
+            <component>
+        <id>choice_ckzl7bffn005w266erd2hqocu</id>
+        <description lang="en-US">Der Auszubildende soll erkennen, welche Eigenschaften bestimmte Stoffe haben.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://z6Nu9s8o5waWhbNu1wrowJXUanYOYUGi_rise/JR3CW78KE7YDa-eosFgMsGm4kf81KLPo/ckzl7byhv006t266ed5f15rlo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei welchen der folgenden Ziele handelt es sich um Groblernziele?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzl7byhw006x266eqnsebas2</correctResponsePattern>
+            <correctResponsePattern>choice_ckzl7dji4009w266eomef4qm7</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzl7byhw006u266e9y9rc0x0</id>
+        <description lang="en-US">Der Auszubildende soll einen diktierten Gesch&amp;auml;ftsbrief (Angebot) innerhalb von 30 Minuten fehlerfrei mit MS Words schreiben.</description>
+      </component>
+            <component>
+        <id>choice_ckzl7byhw006w266etp465p4a</id>
+        <description lang="en-US">Kenntnisse aus dem Bereich Marktforschung erwerben.</description>
+      </component>
+            <component>
+        <id>choice_ckzl7byhw006x266eqnsebas2</id>
+        <description lang="en-US">Erstellung eines Formulars nach DIN 5008</description>
+      </component>
+            <component>
+        <id>choice_ckzl7byhw006v266e3g18l5yw</id>
+        <description lang="en-US">Der Auszubildende soll Kenntnisse der Textverarbeitung erlernen.</description>
+      </component>
+            <component>
+        <id>choice_ckzl7dji4009w266eomef4qm7</id>
+        <description lang="en-US">Der Auszubildende soll erkennen, welche Eigenschaften bestimmte Stoffe haben.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://z6Nu9s8o5waWhbNu1wrowJXUanYOYUGi_rise/JR3CW78KE7YDa-eosFgMsGm4kf81KLPo/ckzl7dwwv00ai266edgw5ucrd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei welchen der folgenden Ziele handelt es sich um Feinlernziele?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzl7dwwv00aj266e7nzxtahn</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzl7dwwv00aj266e7nzxtahn</id>
+        <description lang="en-US">Der Auszubildende soll einen diktierten Gesch&amp;auml;ftsbrief (Angebot) innerhalb von 30 Minuten fehlerfrei mit MS Words schreiben.</description>
+      </component>
+            <component>
+        <id>choice_ckzl7dwwv00al266euavm8rd8</id>
+        <description lang="en-US">Kenntnisse aus dem Bereich Marktforschung erwerben.</description>
+      </component>
+            <component>
+        <id>choice_ckzl7dwwv00am266e5k9bepal</id>
+        <description lang="en-US">Erstellung eines Formulars nach DIN 5008</description>
+      </component>
+            <component>
+        <id>choice_ckzl7dwwv00ak266e3ue8lf22</id>
+        <description lang="en-US">Der Auszubildende soll Kenntnisse der Textverarbeitung erlernen.</description>
+      </component>
+            <component>
+        <id>choice_ckzl7fbi300co266ebo8wwz56</id>
+        <description lang="en-US">Der Auszubildende soll erkennen, welche Eigenschaften bestimmte Stoffe haben.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://z6Nu9s8o5waWhbNu1wrowJXUanYOYUGi_rise/JR3CW78KE7YDa-eosFgMsGm4kf81KLPo/ckzl7h01a00ge266eptmlhu4r" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der genannten Beispiele sind darbietende Ausbildungsmethoden?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzl7h01b00gg266e04xpsmwn</correctResponsePattern>
+            <correctResponsePattern>choice_ckzl7h01b00gh266ez0xf5jco</correctResponsePattern>
+            <correctResponsePattern>choice_ckzl7h01b00gi266e2bb4i8gn</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzl7h01b00gf266ew766yvng</id>
+        <description lang="en-US">Brainstorming</description>
+      </component>
+            <component>
+        <id>choice_ckzl7h01b00gh266ez0xf5jco</id>
+        <description lang="en-US">Vortrag</description>
+      </component>
+            <component>
+        <id>choice_ckzl7h01b00gi266e2bb4i8gn</id>
+        <description lang="en-US">Vorf&amp;uuml;hrung eines Videos</description>
+      </component>
+            <component>
+        <id>choice_ckzl7h01b00gg266e04xpsmwn</id>
+        <description lang="en-US">Vier-Stufen Methode</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://z6Nu9s8o5waWhbNu1wrowJXUanYOYUGi_rise/JR3CW78KE7YDa-eosFgMsGm4kf81KLPo/ckzl7i6nh00i6266e1if69pa9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was ist unter Mindmap-Methode zu verstehen?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzl7i6ni00i7266eulefh6j8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzl7i6ni00i7266eulefh6j8</id>
+        <description lang="en-US">Eine spezielle Technik zum Erschlie&amp;szlig;en und visuellen Darstellen eines Themengebietes</description>
+      </component>
+            <component>
+        <id>choice_ckzl7i6ni00i9266eamc25tud</id>
+        <description lang="en-US">Eine darbietende Ausbildungsmethode</description>
+      </component>
+            <component>
+        <id>choice_ckzl7i6ni00ia266ep8jea7le</id>
+        <description lang="en-US">Ein anderer Ausdruck f&amp;uuml;r &amp;bdquo;Brainstorming&amp;ldquo;</description>
+      </component>
+            <component>
+        <id>choice_ckzl7i6ni00i8266ellb5rj6x</id>
+        <description lang="en-US">Ein Rollenspiel</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://z6Nu9s8o5waWhbNu1wrowJXUanYOYUGi_rise/JR3CW78KE7YDa-eosFgMsGm4kf81KLPo/ckzlkyaqb0003266erevczetk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie folgende Ausbildungsmethoden der &lt;strong&gt;Darbietende Ausbildungsmethode&amp;nbsp;&lt;/strong&gt;zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzlkyaqc0006266e9m15ijfp</correctResponsePattern>
+            <correctResponsePattern>choice_ckzlkyaqc0007266eaec304hf</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzlkyaqc0004266e9bu0sgej</id>
+        <description lang="en-US">Rollenspiel</description>
+      </component>
+            <component>
+        <id>choice_ckzlkyaqc0006266e9m15ijfp</id>
+        <description lang="en-US">Vier-Stufen-Methode</description>
+      </component>
+            <component>
+        <id>choice_ckzlkyaqc0007266eaec304hf</id>
+        <description lang="en-US">Pr&amp;auml;sentation</description>
+      </component>
+            <component>
+        <id>choice_ckzlkyaqc0005266e7qe9mhun</id>
+        <description lang="en-US">Moderierte Gruppendiskussion</description>
+      </component>
+            <component>
+        <id>choice_ckzlkz486001o266e4wojxd5j</id>
+        <description lang="en-US">Leittext-Methode</description>
+      </component>
+            <component>
+        <id>choice_ckzlkz7vr001z266e340u5fyu</id>
+        <description lang="en-US">Lehrgespr&amp;auml;ch</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://z6Nu9s8o5waWhbNu1wrowJXUanYOYUGi_rise/JR3CW78KE7YDa-eosFgMsGm4kf81KLPo/ckzlkzwxk002r266eo0nls1jr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie folgende Ausbildungsmethoden der &lt;strong&gt;Besprechende Ausbildungsmethode &lt;/strong&gt;zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzlkzwxl002s266efulczzc5</correctResponsePattern>
+            <correctResponsePattern>choice_ckzll0o6u0032266ess6w3im3</correctResponsePattern>
+            <correctResponsePattern>choice_ckzll0v630034266eykp0lc1l</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzlkzwxl002s266efulczzc5</id>
+        <description lang="en-US">Rollenspiel</description>
+      </component>
+            <component>
+        <id>choice_ckzlkzwxl002t266ezwuap7ar</id>
+        <description lang="en-US">Vier-Stufen-Methode</description>
+      </component>
+            <component>
+        <id>choice_ckzll0jt60031266e3mro8u7t</id>
+        <description lang="en-US">Pr&amp;auml;sentation</description>
+      </component>
+            <component>
+        <id>choice_ckzll0o6u0032266ess6w3im3</id>
+        <description lang="en-US">Moderierte Gruppendiskussion</description>
+      </component>
+            <component>
+        <id>choice_ckzll0ryo0033266ecbbwo6yl</id>
+        <description lang="en-US">Leittext-Methode</description>
+      </component>
+            <component>
+        <id>choice_ckzll0v630034266eykp0lc1l</id>
+        <description lang="en-US">Lehrgespr&amp;auml;ch</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://z6Nu9s8o5waWhbNu1wrowJXUanYOYUGi_rise/JR3CW78KE7YDa-eosFgMsGm4kf81KLPo/ckzll1euy003h266e8xjymfzo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie folgende Ausbildungsmethoden der &lt;strong&gt;Erarbeitende Ausbildungsmethode &lt;/strong&gt;zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzll24vu004y266ejcml2qqz</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzll1euz003i266e9zyrd7ei</id>
+        <description lang="en-US">Rollenspiel</description>
+      </component>
+            <component>
+        <id>choice_ckzll1euz003k266etkvxq86l</id>
+        <description lang="en-US">Vier-Stufen-Methode</description>
+      </component>
+            <component>
+        <id>choice_ckzll1euz003l266exby4qg8s</id>
+        <description lang="en-US">Pr&amp;auml;sentation</description>
+      </component>
+            <component>
+        <id>choice_ckzll1euz003j266e00jq1i5d</id>
+        <description lang="en-US">Moderierte Gruppendiskussion</description>
+      </component>
+            <component>
+        <id>choice_ckzll24vu004y266ejcml2qqz</id>
+        <description lang="en-US">Leittext-Methode</description>
+      </component>
+            <component>
+        <id>choice_ckzll287v0059266ebreez0fi</id>
+        <description lang="en-US">Lehrgespr&amp;auml;ch</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://z6Nu9s8o5waWhbNu1wrowJXUanYOYUGi_rise/JR3CW78KE7YDa-eosFgMsGm4kf81KLPo/ckzll2lti005u266efj02q1aj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussagen zu einer &lt;strong&gt;moderierten Besprechung &lt;/strong&gt;sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzll2ltj005w266epvxllidz</correctResponsePattern>
+            <correctResponsePattern>choice_ckzll3bn8005x266eu82rmysf</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzll2ltj005v266etpqbhllp</id>
+        <description lang="en-US">Die Leitung der Besprechung &amp;uuml;bernimmt der verantwortliche Ausbilder.</description>
+      </component>
+            <component>
+        <id>choice_ckzll2ltj005w266epvxllidz</id>
+        <description lang="en-US">Die Verantwortung f&amp;uuml;r das Gespr&amp;auml;ch geht weitgehend auf die Auszubildenden &amp;uuml;ber.</description>
+      </component>
+            <component>
+        <id>choice_ckzll3bn8005x266eu82rmysf</id>
+        <description lang="en-US">Die Ergebnisse der Besprechung sollten visualisiert werden, z. B. auf dem Flipchart.</description>
+      </component>
+            <component>
+        <id>choice_ckzll3euo005y266efghpq1ym</id>
+        <description lang="en-US">Der Ausbilder schreibt den Ablauf der Besprechung im engen Rahmen vor.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://LjJ1mUzB-TYgmMiXbW7lY9_7Bkoi9XxM_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildung durchführen - Quiz 5</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://LjJ1mUzB-TYgmMiXbW7lY9_7Bkoi9XxM_rise/Dnx75hT2gfB1qz3dPITcnUtB4FdgigSo" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://LjJ1mUzB-TYgmMiXbW7lY9_7Bkoi9XxM_rise/Dnx75hT2gfB1qz3dPITcnUtB4FdgigSo/ckzmk8d940003266ektk34aoe" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Sie &amp;uuml;bernehmen in einem Betrieb einen Auszubildenden. Leo Lafer ist 17 Jahre alt und im zweiten Lehrjahr. Er ist lustlos und teilnahmslos. Er wird von den Gesellen haupts&amp;auml;chlich f&amp;uuml;r Hilfsarbeiten eingesetzt.&lt;br&gt;Wie kann die praktische Ausbildung f&amp;uuml;r Leo verbessert werden?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmk8d940004266e8uap7bmh</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmk8d940005266esdhklfln</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmk8d940004266e8uap7bmh</id>
+        <description lang="en-US">Komplexe Aufgaben werden in Teilaufgaben unterteilt.</description>
+      </component>
+            <component>
+        <id>choice_ckzmk8d940006266en1fbc14q</id>
+        <description lang="en-US">Es werden nur Aufgaben gestellt, die dem Interesse von Leo entgegenkommen.</description>
+      </component>
+            <component>
+        <id>choice_ckzmk8d940007266e5k4es8j2</id>
+        <description lang="en-US">Solange er kein vermehrtes Interesse zeigt, ist er weiter mit Hilfsarbeiten zu besch&amp;auml;ftigen.</description>
+      </component>
+            <component>
+        <id>choice_ckzmk8d940005266esdhklfln</id>
+        <description lang="en-US">Die Einbeziehung in das Team verbessern, sodass er von der Berufserfahrung der Gesellen profitieren kann.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://LjJ1mUzB-TYgmMiXbW7lY9_7Bkoi9XxM_rise/Dnx75hT2gfB1qz3dPITcnUtB4FdgigSo/ckzmkb5au002c266ew6ir0cfj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die beiden Auszubildenden Nina (16 Jahre) und Ole (17 Jahre) haben ihre Ausbildungen gerade begonnen und zeigen mitunter Erm&amp;uuml;dungserscheinungen.&lt;br&gt;Woran k&amp;ouml;nnte das liegen?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmkb5au002d266ex89026q5</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmkb5au002f266ena28ggo9</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmkb5au002g266ebspf1sd8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmkb5au002d266ex89026q5</id>
+        <description lang="en-US">Sie haben sich noch nicht an die k&amp;ouml;rperlichen Anforderungen des Berufes gew&amp;ouml;hnt.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkb5au002f266ena28ggo9</id>
+        <description lang="en-US">Die beiden Auszubildenden sind noch in der k&amp;ouml;rperlichen Entwicklung.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkb5au002g266ebspf1sd8</id>
+        <description lang="en-US">Sie finden die zugeteilten Aufgaben langweilig.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkb5au002e266egx70zfnb</id>
+        <description lang="en-US">Die Auszubildenden haben den falschen Ausbildungsberuf gew&amp;auml;hlt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://LjJ1mUzB-TYgmMiXbW7lY9_7Bkoi9XxM_rise/Dnx75hT2gfB1qz3dPITcnUtB4FdgigSo/ckzmkcfgj004e266ewsnszmqo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">W&amp;auml;hrend der vereinbarten Probezeit von 3 Monaten ist die neue Auszubildende Melissa 32 Tage krank. Sie m&amp;ouml;chte deshalb die Probezeit verl&amp;auml;ngern. Ist das m&amp;ouml;glich?&lt;br&gt;Welche Aussage ist richtig?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmkcfgj004i266elwks0hs4</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmkcfgj004f266ecnl64s2i</id>
+        <description lang="en-US">Die Probezeit kann nicht verl&amp;auml;ngert werden.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkcfgj004h266eyuim6skm</id>
+        <description lang="en-US">Eine so lange Krankheit in der Probezeit f&amp;uuml;hrt automatisch zu einer fristlosen K&amp;uuml;ndigung.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkcfgj004i266elwks0hs4</id>
+        <description lang="en-US">Eine Verl&amp;auml;ngerung ist m&amp;ouml;glich, da Melissa 1/3 der Probezeit krank ist und wenn diese M&amp;ouml;glichkeit vorher vereinbart wurde.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkcfgj004g266ejb76s3k8</id>
+        <description lang="en-US">Eine Verl&amp;auml;ngerung um h&amp;ouml;chstens 2 Wochen aufgrund von Krankheit ist nach dem Berufsbildungsgesetz (BBiG) m&amp;ouml;glich.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://LjJ1mUzB-TYgmMiXbW7lY9_7Bkoi9XxM_rise/Dnx75hT2gfB1qz3dPITcnUtB4FdgigSo/ckzmkeo3x008j266eo2azvjok" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Sie sind f&amp;uuml;r die Ausbildung von 3 neuen KFZ- Mechatronikern zust&amp;auml;ndig, die sich noch in der Probezeit befinden. Sie haben die Azubis angewiesen, ihre Ausbildungsnachweise regelm&amp;auml;&amp;szlig;ig zum Wochenanfang vorzulegen. Das klappt auch ganz gut. Nur Marcel Klee h&amp;auml;lt sich nicht daran. Nach einem Hinweis Ihrerseits sind jetzt 3 Wochen vergangen. Jetzt haben Sie Marcel Klee in Ihr B&amp;uuml;ro bestellt.&lt;br&gt;&lt;br&gt;Welche Vorbereitungen auf das Gespr&amp;auml;ch w&amp;auml;ren sinnvoll?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmkeo3x008l266e73s53hes</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmkeo3x008m266eoqvo3ftp</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmkeo3x008n266esldkh0e6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmkeo3x008k266emhxo9yr2</id>
+        <description lang="en-US">Sie &amp;uuml;berlegen sich Strafen, falls Marcel Klee mit Ausreden sein Handeln entschuldigen will.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkeo3x008m266eoqvo3ftp</id>
+        <description lang="en-US">Sie nehmen sich Zeit f&amp;uuml;r das Gespr&amp;auml;ch.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkeo3x008n266esldkh0e6</id>
+        <description lang="en-US">Sie sorgen daf&amp;uuml;r, dass das Gespr&amp;auml;ch ohne St&amp;ouml;rungen stattfinden kann.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkeo3x008l266e73s53hes</id>
+        <description lang="en-US">Sie nennen Marcel Klee den Grund f&amp;uuml;r das Gespr&amp;auml;ch, damit er sich dazu Gedanken machen kann.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://LjJ1mUzB-TYgmMiXbW7lY9_7Bkoi9XxM_rise/Dnx75hT2gfB1qz3dPITcnUtB4FdgigSo/ckzmkg9cd00bo266ek68pxygt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Sie sind f&amp;uuml;r die Ausbildung von 3 neuen KFZ- Mechatronikern zust&amp;auml;ndig, die sich noch in der Probezeit befinden. Sie haben die Azubis angewiesen, ihre Ausbildungsnachweise regelm&amp;auml;&amp;szlig;ig zum Wochenanfang vorzulegen. Das klappt auch ganz gut. Nur Marcel Klee h&amp;auml;lt sich nicht daran. Nach einem Hinweis Ihrerseits sind jetzt 3 Wochen vergangen. Jetzt haben Sie Marcel Klee in Ihr B&amp;uuml;ro bestellt.&lt;br&gt;Welche rechtlichen Argumente k&amp;ouml;nnen Sie bez&amp;uuml;glich der Pflicht zur F&amp;uuml;hrung des Ausbildungsnachweises nennen? </name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmkg9ce00bp266en03yig1m</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmkg9ce00bq266efne2115i</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmkg9ce00bp266en03yig1m</id>
+        <description lang="en-US">Das ordentliche F&amp;uuml;hren und Vorlegen steht im Berufsausbildungsvertrag, den Marcel Klee unterschrieben hat.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkg9ce00br266eskwbdlru</id>
+        <description lang="en-US">Die Berufsschulordnung der L&amp;auml;nder schreibt die F&amp;uuml;hrung des Ausbildungsnachweises vor.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkg9ce00bs266ebabrrh4y</id>
+        <description lang="en-US">Die zust&amp;auml;ndige Stelle / Kammer kontrolliert in regelm&amp;auml;&amp;szlig;igen Abst&amp;auml;nden die Ausbildungsnachweise. Bei Nichtvorliegen kann das Ausbildungsverh&amp;auml;ltnis annulliert werden.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkg9ce00bq266efne2115i</id>
+        <description lang="en-US">Laut Berufsbildungsgesetz (BBiG) ist das Vorlegen der Ausbildungsnachweise eine Voraussetzung f&amp;uuml;r die Zulassung zur Abschlusspr&amp;uuml;fung.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://LjJ1mUzB-TYgmMiXbW7lY9_7Bkoi9XxM_rise/Dnx75hT2gfB1qz3dPITcnUtB4FdgigSo/ckzmkhhol00dn266ev53wq3z8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Sie sind f&amp;uuml;r die Ausbildung von 3 neuen KFZ- Mechatronikern zust&amp;auml;ndig, die sich noch in der Probezeit befinden. Sie haben die Azubis angewiesen, ihre Ausbildungsnachweise regelm&amp;auml;&amp;szlig;ig zum Wochenanfang vorzulegen. Das klappt auch ganz gut. Nur Marcel Klee h&amp;auml;lt sich nicht daran. Nach einem Hinweis Ihrerseits sind jetzt 3 Wochen vergangen. Jetzt haben Sie Marcel Klee in Ihr B&amp;uuml;ro bestellt.&lt;br&gt;Welche Punkte k&amp;ouml;nnten zu einem guten, wirkungsvollen Gespr&amp;auml;chsablauf beitragen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmkhhol00do266evy2mxkx4</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmkhhol00dp266e4w9s3tht</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmkhhol00do266evy2mxkx4</id>
+        <description lang="en-US">Eine freundliche Begr&amp;uuml;&amp;szlig;ung</description>
+      </component>
+            <component>
+        <id>choice_ckzmkhhol00dq266em7vkt2o0</id>
+        <description lang="en-US">Sie drohen gleich zu Beginn des Gespr&amp;auml;ches mit Konsequenzen f&amp;uuml;r sein Verhalten.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkhhol00dr266en8vsfrdk</id>
+        <description lang="en-US">Sie stellen klar, dass Ihre Anweisungen sofort zu befolgen sind.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkhhol00dp266e4w9s3tht</id>
+        <description lang="en-US">Das Gespr&amp;auml;ch wird mit einer Zusage zum F&amp;uuml;hren des Ausbildungsnachweises beendet. Die Konsequenzen bei nochmaligen Verst&amp;ouml;&amp;szlig;en werden aufgezeigt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://LjJ1mUzB-TYgmMiXbW7lY9_7Bkoi9XxM_rise/Dnx75hT2gfB1qz3dPITcnUtB4FdgigSo/ckzmkkduz00hk266ets8tcir4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Eine Jugendliche muss heute bis 20.00 Uhr arbeiten. Ab wann darf sie morgen wieder besch&amp;auml;ftigt werden?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmkl14900io266e3mvenn6i</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmkkdv000hl266ettwpy9rg</id>
+        <description lang="en-US">Ab 6 Uhr</description>
+      </component>
+            <component>
+        <id>choice_ckzmkkdv000hm266env6ibowl</id>
+        <description lang="en-US">Ab 7 Uhr</description>
+      </component>
+            <component>
+        <id>choice_ckzmkl14900io266e3mvenn6i</id>
+        <description lang="en-US">Ab 8 Uhr</description>
+      </component>
+            <component>
+        <id>choice_ckzmkl3cg00ip266eh0au8h39</id>
+        <description lang="en-US">Ab 9 Uhr</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://LjJ1mUzB-TYgmMiXbW7lY9_7Bkoi9XxM_rise/Dnx75hT2gfB1qz3dPITcnUtB4FdgigSo/ckzmklzy600iq266etp9hsnc4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Sie erfahren von der Berufsschule, dass der Auszubildende Nick im letzten Monat 3 Berufsschultage unentschuldigt gefehlt hat. Am letzten Berufsschultag wurde der Unterricht nach der 4. Stunde beendet und Nick h&amp;auml;tte zum Betrieb kommen m&amp;uuml;ssen, was er nicht getan hat.&amp;nbsp;Wie reagieren Sie im rechtlichen Sinne?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmklzy700is266e530y7z3p</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmklzy700ir266eeynlz13w</id>
+        <description lang="en-US">Sie k&amp;uuml;ndigen das Ausbildungsverh&amp;auml;ltnis fristlos.</description>
+      </component>
+            <component>
+        <id>choice_ckzmklzy700it266enptv7ydj</id>
+        <description lang="en-US">Sie k&amp;uuml;ndigen das Ausbildungsverh&amp;auml;ltnis innerhalb der gesetzlichen Frist.</description>
+      </component>
+            <component>
+        <id>choice_ckzmklzy700iu266e5ve8bibg</id>
+        <description lang="en-US">Sie k&amp;uuml;rzen die Ausbildungsverg&amp;uuml;tung um 25 %.</description>
+      </component>
+            <component>
+        <id>choice_ckzmklzy700is266e530y7z3p</id>
+        <description lang="en-US">Sie erteilen eine schriftliche Abmahnung.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://LjJ1mUzB-TYgmMiXbW7lY9_7Bkoi9XxM_rise/Dnx75hT2gfB1qz3dPITcnUtB4FdgigSo/ckzmknfxt00lc266eamx53z17" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Sie erfahren von der Berufsschule, dass der Auszubildende Nick im letzten Monat 3 Berufsschultage unentschuldigt gefehlt hat. Am letzten Berufsschultag wurde der Unterricht nach der 4. Stunde beendet und Nick h&amp;auml;tte zum Betrieb kommen m&amp;uuml;ssen, was er nicht getan hat.&lt;br&gt;Wie reagieren Sie p&amp;auml;dagogisch richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmknfxu00ld266ejq4imjd4</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmkoemg00n0266entdpvca8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmknfxu00ld266ejq4imjd4</id>
+        <description lang="en-US">Sie f&amp;uuml;hren mit Nick ein Gespr&amp;auml;ch, um Gr&amp;uuml;nde f&amp;uuml;r das Fehlen zu erfragen.</description>
+      </component>
+            <component>
+        <id>choice_ckzmknfxu00le266eqgsj5m4v</id>
+        <description lang="en-US">Sie lassen es bei der Abmahnung beruhen.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkoemg00n0266entdpvca8</id>
+        <description lang="en-US">Sie nehmen mit der Berufsschule Kontakt auf. Vielleicht liegen die Gr&amp;uuml;nde dort.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkojrd00nc266efbg7yv8o</id>
+        <description lang="en-US">Sie forschen im privaten Umfeld von Nick nach Gr&amp;uuml;nden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://LjJ1mUzB-TYgmMiXbW7lY9_7Bkoi9XxM_rise/Dnx75hT2gfB1qz3dPITcnUtB4FdgigSo/ckzmkownb00o2266ebwp3o1r3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ihre Auszubildende Malin Sch&amp;ouml;n ist vor kurzer Zeit vollj&amp;auml;hrig geworden. Sie meint, jetzt nicht mehr zur Berufsschule gehen zu m&amp;uuml;ssen. Hat sie damit Recht?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmkownc00o3266eggq9db7s</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmkownc00o3266eggq9db7s</id>
+        <description lang="en-US">Malin ist berufsschulpflichtig.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkownc00o5266ec2g4be8b</id>
+        <description lang="en-US">Malin ist nicht berufsschulpflichtig, da sie jetzt vollj&amp;auml;hrig ist.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkownc00o6266ezzgb8py9</id>
+        <description lang="en-US">Malin Sch&amp;ouml;n kann sich mit Erlaubnis des Betriebes vom Besuch der Berufsschule freistellen lassen.</description>
+      </component>
+            <component>
+        <id>choice_ckzmkownc00o4266elyw60wbt</id>
+        <description lang="en-US">Wenn sie einen Schulabschluss (z. B. Mittlere Reife) besitzt, entf&amp;auml;llt die Berufsschulpflicht.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

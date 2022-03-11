@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://FOgqbc2RH5H9RBiIybiyD3PBkHVmJJFq_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildung durchführen - Quiz 4</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://FOgqbc2RH5H9RBiIybiyD3PBkHVmJJFq_rise/xfVjqfgg9Wa5GRK1jYVoc4f5A0meeCBY" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://FOgqbc2RH5H9RBiIybiyD3PBkHVmJJFq_rise/xfVjqfgg9Wa5GRK1jYVoc4f5A0meeCBY/ckzmio0zn0003266ezqey81nk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Beispiele k&amp;ouml;nnen zu einer Verl&amp;auml;ngerung der Ausbildungszeit f&amp;uuml;hren?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmio0zn0004266ek3239qk2</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmiopmn000w266e30arbsf2</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmio0zn0004266ek3239qk2</id>
+        <description lang="en-US">Verl&amp;auml;ngerung nach einer nicht bestandenen Abschlusspr&amp;uuml;fung.</description>
+      </component>
+            <component>
+        <id>choice_ckzmio0zn0005266eadqf23s8</id>
+        <description lang="en-US">Verl&amp;auml;ngerung nach einer nicht bestandenen Zwischenpr&amp;uuml;fung.</description>
+      </component>
+            <component>
+        <id>choice_ckzmiopmn000w266e30arbsf2</id>
+        <description lang="en-US">Verl&amp;auml;ngerung aufgrund l&amp;auml;ngerer, vom Auszubildenden nicht zu vertretenden, Ausfallzeiten (z. B. Krankheit).</description>
+      </component>
+            <component>
+        <id>choice_ckzmiotyw0017266ebt6qn9la</id>
+        <description lang="en-US">Verl&amp;auml;ngerung, um eine bessere Pr&amp;uuml;fungsnote durch eine bessere Vorbereitung zu erreichen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOgqbc2RH5H9RBiIybiyD3PBkHVmJJFq_rise/xfVjqfgg9Wa5GRK1jYVoc4f5A0meeCBY/ckzmip1de001l266e4xno9bqc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wer muss den Antrag auf Verl&amp;auml;ngerung des Ausbildungsverh&amp;auml;ltnisses stellen?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmip1df001m266e5q8gp6ll</id>
+        <description lang="en-US">Der Ausbildende</description>
+      </component>
+            <component>
+        <id>choice_ckzmip1df001o266ekb9lgzkw</id>
+        <description lang="en-US">Die Berufsschule</description>
+      </component>
+            <component>
+        <id>choice_ckzmip1df001p266e7worssk4</id>
+        <description lang="en-US">Der beauftragte Ausbilder zusammen mit dem Ausbildungsbetrieb</description>
+      </component>
+            <component>
+        <id>choice_ckzmip1df001n266e17qhz6y4</id>
+        <description lang="en-US">Der Auszubildende</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOgqbc2RH5H9RBiIybiyD3PBkHVmJJFq_rise/xfVjqfgg9Wa5GRK1jYVoc4f5A0meeCBY/ckzmiqdu50025266eqtxtbwtp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wann sollten Lernerfolgskontrollen vorgenommen werden?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmiqdu50027266ex3xgje01</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmiqdu50028266ewvy53z67</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmiqdu50026266e64mvaykr</id>
+        <description lang="en-US">J&amp;auml;hrlich</description>
+      </component>
+            <component>
+        <id>choice_ckzmiqdu50028266ewvy53z67</id>
+        <description lang="en-US">Nach jeder gr&amp;ouml;&amp;szlig;eren Ausbildungseinheit</description>
+      </component>
+            <component>
+        <id>choice_ckzmiqdu50029266exzez457o</id>
+        <description lang="en-US">Nur vor den Pr&amp;uuml;fungen (Zwischenpr&amp;uuml;fung, Abschlusspr&amp;uuml;fung)</description>
+      </component>
+            <component>
+        <id>choice_ckzmiqdu50027266ex3xgje01</id>
+        <description lang="en-US">Nach kleineren Ausbildungseinheiten (Zwischenkontrolle)</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOgqbc2RH5H9RBiIybiyD3PBkHVmJJFq_rise/xfVjqfgg9Wa5GRK1jYVoc4f5A0meeCBY/ckzmirgti003x266ertim8ll6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Kriterien sind bei der Beurteilung von Auszubildenden anzuwenden?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmirgti003y266eg0ntfakq</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmirgti003z266eaea140n3</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmirgti0040266e38r836ty</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmirgti003y266eg0ntfakq</id>
+        <description lang="en-US">Lernverhalten</description>
+      </component>
+            <component>
+        <id>choice_ckzmirgti0040266e38r836ty</id>
+        <description lang="en-US">Lernf&amp;auml;higkeit</description>
+      </component>
+            <component>
+        <id>choice_ckzmirgti0041266e2stzdzs0</id>
+        <description lang="en-US">F&amp;uuml;hrungsstil</description>
+      </component>
+            <component>
+        <id>choice_ckzmirgti003z266eaea140n3</id>
+        <description lang="en-US">Selbst&amp;auml;ndigkeit</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOgqbc2RH5H9RBiIybiyD3PBkHVmJJFq_rise/xfVjqfgg9Wa5GRK1jYVoc4f5A0meeCBY/ckzmis8up005g266exenvinz1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Eigenschaften sind gebundene Beurteilung?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmis8up005h266ecbw2c3oe</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmis8up005j266eb9835mab</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmis8up005k266eihac78e5</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmiu60g0079266evw0zz7yo</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmis8up005h266ecbw2c3oe</id>
+        <description lang="en-US">Zeitsparend</description>
+      </component>
+            <component>
+        <id>choice_ckzmis8up005j266eb9835mab</id>
+        <description lang="en-US">Weniger subjektiv</description>
+      </component>
+            <component>
+        <id>choice_ckzmis8up005k266eihac78e5</id>
+        <description lang="en-US">Erh&amp;ouml;hung der Vergleichbarkeit</description>
+      </component>
+            <component>
+        <id>choice_ckzmis8up005i266ejzmp3ubw</id>
+        <description lang="en-US">Gr&amp;ouml;&amp;szlig;erer Beurteilungsspielraum</description>
+      </component>
+            <component>
+        <id>choice_ckzmiu60g0079266evw0zz7yo</id>
+        <description lang="en-US">Erfassung wesentlicher Merkmale</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOgqbc2RH5H9RBiIybiyD3PBkHVmJJFq_rise/xfVjqfgg9Wa5GRK1jYVoc4f5A0meeCBY/ckzmiueip007v266ejjreokha" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Eigenschaften sind freie Beurteilung?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmiueiq007x266eyq766kkx</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmiueiq007w266eqwpen0o2</id>
+        <description lang="en-US">Zeitsparend</description>
+      </component>
+            <component>
+        <id>choice_ckzmiueiq007y266ekimzvuhj</id>
+        <description lang="en-US">Weniger subjektiv</description>
+      </component>
+            <component>
+        <id>choice_ckzmiueiq007z266e9kzit2i9</id>
+        <description lang="en-US">Erh&amp;ouml;hung der Vergleichbarkeit</description>
+      </component>
+            <component>
+        <id>choice_ckzmiueiq007x266eyq766kkx</id>
+        <description lang="en-US">Gr&amp;ouml;&amp;szlig;erer Beurteilungsspielraum</description>
+      </component>
+            <component>
+        <id>choice_ckzmiv7nr009o266egj407lhb</id>
+        <description lang="en-US">Erfassung wesentlicher Merkmale</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOgqbc2RH5H9RBiIybiyD3PBkHVmJJFq_rise/xfVjqfgg9Wa5GRK1jYVoc4f5A0meeCBY/ckzmivni600ag266eecm7b7ji" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was bedeutet die &amp;bdquo;Tendenz zur Mitte&amp;ldquo; bei einer Beurteilung?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmivni600ah266e2oywy9z6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmivni600ah266e2oywy9z6</id>
+        <description lang="en-US">Besonders gute bzw. schlechte Bewertungen werden vermieden.</description>
+      </component>
+            <component>
+        <id>choice_ckzmivni600ai266eevsgzs84</id>
+        <description lang="en-US">Es wird ein sehr hoher Ma&amp;szlig;stab bei der Bewertung angelegt.</description>
+      </component>
+            <component>
+        <id>choice_ckzmiw6dx00aj266exoaxwwat</id>
+        <description lang="en-US">Ein Auszubildender soll durch die Beurteilung &amp;bdquo;gef&amp;uuml;gig&amp;ldquo; gemacht werden.</description>
+      </component>
+            <component>
+        <id>choice_ckzmiw9ky00ak266ej8nuxb2i</id>
+        <description lang="en-US">Der Beurteiler orientiert sich sehr stark an vorherigen Beurteilungen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOgqbc2RH5H9RBiIybiyD3PBkHVmJJFq_rise/xfVjqfgg9Wa5GRK1jYVoc4f5A0meeCBY/ckzmiwo1900al266e99x36uyn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussagen zum Beurteilungsbogen sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmiwo1a00an266eu6xxiyr4</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmiwo1a00ao266egcep408g</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmiwo1a00ap266ekm9d98bn</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmiwo1a00am266eqw9ix27v</id>
+        <description lang="en-US">Mit der Unterschrift best&amp;auml;tigt der Auszubildende seine Zustimmung.</description>
+      </component>
+            <component>
+        <id>choice_ckzmiwo1a00ao266egcep408g</id>
+        <description lang="en-US">Mit der Unterschrift best&amp;auml;tigt der Auszubildende die Kenntnisnahme.</description>
+      </component>
+            <component>
+        <id>choice_ckzmiwo1a00ap266ekm9d98bn</id>
+        <description lang="en-US">Der Auszubildende hat ein Recht auf Er&amp;ouml;rterung der Beurteilung.</description>
+      </component>
+            <component>
+        <id>choice_ckzmiwo1a00an266eu6xxiyr4</id>
+        <description lang="en-US">Der Auszubildende kann ein Mitglied des Betriebsrates zur Er&amp;ouml;rterung hinzuziehen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOgqbc2RH5H9RBiIybiyD3PBkHVmJJFq_rise/xfVjqfgg9Wa5GRK1jYVoc4f5A0meeCBY/ckzmixxnx00cl266efcp2ji3w" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Sie &amp;uuml;bernehmen in einem Betrieb einen Auszubildenden. Leo Lafer ist 17 Jahre alt und im zweiten Lehrjahr. Er ist lustlos und teilnahmslos. Er wird von den Gesellen haupts&amp;auml;chlich f&amp;uuml;r Hilfsarbeiten eingesetzt.&amp;nbsp;Was kann zu diesem Verhalten gef&amp;uuml;hrt haben?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmixxnx00cm266en1k348c4</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmixxnx00cn266edxtus09o</correctResponsePattern>
+            <correctResponsePattern>choice_ckzmiytnv00do266epf2bo87s</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmixxnx00cm266en1k348c4</id>
+        <description lang="en-US">Leo hat die Freude an der Arbeit und somit das Interesse verloren.</description>
+      </component>
+            <component>
+        <id>choice_ckzmixxnx00cn266edxtus09o</id>
+        <description lang="en-US">Leo wird von den Gesellen nur f&amp;uuml;r Hilfsarbeiten eingesetzt und wird somit nicht motiviert.</description>
+      </component>
+            <component>
+        <id>choice_ckzmiypuy00dd266enopaib2y</id>
+        <description lang="en-US">Die Berufsschule hat vers&amp;auml;umt, seinen Ehrgeiz zu wecken.</description>
+      </component>
+            <component>
+        <id>choice_ckzmiytnv00do266epf2bo87s</id>
+        <description lang="en-US">Leo hat keine Gelegenheit, qualifizierte Aufgaben zu bearbeiten und Erfolgserlebnisse zu generieren.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FOgqbc2RH5H9RBiIybiyD3PBkHVmJJFq_rise/xfVjqfgg9Wa5GRK1jYVoc4f5A0meeCBY/ckzmizaxh00eg266e4fxhy51g" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Situation: Sie &amp;uuml;bernehmen in einem Betrieb einen Auszubildenden. Leo Lafer ist 17 Jahre alt und im zweiten Lehrjahr. Er ist lustlos und teilnahmslos. Er wird von den Gesellen haupts&amp;auml;chlich f&amp;uuml;r Hilfsarbeiten eingesetzt.&lt;br&gt;Wie kann die Ausbildungssituation f&amp;uuml;r Leo ver&amp;auml;ndert werden?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzmizaxi00eh266ez15eu1mk</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzmizaxi00eh266ez15eu1mk</id>
+        <description lang="en-US">Alle Beteiligten - auch die Gesellen - m&amp;uuml;ssen sich verantwortungsvoll an der Ausbildung von Leo beteiligen.</description>
+      </component>
+            <component>
+        <id>choice_ckzmizaxi00ej266eq2d8qm97</id>
+        <description lang="en-US">Die Eltern m&amp;uuml;ssen eingebunden werden, um Leo zum Erfolg der Ausbildung zu verhelfen.</description>
+      </component>
+            <component>
+        <id>choice_ckzmizaxi00ek266ei2e8gmr8</id>
+        <description lang="en-US">Die Berufsschule muss Leo st&amp;auml;rker motivieren.</description>
+      </component>
+            <component>
+        <id>choice_ckzmizaxi00ei266eko06ic8a</id>
+        <description lang="en-US">Leo muss vermittelt werden, dass er st&amp;auml;rker eine qualifizierte Ausbildung fordern muss.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

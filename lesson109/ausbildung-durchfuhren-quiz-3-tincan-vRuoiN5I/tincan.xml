@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://CjC5ob5inUxAmD1dVRRz7RY744MUPqAc_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildung durchführen - Quiz 3</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://CjC5ob5inUxAmD1dVRRz7RY744MUPqAc_rise/25Nl09X_oHt5M1tvuLpeUOrg0LUX_yn8" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://CjC5ob5inUxAmD1dVRRz7RY744MUPqAc_rise/25Nl09X_oHt5M1tvuLpeUOrg0LUX_yn8/ckzllksbo0003266egcrxi4yu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Ausbildungsmittel sind vom Betrieb kostenlos bereit zu stellen?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzllksbo0004266e3sglo63v</correctResponsePattern>
+            <correctResponsePattern>choice_ckzllld6k0007266e1uo6190v</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzllksbo0004266e3sglo63v</id>
+        <description lang="en-US">Fachb&amp;uuml;cher f&amp;uuml;r die Berufsschule</description>
+      </component>
+            <component>
+        <id>choice_ckzllksbo0005266eyl9p02pc</id>
+        <description lang="en-US">Fachb&amp;uuml;cher, die betrieblich genutzt werden.</description>
+      </component>
+            <component>
+        <id>choice_ckzlll9sn0006266e18g4ymzz</id>
+        <description lang="en-US">Fachb&amp;uuml;cher, die nicht betrieblich genutzt werden.</description>
+      </component>
+            <component>
+        <id>choice_ckzllld6k0007266e1uo6190v</id>
+        <description lang="en-US">Berichtshefte (Ausbildungsnachweise)</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CjC5ob5inUxAmD1dVRRz7RY744MUPqAc_rise/25Nl09X_oHt5M1tvuLpeUOrg0LUX_yn8/ckzlllupg000g266ebtmqw7kk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussagen zur Gruppenarbeit sind richtig?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzlllupg000j266exqgoxtca</correctResponsePattern>
+            <correctResponsePattern>choice_ckzlllupg000k266exq5bkipr</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzlllupg000h266e46o45rih</id>
+        <description lang="en-US">Gruppenarbeit wirkt f&amp;uuml;r die Beteiligten h&amp;auml;ufig demotivierend.</description>
+      </component>
+            <component>
+        <id>choice_ckzlllupg000j266exqgoxtca</id>
+        <description lang="en-US">Es werden soziale Verhaltensweisen gef&amp;ouml;rdert.</description>
+      </component>
+            <component>
+        <id>choice_ckzlllupg000k266exq5bkipr</id>
+        <description lang="en-US">W&amp;auml;hrend der Gruppenarbeit steht der Ausbilder als Berater zur Verf&amp;uuml;gung.</description>
+      </component>
+            <component>
+        <id>choice_ckzlllupg000i266ebzyi2wyn</id>
+        <description lang="en-US">W&amp;auml;hrend der Gruppenarbeit sollte der Ausbilder m&amp;ouml;glichst h&amp;auml;ufig Korrekturen vornehmen, um das gew&amp;uuml;nschte Ergebnis schnell zu erreichen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CjC5ob5inUxAmD1dVRRz7RY744MUPqAc_rise/25Nl09X_oHt5M1tvuLpeUOrg0LUX_yn8/ckzllml5h0024266eku10lmox" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In der Gruppe redet Finn oft dazwischen und f&amp;auml;llt durch albernes Verhalten auf. Was will er vermutlich damit bezwecken?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzllml5h0025266e8gcfgiu3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzllml5h0025266e8gcfgiu3</id>
+        <description lang="en-US">Er will Aufmerksamkeit erregen.</description>
+      </component>
+            <component>
+        <id>choice_ckzllml5h0027266e9ibafkni</id>
+        <description lang="en-US">Er will sich als Gruppenf&amp;uuml;hrer sehen.</description>
+      </component>
+            <component>
+        <id>choice_ckzllml5h0028266ei25ls9be</id>
+        <description lang="en-US">Er will so auf seine Kompetenz hinweisen.</description>
+      </component>
+            <component>
+        <id>choice_ckzllml5h0026266eb089w8ij</id>
+        <description lang="en-US">Er will die Arbeit der Gruppe sabotieren.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CjC5ob5inUxAmD1dVRRz7RY744MUPqAc_rise/25Nl09X_oHt5M1tvuLpeUOrg0LUX_yn8/ckzllnrbz002p266eytmpk58v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie sollte man Kritik gegen&amp;uuml;ber jugendlichen Auszubildenden &amp;auml;u&amp;szlig;ern?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzlloltc002t266eouafit8d</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzllnrbz002q266eb7f2u3jn</id>
+        <description lang="en-US">Die Kritik sollte sofort und un&amp;uuml;berh&amp;ouml;rbar erfolgen.</description>
+      </component>
+            <component>
+        <id>choice_ckzllnrbz002r266eb3463s4r</id>
+        <description lang="en-US">Es sollten auf alle F&amp;auml;lle die Eltern des Auszubildenden herangezogen werden.</description>
+      </component>
+            <component>
+        <id>choice_ckzlloilq002s266etngptvb7</id>
+        <description lang="en-US">Die Leistung sollte mit der Leistung anderer Jugendlicher verglichen werden.</description>
+      </component>
+            <component>
+        <id>choice_ckzlloltc002t266eouafit8d</id>
+        <description lang="en-US">Die Ursachen f&amp;uuml;r die Fehler sollten gesucht werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CjC5ob5inUxAmD1dVRRz7RY744MUPqAc_rise/25Nl09X_oHt5M1tvuLpeUOrg0LUX_yn8/ckzllp2d3002u266ep7e2q2tj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Felix geh&amp;ouml;rt zu den leistungsschw&amp;auml;cheren Auszubildenden. Er st&amp;ouml;rt den Unterricht. Welche &amp;Auml;u&amp;szlig;erung w&amp;auml;re &amp;ndash; angemessen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzllp2d4002w266eoifyce3m</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzllp2d4002v266efnfza8ag</id>
+        <description lang="en-US">&amp;bdquo;Wenn Du nicht aufh&amp;ouml;rst, setzt es gleich was.&amp;ldquo;</description>
+      </component>
+            <component>
+        <id>choice_ckzllp2d4002w266eoifyce3m</id>
+        <description lang="en-US">&amp;bdquo;&amp;Uuml;ber Dein Verhalten werden wir beide nachher sprechen.&amp;ldquo; Der Unterricht wird fortgef&amp;uuml;hrt.</description>
+      </component>
+            <component>
+        <id>choice_ckzllpn2j002x266e575r4shq</id>
+        <description lang="en-US">&amp;bdquo;&amp;Uuml;ber Dein Verhalten werden wir beide jetzt sprechen.&amp;ldquo; Der Unterricht wird unterbrochen.</description>
+      </component>
+            <component>
+        <id>choice_ckzllpqak002y266e6x73jux7</id>
+        <description lang="en-US">&amp;bdquo;Ich sehe jetzt schon, mit Deiner Pr&amp;uuml;fung wird es nichts!&amp;ldquo;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CjC5ob5inUxAmD1dVRRz7RY744MUPqAc_rise/25Nl09X_oHt5M1tvuLpeUOrg0LUX_yn8/ckzllq6ca002z266ef9lt9gmj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Felix geh&amp;ouml;rt zu den leistungsschw&amp;auml;cheren Auszubildenden. Er st&amp;ouml;rt den Unterricht. Welche &amp;Auml;u&amp;szlig;erung w&amp;auml;re &amp;ndash; &lt;strong&gt;NICHT&amp;nbsp;&lt;/strong&gt;angemessen &amp;nbsp;?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzllq6cb0030266ez8456u9i</correctResponsePattern>
+            <correctResponsePattern>choice_ckzllq6cb0031266ehop437hx</correctResponsePattern>
+            <correctResponsePattern>choice_ckzllq6cb0033266eljh27yzq</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzllq6cb0030266ez8456u9i</id>
+        <description lang="en-US">&amp;bdquo;Wenn Du nicht aufh&amp;ouml;rst, setzt es gleich was.&amp;ldquo;</description>
+      </component>
+            <component>
+        <id>choice_ckzllq6cb0032266e4g926g38</id>
+        <description lang="en-US">&amp;bdquo;&amp;Uuml;ber Dein Verhalten werden wir beide nachher sprechen.&amp;ldquo; Der Unterricht wird fortgef&amp;uuml;hrt.</description>
+      </component>
+            <component>
+        <id>choice_ckzllq6cb0033266eljh27yzq</id>
+        <description lang="en-US">&amp;bdquo;&amp;Uuml;ber Dein Verhalten werden wir beide jetzt sprechen.&amp;ldquo; Der Unterricht wird unterbrochen.</description>
+      </component>
+            <component>
+        <id>choice_ckzllq6cb0031266ehop437hx</id>
+        <description lang="en-US">&amp;bdquo;Ich sehe jetzt schon, mit Deiner Pr&amp;uuml;fung wird es nichts!&amp;ldquo;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CjC5ob5inUxAmD1dVRRz7RY744MUPqAc_rise/25Nl09X_oHt5M1tvuLpeUOrg0LUX_yn8/ckzllrqfo005a266ef4zbrtnu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein neues Thema soll in Gruppenarbeit erarbeitet werden. Sie fordern die Auszubildenden auf, sich selber in Gruppen einzuteilen.&amp;nbsp;Wie wird diese Gruppe bezeichnet?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzllrqfo005e266ev577op9k</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzllrqfo005b266ea5966ikn</id>
+        <description lang="en-US">Eingeteilte Gruppe</description>
+      </component>
+            <component>
+        <id>choice_ckzllrqfo005d266exguc5sk7</id>
+        <description lang="en-US">Ausbildergruppe</description>
+      </component>
+            <component>
+        <id>choice_ckzllrqfo005e266ev577op9k</id>
+        <description lang="en-US">&amp;nbsp;Informelle Gruppe</description>
+      </component>
+            <component>
+        <id>choice_ckzllrqfo005c266evrf8tipp</id>
+        <description lang="en-US">&amp;nbsp;Formelle Gruppe</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CjC5ob5inUxAmD1dVRRz7RY744MUPqAc_rise/25Nl09X_oHt5M1tvuLpeUOrg0LUX_yn8/ckzllt5vg007o266e7dxqa7a8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussagen zu Arbeitsgruppen sind richtig?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzllt5vg007p266ef3pxrnlp</correctResponsePattern>
+            <correctResponsePattern>choice_ckzlltnzm007r266elikevgtt</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzllt5vg007p266ef3pxrnlp</id>
+        <description lang="en-US">Die Gruppenarbeit f&amp;ouml;rdert die Ausbildung von Teamf&amp;auml;higkeit (Schl&amp;uuml;sselqualifikation).</description>
+      </component>
+            <component>
+        <id>choice_ckzllt5vg007q266exhdvm97n</id>
+        <description lang="en-US">Der Auszubildende mit dem besten Fachwissen sollte Gruppensprecher sein.</description>
+      </component>
+            <component>
+        <id>choice_ckzlltnzm007r266elikevgtt</id>
+        <description lang="en-US">Durch Aus&amp;uuml;bung von Druck auf die Gruppe l&amp;auml;sst die Leistung in der Regel nach.</description>
+      </component>
+            <component>
+        <id>choice_ckzlltqnx007s266e2o47og87</id>
+        <description lang="en-US">Durch Aus&amp;uuml;bung von Druck auf die Gruppe l&amp;auml;sst sich die Leistung steigern.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CjC5ob5inUxAmD1dVRRz7RY744MUPqAc_rise/25Nl09X_oHt5M1tvuLpeUOrg0LUX_yn8/ckzllu1eg0081266esov2wvd6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie wollen Ihre Moderation mit Medien unterst&amp;uuml;tzen. Welche Medien w&amp;auml;ren gut geeignet?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzllu1eh0083266e860s3995</correctResponsePattern>
+            <correctResponsePattern>choice_ckzlluq4q009p266ebgyugbf6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzllu1eh0082266ezwggy23c</id>
+        <description lang="en-US">Beamer</description>
+      </component>
+            <component>
+        <id>choice_ckzllu1eh0083266e860s3995</id>
+        <description lang="en-US">Flipchart</description>
+      </component>
+            <component>
+        <id>choice_ckzllunqd009e266eeysdxj9l</id>
+        <description lang="en-US">&amp;nbsp;Videoanlage</description>
+      </component>
+            <component>
+        <id>choice_ckzlluq4q009p266ebgyugbf6</id>
+        <description lang="en-US">Whiteboard</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CjC5ob5inUxAmD1dVRRz7RY744MUPqAc_rise/25Nl09X_oHt5M1tvuLpeUOrg0LUX_yn8/ckzllvank00aa266elos0bxw2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie m&amp;ouml;chten einen Beamer einsetzen. Was haben folgende Angaben zu bedeuten: 1920 x 1080 Pixel, Lichtleistung: 1200 Lumen?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzllvrh300al266eyhu8aplg</correctResponsePattern>
+            <correctResponsePattern>choice_ckzllvanl00ac266e2yh5rqvv</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzllvanl00ab266e4enc8pis</id>
+        <description lang="en-US">Das Bildverh&amp;auml;ltnis betr&amp;auml;gt meist 4 : 3. </description>
+      </component>
+            <component>
+        <id>choice_ckzllvanl00ac266e2yh5rqvv</id>
+        <description lang="en-US">1920 x 1080 Pixel ist die Aufl&amp;ouml;sung. Es gibt die Anzahl der Bildpunkte an.</description>
+      </component>
+            <component>
+        <id>choice_ckzllvrh300al266eyhu8aplg</id>
+        <description lang="en-US">1200 Lumen weist auf die Lichtleistung hin.</description>
+      </component>
+            <component>
+        <id>choice_ckzllvuax00aw266eve26fnkl</id>
+        <description lang="en-US">1200 Lumen bezeichnet den Ger&amp;auml;uschpegel des Ger&amp;auml;tes.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

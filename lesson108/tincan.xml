@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://g8uMJAsKdIF4Zg1TNFsTauqVQ7jidvdl_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildung durchführen - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://g8uMJAsKdIF4Zg1TNFsTauqVQ7jidvdl_rise/Xka3SfJCBb1N-9t5DBFTC1XpYphgWVDJ" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://g8uMJAsKdIF4Zg1TNFsTauqVQ7jidvdl_rise/Xka3SfJCBb1N-9t5DBFTC1XpYphgWVDJ/ckzll5u9b0009266ee3dtprx2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Ziele k&amp;ouml;nnen mit einem Rollenspiel gut erreicht werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzll5u9c000a266e2cpa9xza</correctResponsePattern>
+            <correctResponsePattern>choice_ckzll5u9c000b266ec1gk5s5h</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzll5u9c000a266e2cpa9xza</id>
+        <description lang="en-US">Entwicklung der Kommunikationsf&amp;auml;higkeit.</description>
+      </component>
+            <component>
+        <id>choice_ckzll5u9c000c266eux76r31m</id>
+        <description lang="en-US">Vermittlung der notwendigen Kenntnisse zur schriftlichen Abschlusspr&amp;uuml;fung.</description>
+      </component>
+            <component>
+        <id>choice_ckzll5u9c000d266evu6i7m6c</id>
+        <description lang="en-US">Vermittlung von handwerklichen F&amp;auml;higkeiten.</description>
+      </component>
+            <component>
+        <id>choice_ckzll5u9c000b266ec1gk5s5h</id>
+        <description lang="en-US">Aufbau und Training von Verhaltensweisen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://g8uMJAsKdIF4Zg1TNFsTauqVQ7jidvdl_rise/Xka3SfJCBb1N-9t5DBFTC1XpYphgWVDJ/ckzll6wby001q266efnmhsij5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r welche Ausbildungsinhalte w&amp;auml;re ein Rollenspiel gut geeignet?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzll6wby001s266e7gwnh6mj</correctResponsePattern>
+            <correctResponsePattern>choice_ckzll6wby001t266e58gpe2bw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzll6wby001r266eb3l59o5q</id>
+        <description lang="en-US">Aufbau einer Fertigungsstra&amp;szlig;e</description>
+      </component>
+            <component>
+        <id>choice_ckzll6wby001t266e58gpe2bw</id>
+        <description lang="en-US">&amp;nbsp;F&amp;uuml;hren eines Verkaufsgespr&amp;auml;ches</description>
+      </component>
+            <component>
+        <id>choice_ckzll6wby001u266euqz1307f</id>
+        <description lang="en-US">Funktionsweise des Dieselmotors</description>
+      </component>
+            <component>
+        <id>choice_ckzll6wby001s266e7gwnh6mj</id>
+        <description lang="en-US">&amp;nbsp;Vorbereitung auf die m&amp;uuml;ndliche Pr&amp;uuml;fung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://g8uMJAsKdIF4Zg1TNFsTauqVQ7jidvdl_rise/Xka3SfJCBb1N-9t5DBFTC1XpYphgWVDJ/ckzll8dhk003n266e2fkj2kxx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie k&amp;ouml;nnen Sie einen Kurzvortrag ansprechend gestalten?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzll8dhk003o266esf4hk3w6</correctResponsePattern>
+            <correctResponsePattern>choice_ckzll8dhk003p266e2mgn71sa</correctResponsePattern>
+            <correctResponsePattern>choice_ckzll8dhk003r266ej810fv9y</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzll8dhk003o266esf4hk3w6</id>
+        <description lang="en-US">Gestalten Sie die Einleitung interessant, z. B. mit besonderen Ereignissen zum Thema.</description>
+      </component>
+            <component>
+        <id>choice_ckzll8dhk003q266ex5oqd7jp</id>
+        <description lang="en-US">Benutzen Sie viele Fachw&amp;ouml;rter / Fremdw&amp;ouml;rter.</description>
+      </component>
+            <component>
+        <id>choice_ckzll8dhk003r266ej810fv9y</id>
+        <description lang="en-US">R&amp;uuml;cken Sie zum Schluss noch mal die wichtigsten Punkte des Vortrags in den Vordergrund.</description>
+      </component>
+            <component>
+        <id>choice_ckzll8dhk003p266e2mgn71sa</id>
+        <description lang="en-US">Seien Sie auf Fragen vorbereitet.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://g8uMJAsKdIF4Zg1TNFsTauqVQ7jidvdl_rise/Xka3SfJCBb1N-9t5DBFTC1XpYphgWVDJ/ckzll994o004z266ejgamkj9j" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Themen eignen sich gut f&amp;uuml;r einen Kurzvortrag?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzll994o0051266ecozo42ex</correctResponsePattern>
+            <correctResponsePattern>choice_ckzll994o0052266ef0nv7k4h</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzll994o0050266ejith4509</id>
+        <description lang="en-US">Einkommenssteuererkl&amp;auml;rung ausf&amp;uuml;llen k&amp;ouml;nnen.</description>
+      </component>
+            <component>
+        <id>choice_ckzll994o0052266ef0nv7k4h</id>
+        <description lang="en-US">Aufgaben der Personalabteilung kennenlernen.</description>
+      </component>
+            <component>
+        <id>choice_ckzll994o0053266eujqi5tn6</id>
+        <description lang="en-US">Umgang mit dem neuen Kalkulationsprogramm erlernen.</description>
+      </component>
+            <component>
+        <id>choice_ckzll994o0051266ecozo42ex</id>
+        <description lang="en-US">Bedeutung des sparsamen Umgangs mit Energie erkennen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://g8uMJAsKdIF4Zg1TNFsTauqVQ7jidvdl_rise/Xka3SfJCBb1N-9t5DBFTC1XpYphgWVDJ/ckzllayz3008f266ejy774xfa" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welches ist ein Vorteil des Lehrgespr&amp;auml;ches?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzllayz4008g266edd0k1fc9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzllayz4008g266edd0k1fc9</id>
+        <description lang="en-US">Die Auszubildenden nehmen aktiv teil.</description>
+      </component>
+            <component>
+        <id>choice_ckzllayz4008h266epe6p4pez</id>
+        <description lang="en-US">Die Gespr&amp;auml;chsf&amp;uuml;hrung wird von einem Auszubildenden &amp;uuml;bernommen.</description>
+      </component>
+            <component>
+        <id>choice_ckzllbej4008i266ej4fhavo4</id>
+        <description lang="en-US">Die Gespr&amp;auml;chsf&amp;uuml;hrung wird vom Ausbilder und Auszubildenden gemeinsam ausgef&amp;uuml;hrt.</description>
+      </component>
+            <component>
+        <id>choice_ckzllbhwq008j266evnrqkkdk</id>
+        <description lang="en-US">Vielredner k&amp;ouml;nnen sich hervorheben.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://g8uMJAsKdIF4Zg1TNFsTauqVQ7jidvdl_rise/Xka3SfJCBb1N-9t5DBFTC1XpYphgWVDJ/ckzllbyym008p266e3zs9skik" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Ausbildungsmethode Lehrgespr&amp;auml;ch zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzllbyyn008s266ehm3lfztq</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzllbyyn008q266e3d5250tr</id>
+        <description lang="en-US">Karrierem&amp;ouml;glichkeiten / Aufstiegsm&amp;ouml;glichkeiten im Betrieb aufzeigen.</description>
+      </component>
+            <component>
+        <id>choice_ckzllbyyn008s266ehm3lfztq</id>
+        <description lang="en-US">Kommunikation bei einem Beratungsgespr&amp;auml;ch verbessern.</description>
+      </component>
+            <component>
+        <id>choice_ckzllbyyn008t266e0pm4uy5i</id>
+        <description lang="en-US">Arbeitssicherheit im Betrieb darstellen.</description>
+      </component>
+            <component>
+        <id>choice_ckzllbyyn008r266eub5s99db</id>
+        <description lang="en-US">Die Auszubildenden sollen die Ausbildungsberufe des Betriebes bei der n&amp;auml;chsten Herbstausstellung pr&amp;auml;sentieren.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://g8uMJAsKdIF4Zg1TNFsTauqVQ7jidvdl_rise/Xka3SfJCBb1N-9t5DBFTC1XpYphgWVDJ/ckzlldcec00ak266encgucpq4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Ausbildungsmethode Rollenspiel zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzlldced00am266ee59cotkc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzlldced00al266e3kxf5242</id>
+        <description lang="en-US">Karrierem&amp;ouml;glichkeiten / Aufstiegsm&amp;ouml;glichkeiten im Betrieb aufzeigen.</description>
+      </component>
+            <component>
+        <id>choice_ckzlldced00am266ee59cotkc</id>
+        <description lang="en-US">Kommunikation bei einem Beratungsgespr&amp;auml;ch verbessern.</description>
+      </component>
+            <component>
+        <id>choice_ckzlldrdv00an266ea66znn6a</id>
+        <description lang="en-US">Arbeitssicherheit im Betrieb darstellen.</description>
+      </component>
+            <component>
+        <id>choice_ckzlle2ef00ao266esnnyja02</id>
+        <description lang="en-US">Die Auszubildenden sollen die Ausbildungsberufe des Betriebes bei der n&amp;auml;chsten Herbstausstellung pr&amp;auml;sentieren.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://g8uMJAsKdIF4Zg1TNFsTauqVQ7jidvdl_rise/Xka3SfJCBb1N-9t5DBFTC1XpYphgWVDJ/ckzllfjfb00ba266eiid67y57" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Ausbildungsmethode Kurzvortrag zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzllfjfb00bb266e2s3hwx4e</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzllfjfb00bb266e2s3hwx4e</id>
+        <description lang="en-US">Karrierem&amp;ouml;glichkeiten / Aufstiegsm&amp;ouml;glichkeiten im Betrieb aufzeigen.</description>
+      </component>
+            <component>
+        <id>choice_ckzllfjfb00bc266ez3ovjk73</id>
+        <description lang="en-US">Kommunikation bei einem Beratungsgespr&amp;auml;ch verbessern.</description>
+      </component>
+            <component>
+        <id>choice_ckzllg2kr00bd266em5mlybdg</id>
+        <description lang="en-US">Arbeitssicherheit im Betrieb darstellen.</description>
+      </component>
+            <component>
+        <id>choice_ckzllg5k500be266e6535cwk3</id>
+        <description lang="en-US">Die Auszubildenden sollen die Ausbildungsberufe des Betriebes bei der n&amp;auml;chsten Herbstausstellung pr&amp;auml;sentieren.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://g8uMJAsKdIF4Zg1TNFsTauqVQ7jidvdl_rise/Xka3SfJCBb1N-9t5DBFTC1XpYphgWVDJ/ckzllgb8s00bf266ev76n9a36" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Ausbildungsmethode &lt;strong&gt;Moderierte Besprechung&amp;nbsp;&lt;/strong&gt;zu.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzllhc6900bj266elsoswpeo</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzllgb8t00bg266ep826qk1g</id>
+        <description lang="en-US">Karrierem&amp;ouml;glichkeiten / Aufstiegsm&amp;ouml;glichkeiten im Betrieb aufzeigen.</description>
+      </component>
+            <component>
+        <id>choice_ckzllgb8t00bh266e3baw0cy6</id>
+        <description lang="en-US">Kommunikation bei einem Beratungsgespr&amp;auml;ch verbessern.</description>
+      </component>
+            <component>
+        <id>choice_ckzllh4ok00bi266elh8rspj4</id>
+        <description lang="en-US">Arbeitssicherheit im Betrieb darstellen.</description>
+      </component>
+            <component>
+        <id>choice_ckzllhc6900bj266elsoswpeo</id>
+        <description lang="en-US">Die Auszubildenden sollen die Ausbildungsberufe des Betriebes bei der n&amp;auml;chsten Herbstausstellung pr&amp;auml;sentieren.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://g8uMJAsKdIF4Zg1TNFsTauqVQ7jidvdl_rise/Xka3SfJCBb1N-9t5DBFTC1XpYphgWVDJ/ckzllhocv00bk266esiywwvqk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussagen zur &lt;strong&gt;Leittextmethode &lt;/strong&gt;sind richtig?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzllhocw00bl266e146v1cz0</correctResponsePattern>
+            <correctResponsePattern>choice_ckzllhocw00bo266ewrbj5oxg</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzllhocw00bl266e146v1cz0</id>
+        <description lang="en-US">Der Ausbilder entwickelt den Leittext.</description>
+      </component>
+            <component>
+        <id>choice_ckzllhocw00bn266ei83qhtca</id>
+        <description lang="en-US">Die Auszubildenden entwickeln den Leittext.</description>
+      </component>
+            <component>
+        <id>choice_ckzllhocw00bo266ewrbj5oxg</id>
+        <description lang="en-US">Durch die Leittext-Methode wird das &amp;bdquo;Selber-Lernen&amp;ldquo; der Auszubildenden angeleitet.</description>
+      </component>
+            <component>
+        <id>choice_ckzllhocw00bm266eutdci07s</id>
+        <description lang="en-US">Die Leittextmethode wurde aus dem Rollenspiel entwickelt.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
