@@ -16,7 +16,7 @@
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
-            <correctResponsePattern>choice_ckxdjr0f40030266joiewznom</correctResponsePattern>
+            <correctResponsePattern>choice_ckxdjps1d002y266jodzgazkp</correctResponsePattern>
             </correctResponsePatterns>
             <choices>
             <component>
@@ -78,7 +78,7 @@
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
-            <correctResponsePattern>choice_ckxdjukf2003d266jng9ruatv</correctResponsePattern>
+            <correctResponsePattern>choice_ckxdjtisz0039266jjds5bybe</correctResponsePattern>
             </correctResponsePatterns>
             <choices>
             <component>
@@ -109,7 +109,7 @@
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
-            <correctResponsePattern>choice_ckxdjvws3003i266jgux4unag</correctResponsePattern>
+            <correctResponsePattern>choice_ckxdjuuvu003f266jpb0j0wng</correctResponsePattern>
             </correctResponsePatterns>
             <choices>
             <component>
@@ -230,7 +230,7 @@
           </activity>
         
     <activity id="http://vydpeI-JuxPDIuvN7EPn1K8FSo7zew57_rise/G9VhluCbu_Zw7aJEmO7j9qdRj3J0oshL/ckxdk2qvz007z266j94gtu9ut" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Sie haben sich als Einzelh&amp;auml;ndler mit bestandener Ausbildereignungspr&amp;uuml;fung entschieden, erst-mals einen Auszubildenden als Kaufmann/Kauffrau im Einzelhandel auszubilden. Zur Ausbildungsplanung stellen sich folgende Fragen:Welche Institution kann mir helfen, wenn Zweifel an der Eignung der Bewerber f&amp;uuml;r den Ausbildungsplatz bestehen?&amp;nbsp;</name>
+      <name lang="en-US">Sie haben sich als Einzelh&amp;auml;ndler mit bestandener Ausbildereignungspr&amp;uuml;fung entschieden, erst-mals einen Auszubildenden als Kaufmann/Kauffrau im Einzelhandel auszubilden. Zur Ausbildungsplanung stellen sich folgende Fragen:&lt;br&gt;Welche Institution kann mir helfen, wenn Zweifel an der Eignung der Bewerber f&amp;uuml;r den Ausbildungsplatz bestehen?&amp;nbsp;</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -247,7 +247,7 @@
       </component>
             <component>
         <id>choice_ckxdk2qvz0083266jfvgmx91z</id>
-        <description lang="en-US">Der psychologische Dienst des Arbeitsamtes.</description>
+        <description lang="en-US">Der psychologische Dienst der Agentur f&amp;uuml;r Arbeit.</description>
       </component>
             <component>
         <id>choice_ckxdk2qvz0081266joloqvr5c</id>
@@ -261,7 +261,7 @@
           </activity>
         
     <activity id="http://vydpeI-JuxPDIuvN7EPn1K8FSo7zew57_rise/G9VhluCbu_Zw7aJEmO7j9qdRj3J0oshL/ckxdk4xnq0096266jx95uquwm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">In Ihren &amp;Uuml;berlegungen haben Sie auch &amp;uuml;ber die Errichtung einer Jugend- und Auszubildendenvertretung nachgedacht. Ist in Ihrem Fall die Errichtung einer Jugend- und Auszubildendenvertretung m&amp;ouml;glich?</name>
+      <name lang="en-US">Sie sind der Inhaber eines Industrieunternehmens in der Metallindustrie. Aufgrund der st&amp;auml;ndigen Produktionserweiterung haben Sie beschlossen, in diesem Jahr mit der Ausbildung von Industrie-mechanikern (Ausbildungsdauer: 3,5 Jahre) zu beginnen. Dazu haben Sie eine Lehrwerkstatt nach neuesten Erkenntnissen errichten lassen und zwei hauptberufliche Ausbilder mit Pr&amp;uuml;fung nach AEVO eingestellt. Den Ausbildungsinhalt &amp;#39;Hydraulik / Pneumatik&amp;quot; k&amp;ouml;nnen Sie noch nicht vermitteln, weil sich die R&amp;auml;umlichkeiten noch im Bau befinden und die Lehrmittelfirma Liefer-schwierigkeiten hat.&lt;br id=&#34;isPasted&#34;&gt;Aus dem Bewerberkreis haben Sie 22 junge Leute ausgew&amp;auml;hlt, mit denen Sie einen Berufsausbildungsvertrag abschlie&amp;szlig;en wollen. 17 der jungen Leute sind im Alter von 18 bis 21 Jahren, zwei davon weisen einen erfolgreichen Abschluss des Berufsgrundbildungsjahres im Berufsfeld Metall-technik nach. Ausbildungsbeginn soll der 1. September dieses Jahres sein.&lt;br&gt;In Ihren &amp;Uuml;berlegungen haben Sie auch &amp;uuml;ber die Errichtung einer Jugend- und Auszubildendenvertretung nachgedacht. Ist in Ihrem Fall die Errichtung einer Jugend- und Auszubildendenvertretung m&amp;ouml;glich?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
@@ -292,7 +292,7 @@
           </activity>
         
     <activity id="http://vydpeI-JuxPDIuvN7EPn1K8FSo7zew57_rise/G9VhluCbu_Zw7aJEmO7j9qdRj3J0oshL/ckxdk5wss009i266jkvwl9huo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Geben Sie an, welche Arbeitnehmer Ihres Betriebes als Jugend- und Auszubildendenvertreter gew&amp;auml;hlt werden k&amp;ouml;nnten.</name>
+      <name lang="en-US">&lt;p id=&#34;isPasted&#34;&gt;Sie sind der Inhaber eines Industrieunternehmens in der Metallindustrie. Aufgrund der st&amp;auml;ndigen Produktionserweiterung haben Sie beschlossen, in diesem Jahr mit der Ausbildung von Industrie-mechanikern (Ausbildungsdauer: 3,5 Jahre) zu beginnen. Dazu haben Sie eine Lehrwerkstatt nach neuesten Erkenntnissen errichten lassen und zwei hauptberufliche Ausbilder mit Pr&amp;uuml;fung nach AEVO eingestellt. Den Ausbildungsinhalt &amp;#39;Hydraulik / Pneumatik&amp;quot; k&amp;ouml;nnen Sie noch nicht vermitteln, weil sich die R&amp;auml;umlichkeiten noch im Bau befinden und die Lehrmittelfirma Liefer-schwierigkeiten hat.&amp;nbsp;&lt;br&gt;Aus dem Bewerberkreis haben Sie 22 junge Leute ausgew&amp;auml;hlt, mit denen Sie einen Berufsausbildungsvertrag abschlie&amp;szlig;en wollen. 17 der jungen Leute sind im Alter von 18 bis 21 Jahren, zwei davon weisen einen erfolgreichen Abschluss des Berufsgrundbildungsjahres im Berufsfeld Metall-technik nach. Ausbildungsbeginn soll der 1. September dieses Jahres sein.&lt;br&gt;Geben Sie an, welche Arbeitnehmer Ihres Betriebes als Jugend- und Auszubildendenvertreter gew&amp;auml;hlt werden k&amp;ouml;nnten. Arbeitnehmer, die...</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>

@@ -109,7 +109,7 @@
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
-            <correctResponsePattern>choice_ckxbocm9l006b266jdr2ib36z</correctResponsePattern>
+            <correctResponsePattern>choice_ckxbob7nd0067266jiu6bqy5e</correctResponsePattern>
             </correctResponsePatterns>
             <choices>
             <component>
@@ -140,7 +140,7 @@
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
-            <correctResponsePattern>choice_ckxbocwb9006d266jxlxiv0mf</correctResponsePattern>
+            <correctResponsePattern>choice_ckxbodqmz006g266jcchywy3z</correctResponsePattern>
             </correctResponsePatterns>
             <choices>
             <component>
@@ -229,11 +229,11 @@
           </activity>
         
     <activity id="http://0TCtK0PuUk6To9tM1JJgqmz-wrELvRmz_rise/bNBtCx6ztuFKPCP38gNz2mlHfYe4zzf_/ckxboi8v0006v266jcx1ezdpl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Der Inhaber eines Handwerksbetriebes hat mit einer Bewerberin einen Berufsausbildungsvertrag abgeschlossen, in dem eine Verk&amp;uuml;rzung der betriebs&amp;uuml;blichen t&amp;auml;glichen Ausbildungszeit um 25 Prozent vorgenommen wurde.Aufgabe: Bis zu welchem Prozentsatz kann dann die &amp;uuml;bliche Ausbildungsverg&amp;uuml;tung gek&amp;uuml;rzt werden?</name>
+      <name lang="en-US">Der Inhaber eines Handwerksbetriebes hat mit einer Bewerberin einen Berufsausbildungsvertrag abgeschlossen, in dem eine Verk&amp;uuml;rzung der betriebs&amp;uuml;blichen t&amp;auml;glichen Ausbildungszeit um 25 Prozent vorgenommen wurde.&lt;br&gt;Aufgabe: Bis zu welchem Prozentsatz kann dann die &amp;uuml;bliche Ausbildungsverg&amp;uuml;tung gek&amp;uuml;rzt werden?</name>
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
-            <correctResponsePattern>choice_ckxboi8v0006y266jcnugya0v</correctResponsePattern>
+            <correctResponsePattern>choice_ckxboi8v0006z266jj8vrgrvk</correctResponsePattern>
             </correctResponsePatterns>
             <choices>
             <component>
@@ -264,7 +264,7 @@
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
-            <correctResponsePattern>choice_ckxbol1a80079266jfa4riezr</correctResponsePattern>
+            <correctResponsePattern>choice_ckxboll33007a266jq6wsfm9v</correctResponsePattern>
             </correctResponsePatterns>
             <choices>
             <component>
