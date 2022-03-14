@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://VE6BErt5cy7I3D5l9WAkTXIZvJUDd2oV_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Rissinjektion - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://VE6BErt5cy7I3D5l9WAkTXIZvJUDd2oV_rise/_DHMBVJomQiEy3PkbAnERta8bvvgBZvT" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://VE6BErt5cy7I3D5l9WAkTXIZvJUDd2oV_rise/_DHMBVJomQiEy3PkbAnERta8bvvgBZvT/cl0jbtb7f000a266e0p8w7rjv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nenne die Druckbereiche der Injektion!&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jbtb7g000b266ewojzji0y</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jbu0gl000d266egdbvfn2a</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jbtb7g000c266el3rrq48m</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jbtb7g000b266ewojzji0y</id>
+        <description lang="en-US">Niederdruck: &amp;le; 10 bar&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbtb7g000c266el3rrq48m</id>
+        <description lang="en-US">Mitteldruck: &amp;gt; 10 bar und &amp;le; 60 bar&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbu0gl000d266egdbvfn2a</id>
+        <description lang="en-US">Hochdruck: &amp;gt; 60 bar</description>
+      </component>
+            <component>
+        <id>choice_cl0jbu9n0000i266egl3h5vd4</id>
+        <description lang="en-US">H&amp;ouml;chstdruckinjektion: &amp;gt; 100 bar&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VE6BErt5cy7I3D5l9WAkTXIZvJUDd2oV_rise/_DHMBVJomQiEy3PkbAnERta8bvvgBZvT/cl0jbulvt000k266e65esb6zx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Packer k&amp;ouml;nnen bei feuchten und wasserf&amp;uuml;hrenden Rissen verwendet werden?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jbulvt000l266ev504kb1f</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jbulvt000n266e3y6rvdk5</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jbulvt000l266ev504kb1f</id>
+        <description lang="en-US">Bohrpacker&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbulvt000n266e3y6rvdk5</id>
+        <description lang="en-US">Schlagpacker&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbulvt000o266eu6hr2neq</id>
+        <description lang="en-US">Klebepacker&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VE6BErt5cy7I3D5l9WAkTXIZvJUDd2oV_rise/_DHMBVJomQiEy3PkbAnERta8bvvgBZvT/cl0jbv8e20013266ezm0l1us6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Packer sind f&amp;uuml;r die Hochdruckinjektion geeignet?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jbv8e20014266e4r9gzj30</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jbv8e20014266e4r9gzj30</id>
+        <description lang="en-US">Bohrpacker&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbv8e20016266e8s8n72bn</id>
+        <description lang="en-US">Schlagpacker&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbv8e20017266ega7m7oru</id>
+        <description lang="en-US">Klebepacker&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VE6BErt5cy7I3D5l9WAkTXIZvJUDd2oV_rise/_DHMBVJomQiEy3PkbAnERta8bvvgBZvT/cl0jbvz1r001d266ehpf0h4f7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die notwendigen Arbeitsschritte bis zum Fixieren von Bohrpackern.&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cl0jbvz1r001e266eh31nlwql[.]target_cl0jbvz1r001e266eh31nlwql</correctResponsePattern>
+            <correctResponsePattern>source_cl0jbvz1r001f266eg0e0hqyv[.]target_cl0jbvz1r001f266eg0e0hqyv</correctResponsePattern>
+            <correctResponsePattern>source_cl0jbvz1r001g266e1jr224bs[.]target_cl0jbvz1r001g266e1jr224bs</correctResponsePattern>
+            <correctResponsePattern>source_cl0jbwar7001h266em0cqqyq5[.]target_cl0jbwar7001h266em0cqqyq5</correctResponsePattern>
+            <correctResponsePattern>source_cl0jbxm81001i266eeq8az6v7[.]target_cl0jbxm81001i266eeq8az6v7</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cl0jbvz1r001e266eh31nlwql</id>
+        <description lang="en-US"> Bohrplan ausarbeiten></description>
+      </component>
+            <component>
+        <id>source_cl0jbvz1r001f266eg0e0hqyv</id>
+        <description lang="en-US">Löcher im Reißverschlussverfahren im 45°-
+Winkel zum Riss bohren></description>
+      </component>
+            <component>
+        <id>source_cl0jbvz1r001g266e1jr224bs</id>
+        <description lang="en-US">Bohrloch durch Ausblasen mit Drucklust reinigen></description>
+      </component>
+            <component>
+        <id>source_cl0jbwar7001h266em0cqqyq5</id>
+        <description lang="en-US">Packer im Bohrloch platzieren und durch Festschrauben fixieren></description>
+      </component>
+            <component>
+        <id>source_cl0jbxm81001i266eeq8az6v7</id>
+        <description lang="en-US">Ventile auf den Packern leicht anschrauben, sodass noch Luft aus dem Riss entweichen kann></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cl0jbvz1r001e266eh31nlwql</id>
+            <description lang="en-US">1</description>
+          </component>
+                  <component>
+            <id>target_cl0jbvz1r001f266eg0e0hqyv</id>
+            <description lang="en-US">2</description>
+          </component>
+                  <component>
+            <id>target_cl0jbvz1r001g266e1jr224bs</id>
+            <description lang="en-US">3</description>
+          </component>
+                  <component>
+            <id>target_cl0jbwar7001h266em0cqqyq5</id>
+            <description lang="en-US">4</description>
+          </component>
+                  <component>
+            <id>target_cl0jbxm81001i266eeq8az6v7</id>
+            <description lang="en-US">5</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://VE6BErt5cy7I3D5l9WAkTXIZvJUDd2oV_rise/_DHMBVJomQiEy3PkbAnERta8bvvgBZvT/cl0jbyy1b001j266e4jhfwlr9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ist eine Verd&amp;auml;mmung bei der Injektion &amp;uuml;ber Bohrpacker grunds&amp;auml;tzlich notwendig?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jbyy1b001k266eifvvfvw0</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jbyy1b001m266e8jbudvgk</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jbyy1b001k266eifvvfvw0</id>
+        <description lang="en-US">Eine Verd&amp;auml;mmung ist empfehlenswert, da Material aus dem Riss laufen kann&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbyy1b001m266e8jbudvgk</id>
+        <description lang="en-US">Eine Verd&amp;auml;mmung ist bei geringen Rissbreiten nicht grunds&amp;auml;tzlich notwendig&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VE6BErt5cy7I3D5l9WAkTXIZvJUDd2oV_rise/_DHMBVJomQiEy3PkbAnERta8bvvgBZvT/cl0jc10bj001u266ezaukwheu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Baustoffe k&amp;ouml;nnen als Verd&amp;auml;mmung f&amp;uuml;r die Hochdruckinjektion bei dynamisch belasteten Bauwerken verwendet werden?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jc1gjf001x266evbe3ba38</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jc10bj001v266e833pq1iw</id>
+        <description lang="en-US">Mineralische Baustoffe&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc10bj001w266ejcidzpi6</id>
+        <description lang="en-US">Reaktionsharzgebundene Baustoffe&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc1gjf001x266evbe3ba38</id>
+        <description lang="en-US">Ausschlie&amp;szlig;lich elastifizierte Reaktionsharze&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VE6BErt5cy7I3D5l9WAkTXIZvJUDd2oV_rise/_DHMBVJomQiEy3PkbAnERta8bvvgBZvT/cl0jc1wln0026266eii3qxh0h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie werden Vertikalrisse generell verpresst?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jc1wln0027266ewpegl2mr</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jc1wln0027266ewpegl2mr</id>
+        <description lang="en-US">Von unten nach oben&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc1wln0028266e1ng7t0v8</id>
+        <description lang="en-US">Von oben nach unten&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc29xi0029266ey8q2dihp</id>
+        <description lang="en-US">unwichtig</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VE6BErt5cy7I3D5l9WAkTXIZvJUDd2oV_rise/_DHMBVJomQiEy3PkbAnERta8bvvgBZvT/cl0jc2j9v002a266e3mh14ast" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ist eine Verd&amp;auml;mmung f&amp;uuml;r die Injektion &amp;uuml;ber Klebepacker immer notwendig?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jc2j9v002d266erudkj8yt</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jc2j9v002e266ekweav9tl</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jc2j9v002b266eh7uiqc6k</id>
+        <description lang="en-US">Eine Verd&amp;auml;mmung ist bei geringen Rissbreiten nicht grunds&amp;auml;tzlich notwendig&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc2j9v002d266erudkj8yt</id>
+        <description lang="en-US">Eine Verd&amp;auml;mmung ist immer notwendig&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc2j9v002e266ekweav9tl</id>
+        <description lang="en-US">An der Verd&amp;auml;mmung &amp;bdquo;dr&amp;uuml;ckt&amp;ldquo; sich der Injektionsstoff ab und wird dadurch in das Bauteil gef&amp;ouml;rdert&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc2j9v002c266ecxik8nr0</id>
+        <description lang="en-US">Ventile auf den Packern leicht anschrauben, sodass noch Luft aus dem Riss w&amp;auml;hrend der Injektion entweichen kann&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VE6BErt5cy7I3D5l9WAkTXIZvJUDd2oV_rise/_DHMBVJomQiEy3PkbAnERta8bvvgBZvT/cl0jc3jbu002k266ek2eqjykc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie werden die Bohrkan&amp;auml;le bei der Hohlrauminjektion gebohrt und angeordnet?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jc3jbu002m266eljyp27ly</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jc3xn4002q266esnkebpdg</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jc3jbu002l266eeb89wiyz</id>
+        <description lang="en-US">Die Bohrkan&amp;auml;le werden durch das Bauwerk gebohrt&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc3jbu002m266eljyp27ly</id>
+        <description lang="en-US">Die Bohrkan&amp;auml;le werden ungef&amp;auml;hr bis in eine Tiefe von2 /3 der Bauteildicke gebohrt&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc3xn4002q266esnkebpdg</id>
+        <description lang="en-US">Die Bohrkan&amp;auml;le werden ca. 50 cm &amp;uuml;ber die Feuchtstelle hinaus schachbrettartig angeordnet</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VE6BErt5cy7I3D5l9WAkTXIZvJUDd2oV_rise/_DHMBVJomQiEy3PkbAnERta8bvvgBZvT/cl0jc46jj002s266eabzsgwax" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie funktioniert die Injektion mit einer 1K-Injektionspumpe?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jc46jj002t266evqhoh16z</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jc46jj002t266evqhoh16z</id>
+        <description lang="en-US">Der Reaktionskunststoff wird vor der Injektion homogen gemischt und in den Vorratsbeh&amp;auml;lter der Injektionsmaschine umgef&amp;uuml;llt&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc46jj002u266epvliaapo</id>
+        <description lang="en-US">Die Injektionsmaschine f&amp;ouml;rdert selbstst&amp;auml;ndige die zwei Komponenten der Reaktionskunststoffe und mischt sie unmittelbar vor Eintritt ins Bauwerk automatisch</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

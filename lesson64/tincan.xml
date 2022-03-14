@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://kY77vVJ3xLES_pAzWi9XZwkkNPQJ7WSA_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Rissinjektion - Quiz 4</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://kY77vVJ3xLES_pAzWi9XZwkkNPQJ7WSA_rise/YmrOoEzVbW60V7ppBPTOzkzEsJl7SlNF" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://kY77vVJ3xLES_pAzWi9XZwkkNPQJ7WSA_rise/YmrOoEzVbW60V7ppBPTOzkzEsJl7SlNF/cl0jcdaka0008266e8n9j1d4h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nenne die Injektionsziele beim Verpressen mit Polyurethanen.&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jcdaka0009266e5vke7t8m</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jcdaka000a266eue1y5o8u</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jcdaka0009266e5vke7t8m</id>
+        <description lang="en-US">Korrosionsschutz der Bewehrung und des Betons&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcdaka000a266eue1y5o8u</id>
+        <description lang="en-US">Herstellen der Wasserundurchl&amp;auml;ssigkeit&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcdn5w000e266emd4fr5pn</id>
+        <description lang="en-US">Kraftschluss</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://kY77vVJ3xLES_pAzWi9XZwkkNPQJ7WSA_rise/YmrOoEzVbW60V7ppBPTOzkzEsJl7SlNF/cl0jcdu0u000g266eddfm38ml" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nenne die Anforderungen an Polyurethane.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jcdu0v000h266el8p5juo0</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jcdu0v000i266e72j36ms8</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jceliv000s266eauxma7z2</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jcehlz000q266ek46rupgy</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jcdu0v000k266ep0pr0lhu</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jcdu0v000j266emihihy3v</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jcdu0v000h266el8p5juo0</id>
+        <description lang="en-US">Elastische Verformbarkeit&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcdu0v000j266emihihy3v</id>
+        <description lang="en-US">Gute Adh&amp;auml;sion an den Rissflanken&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcdu0v000k266ep0pr0lhu</id>
+        <description lang="en-US">Feuchtevertr&amp;auml;glichkeit&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcdu0v000i266e72j36ms8</id>
+        <description lang="en-US">L&amp;ouml;semittelfrei&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcehlz000q266ek46rupgy</id>
+        <description lang="en-US">Kombinierbarkeit mit Polyurethanschaum bei dr&amp;uuml;ckendem Wasser</description>
+      </component>
+            <component>
+        <id>choice_cl0jceliv000s266eauxma7z2</id>
+        <description lang="en-US">Niedrige Viskosit&amp;auml;t&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0qibb5g0039266epowftk00</id>
+        <description lang="en-US">Hohe Zugfestigkeit</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://kY77vVJ3xLES_pAzWi9XZwkkNPQJ7WSA_rise/YmrOoEzVbW60V7ppBPTOzkzEsJl7SlNF/cl0jcettx000u266estb6f8y9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie wirkt sich eine geringe Viskosit&amp;auml;t auf das Injizieren aus?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jcetty000x266euee3va80</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jcetty000y266ezatgdue6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jcettx000v266etmtm4s9t</id>
+        <description lang="en-US">Es k&amp;ouml;nnen ausschlie&amp;szlig;lich Risse &amp;gt; 0,3 mm injiziert werden&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcetty000x266euee3va80</id>
+        <description lang="en-US">Geringerer Injektionsdruck ist ausreichend&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcetty000y266ezatgdue6</id>
+        <description lang="en-US">Die Injektion funktioniert schneller&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://kY77vVJ3xLES_pAzWi9XZwkkNPQJ7WSA_rise/YmrOoEzVbW60V7ppBPTOzkzEsJl7SlNF/cl0jcfg5z0014266eihiavtiq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nenne die Injektionsziele beim Verpressen mit Epoxidharzen.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jcfg5z0015266eek5uyzeh</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jcfg5z0018266ehxfcmlb8</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jcfg5z0017266e5godg897</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jcfg5z0015266eek5uyzeh</id>
+        <description lang="en-US">Korrosionsschutz der Bewehrung und des Betons&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcfg5z0017266e5godg897</id>
+        <description lang="en-US">Bauwerksverst&amp;auml;rkung durch Wiederherstellen der Tragf&amp;auml;higkeit&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcfg5z0018266ehxfcmlb8</id>
+        <description lang="en-US">Abdichten&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://kY77vVJ3xLES_pAzWi9XZwkkNPQJ7WSA_rise/YmrOoEzVbW60V7ppBPTOzkzEsJl7SlNF/cl0jchw3t001e266ertzt6lnj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nenne die Anforderungen an Epoxidharze.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jchw3t001f266ed67mdh8v</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jchw3t001g266etum084wo</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jciimh001q266ea3ti7ph7</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jciff6001o266eh05t5vcb</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jchw3t001i266e1fncgtub</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jchw3t001h266exs3qc0mi</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jchw3t001f266ed67mdh8v</id>
+        <description lang="en-US">Hohe Zugfestigkeit </description>
+      </component>
+            <component>
+        <id>choice_cl0jchw3t001h266exs3qc0mi</id>
+        <description lang="en-US">Schnelle Festigkeitsentwicklung&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jchw3t001i266e1fncgtub</id>
+        <description lang="en-US">Gute Adh&amp;auml;sion an den Rissflanken&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jchw3t001g266etum084wo</id>
+        <description lang="en-US">Erh&amp;auml;rtung unter Schwingung&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jciff6001o266eh05t5vcb</id>
+        <description lang="en-US">L&amp;ouml;semittelfrei</description>
+      </component>
+            <component>
+        <id>choice_cl0jciimh001q266ea3ti7ph7</id>
+        <description lang="en-US">Gute Penetrationsf&amp;auml;higkeit&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcot3k000i266evmd7thrb</id>
+        <description lang="en-US">Leicht entflammbar</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://kY77vVJ3xLES_pAzWi9XZwkkNPQJ7WSA_rise/YmrOoEzVbW60V7ppBPTOzkzEsJl7SlNF/cl0jciqy3001s266ef9g8wqhx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie wirkt sich Wasser und Feuchtigkeit auf Epoxidharze aus?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jciqy3001t266e9u5ey3da</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jciqy3001t266e9u5ey3da</id>
+        <description lang="en-US">Es setzt eine unkontrollierte Gasentwicklung ein. Die Festigkeitsentwicklung wird dadurch behindert und das Produkt funktioniert nicht wie es soll&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jciqy3001u266e6x9o0ey7</id>
+        <description lang="en-US">Wasser und Feuchtigkeit sind unkritisch&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcj42a001v266eipb2gzhs</id>
+        <description lang="en-US">Wasser und Feuchtigkeit beschleunigen die Reaktionsgeschwindigkeit des Reaktionsharzes</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://kY77vVJ3xLES_pAzWi9XZwkkNPQJ7WSA_rise/YmrOoEzVbW60V7ppBPTOzkzEsJl7SlNF/cl0jcj8yj001w266ect7nreca" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nenne die Injektionsziele beim Verpressen mit Zementleim und -suspension.&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jcj8yj001x266ev0wl8n2y</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jcj8yj001y266ep2wr27ob</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jcjjp7001z266eb1lyiaj7</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jcj8yj001x266ev0wl8n2y</id>
+        <description lang="en-US">Korrosionsschutz der Bewehrung und des Betons&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcj8yj001y266ep2wr27ob</id>
+        <description lang="en-US">Bedingtes Wiederherstellen der Tragf&amp;auml;higkeit&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcjjp7001z266eb1lyiaj7</id>
+        <description lang="en-US">Abdichten</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://kY77vVJ3xLES_pAzWi9XZwkkNPQJ7WSA_rise/YmrOoEzVbW60V7ppBPTOzkzEsJl7SlNF/cl0jcjrff0024266e6w0yiajf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nenne die Eigenschaften von Zementleim und -suspension.&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jcjrff0025266ej7ko0zcl</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jcjrff0026266e6akxb8mv</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jcjrff0027266eqvkxw05d</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jcjrff0028266e19zlqyf2</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jcjrff0025266ej7ko0zcl</id>
+        <description lang="en-US">Betontypische Festigkeiten&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcjrff0027266eqvkxw05d</id>
+        <description lang="en-US">Niedrige Viskosit&amp;auml;t </description>
+      </component>
+            <component>
+        <id>choice_cl0jcjrff0028266e19zlqyf2</id>
+        <description lang="en-US">Lange Verarbeitungsdauer&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcjrff0026266e6akxb8mv</id>
+        <description lang="en-US">Raumbest&amp;auml;ndiges Aush&amp;auml;rten&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcktha0031266e1omk5jjr</id>
+        <description lang="en-US">Hohe Viskosit&amp;auml;t</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://kY77vVJ3xLES_pAzWi9XZwkkNPQJ7WSA_rise/YmrOoEzVbW60V7ppBPTOzkzEsJl7SlNF/cl0jcl0pv0033266eyrxr5cb2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In welchem Druckbereich werden Zementleime und &amp;ndash;suspensionen verarbeitet?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jcl0pv0034266e812popz7</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jcl0pv0034266e812popz7</id>
+        <description lang="en-US">Niederdruck&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcl0pv0035266ebuuh0mer</id>
+        <description lang="en-US">Mitteldruck&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcl9da0036266enfxwcc4u</id>
+        <description lang="en-US">Hochdruck</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://kY77vVJ3xLES_pAzWi9XZwkkNPQJ7WSA_rise/YmrOoEzVbW60V7ppBPTOzkzEsJl7SlNF/cl0jcljn40037266e2kmnxwon" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie m&amp;uuml;ssen Zementleime und &amp;ndash;suspensionen unbedingt anger&amp;uuml;hrt werden?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jcmca6003a266eo7l98kt0</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jcljn40038266ehmzi47f2</id>
+        <description lang="en-US">Mit einem Betonmischer</description>
+      </component>
+            <component>
+        <id>choice_cl0jcljn40039266el2euq8m7</id>
+        <description lang="en-US">Mit doppell&amp;auml;ufigen R&amp;uuml;hrwerken&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcmca6003a266eo7l98kt0</id>
+        <description lang="en-US">Mit extrem schnell laufenden R&amp;uuml;hrmaschinen wie Kolloidalmischer oder Dissolvermischer</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

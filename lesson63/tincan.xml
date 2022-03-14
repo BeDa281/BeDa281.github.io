@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://PTUKiBnkIi7V_aoGiAZ41K1MGxwGv4Yr_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Rissinjektion - Quiz 3</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://PTUKiBnkIi7V_aoGiAZ41K1MGxwGv4Yr_rise/S2xePEcswoakxbEUPi_8gv_b9A9XEp3i" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://PTUKiBnkIi7V_aoGiAZ41K1MGxwGv4Yr_rise/S2xePEcswoakxbEUPi_8gv_b9A9XEp3i/cl0jc5f9q0003266ec0rwv31g" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nenne die Vorteile des 2K-Injektionsprinzips.&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jc5f9q0004266e20lnigk5</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jc5f9q0005266eq2qyoyvm</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jc5f9q0004266e20lnigk5</id>
+        <description lang="en-US">Der Reaktionskunststoff wird &amp;uuml;ber den kompletten Zeitraum der Injektion mit der niedrigen Anfangsviskosit&amp;auml;t ins Bauwerk injiziert. Geringe Rissbreiten werden dadurch besser erreicht&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc5f9q0005266eq2qyoyvm</id>
+        <description lang="en-US">Das zeitaufw&amp;auml;ndige Mischen entf&amp;auml;llt. Gro&amp;szlig;e Gebinde k&amp;ouml;nnen und d&amp;uuml;rfen verarbeitet werden&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc5u4k0009266ec0ph27as</id>
+        <description lang="en-US">Bei gro&amp;szlig;en Gebinden besteht die Gefahr, dass das Reaktionsharz &amp;bdquo;aufkocht&amp;ldquo;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://PTUKiBnkIi7V_aoGiAZ41K1MGxwGv4Yr_rise/S2xePEcswoakxbEUPi_8gv_b9A9XEp3i/cl0jc60wn000b266enz6shzgr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In welchem Druckbereich d&amp;uuml;rfen Hohlrauminjektionen ausschlie&amp;szlig;lich durchgef&amp;uuml;hrt werden und warum?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jc6ezp000e266e9cmue79q</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jc60wn000c266eypk45a9o</id>
+        <description lang="en-US">Alle Druckbereiche sind zul&amp;auml;ssig&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc60wn000d266e45pkc9vq</id>
+        <description lang="en-US">Nieder- und Mitteldruck&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc6ezp000e266e9cmue79q</id>
+        <description lang="en-US">Niederdruckinjektion bis &amp;le; 10 bar</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://PTUKiBnkIi7V_aoGiAZ41K1MGxwGv4Yr_rise/S2xePEcswoakxbEUPi_8gv_b9A9XEp3i/cl0jc6lrp000f266ebd6byg17" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Schutzausr&amp;uuml;stung ist w&amp;auml;hrend der Injektion notwendig?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jc6lrp000g266eaktuo9r8</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jc7967000p266eougsitgt</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jc71sy000n266etuue30v2</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jc6yxm000l266exwac6akr</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jc6lrp000h266e67ykm9b2</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jc6lrp000g266eaktuo9r8</id>
+        <description lang="en-US">Hautschutzcreme&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc6lrp000h266e67ykm9b2</id>
+        <description lang="en-US">Arbeitshandschuhe&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc6yxm000l266exwac6akr</id>
+        <description lang="en-US">Schutzbrille </description>
+      </component>
+            <component>
+        <id>choice_cl0jc71sy000n266etuue30v2</id>
+        <description lang="en-US">Sicherheitsschuhe&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc7967000p266eougsitgt</id>
+        <description lang="en-US">Arbeitsanzug (Einweg)&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0qkv7so000o266e4toio7gg</id>
+        <description lang="en-US">Atemmaske</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://PTUKiBnkIi7V_aoGiAZ41K1MGxwGv4Yr_rise/S2xePEcswoakxbEUPi_8gv_b9A9XEp3i/cl0jc7i7q000r266ef6p1dl49" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Schutzausr&amp;uuml;stung ist w&amp;auml;hrend der Injektion empfehlenswert?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jc7i7q000s266e44lgu45r</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jc7i7q000t266er7drlyae</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jc7i7q000u266esgmrcm9s</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jc7i7q000v266e0rjvwr4j</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jc7i7q000s266e44lgu45r</id>
+        <description lang="en-US">Helm mit Visier&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc7i7q000u266esgmrcm9s</id>
+        <description lang="en-US">Augensp&amp;uuml;lflasche&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc7i7q000v266e0rjvwr4j</id>
+        <description lang="en-US">Reinigungscreme&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc7i7q000t266er7drlyae</id>
+        <description lang="en-US">Sicherheitsdatenbl&amp;auml;tter&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://PTUKiBnkIi7V_aoGiAZ41K1MGxwGv4Yr_rise/S2xePEcswoakxbEUPi_8gv_b9A9XEp3i/cl0jc8u9h0011266er59rrno7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was gilt bei Epoxid- und Polyurethanharzsystemen in Bezug auf das Mischungsverh&amp;auml;ltnis?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jc8u9h0012266ey0tepjk4</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jc8u9h0012266ey0tepjk4</id>
+        <description lang="en-US">Stamm- und H&amp;auml;rterkomponente sind aufeinander abgestimmt. F&amp;uuml;r jede AKomponente gibt&amp;rsquo;s eine B-Komponente (Polyaddition)&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc8u9h0013266exm2l1v6m</id>
+        <description lang="en-US">Stamm- und H&amp;auml;rterkomponente k&amp;ouml;nnen variabel dosiert werden, um die Reaktionsgeschwindigkeit anzupassen&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://PTUKiBnkIi7V_aoGiAZ41K1MGxwGv4Yr_rise/S2xePEcswoakxbEUPi_8gv_b9A9XEp3i/cl0jc9q710014266eq90141xr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Warum ist es sinnvoll langsam laufende R&amp;uuml;hrer zu nutzen?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jc9q710015266e4z3o1mt7</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jc9q710015266e4z3o1mt7</id>
+        <description lang="en-US">Damit keine Luftblasen in das Material gemischt werden&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jc9q710016266esejzozkv</id>
+        <description lang="en-US">Damit sich das Material nicht unn&amp;ouml;tig erw&amp;auml;rmt&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://PTUKiBnkIi7V_aoGiAZ41K1MGxwGv4Yr_rise/S2xePEcswoakxbEUPi_8gv_b9A9XEp3i/cl0jca7fx001a266eh2dg1wix" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Nach dem Anmischen sollte das Material m&amp;ouml;glichst schnell verarbeitet werden! Warum?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jca7fx001b266ecxvhebwm</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jca7fx001b266ecxvhebwm</id>
+        <description lang="en-US">Ab dem Anmischen beginnt die Reaktion. Das Material wird nach und nach z&amp;auml;hfl&amp;uuml;ssiger und dringt immer weniger in d&amp;uuml;nne Risse ein&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jca7fx001c266esp8tht2h</id>
+        <description lang="en-US">Zeit ist Geld&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://PTUKiBnkIi7V_aoGiAZ41K1MGxwGv4Yr_rise/S2xePEcswoakxbEUPi_8gv_b9A9XEp3i/cl0jcakxd001d266eg28hp8j1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Durch kapillares Saugen entweicht nach dem Injizieren Material aus dem Riss in den Beton. Was ist zwingend zu beachten?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jcakxd001e266e7k2ju6k9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jcakxd001e266e7k2ju6k9</id>
+        <description lang="en-US">Innerhalb der Verarbeitungszeit des Materials muss nachverpresst werden, um das &amp;bdquo;abgewanderte&amp;ldquo; Material zu ersetzen </description>
+      </component>
+            <component>
+        <id>choice_cl0jcakxd001g266euojq4mvx</id>
+        <description lang="en-US">Das entwichene Material muss oberfl&amp;auml;chennah durch Vergie&amp;szlig;en ersetzt werden&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://PTUKiBnkIi7V_aoGiAZ41K1MGxwGv4Yr_rise/S2xePEcswoakxbEUPi_8gv_b9A9XEp3i/cl0jcb8nb001n266edhill3wt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie wirkt sich die Materialtemperatur auf die Verarbeitung aus? Faustformel?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jcb8nb001o266e6s8c8qly</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jcb8nb001p266euwbqa1lv</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jcb8nb001o266e6s8c8qly</id>
+        <description lang="en-US">Ein Temperaturanstieg von 10 &amp;deg;C reduziert die Verarbeitungszeit ungef&amp;auml;hr um die H&amp;auml;lfte&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcb8nb001p266euwbqa1lv</id>
+        <description lang="en-US">Ein Temperaturanstieg von 15 &amp;deg;C reduziert die Verarbeitungszeit ungef&amp;auml;hr um die H&amp;auml;lfte&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://PTUKiBnkIi7V_aoGiAZ41K1MGxwGv4Yr_rise/S2xePEcswoakxbEUPi_8gv_b9A9XEp3i/cl0jcboap001t266ebw0rcndo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wann k&amp;ouml;nnen die Packer nach erfolgter Injektion entfernt werden?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jcboap001u266esp495jx1</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jcboap001v266eify0bezd</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jcboap001u266esp495jx1</id>
+        <description lang="en-US">Sobald das Material ausreichende Festigkeiten entwickelt hat und nicht mehr ausl&amp;auml;uft. Achtung: Bei k&amp;uuml;hlen Temperaturen muss mit einer Wartezeit von 7 Tagen und mehr gerechnet werden&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcboap001v266eify0bezd</id>
+        <description lang="en-US">Tagespacker k&amp;ouml;nnen am selben Tag entfernt werden&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jcc1wx001w266ef2bcuo8l</id>
+        <description lang="en-US">Es sind keine Zeitr&amp;auml;ume zu beachten</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

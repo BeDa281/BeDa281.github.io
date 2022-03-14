@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://3qXuVID20RXNQ3Cz70V1IWLI3EEpT2do_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Rissinjektion - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://3qXuVID20RXNQ3Cz70V1IWLI3EEpT2do_rise/dtiCk2brn166S5Jf60S4kc6RNKGetRtw" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://3qXuVID20RXNQ3Cz70V1IWLI3EEpT2do_rise/dtiCk2brn166S5Jf60S4kc6RNKGetRtw/cl0jbgvup0003266e8drxsg0j" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Risse in Beton sind unvermeidbar. Was f&amp;uuml;r eine Zugfestigkeit weisen Betone in Abh&amp;auml;ngigkeit der Druckfestigkeit ungef&amp;auml;hr auf?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jbgvuq0004266ef8lupeyw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jbgvuq0004266ef8lupeyw</id>
+        <description lang="en-US">ungef&amp;auml;hr 10 % der Druckfestigkeit&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbgvuq0005266e75g3ousx</id>
+        <description lang="en-US">ungef&amp;auml;hr 15 % der Druckfestigkeit&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbhhbl0006266ekb0tffxg</id>
+        <description lang="en-US">ungef&amp;auml;hr 25 % der Druckfestigkeit</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://3qXuVID20RXNQ3Cz70V1IWLI3EEpT2do_rise/dtiCk2brn166S5Jf60S4kc6RNKGetRtw/cl0jbhkvs0007266ee8r8fcud" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sind Risse grunds&amp;auml;tzlich ein Mangel?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jbhkvs0009266eb4gde9qv</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jbhkvs0008266e9asgkftx</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            <component>
+        <id>choice_cl0jbhkvs0009266eb4gde9qv</id>
+        <description lang="en-US">Nein</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://3qXuVID20RXNQ3Cz70V1IWLI3EEpT2do_rise/dtiCk2brn166S5Jf60S4kc6RNKGetRtw/cl0jbhyg7000a266etp4atpa6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wann sind Risse ein Mangel?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jbhyg7000b266eljqsyrqw</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jbigwx000g266ebmog24ep</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jbhyg7000c266efmfczl9n</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jbhyg7000b266eljqsyrqw</id>
+        <description lang="en-US">Wenn die Optik massiv beeintr&amp;auml;chtigt wird&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbhyg7000c266efmfczl9n</id>
+        <description lang="en-US">Wenn die Nutzung eingeschr&amp;auml;nkt wird&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbigwx000g266ebmog24ep</id>
+        <description lang="en-US">Wenn die Dauerhaftigkeit eingeschr&amp;auml;nkt wird</description>
+      </component>
+            <component>
+        <id>choice_cl0jbil7r000i266elek89mfl</id>
+        <description lang="en-US">Risse sind immer ein Mangel&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://3qXuVID20RXNQ3Cz70V1IWLI3EEpT2do_rise/dtiCk2brn166S5Jf60S4kc6RNKGetRtw/cl0jbipnd000k266e0ct6itcu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was sind Beispiele sch&amp;auml;dlicher Risse?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jbipnd000l266ehs6lnnjc</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jbipnd000m266ecpcxxt0s</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jbjsmd000w266eogrvp7h6</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jbjor5000u266eoqq16uj2</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jbipnd000o266ekdamc4rm</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jbipnd000n266e0xifb6ge</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jbipnd000l266ehs6lnnjc</id>
+        <description lang="en-US">Optische Beeintr&amp;auml;chtigung bei Sichtbetonfl&amp;auml;chen&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbipnd000n266e0xifb6ge</id>
+        <description lang="en-US">Einschr&amp;auml;nkung der Dauerhaftigkeit durch freiliegende Bewehrung zwischen den Rissflanken und der damit verbundenen Korrosion&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbipnd000o266ekdamc4rm</id>
+        <description lang="en-US">Einschr&amp;auml;nkung der Gebrauchstauglichkeit durch Wasserzutritt beispielsweise in Tiefgaragen&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbipnd000m266ecpcxxt0s</id>
+        <description lang="en-US">Einschr&amp;auml;nkung der Gebrauchstauglichkeit durch reduzierte Kraftaufnahme beispielsweise an gerissenen Balken&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbjor5000u266eoqq16uj2</id>
+        <description lang="en-US">Einschr&amp;auml;nkung der Tragf&amp;auml;higkeit durch Setzungen</description>
+      </component>
+            <component>
+        <id>choice_cl0jbjsmd000w266eogrvp7h6</id>
+        <description lang="en-US">Einschr&amp;auml;nkung der Tragf&amp;auml;higkeit durch chemische Prozesse wie Sulfattreiben&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://3qXuVID20RXNQ3Cz70V1IWLI3EEpT2do_rise/dtiCk2brn166S5Jf60S4kc6RNKGetRtw/cl0jbk7um000y266ey6mjr3ox" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Europ&amp;auml;ische und deutsche Regelwerke tolerieren Risse in engen Grenzen und in Abh&amp;auml;ngigkeit der Nutzungsklasse. Welche Rissbreiten werden toleriert?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jbk7um000z266e1t7xpfpz</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jbk7um0012266eblor2g79</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jbk7um000z266e1t7xpfpz</id>
+        <description lang="en-US">0,4 mm: Innenr&amp;auml;ume der Exposition X0&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbk7um0011266emgpit24y</id>
+        <description lang="en-US">0,2 mm: WU-Konstruktionen&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbk7um0012266eblor2g79</id>
+        <description lang="en-US">0,2 mm: Beton in K&amp;uuml;stenn&amp;auml;he der Expositionsklassen XS1 &amp;ndash; XS3&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://3qXuVID20RXNQ3Cz70V1IWLI3EEpT2do_rise/dtiCk2brn166S5Jf60S4kc6RNKGetRtw/cl0jbl8f60018266eb0fu58tv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Definition der Injektion?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jbl8f60019266ebz8nsukm</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jbl8f60019266ebz8nsukm</id>
+        <description lang="en-US">Das F&amp;uuml;llen von Rissen und Hohlr&amp;auml;umen mit druckerzeugenden F&amp;ouml;rderger&amp;auml;ten &amp;uuml;ber Packer&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbl8f6001a266er678lmy0</id>
+        <description lang="en-US">Das F&amp;uuml;llen von Rissen und Hohlr&amp;auml;umen&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://3qXuVID20RXNQ3Cz70V1IWLI3EEpT2do_rise/dtiCk2brn166S5Jf60S4kc6RNKGetRtw/cl0jblyzx001b266eqn0cuvk2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Definition des Vergie&amp;szlig;ens?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jblyzy001c266epd6erf6k</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jblyzy001c266epd6erf6k</id>
+        <description lang="en-US">Das F&amp;uuml;llen von Rissen ohne F&amp;ouml;rderdruck auf waagerechten bis leicht geneigten Fl&amp;auml;chen&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jblyzy001d266elsjkdh2z</id>
+        <description lang="en-US">Das F&amp;uuml;llen von Rissen an allen Bauteillagen&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://3qXuVID20RXNQ3Cz70V1IWLI3EEpT2do_rise/dtiCk2brn166S5Jf60S4kc6RNKGetRtw/cl0jbo9af001e266eauvmmcm5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Pumpenarten werden &amp;uuml;berwiegend eingesetzt?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jbo9af001f266ek0gy1rj4</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jbo9af001f266ek0gy1rj4</id>
+        <description lang="en-US">Kolben- und Membranpumpen&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbo9af001h266evn0ci1sc</id>
+        <description lang="en-US">Fu&amp;szlig;hebelpumpen&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbo9af001i266eit3ferke</id>
+        <description lang="en-US">Fettpressen&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://3qXuVID20RXNQ3Cz70V1IWLI3EEpT2do_rise/dtiCk2brn166S5Jf60S4kc6RNKGetRtw/cl0jbp1rk001o266ezcxqypto" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r welche Injektionsstoffe sind Kolbenpumpen zu bevorzugen und welche Vorteile bieten sie?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jbp1rk001p266etok7b49i</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jbpkp4001u266e4wig2mad</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jbpp99001w266enid6y18j</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jbp1rk001p266etok7b49i</id>
+        <description lang="en-US">Sie k&amp;ouml;nnen auch in explosionsgef&amp;auml;hrdeten Bereichen verwendet werden&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbp1rk001q266e573rjlmo</id>
+        <description lang="en-US">Sie sind f&amp;uuml;r Zementsuspensionen geeignet&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbpkp4001u266e4wig2mad</id>
+        <description lang="en-US">Sie sind f&amp;uuml;r das Verarbeiten von Reaktionsharzen konzipiert</description>
+      </component>
+            <component>
+        <id>choice_cl0jbpp99001w266enid6y18j</id>
+        <description lang="en-US">Das Injektionsmaterial in der Pumpe wird nicht durch Reibung w&amp;auml;hrend Injektionspausen erw&amp;auml;rmt&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://3qXuVID20RXNQ3Cz70V1IWLI3EEpT2do_rise/dtiCk2brn166S5Jf60S4kc6RNKGetRtw/cl0jbq4s4001y266ezv8po6ow" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">F&amp;uuml;r welche Injektionsstoffe sind Membranpumpen zu bevorzugen?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jbq4s4001z266eykmzf5rl</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jbq4s40020266esh8vr4zs</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jbq4s4001z266eykmzf5rl</id>
+        <description lang="en-US">Sie sind f&amp;uuml;r Zementsuspensionen und Zementleime geeignet&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jbq4s40020266esh8vr4zs</id>
+        <description lang="en-US">Sie sind f&amp;uuml;r das Verarbeiten von Reaktionsharzen konzipiert&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
