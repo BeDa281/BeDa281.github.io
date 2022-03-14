@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://sseEQxTeXeVKyIzF_WZyK3yTQkzB9vCM_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Pfosten und Auflagerpressung - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://sseEQxTeXeVKyIzF_WZyK3yTQkzB9vCM_rise/WKslXvc3AzbSs8e7pHK-z5TGitznEkI3" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://sseEQxTeXeVKyIzF_WZyK3yTQkzB9vCM_rise/WKslXvc3AzbSs8e7pHK-z5TGitznEkI3/cl0jj19uc0008266ee3cyy8ia" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wei&amp;szlig;en Sie die Eulerf&amp;auml;lle zu:</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cl0jj19ud0009266emep4e5xv[.]target_cl0jj19ud0009266emep4e5xv</correctResponsePattern>
+            <correctResponsePattern>source_cl0jj19ud000a266edjhx8ytj[.]target_cl0jj19ud000a266edjhx8ytj</correctResponsePattern>
+            <correctResponsePattern>source_cl0jj19ud000b266ey1owzz97[.]target_cl0jj19ud000b266ey1owzz97</correctResponsePattern>
+            <correctResponsePattern>source_cl0jj1fp5000c266elc75miep[.]target_cl0jj1fp5000c266elc75miep</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cl0jj19ud0009266emep4e5xv</id>
+        <description lang="en-US">Eulerfall 2></description>
+      </component>
+            <component>
+        <id>source_cl0jj19ud000a266edjhx8ytj</id>
+        <description lang="en-US">Eulerfall 1></description>
+      </component>
+            <component>
+        <id>source_cl0jj19ud000b266ey1owzz97</id>
+        <description lang="en-US">Eulerfall 3></description>
+      </component>
+            <component>
+        <id>source_cl0jj1fp5000c266elc75miep</id>
+        <description lang="en-US">Eulerfall 4></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cl0jj19ud0009266emep4e5xv</id>
+            <description lang="en-US">A</description>
+          </component>
+                  <component>
+            <id>target_cl0jj19ud000a266edjhx8ytj</id>
+            <description lang="en-US">B</description>
+          </component>
+                  <component>
+            <id>target_cl0jj19ud000b266ey1owzz97</id>
+            <description lang="en-US">C</description>
+          </component>
+                  <component>
+            <id>target_cl0jj1fp5000c266elc75miep</id>
+            <description lang="en-US">D</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://sseEQxTeXeVKyIzF_WZyK3yTQkzB9vCM_rise/WKslXvc3AzbSs8e7pHK-z5TGitznEkI3/cl0jj4cpp000e266ec8gxitul" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie wirkt sich der Eulerfall auf die effektive L&amp;auml;nge einer St&amp;uuml;tze aus?</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cl0jj4cpp000f266easxutgcc[.]target_cl0jj4cpp000f266easxutgcc</correctResponsePattern>
+            <correctResponsePattern>source_cl0jj4cpp000g266ea139o7df[.]target_cl0jj4cpp000g266ea139o7df</correctResponsePattern>
+            <correctResponsePattern>source_cl0jj4cpp000h266ey6uopqm3[.]target_cl0jj4cpp000h266ey6uopqm3</correctResponsePattern>
+            <correctResponsePattern>source_cl0jj5ggf000i266e4kmf5s7n[.]target_cl0jj5ggf000i266e4kmf5s7n</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cl0jj4cpp000f266easxutgcc</id>
+        <description lang="en-US">Eulerfall 1></description>
+      </component>
+            <component>
+        <id>source_cl0jj4cpp000g266ea139o7df</id>
+        <description lang="en-US">Eulerfall 4></description>
+      </component>
+            <component>
+        <id>source_cl0jj4cpp000h266ey6uopqm3</id>
+        <description lang="en-US">Eulerfall 3></description>
+      </component>
+            <component>
+        <id>source_cl0jj5ggf000i266e4kmf5s7n</id>
+        <description lang="en-US">Eulerfall 2></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cl0jj4cpp000f266easxutgcc</id>
+            <description lang="en-US">effektive Länge = Länge * 2,0</description>
+          </component>
+                  <component>
+            <id>target_cl0jj4cpp000g266ea139o7df</id>
+            <description lang="en-US">effektive Länge = Länge * 0,5</description>
+          </component>
+                  <component>
+            <id>target_cl0jj4cpp000h266ey6uopqm3</id>
+            <description lang="en-US">effektive Länge = Länge * 0,7</description>
+          </component>
+                  <component>
+            <id>target_cl0jj5ggf000i266e4kmf5s7n</id>
+            <description lang="en-US">effektive Länge = Länge * 1,0</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://sseEQxTeXeVKyIzF_WZyK3yTQkzB9vCM_rise/WKslXvc3AzbSs8e7pHK-z5TGitznEkI3/cl0jj64l8000j266e2hzicuys" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie hoch ist der Wert Iz bei einer St&amp;uuml;tze mit 16 * 16 cm (b4 / 12)?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jj64l8000k266e780rhn4u</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jj64l8000k266e780rhn4u</id>
+        <description lang="en-US">5461 cm&lt;sup&gt;4&lt;/sup&gt;</description>
+      </component>
+            <component>
+        <id>choice_cl0jj64l8000l266e6mrh3keb</id>
+        <description lang="en-US">256 cm&lt;sup&gt;2&lt;/sup&gt;</description>
+      </component>
+            <component>
+        <id>choice_cl0jj6hd1000m266e20btai5d</id>
+        <description lang="en-US">4,62 cm</description>
+      </component>
+            <component>
+        <id>choice_cl0jj6jwg000n266eb3bbbnfs</id>
+        <description lang="en-US">4,04 cm&lt;sup&gt;3&lt;/sup&gt;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sseEQxTeXeVKyIzF_WZyK3yTQkzB9vCM_rise/WKslXvc3AzbSs8e7pHK-z5TGitznEkI3/cl0jj6pws000o266e36r3q9f4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was sagt der lambdawert einer St&amp;uuml;tze aus?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jj6pws000p266eige9l1l0</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jj6pws000p266eige9l1l0</id>
+        <description lang="en-US">Schlankheitsgrat</description>
+      </component>
+            <component>
+        <id>choice_cl0jj6pws000q266e2pb5hqc2</id>
+        <description lang="en-US">Querschnitt</description>
+      </component>
+            <component>
+        <id>choice_cl0jj7535000r266e61vk6osq</id>
+        <description lang="en-US">Effektive St&amp;uuml;tzenl&amp;auml;nge</description>
+      </component>
+            <component>
+        <id>choice_cl0jj780q000s266exif6voyn</id>
+        <description lang="en-US">Knickbeiwert</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sseEQxTeXeVKyIzF_WZyK3yTQkzB9vCM_rise/WKslXvc3AzbSs8e7pHK-z5TGitznEkI3/cl0jj7hcl000t266eqckvf5ng" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie wird eine Kraft bezeichnet, die parallel zur Holzfaser dr&amp;uuml;ckt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jj7hcl000u266epgzfxn48</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jj7hcl000u266epgzfxn48</id>
+        <description lang="en-US">F &lt;sub&gt;c,0&lt;/sub&gt;</description>
+      </component>
+            <component>
+        <id>choice_cl0jj7hcl000v266ecut90op2</id>
+        <description lang="en-US">F &lt;sub&gt;c,90&lt;/sub&gt;</description>
+      </component>
+            <component>
+        <id>choice_cl0jj7u6m000w266e6t83pf0m</id>
+        <description lang="en-US">f&lt;sub&gt;m,d&lt;/sub&gt;</description>
+      </component>
+            <component>
+        <id>choice_cl0jj7y10000x266es4u43whc</id>
+        <description lang="en-US">k&lt;sub&gt;mod&lt;/sub&gt;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sseEQxTeXeVKyIzF_WZyK3yTQkzB9vCM_rise/WKslXvc3AzbSs8e7pHK-z5TGitznEkI3/cl0jj8s2a000y266e4ok9d4xr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Teilsicherheitsbeiwerte kennen Sie?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jj8s2a000z266eqh65baa9</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jj8s2a0011266ezvqibfpw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jj8s2a000z266eqh65baa9</id>
+        <description lang="en-US">1,35 f&amp;uuml;r st&amp;auml;ndige Lasten</description>
+      </component>
+            <component>
+        <id>choice_cl0jj8s2a0011266ezvqibfpw</id>
+        <description lang="en-US">1,50 f&amp;uuml;r ver&amp;auml;nderliche Lasten</description>
+      </component>
+            <component>
+        <id>choice_cl0jj8s2a0012266e9m3tb396</id>
+        <description lang="en-US">1,30 f&amp;uuml;r ver&amp;auml;nderliche Lasten</description>
+      </component>
+            <component>
+        <id>choice_cl0jj8s2a0010266e0ku4jbc8</id>
+        <description lang="en-US">1,50 f&amp;uuml;r Gesamteinwirkung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sseEQxTeXeVKyIzF_WZyK3yTQkzB9vCM_rise/WKslXvc3AzbSs8e7pHK-z5TGitznEkI3/cl0jj9snr0018266ef9f14anx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Unterscheiden Sie Auflagerdruck und Schwellendruck</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cl0jj9snr0019266ecgenq457[.]target_cl0jj9snr0019266ecgenq457</correctResponsePattern>
+            <correctResponsePattern>source_cl0jj9snr001a266e05l3139m[.]target_cl0jj9snr001a266e05l3139m</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cl0jj9snr0019266ecgenq457</id>
+        <description lang="en-US">Schwellendruck></description>
+      </component>
+            <component>
+        <id>source_cl0jj9snr001a266e05l3139m</id>
+        <description lang="en-US">Auflagerdruck></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cl0jj9snr0019266ecgenq457</id>
+            <description lang="en-US">A</description>
+          </component>
+                  <component>
+            <id>target_cl0jj9snr001a266e05l3139m</id>
+            <description lang="en-US">B</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://sseEQxTeXeVKyIzF_WZyK3yTQkzB9vCM_rise/WKslXvc3AzbSs8e7pHK-z5TGitznEkI3/cl0jjcsbl001d266ehhq10mi7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Um wieviel cm darf die Auflagerfl&amp;auml;che rechnerisch vergr&amp;ouml;&amp;szlig;ert werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jjcsbl001e266erjcpfi9b</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jjcsbl001e266erjcpfi9b</id>
+        <description lang="en-US">In Faserrichtung jeweils um 3 cm</description>
+      </component>
+            <component>
+        <id>choice_cl0jjcsbl001g266eiksfpbgg</id>
+        <description lang="en-US">In allen Richtungen um 3 cm</description>
+      </component>
+            <component>
+        <id>choice_cl0jjcsbl001h266e90y9fucl</id>
+        <description lang="en-US">Quer zur Faser 6 cm</description>
+      </component>
+            <component>
+        <id>choice_cl0jjcsbl001f266e65vd4pm4</id>
+        <description lang="en-US">Am Schwellenende um 4,5 cm&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sseEQxTeXeVKyIzF_WZyK3yTQkzB9vCM_rise/WKslXvc3AzbSs8e7pHK-z5TGitznEkI3/cl0jjdc7c001n266e04bjcd7d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Auswirkung hat die Ver&amp;auml;nderung der Nutzungsklasse?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jjdc7c001o266e7d0s0x76</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jjdc7c001o266e7d0s0x76</id>
+        <description lang="en-US">Der Modifikationsbeiwert k&lt;sub&gt;mod&lt;/sub&gt; &amp;auml;ndert sich</description>
+      </component>
+            <component>
+        <id>choice_cl0jjdc7c001p266ejtpbs7fe</id>
+        <description lang="en-US">Der Teilsicherheitsbeiwert &amp;auml;ndert sich</description>
+      </component>
+            <component>
+        <id>choice_cl0jjdsp2001q266eusastbm4</id>
+        <description lang="en-US">Die Lasteinwirkungsdauer &amp;auml;ndert sich</description>
+      </component>
+            <component>
+        <id>choice_cl0jjdvj0001r266ejil9fp8n</id>
+        <description lang="en-US">Der Querdruckbeiwert &amp;auml;ndert sich</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://sseEQxTeXeVKyIzF_WZyK3yTQkzB9vCM_rise/WKslXvc3AzbSs8e7pHK-z5TGitznEkI3/cl0jje582001s266elf4z3dc0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wo erhalten Sie bei gleichen Bedingungen einen schlechteren Wert?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jje582001u266ex324u7o6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jje582001t266e41siv4ag</id>
+        <description lang="en-US">Auflagerdruck, weil der Balken die Last einseitig aufnehmen muss</description>
+      </component>
+            <component>
+        <id>choice_cl0jje582001u266ex324u7o6</id>
+        <description lang="en-US">Schwellendruck, weil die Schwelle &amp;bdquo;durch und durch&amp;ldquo; gedr&amp;uuml;ckt wird</description>
+      </component>
+            <component>
+        <id>choice_cl0jjemii001v266eqsiiltln</id>
+        <description lang="en-US">BSH, da die Leimfugen nachgiebiger sind</description>
+      </component>
+            <component>
+        <id>choice_cl0jjepjc001w266eivl8mrg9</id>
+        <description lang="en-US">Gr&amp;ouml;&amp;szlig;erer Querschnitt der Pfosten</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

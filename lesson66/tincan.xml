@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://i7MUeRdMzF6GH7T9a7ffRbtW76-pn3FK_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Feuchte - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://i7MUeRdMzF6GH7T9a7ffRbtW76-pn3FK_rise/Q7mwecLNww2PsQS8MgQWcTQFwOUllRi1" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://i7MUeRdMzF6GH7T9a7ffRbtW76-pn3FK_rise/Q7mwecLNww2PsQS8MgQWcTQFwOUllRi1/cl0jembmk0003266eyus0j2hx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche klimatischen Bedingungen f&amp;uuml;r das Glaser-Diagramm sind richtig?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jembmk0004266em6se2tnl</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jembmk0007266elaachuo7</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jembmk0006266e8tq8kywk</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jembmk0004266em6se2tnl</id>
+        <description lang="en-US">Innen + 20&amp;deg; und 50% rel. Luftfeuchte in der Tauperiode</description>
+      </component>
+            <component>
+        <id>choice_cl0jembmk0006266e8tq8kywk</id>
+        <description lang="en-US">Au&amp;szlig;en &amp;ndash; 5&amp;deg; und 80% rel. Luftfeuchte in der Tauperiode</description>
+      </component>
+            <component>
+        <id>choice_cl0jembmk0007266elaachuo7</id>
+        <description lang="en-US">Innen und au&amp;szlig;en + 12&amp;deg; und 70% rel. Luftfeuchte in der Verdunstungsperiode</description>
+      </component>
+            <component>
+        <id>choice_cl0jembmk0005266ee3l047ag</id>
+        <description lang="en-US">Innen 50% und au&amp;szlig;en 80% rel. Luftfeuchte in der Verdunstungsperiode</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://i7MUeRdMzF6GH7T9a7ffRbtW76-pn3FK_rise/Q7mwecLNww2PsQS8MgQWcTQFwOUllRi1/cl0jemvj8000d266e4c8fyh90" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was kann zu Tauwasserausfall an der Bauteiloberfl&amp;auml;che f&amp;uuml;hren?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jemvj9000e266e4qxg00o0</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jemvj9000g266eakxt2x0p</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jemvj9000h266eblq75be3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jemvj9000e266e4qxg00o0</id>
+        <description lang="en-US">Zu hohe Luftfeuchte</description>
+      </component>
+            <component>
+        <id>choice_cl0jemvj9000g266eakxt2x0p</id>
+        <description lang="en-US">Zu k&amp;uuml;hle Bauteiloberfl&amp;auml;che</description>
+      </component>
+            <component>
+        <id>choice_cl0jemvj9000h266eblq75be3</id>
+        <description lang="en-US">Schlechte Luftzirkulation</description>
+      </component>
+            <component>
+        <id>choice_cl0jemvj9000f266e8whwgfmd</id>
+        <description lang="en-US">Mangelhafter Hitzeschutz</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://i7MUeRdMzF6GH7T9a7ffRbtW76-pn3FK_rise/Q7mwecLNww2PsQS8MgQWcTQFwOUllRi1/cl0jenjp7000n266ejsi3yx9y" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Sch&amp;auml;den kann Tauwasser hervorrufen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jenjp8000o266ebhur1pgc</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jenjp8000q266eo5z0bof1</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jenjp8000r266evo6lavwo</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jenjp8000o266ebhur1pgc</id>
+        <description lang="en-US">Verringerung der D&amp;auml;mmwirkung</description>
+      </component>
+            <component>
+        <id>choice_cl0jenjp8000q266eo5z0bof1</id>
+        <description lang="en-US">Zerst&amp;ouml;rung von Bauteilen</description>
+      </component>
+            <component>
+        <id>choice_cl0jenjp8000r266evo6lavwo</id>
+        <description lang="en-US">Erh&amp;ouml;hte Wasseraufnahme von kapillaren Baustoffen</description>
+      </component>
+            <component>
+        <id>choice_cl0jenjp8000p266ecnnblg14</id>
+        <description lang="en-US">Raumklimaregulierung in der Verdunstungsperiode</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://i7MUeRdMzF6GH7T9a7ffRbtW76-pn3FK_rise/Q7mwecLNww2PsQS8MgQWcTQFwOUllRi1/cl0jeo5g8000x266esldlkchg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Orden Sie die Begriffe nach dem Glaser-Diagramm zu:</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cl0jeo5g8000y266el1yd5nhw[.]target_cl0jeo5g8000y266el1yd5nhw</correctResponsePattern>
+            <correctResponsePattern>source_cl0jeo5g8000z266eh4h4qofy[.]target_cl0jeo5g8000z266eh4h4qofy</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cl0jeo5g8000y266el1yd5nhw</id>
+        <description lang="en-US">Tauperiode, Kondensationsperiode></description>
+      </component>
+            <component>
+        <id>source_cl0jeo5g8000z266eh4h4qofy</id>
+        <description lang="en-US">Verdunstungsperiode></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cl0jeo5g8000y266el1yd5nhw</id>
+            <description lang="en-US">Winter </description>
+          </component>
+                  <component>
+            <id>target_cl0jeo5g8000z266eh4h4qofy</id>
+            <description lang="en-US">Sommer </description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://i7MUeRdMzF6GH7T9a7ffRbtW76-pn3FK_rise/Q7mwecLNww2PsQS8MgQWcTQFwOUllRi1/cl0jeou9s0011266e53osif4x" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie hoch ist der Temperaturunterschied nach Glaser in der Tauperiode?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jeou9s0012266eh111cg6p</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jeou9s0012266eh111cg6p</id>
+        <description lang="en-US">25 Kelvin, Dauer 90 Tage</description>
+      </component>
+            <component>
+        <id>choice_cl0jeou9s0013266eo9zj5iie</id>
+        <description lang="en-US">+ 20&amp;deg; und -10&amp;deg;</description>
+      </component>
+            <component>
+        <id>choice_cl0jep5xx0014266e1mgykssr</id>
+        <description lang="en-US">+ 12&amp;deg;, Dauer 90 Tage</description>
+      </component>
+            <component>
+        <id>choice_cl0jep87d0015266e1hl9htld</id>
+        <description lang="en-US">-5&amp;deg; und + 20&amp;deg;, Dauer 60 Tage</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://i7MUeRdMzF6GH7T9a7ffRbtW76-pn3FK_rise/Q7mwecLNww2PsQS8MgQWcTQFwOUllRi1/cl0jepmj70016266evpomrf7d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was verhindert einen Tauwasserausfall in der Konstruktion?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jepmj80017266e59dapi99</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jepmj80017266e59dapi99</id>
+        <description lang="en-US">Dampfbremse m&amp;ouml;glichst weit Innen anbringen</description>
+      </component>
+            <component>
+        <id>choice_cl0jepmj80018266entwsetkw</id>
+        <description lang="en-US">Geringer sd-Wert der Dampfbremse</description>
+      </component>
+            <component>
+        <id>choice_cl0jepxzf0019266e50bejha7</id>
+        <description lang="en-US">Je weiter au&amp;szlig;en die Schicht, desto h&amp;ouml;her der sd-Wert </description>
+      </component>
+            <component>
+        <id>choice_cl0jeq08s001a266etaauo03t</id>
+        <description lang="en-US">Harmonischer Temperaturverlauf der einzelnen Bauteilschichten</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://i7MUeRdMzF6GH7T9a7ffRbtW76-pn3FK_rise/Q7mwecLNww2PsQS8MgQWcTQFwOUllRi1/cl0jeq68t001b266ekdsprdvi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie wird im Glaserdiagramm Tauwasserausfall dargestellt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jeq68t001c266eu9goawdr</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jeq68t001d266emdpytb2n</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jeq68t001c266eu9goawdr</id>
+        <description lang="en-US">Tropfen an der betroffenen Schicht</description>
+      </component>
+            <component>
+        <id>choice_cl0jeq68t001e266ed5goz0yb</id>
+        <description lang="en-US">Temperaturlinie wird unterbrochen</description>
+      </component>
+            <component>
+        <id>choice_cl0jeq68t001f266evqc9f3tp</id>
+        <description lang="en-US">Eiskristalle im Bauteil</description>
+      </component>
+            <component>
+        <id>choice_cl0jeq68t001d266emdpytb2n</id>
+        <description lang="en-US">Dampfdrucklinie weist Knick auf</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://i7MUeRdMzF6GH7T9a7ffRbtW76-pn3FK_rise/Q7mwecLNww2PsQS8MgQWcTQFwOUllRi1/cl0jeqwwz001l266ehs0j5pj1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Ursachen kann Schimmel an Bauteiloberfl&amp;auml;chen haben?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jeqwwz001m266epsprpwgw</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jeqwwz001p266eits74l2g</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jeqwwz001o266esnf1qfcq</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jeqwwz001m266epsprpwgw</id>
+        <description lang="en-US">Leckage einer Wasserleitung in der Wand</description>
+      </component>
+            <component>
+        <id>choice_cl0jeqwwz001o266esnf1qfcq</id>
+        <description lang="en-US">Undichtes Bauteil gegen&amp;uuml;ber Witterungseinfl&amp;uuml;ssen</description>
+      </component>
+            <component>
+        <id>choice_cl0jeqwwz001p266eits74l2g</id>
+        <description lang="en-US">Schlechte Bel&amp;uuml;ftung der Bauteiloberfl&amp;auml;che &amp;nbsp;&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jeqwwz001n266ecuoacubh</id>
+        <description lang="en-US">Geringe Luftfeuchte im Raum</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://i7MUeRdMzF6GH7T9a7ffRbtW76-pn3FK_rise/Q7mwecLNww2PsQS8MgQWcTQFwOUllRi1/cl0jerxzq002k266e39nyivdu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wo f&amp;auml;llt Tauwasser in erster Linie sichtbar aus?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jerxzq002l266ehdyvdcz6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jerxzq002l266ehdyvdcz6</id>
+        <description lang="en-US">Auf Glasscheiben</description>
+      </component>
+            <component>
+        <id>choice_cl0jerxzq002m266elnp48f33</id>
+        <description lang="en-US">Auf beheizten Oberfl&amp;auml;chen</description>
+      </component>
+            <component>
+        <id>choice_cl0jesbu7002n266eldif1s6b</id>
+        <description lang="en-US">Auf kapillaren Bauteiloberfl&amp;auml;chen</description>
+      </component>
+            <component>
+        <id>choice_cl0jese2j002o266emzn5k2zx</id>
+        <description lang="en-US">Hinter der Dampfbremse</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://i7MUeRdMzF6GH7T9a7ffRbtW76-pn3FK_rise/Q7mwecLNww2PsQS8MgQWcTQFwOUllRi1/cl0jesjkm002p266e3dg47raw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was sind Merkmale und Besonderheiten von Klimamembranen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jesjkm002q266ewbekkbki</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jesz6i002v266e4pqb6pji</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jesjkm002r266ebdha2ecm</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jesjkm002q266ewbekkbki</id>
+        <description lang="en-US">Variabler Diffusionswiderstand</description>
+      </component>
+            <component>
+        <id>choice_cl0jesjkm002r266ebdha2ecm</id>
+        <description lang="en-US">Feuchteadaptive Folie</description>
+      </component>
+            <component>
+        <id>choice_cl0jesz6i002v266e4pqb6pji</id>
+        <description lang="en-US">Hohe Dampfbremswirkung im Winter</description>
+      </component>
+            <component>
+        <id>choice_cl0jet1nv002x266eu1msftbc</id>
+        <description lang="en-US">Hoher sd-Wert im Sommer</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

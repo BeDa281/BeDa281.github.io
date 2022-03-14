@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://YKQemsMyyXnb2MY9kxzOpyR2zHi0A53d_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Luftdichtheit - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://YKQemsMyyXnb2MY9kxzOpyR2zHi0A53d_rise/quT-mwYa2LvvSOC9WbGbD6vZFUYCuHVe" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://YKQemsMyyXnb2MY9kxzOpyR2zHi0A53d_rise/quT-mwYa2LvvSOC9WbGbD6vZFUYCuHVe/cl0jeuclk0003266eriih1x1u" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie lautet das Messverfahren f&amp;uuml;r die Luftdichtheit von Geb&amp;auml;uden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jeuclk0004266epb60d56w</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jeuclk0004266epb60d56w</id>
+        <description lang="en-US">Differenzdruck-Messverfahren</description>
+      </component>
+            <component>
+        <id>choice_cl0jeuclk0005266ezciw6582</id>
+        <description lang="en-US">Leckageratenmessung&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jeupvz0006266e20jfwkcd</id>
+        <description lang="en-US">Luft-framing Messung</description>
+      </component>
+            <component>
+        <id>choice_cl0jeut7z0007266erhl25e14</id>
+        <description lang="en-US">Thermografiemessung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://YKQemsMyyXnb2MY9kxzOpyR2zHi0A53d_rise/quT-mwYa2LvvSOC9WbGbD6vZFUYCuHVe/cl0jev2nz0008266ewgxntupk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Messverfahren bei der Blower-Door Messung richtig zu:</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cl0jev2nz0009266e44xgabb6[.]target_cl0jev2nz0009266e44xgabb6</correctResponsePattern>
+            <correctResponsePattern>source_cl0jev2nz000a266e40iqpfa0[.]target_cl0jev2nz000a266e40iqpfa0</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cl0jev2nz0009266e44xgabb6</id>
+        <description lang="en-US">Überdruckmessung></description>
+      </component>
+            <component>
+        <id>source_cl0jev2nz000a266e40iqpfa0</id>
+        <description lang="en-US">Nebeleinwirkung></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cl0jev2nz0009266e44xgabb6</id>
+            <description lang="en-US">Blower Door Messung</description>
+          </component>
+                  <component>
+            <id>target_cl0jev2nz000a266e40iqpfa0</id>
+            <description lang="en-US">Leckageortung</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://YKQemsMyyXnb2MY9kxzOpyR2zHi0A53d_rise/quT-mwYa2LvvSOC9WbGbD6vZFUYCuHVe/cl0jevxmq000c266ear5ll4xs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ordnen Sie die Messverfahren bei der Blower-Door Messung richtig zu:</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_cl0jevxmq000d266epooarwen[.]target_cl0jevxmq000d266epooarwen</correctResponsePattern>
+            <correctResponsePattern>source_cl0jevxmq000e266e04pk9h2b[.]target_cl0jevxmq000e266e04pk9h2b</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_cl0jevxmq000d266epooarwen</id>
+        <description lang="en-US">Unterdruckmessung></description>
+      </component>
+            <component>
+        <id>source_cl0jevxmq000e266e04pk9h2b</id>
+        <description lang="en-US">Anemometermessung></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_cl0jevxmq000d266epooarwen</id>
+            <description lang="en-US">Blower Door Messung</description>
+          </component>
+                  <component>
+            <id>target_cl0jevxmq000e266e04pk9h2b</id>
+            <description lang="en-US">Leckageortung</description>
+          </component>
+              </target>
+          </activity>
+        
+    <activity id="http://YKQemsMyyXnb2MY9kxzOpyR2zHi0A53d_rise/quT-mwYa2LvvSOC9WbGbD6vZFUYCuHVe/cl0jewzhc000g266eb9sv18r8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wieso m&amp;uuml;ssen Geb&amp;auml;ude Luftdicht gebaut werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jewzhc000h266e8l5t1a23</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jewzhc000j266e8ci0yane</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jewzhc000h266e8l5t1a23</id>
+        <description lang="en-US">Anforderung im GEG</description>
+      </component>
+            <component>
+        <id>choice_cl0jewzhc000j266e8ci0yane</id>
+        <description lang="en-US">Anerkannte Regel der Technik</description>
+      </component>
+            <component>
+        <id>choice_cl0jewzhc000k266efvzl4brg</id>
+        <description lang="en-US">Gesetz des Wohnungsl&amp;uuml;ftungsverbands</description>
+      </component>
+            <component>
+        <id>choice_cl0jewzhc000i266eauub4lfc</id>
+        <description lang="en-US">Anforderung der Baustoffhersteller</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://YKQemsMyyXnb2MY9kxzOpyR2zHi0A53d_rise/quT-mwYa2LvvSOC9WbGbD6vZFUYCuHVe/cl0jexkch000q266eg4uwnfi8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie k&amp;ouml;nnen Geb&amp;auml;ude durch zerst&amp;ouml;rungsfreies Verfahren diagnostiziert werden?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jexkch000r266e2xpjtep3</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jexkch000t266e6hp081ye</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jexkch000u266ep9jh2kf3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jexkch000r266e2xpjtep3</id>
+        <description lang="en-US">Thermografiemessung</description>
+      </component>
+            <component>
+        <id>choice_cl0jexkch000t266e6hp081ye</id>
+        <description lang="en-US">Blower Door Messung</description>
+      </component>
+            <component>
+        <id>choice_cl0jexkch000u266ep9jh2kf3</id>
+        <description lang="en-US">Bestimmung der Oberfl&amp;auml;chentemperatur</description>
+      </component>
+            <component>
+        <id>choice_cl0jexkch000s266e2mj30t8g</id>
+        <description lang="en-US">Pr&amp;uuml;fung der Baustoffschichten</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://YKQemsMyyXnb2MY9kxzOpyR2zHi0A53d_rise/quT-mwYa2LvvSOC9WbGbD6vZFUYCuHVe/cl0jey8d80010266eg11y4n8v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Folgen k&amp;ouml;nnen durch Leckagen in der Geb&amp;auml;udeh&amp;uuml;lle auftreten?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jey8d80011266e4va7zfht</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jey8d80013266ex7h1nvyt</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jey8d80014266e25ilcmd2</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jey8d80011266e4va7zfht</id>
+        <description lang="en-US">Kaltluftseen</description>
+      </component>
+            <component>
+        <id>choice_cl0jey8d80013266ex7h1nvyt</id>
+        <description lang="en-US">Schadstoffeintrag</description>
+      </component>
+            <component>
+        <id>choice_cl0jey8d80014266e25ilcmd2</id>
+        <description lang="en-US">Leistungsabfall der L&amp;uuml;ftungsanlage</description>
+      </component>
+            <component>
+        <id>choice_cl0jey8d80012266ek6hut7kj</id>
+        <description lang="en-US">Energiegewinn</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://YKQemsMyyXnb2MY9kxzOpyR2zHi0A53d_rise/quT-mwYa2LvvSOC9WbGbD6vZFUYCuHVe/cl0jez0pg001a266e3rapogf1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Elemente lassen sich zu Leckagen zuordnen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jez0pg001b266epcnpv1k0</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jez0pg001e266eir9rwntc</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jez0pg001d266e0017p8gc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jez0pg001b266epcnpv1k0</id>
+        <description lang="en-US">Mangelhafte Verklebung von Folien</description>
+      </component>
+            <component>
+        <id>choice_cl0jez0pg001d266e0017p8gc</id>
+        <description lang="en-US">Mangelhafter Anschluss eines Fensters an die Wand</description>
+      </component>
+            <component>
+        <id>choice_cl0jez0pg001e266eir9rwntc</id>
+        <description lang="en-US">Leerrohrverbindung f&amp;uuml;r Antennenkabel</description>
+      </component>
+            <component>
+        <id>choice_cl0jez0pg001c266eb24ntc2f</id>
+        <description lang="en-US">Unterschiedliche Baustoffe in einer Schicht&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://YKQemsMyyXnb2MY9kxzOpyR2zHi0A53d_rise/quT-mwYa2LvvSOC9WbGbD6vZFUYCuHVe/cl0jf09u7001k266e7qplawoh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Elemente lassen sich zu W&amp;auml;rmebr&amp;uuml;cke zuordnen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jf09u7001l266edaojzdvb</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jf09u8001m266e92lvgsbi</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jf09u8001n266eqnrbhh7b</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jf09u7001l266edaojzdvb</id>
+        <description lang="en-US">Unterschiedliche Baustoffe in einer Schicht</description>
+      </component>
+            <component>
+        <id>choice_cl0jf09u8001n266eqnrbhh7b</id>
+        <description lang="en-US">Geb&amp;auml;ude-Au&amp;szlig;enecke</description>
+      </component>
+            <component>
+        <id>choice_cl0jf09u8001o266eq5rlhnad</id>
+        <description lang="en-US">Mangelhafter Anschluss eines Fensters an die Wand</description>
+      </component>
+            <component>
+        <id>choice_cl0jf09u8001m266e92lvgsbi</id>
+        <description lang="en-US">Zusammengedr&amp;uuml;ckte W&amp;auml;rmed&amp;auml;mmung im Gefach</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://YKQemsMyyXnb2MY9kxzOpyR2zHi0A53d_rise/quT-mwYa2LvvSOC9WbGbD6vZFUYCuHVe/cl0jf1ebb002e266e7xazky3h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welchen Wert kennen Sie beim Differenzdruckverfahren?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jf1ebb002f266eg1cynrmn</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jf1ebb002f266eg1cynrmn</id>
+        <description lang="en-US">50 Pascal (n50-Wert) Druckdifferenz</description>
+      </component>
+            <component>
+        <id>choice_cl0jf1ebb002h266e70hi1gwc</id>
+        <description lang="en-US">3,0 Pascal (n3-Wert) Druckdifferenz</description>
+      </component>
+            <component>
+        <id>choice_cl0jf1ebb002i266e3uspskd8</id>
+        <description lang="en-US">Luftwechselrate 15x</description>
+      </component>
+            <component>
+        <id>choice_cl0jf1ebb002g266e6db9vanj</id>
+        <description lang="en-US">Luftwechselrate w50</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://YKQemsMyyXnb2MY9kxzOpyR2zHi0A53d_rise/quT-mwYa2LvvSOC9WbGbD6vZFUYCuHVe/cl0jf23ba002o266e40qldd1q" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Worauf bezieht sich das Differenzdruckverfahren?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jf23ba002p266eajeqqhdr</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jf23ba002p266eajeqqhdr</id>
+        <description lang="en-US">Beheiztes Innenvolumen</description>
+      </component>
+            <component>
+        <id>choice_cl0jf23ba002q266ex2cbvw0j</id>
+        <description lang="en-US">Geb&amp;auml;udevolumen nach den Au&amp;szlig;enma&amp;szlig;en</description>
+      </component>
+            <component>
+        <id>choice_cl0jf2fxd002r266euy5l9t75</id>
+        <description lang="en-US">Luftwechselrate pro Minute</description>
+      </component>
+            <component>
+        <id>choice_cl0jf2its002s266el634cvjv</id>
+        <description lang="en-US">Anzahl der Leckagen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://YKQemsMyyXnb2MY9kxzOpyR2zHi0A53d_rise/quT-mwYa2LvvSOC9WbGbD6vZFUYCuHVe/cl0jf2pqz002t266ey059vjyx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Luftwechselrate ist nach dem GEG zul&amp;auml;ssig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jf2pqz002u266eqf4qn079</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jf2pqz002u266eqf4qn079</id>
+        <description lang="en-US">n50, max 3,0 bei normalen Geb&amp;auml;uden</description>
+      </component>
+            <component>
+        <id>choice_cl0jf2pqz002v266e6urw1s9o</id>
+        <description lang="en-US">n50, max 1,5 bei Passivh&amp;auml;user</description>
+      </component>
+            <component>
+        <id>choice_cl0jf38ip002w266e4ybee068</id>
+        <description lang="en-US">n3, max 0,6 bei Geb&amp;auml;ude mit L&amp;uuml;ftunsanlage</description>
+      </component>
+            <component>
+        <id>choice_cl0jf3bka002x266ekno5k0bu</id>
+        <description lang="en-US">n3,0 bei Geb&amp;auml;ude mit L&amp;uuml;ftungsanlagen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://YKQemsMyyXnb2MY9kxzOpyR2zHi0A53d_rise/quT-mwYa2LvvSOC9WbGbD6vZFUYCuHVe/cl0jf3igl002y266e4lzjupx3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was k&amp;ouml;nnen Sie dem Pr&amp;uuml;fbericht einer Blower Door Messung entnehmen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jf3igl002z266ebnarrft4</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jf3igl0032266eumsv53zg</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jf3igl0031266eh43w5b5r</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jf3igl002z266ebnarrft4</id>
+        <description lang="en-US">Geb&amp;auml;udedaten&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jf3igl0031266eh43w5b5r</id>
+        <description lang="en-US">Protokoll der Messreihe</description>
+      </component>
+            <component>
+        <id>choice_cl0jf3igl0032266eumsv53zg</id>
+        <description lang="en-US">Vorhandener Luftdruck</description>
+      </component>
+            <component>
+        <id>choice_cl0jf3igl0030266egu1a8p6v</id>
+        <description lang="en-US">Lage der Leckagen</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

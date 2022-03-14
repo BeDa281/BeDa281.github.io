@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://aaANCxGGefOs_u5vXnLcJ71qd38caqXM_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Wärme - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://aaANCxGGefOs_u5vXnLcJ71qd38caqXM_rise/tJ44MsyaQmF4WUVxcJd77OuSMHrE0jOH" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://aaANCxGGefOs_u5vXnLcJ71qd38caqXM_rise/tJ44MsyaQmF4WUVxcJd77OuSMHrE0jOH/cl0je6qw30007266eq58vkc8t" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie breitet sich W&amp;auml;rme aus? Welche Aussage ist richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0je6qw30008266epf2qu8ze</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0je6qw30008266epf2qu8ze</id>
+        <description lang="en-US">W&amp;auml;rme breitet sich von Warm nach Kalt aus</description>
+      </component>
+            <component>
+        <id>choice_cl0je6qw4000a266e4ywx3dia</id>
+        <description lang="en-US">W&amp;auml;rme breitet sich nur im Luftleere Raum aus</description>
+      </component>
+            <component>
+        <id>choice_cl0je6qw4000b266e9b6emef4</id>
+        <description lang="en-US">W&amp;auml;rme breitet sich von Kalt nach Warm aus</description>
+      </component>
+            <component>
+        <id>choice_cl0je6qw40009266exhtnuxdk</id>
+        <description lang="en-US">W&amp;auml;rme kann nur &amp;uuml;ber feste Baustoffe &amp;uuml;bertragen werden</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aaANCxGGefOs_u5vXnLcJ71qd38caqXM_rise/tJ44MsyaQmF4WUVxcJd77OuSMHrE0jOH/cl0je7h1d000h266ewkzlful8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussagen sind richtig?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0je7h1d000i266ex9bptrkh</correctResponsePattern>
+            <correctResponsePattern>choice_cl0je7h1d000j266e3pi0y5f5</correctResponsePattern>
+            <correctResponsePattern>choice_cl0je7h1d000k266exfdiw4ee</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0je7h1d000i266ex9bptrkh</id>
+        <description lang="en-US">Die W&amp;auml;rmeleitf&amp;auml;higkeit wird in klein Lambda angegeben</description>
+      </component>
+            <component>
+        <id>choice_cl0je7h1d000k266exfdiw4ee</id>
+        <description lang="en-US">Die D&amp;auml;mmwirkung ist abh&amp;auml;ngig von der D&amp;auml;mmstoffdicke</description>
+      </component>
+            <component>
+        <id>choice_cl0je7h1d000l266emaijkgjy</id>
+        <description lang="en-US">Eine gute W&amp;auml;rmeleitf&amp;auml;higkeit ist notwendig f&amp;uuml;r einen guten D&amp;auml;mmstoff</description>
+      </component>
+            <component>
+        <id>choice_cl0je7h1d000j266e3pi0y5f5</id>
+        <description lang="en-US">Eine schlechte W&amp;auml;rmeleitf&amp;auml;higkeit dient als guter D&amp;auml;mmstoff</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aaANCxGGefOs_u5vXnLcJ71qd38caqXM_rise/tJ44MsyaQmF4WUVxcJd77OuSMHrE0jOH/cl0je7z1b000r266e8kmrz2e4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussage ist richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0je7z1b000s266ewua4zdee</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0je7z1b000s266ewua4zdee</id>
+        <description lang="en-US">Die Einheit f&amp;uuml;r die W&amp;auml;rmeleitf&amp;auml;higkeit ist W/m*K</description>
+      </component>
+            <component>
+        <id>choice_cl0je7z1b000t266e4l0p9s2l</id>
+        <description lang="en-US">Die Einheit f&amp;uuml;r die W&amp;auml;rmeleitf&amp;auml;higkeit ist m&amp;sup2;*K/W</description>
+      </component>
+            <component>
+        <id>choice_cl0je8jnu0014266ef69b4kxl</id>
+        <description lang="en-US">Die W&amp;auml;rmeleitf&amp;auml;higkeit wird in Rhodichte angegeben</description>
+      </component>
+            <component>
+        <id>choice_cl0je8mpx0015266esk1xuc3g</id>
+        <description lang="en-US">Die Einheit f&amp;uuml;r die Rhodichte ist klein Lambda</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aaANCxGGefOs_u5vXnLcJ71qd38caqXM_rise/tJ44MsyaQmF4WUVxcJd77OuSMHrE0jOH/cl0je8s7u0016266eat72wq2h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wovon ist der W&amp;auml;rme&amp;uuml;bergangswiderstand abh&amp;auml;ngig?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0je8s7u0017266eq6brr4up</correctResponsePattern>
+            <correctResponsePattern>choice_cl0je8s7u0019266eyx86mrzn</correctResponsePattern>
+            <correctResponsePattern>choice_cl0je8s7u001a266ebuf1qpx5</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0je8s7u0017266eq6brr4up</id>
+        <description lang="en-US">Richtung des W&amp;auml;rmestroms</description>
+      </component>
+            <component>
+        <id>choice_cl0je8s7u0019266eyx86mrzn</id>
+        <description lang="en-US">Au&amp;szlig;enseite / Innenseite des Bauteils</description>
+      </component>
+            <component>
+        <id>choice_cl0je8s7u001a266ebuf1qpx5</id>
+        <description lang="en-US">Hinterl&amp;uuml;ftung des Bauteils</description>
+      </component>
+            <component>
+        <id>choice_cl0je8s7u0018266edr00a20o</id>
+        <description lang="en-US">Ruhende Luftschicht</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aaANCxGGefOs_u5vXnLcJ71qd38caqXM_rise/tJ44MsyaQmF4WUVxcJd77OuSMHrE0jOH/cl0je9c85001g266e5a1o2skf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie lautet die Formel zum Berechnen des W&amp;auml;rmedurchlasswiderstands eines Baustoffes?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0je9c85001h266eu7qumf6e</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0je9c85001h266eu7qumf6e</id>
+        <description lang="en-US">dicke geteilt durch lambda</description>
+      </component>
+            <component>
+        <id>choice_cl0je9c85001i266edx0ix1mj</id>
+        <description lang="en-US">lambda mal dicke</description>
+      </component>
+            <component>
+        <id>choice_cl0je9v9d001j266egbw7iwfo</id>
+        <description lang="en-US">Rsi plus Rse mal Bauteildicke</description>
+      </component>
+            <component>
+        <id>choice_cl0je9xoz001k266eq9zi4623</id>
+        <description lang="en-US">Rsi plus lambda plus Rse</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aaANCxGGefOs_u5vXnLcJ71qd38caqXM_rise/tJ44MsyaQmF4WUVxcJd77OuSMHrE0jOH/cl0jea4bn001l266ejlxy5014" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was ist der W&amp;auml;rmedurchgangskoeffizient?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jea4bo001m266eofmszk0k</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jea4bo001m266eofmszk0k</id>
+        <description lang="en-US">U-Wert</description>
+      </component>
+            <component>
+        <id>choice_cl0jea4bo001n266etkc3lgai</id>
+        <description lang="en-US">Rt-Wert</description>
+      </component>
+            <component>
+        <id>choice_cl0jeaiu9001o266enyfoqahb</id>
+        <description lang="en-US">Lambda-Wert</description>
+      </component>
+            <component>
+        <id>choice_cl0jealt7001p266ecgim9tei</id>
+        <description lang="en-US">Umkehrwert des U-Wert</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aaANCxGGefOs_u5vXnLcJ71qd38caqXM_rise/tJ44MsyaQmF4WUVxcJd77OuSMHrE0jOH/cl0jeasag001q266eyfi7cg3i" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wo sind maximale U-Werte f&amp;uuml;r Geb&amp;auml;ude-Bauteile angegeben?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jeasag001r266eo6wzztlx</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jeasag001r266eo6wzztlx</id>
+        <description lang="en-US">Geb&amp;auml;udeEnergieGesetz (GEG)</description>
+      </component>
+            <component>
+        <id>choice_cl0jeasag001s266ecltyuy8y</id>
+        <description lang="en-US">Stra&amp;szlig;enverkehrsordnung (StVO)</description>
+      </component>
+            <component>
+        <id>choice_cl0jeb6to001t266eu320unxy</id>
+        <description lang="en-US">W&amp;auml;rmebr&amp;uuml;ckenkatalog</description>
+      </component>
+            <component>
+        <id>choice_cl0jeb94q001u266eewsubjy3</id>
+        <description lang="en-US">W&amp;auml;rmeschutzverordnung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aaANCxGGefOs_u5vXnLcJ71qd38caqXM_rise/tJ44MsyaQmF4WUVxcJd77OuSMHrE0jOH/cl0jebghl001y266e7illvx4z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was ben&amp;ouml;tigt man zur U-Wert-Berechnung von inhomogenen Bauteilen?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jebghl001z266evz7zamem</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jebghl001z266evz7zamem</id>
+        <description lang="en-US">&amp;Auml;quivalenter Lambda-Wert</description>
+      </component>
+            <component>
+        <id>choice_cl0jebghl0020266eftaqru33</id>
+        <description lang="en-US">W&amp;auml;rmeleitf&amp;auml;higkeit von Baustoffen</description>
+      </component>
+            <component>
+        <id>choice_cl0jebyph0024266e05s1xc2m</id>
+        <description lang="en-US">Gefachanteil in der Fl&amp;auml;che</description>
+      </component>
+            <component>
+        <id>choice_cl0jec10q0026266e682d0zor</id>
+        <description lang="en-US">Temperaturdifferenz&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aaANCxGGefOs_u5vXnLcJ71qd38caqXM_rise/tJ44MsyaQmF4WUVxcJd77OuSMHrE0jOH/cl0jec7320028266et4u8x16k" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wovon h&amp;auml;ngt der W&amp;auml;rmedurchlasswiderstand einer ruhenden Luftschicht ab?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jec7320029266elst9m9bu</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jec7320029266elst9m9bu</id>
+        <description lang="en-US">Dicke der Luftschicht und Richtung des W&amp;auml;rmestroms</description>
+      </component>
+            <component>
+        <id>choice_cl0jec732002b266el0x1yx2r</id>
+        <description lang="en-US">Lambda-Wert von Luft und Bewegung der Luft&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl0jec732002c266ea13ap0lr</id>
+        <description lang="en-US">Innerer W&amp;auml;rme&amp;uuml;bergang und Dicke der Luftschicht</description>
+      </component>
+            <component>
+        <id>choice_cl0jec732002a266ej1hnctga</id>
+        <description lang="en-US">Richtung des W&amp;auml;rmestroms und &amp;auml;u&amp;szlig;erer W&amp;auml;rme&amp;uuml;bergang</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aaANCxGGefOs_u5vXnLcJ71qd38caqXM_rise/tJ44MsyaQmF4WUVxcJd77OuSMHrE0jOH/cl0jeill40037266e7vn9lvwj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Krieterien definieren die Qualit&amp;auml;t eines D&amp;auml;mmstoffes?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jeill40038266e7vgdo3of</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jeill4003a266emj599xr9</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jeill4003b266efyha4wyp</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jeill40038266e7vgdo3of</id>
+        <description lang="en-US">Gute W&amp;auml;rmed&amp;auml;mmung</description>
+      </component>
+            <component>
+        <id>choice_cl0jeill4003a266emj599xr9</id>
+        <description lang="en-US">Sommerlicher Hitzeschutz</description>
+      </component>
+            <component>
+        <id>choice_cl0jeill4003b266efyha4wyp</id>
+        <description lang="en-US">Gutes Brandverhalten</description>
+      </component>
+            <component>
+        <id>choice_cl0jeill40039266eti21656q</id>
+        <description lang="en-US">Nachwachsender Rohstoff</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://aaANCxGGefOs_u5vXnLcJ71qd38caqXM_rise/tJ44MsyaQmF4WUVxcJd77OuSMHrE0jOH/cl0jeju66003h266e37p0aauz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Krieterien definieren die Nachhaltigkeit eines D&amp;auml;mmstoffes?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0jeju66003i266elzswq5qj</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jeju66003l266ets5v14cg</correctResponsePattern>
+            <correctResponsePattern>choice_cl0jeju66003k266egkkp2tk3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0jeju66003i266elzswq5qj</id>
+        <description lang="en-US">Nachwachsender Rohstoff</description>
+      </component>
+            <component>
+        <id>choice_cl0jeju66003k266egkkp2tk3</id>
+        <description lang="en-US">Wiederverwendbarkeit</description>
+      </component>
+            <component>
+        <id>choice_cl0jeju66003l266ets5v14cg</id>
+        <description lang="en-US">Entsorgung von Verschnitten</description>
+      </component>
+            <component>
+        <id>choice_cl0jeju66003j266enjh1b1q5</id>
+        <description lang="en-US">Gute W&amp;auml;rmed&amp;auml;mmung</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
