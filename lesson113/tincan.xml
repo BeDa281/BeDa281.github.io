@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://qk-Igs1_oSFDyR41g5MEr2puZZgQgs64_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildung abschließen - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://qk-Igs1_oSFDyR41g5MEr2puZZgQgs64_rise/FOiVvYba3xPyMs8gkx6tRDRN_dskEkeQ" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://qk-Igs1_oSFDyR41g5MEr2puZZgQgs64_rise/FOiVvYba3xPyMs8gkx6tRDRN_dskEkeQ/ckzo9mu3m0003266er3j2zidp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">&lt;em&gt;Situation (Frage 1 - 5): In Ihrem Betrieb sind unter anderem drei Auszubildende besch&amp;auml;ftigt:&lt;br&gt;- Wolfgang Mann als Kaufmann Im Einzelhandel im zweiten Ausbildungsjahr (vertraglich vereinbarte Ausbildungsdauer: 3 Jahre).&lt;br&gt;- Verena Meier als Verk&amp;auml;uferin, ebenfalls im zweiten Ausbildungsjahr (vertraglich vereinbarte Ausbildungsdauer: 2 Jahre);&lt;br&gt;- Helga Braun als B&amp;uuml;rokauffrau im dritten Ausbildungshalbjahr (vertraglich vereinbarte Ausbildungsdauer: 2,5 Jahre).&lt;br&gt;&lt;br&gt;Sie sind verantwortliche/-r Ausbilder/in und haben Wolfgang Mann zur Zwischenpr&amp;uuml;fung und Verena Meier zur Abschlusspr&amp;uuml;fung angemeldet. Helga Braun steht erst zur n&amp;auml;chsten Abschlusspr&amp;uuml;fung an.&lt;/em&gt;&lt;br&gt;Wolfgang Mann nimmt an der Zwischenpr&amp;uuml;fung teil, erreicht aber nur ein mangelhaftes Ergebnis. Geben Sie an, welche Folgen das hat:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzo9mu3m0005266exve6hdhu</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzo9mu3m0004266e8vvt9gz6</id>
+        <description lang="en-US">Herr Mann muss die nicht bestandene Zwischenpr&amp;uuml;fung wiederholen. Nur bei bestandener Zwischenpr&amp;uuml;fung ist eine Zulassung zur Abschlusspr&amp;uuml;fung m&amp;ouml;glich.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9mu3m0006266ehqi7onox</id>
+        <description lang="en-US">Herr Mann muss die Zwischenpr&amp;uuml;fung wiederholen. Damit er sich auf die Wiederholung vorbereiten kann, verl&amp;auml;ngert sich sein Ausbildungsverh&amp;auml;ltnis automatisch um sechs Monate</description>
+      </component>
+            <component>
+        <id>choice_ckzo9mu3m0007266e2ekf3czt</id>
+        <description lang="en-US">Damit das Ausbildungsziel erreicht werden kann, haben Sie die M&amp;ouml;glichkeit, auf Antrag bei der zust&amp;auml;ndigen Kammer Herrn Manns Ausbildungszeit zu verl&amp;auml;ngern.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9mu3m0005266exve6hdhu</id>
+        <description lang="en-US">Die Zwischenpr&amp;uuml;fung muss nicht wiederholt werden. Allerdings sollten Sie mit Herrn Mann besprechen, wie die erkennbaren L&amp;uuml;cken in der Ausbildung im Betrieb und in der Berufsschule bis zur Abschlusspr&amp;uuml;fung geschlossen werden k&amp;ouml;nnen.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9p22v003g266er0rmzaw6</id>
+        <description lang="en-US">Herr Mann muss in der Berufsschule eine Zusatzpr&amp;uuml;fung ablegen und damit nachweisen, dass er sich die bei der Zwischenpr&amp;uuml;fung noch fehlenden Kenntnisse zwischenzeitlich angeeignet hat.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://qk-Igs1_oSFDyR41g5MEr2puZZgQgs64_rise/FOiVvYba3xPyMs8gkx6tRDRN_dskEkeQ/ckzo9yars005n266ehpbokeup" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">&lt;em&gt;Helga Braun als B&amp;uuml;rokauffrau im dritten Ausbildungshalbjahr (vertraglich vereinbarte Ausbildungsdauer: 2,5 Jahre).&lt;/em&gt;&lt;br&gt;Das mit Frau Braun vertraglich vereinbarte Ausbildungsende ist der 28. Februar. Im Falle der Teilnahme an der vorzeitigen Abschlusspr&amp;uuml;fung ist Frau Brauns letzter Pr&amp;uuml;fungstag der 13. Juli, an dem der Pr&amp;uuml;fungsausschussvorsitzende auch die ,,Vorl&amp;auml;ufige Bescheinigung &amp;uuml;ber das Ergebnis der Abschlusspr&amp;uuml;fung&amp;rdquo; aush&amp;auml;ndigt. Das Zeugnis wird von der zust&amp;auml;ndigen Stelle ein paar Wochen sp&amp;auml;ter zugeschickt. Geben Sie an, wann das Berufsausbildungsverh&amp;auml;ltnis von Frau Braun endet, falls ihr am 13. Juli ein ,,Bestanden&amp;quot; ausgeh&amp;auml;ndigt wird.&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzo9yars005o266ecm38h37l</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzo9yars005o266ecm38h37l</id>
+        <description lang="en-US">Am13.JuIi.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9yars005p266e5sg4f66y</id>
+        <description lang="en-US">Am letzten Arbeitstag der Woche, in der der letzte Pr&amp;uuml;fungstag war.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9ysg0005q266eaczzfmg3</id>
+        <description lang="en-US">Am Ende des Monats Juli.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9yvit005r266eq6aa577q</id>
+        <description lang="en-US">An dem Tag, an dem Frau Braun Ihnen ihr IHK-Zeugnis vorweist.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9yz2h005s266efysdlrbv</id>
+        <description lang="en-US">Falls Frau Braun ihr Ausbildungsverh&amp;auml;ltnis nicht k&amp;uuml;ndigt, am 28. Februar.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://qk-Igs1_oSFDyR41g5MEr2puZZgQgs64_rise/FOiVvYba3xPyMs8gkx6tRDRN_dskEkeQ/ckzo9pvj60047266e4vqfz0iq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">&lt;em&gt;Verena Meier als Verk&amp;auml;uferin, ebenfalls im zweiten Ausbildungsjahr (vertraglich vereinbarte Ausbildungsdauer: 2 Jahre).&lt;/em&gt;&lt;br&gt;Verena Meier wird kurz vor der Abschlusspr&amp;uuml;fung krankgeschrieben. Sie erkundigt sich bei Ihnen, ob sie trotz Krankschreibung an der Pr&amp;uuml;fung teilnehmen kann oder aber bis dahin wieder arbeitsf&amp;auml;hig sein muss. Informieren Sie Frau Meier &amp;uuml;ber ihre Teilnahme an der Pr&amp;uuml;fung.&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzo9qlrv004c266ej8jjk1vv</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzo9pvj60048266ejz8xwdi4</id>
+        <description lang="en-US">Der Pr&amp;uuml;fungsausschuss hat kein Recht, Auszubildende von der Pr&amp;uuml;fung auszuschlie&amp;szlig;en, egal aus welchem Grund.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9pvj60049266e3t84ypui</id>
+        <description lang="en-US">Frau Meier muss vom Pr&amp;uuml;fungsausschuss von der Pr&amp;uuml;fung ausgeschlossen werden, wenn sie Ihre Krankschreibung angibt.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9qcdw004a266extdeyna4</id>
+        <description lang="en-US">Frau Meier ist laut Pr&amp;uuml;fungsordnung verpflichtet, bei einer Krankschreibung ihren R&amp;uuml;cktritt von der Pr&amp;uuml;fung zu erkl&amp;auml;ren.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9qhtm004b266e3z6blbtm</id>
+        <description lang="en-US">Sie als Ausbilder haben der Kammer Frau Meiers Krankschreibung zu melden. Damit ist ihre Teilnahme erst zum n&amp;auml;chsten Pr&amp;uuml;fungstermin m&amp;ouml;glich.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9qlrv004c266ej8jjk1vv</id>
+        <description lang="en-US">Frau Meier kann wegen Krankschreibung nicht von der Teilnahme an der Abschlusspr&amp;uuml;fung ausgeschlossen werden, wenn sie sich ausdr&amp;uuml;cklich zur Teilnahme bereit erkl&amp;auml;rt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://qk-Igs1_oSFDyR41g5MEr2puZZgQgs64_rise/FOiVvYba3xPyMs8gkx6tRDRN_dskEkeQ/ckzo9uois0052266ehjifd6ow" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">&lt;em&gt;Verena Meier als Verk&amp;auml;uferin, ebenfalls im zweiten Ausbildungsjahr (vertraglich vereinbarte Ausbildungsdauer: 2 Jahre).&lt;/em&gt;&lt;br&gt;Frau Meier nimmt vor Ablauf der Ausbildungszeit an der Abschlusspr&amp;uuml;fung teil, erreicht aber nur ein mangelhaftes Ergebnis. Welche rechtlichen Folgen hat das f&amp;uuml;r Frau Meier?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzo9vc1e0057266egn2t9op0</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzo9uois0053266enuy6rajn</id>
+        <description lang="en-US">Das Ausbildungsverh&amp;auml;ltnis wird von der zust&amp;auml;ndigen Stelle automatisch bis zum n&amp;auml;chsten Pr&amp;uuml;fungstermin verl&amp;auml;ngert.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9uois0054266echw5nqnv</id>
+        <description lang="en-US">Auf Antrag des Ausbildungsbetriebes muss das Berufsausbildungsverh&amp;auml;ltnis von der zust&amp;auml;ndigen Stelle um ein halbes Jahr verl&amp;auml;ngert werden.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9v2sl0055266exyt84nk0</id>
+        <description lang="en-US">Der Ausbildungsbetrieb kann das Berufsausbildungsverh&amp;auml;ltnis fristlos aus wichtigem Grund k&amp;uuml;ndigen, wenn die Auszubildende wegen mangelnden Lerneifers das schlechte Ergebnis zu vertreten hat.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9v5n60056266er7qk8k1p</id>
+        <description lang="en-US">Das Berufsausbildungsverh&amp;auml;ltnis l&amp;auml;uft weiter bis zum vertraglich vereinbarten Ausbildungsende. Die Auszubildende kann die Pr&amp;uuml;fung in jedem Fall zweimal wiederholen, auch ohne Verl&amp;auml;ngerung des Ausbildungsverh&amp;auml;ltnisses.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9vc1e0057266egn2t9op0</id>
+        <description lang="en-US">Das Berufsausbildungsverh&amp;auml;ltnis l&amp;auml;uft weiter bis zum vertraglichen Ende. Die Auszubildende kann die Pr&amp;uuml;fung nur wiederholen, wenn das Berufsausbildungsverh&amp;auml;ltnis auf ihren Antrag hin bis zur n&amp;auml;chstm&amp;ouml;glichen Wiederholungspr&amp;uuml;fung verl&amp;auml;ngert wird.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://qk-Igs1_oSFDyR41g5MEr2puZZgQgs64_rise/FOiVvYba3xPyMs8gkx6tRDRN_dskEkeQ/ckzo9w4s60058266e622bheur" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">&lt;em&gt;Helga Braun als B&amp;uuml;rokauffrau im dritten Ausbildungshalbjahr (vertraglich vereinbarte Ausbildungsdauer: 2,5 Jahre).&lt;/em&gt;&lt;br&gt;Helga Braun hat in ihrem Berufsschulzeugnis in den berufsbezogenen F&amp;auml;chern einen Notendurchschnitt von 1,6 und erbringt in der betrieblichen Ausbildung weit &amp;uuml;berdurch-schnittliche Leistungen. Sie haben sie daraufhin die einzelnen betrieblichen Ausbildungsstationen schon schneller durchlaufen lassen. Helga Braun m&amp;ouml;chte sechs Monate fr&amp;uuml;her als geplant an der Abschlusspr&amp;uuml;fung teilnehmen. Entscheiden Sie, ob das m&amp;ouml;glich ist.&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzo9wqzg005c266ev13qwzsy</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzo9w4s60059266e3zav5dvh</id>
+        <description lang="en-US">Die im Vertrag vereinbarte Ausbildungsdauer ist in jedem Fall einzuhalten. Ein vorzeitiges Ablegen der Pr&amp;uuml;fung Ist nicht m&amp;ouml;glich.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9w4s6005a266ec1h1reyb</id>
+        <description lang="en-US">Eine vorzeitige Zulassung zur Abschlusspr&amp;uuml;fung ist nur bei einem Notendurchschnitt in der Berufsschule bis 1,4 m&amp;ouml;glich.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9wnyd005b266e0rd7n77v</id>
+        <description lang="en-US">Eine vorzeitige Zulassung zur Abschlusspr&amp;uuml;fung ist nicht m&amp;ouml;glich, wenn zuvor schon eine Verk&amp;uuml;rzung der Ausbildungszeit aufgrund eines h&amp;ouml;heren allgemeinbildenden Schulabschlusses vereinbart wurde, wie das bei Frau Braun der Fall war.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9wqzg005c266ev13qwzsy</id>
+        <description lang="en-US">Frau Braun kann auf ihren Antrag hin vorzeitig zur Abschlusspr&amp;uuml;fung zugelassen werden, wenn ihre Ausbildungsleistungen im Betrieb und in der Berufsschule eine solche vorzeitige Zulassung rechtfertigen.</description>
+      </component>
+            <component>
+        <id>choice_ckzo9wti7005d266e8zezgntn</id>
+        <description lang="en-US">Auszubildende m&amp;uuml;ssen bei einem Notendurchschnitt im Berufsschulzeugnis von 2,0 oder besser in jedem Fall vorzeitig zur Abschlusspr&amp;uuml;fung zugelassen werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://qk-Igs1_oSFDyR41g5MEr2puZZgQgs64_rise/FOiVvYba3xPyMs8gkx6tRDRN_dskEkeQ/ckzoa4f99008r266e0yovss87" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">&lt;em&gt;Situation (Frage 6 - 8): Seit f&amp;uuml;nf Jahren sind Sie in der Firma &amp;bdquo;Adam Krafft GmbH&amp;ldquo; als gelernter Steinmetz Ausbilder f&amp;uuml;r die Auszubildenden in diesem Beruf. Sie werden heute vom Gesch&amp;auml;ftsf&amp;uuml;hrer des Unternehmens, Herrn Krafft, angesprochen, ob Sie bereit w&amp;auml;ren, als Pr&amp;uuml;fer f&amp;uuml;r die Abschlusspr&amp;uuml;fungen im Beruf Steinmetz bei der zust&amp;auml;ndigen Stelle mitzuwirken.&amp;nbsp;&lt;/em&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;em&gt;Nachdem Herr Krafft selbst keine Kenntnis &amp;uuml;ber eine Pr&amp;uuml;fert&amp;auml;tigkeit hat, bittet er Sie, Ihre M&amp;ouml;glichkeit f&amp;uuml;r eine Berufung als Mitglied in einem Pr&amp;uuml;fungsausschuss zu pr&amp;uuml;fen. Auch m&amp;ouml;chte er Informationen zu den auf den Betrieb zukommenden Aufgaben und Belastungen, insbesondere Kosten, im Falle einer Berufung. Danach will Herr Krafft eine Entscheidung f&amp;uuml;r eine Benennung treffen.&amp;nbsp;&lt;/em&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;em&gt;Interessieren w&amp;uuml;rde Herrn Krafft auch, welche Vorteile sich f&amp;uuml;r das Unternehmen aus Ihrer Berufung als Pr&amp;uuml;fer ergeben k&amp;ouml;nnten.&lt;/em&gt;&amp;nbsp;Entscheiden Sie, inwieweit Sie die Bedingungen f&amp;uuml;r eine Berufung in den Pr&amp;uuml;fungsausschuss erf&amp;uuml;llen bzw. was gegebenenfalls noch zu veranlassen w&amp;auml;re.&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzoa4f9a008t266eusyr87xh</correctResponsePattern>
+            <correctResponsePattern>choice_ckzoa5iri008u266eoce6jqkc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzoa4f9a008s266egj6ujutv</id>
+        <description lang="en-US">Aufgrund Ihrer erst kurzfristigen T&amp;auml;tigkeit als Ausbilder haben Sie noch nicht die erforderliche Sachkenntnis f&amp;uuml;r eine Mitwirkung im Pr&amp;uuml;fungswesen.</description>
+      </component>
+            <component>
+        <id>choice_ckzoa4f9a008t266eusyr87xh</id>
+        <description lang="en-US">&amp;nbsp;Mit Ihrem Berufsabschluss haben Sie f&amp;uuml;r eine Mitwirkung im Pr&amp;uuml;fungswesen die erforderliche Sachkenntnis in diesem Beruf.</description>
+      </component>
+            <component>
+        <id>choice_ckzoa5iri008u266eoce6jqkc</id>
+        <description lang="en-US">Die besondere pers&amp;ouml;nliche Eignung f&amp;uuml;r eine Mitwirkung im Pr&amp;uuml;fungswesen d&amp;uuml;rfen Sie aufgrund Ihrer Ausbildert&amp;auml;tigkeit als gegeben annehmen.</description>
+      </component>
+            <component>
+        <id>choice_ckzoa5m2x008v266emg1px5m7</id>
+        <description lang="en-US">Die erforderliche Eignung f&amp;uuml;r eine Mitwirkung im Pr&amp;uuml;fungswesen m&amp;uuml;ssten Sie sich vorab in einem entsprechenden Lehrgang erst aneignen.</description>
+      </component>
+            <component>
+        <id>choice_ckzoa5oz3008w266e5tdne8tr</id>
+        <description lang="en-US">Die Mitwirkung im Pr&amp;uuml;fungswesen setzt den Besitz entsprechender pr&amp;uuml;fungstechnischer Kenntnisse voraus, die Sie sich erst noch aneignen m&amp;uuml;ssten.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://qk-Igs1_oSFDyR41g5MEr2puZZgQgs64_rise/FOiVvYba3xPyMs8gkx6tRDRN_dskEkeQ/ckzoa6ddu009y266evd5zsv56" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Aufgaben, Belastungen und Kosten, die durch eine Pr&amp;uuml;fert&amp;auml;tigkeit auf den Betrieb zukommen k&amp;ouml;nnen. &amp;nbsp;Entscheiden Sie, welche Ausk&amp;uuml;nfte Sie dazu Herrn Krafft geben.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzoa6ddu00a2266ewl545bkg</correctResponsePattern>
+            <correctResponsePattern>choice_ckzoa7orp00ck266e5x53yp07</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzoa6ddu009z266ej58viarb</id>
+        <description lang="en-US">Da eine Pr&amp;uuml;fert&amp;auml;tigkeit im Interesse der Unternehmen/Wirtschaft erfolgt, hat das einen Pr&amp;uuml;fer bereitstellende Unternehmen die in diesem Zusammenhang entstehenden Kosten zu &amp;uuml;bernehmen.</description>
+      </component>
+            <component>
+        <id>choice_ckzoa6ddu00a1266evic4h2el</id>
+        <description lang="en-US">&amp;nbsp;Da die T&amp;auml;tigkeit im Pr&amp;uuml;fungswesen auch im Interesse des Betriebes ist, kann die zust&amp;auml;ndige Stelle verlangen, dass die dabei entstehenden Kosten vom Betrieb &amp;uuml;bernommen werden.</description>
+      </component>
+            <component>
+        <id>choice_ckzoa6ddu00a2266ewl545bkg</id>
+        <description lang="en-US">&amp;nbsp;Unmittelbare Kosten entstehen dem Betrieb durch die Pr&amp;uuml;fert&amp;auml;tigkeit nicht. F&amp;uuml;r bare Auslagen und f&amp;uuml;r Zeitvers&amp;auml;umnisse erh&amp;auml;lt der Pr&amp;uuml;fer von der zust&amp;auml;ndigen Stelle eine Entsch&amp;auml;digung.</description>
+      </component>
+            <component>
+        <id>choice_ckzoa6ddu00a0266e8z4h1dhu</id>
+        <description lang="en-US">Der Pr&amp;uuml;fer wird in einem Ehrenamt t&amp;auml;tig sein. Dieses Amt hat er ohne Ber&amp;uuml;cksichtigung betrieblicher und pers&amp;ouml;nlicher Belange auf jeden Fall wahrzunehmen.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_ckzoa7orp00ck266e5x53yp07</id>
+        <description lang="en-US">&amp;nbsp;Die Mitwirkung bei einer Pr&amp;uuml;fung kann nicht erzwungen werden. Die zust&amp;auml;ndige Stelle hat die Belange des Betriebes bei der Einteilung eines Pr&amp;uuml;fers zu ber&amp;uuml;cksichtigen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://qk-Igs1_oSFDyR41g5MEr2puZZgQgs64_rise/FOiVvYba3xPyMs8gkx6tRDRN_dskEkeQ/ckzoa9apz00ds266erxe42pe3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Entscheiden Sie, welche Vorteile sich aus Ihrer Pr&amp;uuml;fert&amp;auml;tigkeit f&amp;uuml;r das Unternehmen ergeben durch die Mitwirkung im Pr&amp;uuml;fungswesen. </name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzoa9aq000du266eog5tb1df</correctResponsePattern>
+            <correctResponsePattern>choice_ckzoaa5vp00dv266eoms31tg5</correctResponsePattern>
+            <correctResponsePattern>choice_ckzoaa9gk00dw266eiqgviv4s</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzoa9aq000dt266ed8kpaxnt</id>
+        <description lang="en-US">erhalten Sie einen Einblick in die Pr&amp;uuml;fungsaufgaben. Diese Kenntnisse k&amp;ouml;nnen Sie unmittelbar bei der Vorbereitung der eigenen anstehenden Pr&amp;uuml;flinge umsetzen.</description>
+      </component>
+            <component>
+        <id>choice_ckzoa9aq000du266eog5tb1df</id>
+        <description lang="en-US">&amp;nbsp;haben Sie Gelegenheit, mit anderen Ausbildern ins Gespr&amp;auml;ch zu kommen und k&amp;ouml;nnen deren Erfahrungen in der Ausbildung bei den eigenen Auszubildenden verwerten.</description>
+      </component>
+            <component>
+        <id>choice_ckzoaa5vp00dv266eoms31tg5</id>
+        <description lang="en-US">&amp;nbsp;k&amp;ouml;nnen Sie durch die zust&amp;auml;ndige Stelle zu Informationen &amp;uuml;ber die Entwicklung bei Berufen und die Gestaltung von Pr&amp;uuml;fungen gelangen, die Sie in Ihre Ausbildung einbringen k&amp;ouml;nnen.</description>
+      </component>
+            <component>
+        <id>choice_ckzoaa9gk00dw266eiqgviv4s</id>
+        <description lang="en-US">&amp;nbsp;haben Sie die M&amp;ouml;glichkeit, betriebliche Bildungsziele und Erfahrungen bei der Gestaltung von Pr&amp;uuml;fungen und bei der Erstellung von Pr&amp;uuml;fungsaufgaben einzubringen.</description>
+      </component>
+            <component>
+        <id>choice_ckzoaace600dx266eipv0xizj</id>
+        <description lang="en-US">&amp;nbsp;k&amp;ouml;nnen Sie bei der Bewertung von Pr&amp;uuml;fungsleistungen Einfluss nehmen, wenn dies aufgrund einer in der Person eines Ihrer Auszubildenden liegenden Besonderheit erforderlich erscheint</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://qk-Igs1_oSFDyR41g5MEr2puZZgQgs64_rise/FOiVvYba3xPyMs8gkx6tRDRN_dskEkeQ/ckzoae66w00iq266ethe14mpk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Denkans&amp;auml;tze zur Lernerfolgskontrolle am Ende der Pr&amp;uuml;fungsvorbereitung.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzoae66x00is266e0skc0lai</correctResponsePattern>
+            <correctResponsePattern>choice_ckzoaev9i00kn266ei7vj5ofe</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzoae66x00ir266exzeyy4ba</id>
+        <description lang="en-US">Einen bekannten Aufgabensatz der schriftlichen Pr&amp;uuml;fung in Partnerarbeit nach Zeitvorgabe l&amp;ouml;sen lassen.</description>
+      </component>
+            <component>
+        <id>choice_ckzoae66x00is266e0skc0lai</id>
+        <description lang="en-US">Einen unbekannten Aufgabensatz der schriftlichen Pr&amp;uuml;fung in Einzelarbeit unter Pr&amp;uuml;fungsbedingungen l&amp;ouml;sen lassen.</description>
+      </component>
+            <component>
+        <id>choice_ckzoaesmc00kc266ec35vbdpf</id>
+        <description lang="en-US">Die praktische Pr&amp;uuml;fung mit einer bekannten Aufgabenstellung ohne Zeitvorgabe simulieren.</description>
+      </component>
+            <component>
+        <id>choice_ckzoaev9i00kn266ei7vj5ofe</id>
+        <description lang="en-US">Die praktische Pr&amp;uuml;fung unter Pr&amp;uuml;fungsbedingungen mit einer bisher nicht bekannten Aufgabenstellung simulieren.</description>
+      </component>
+            <component>
+        <id>choice_ckzoaexwz00ky266es20evnv3</id>
+        <description lang="en-US">Abschlie&amp;szlig;endes Beurteilungsgespr&amp;auml;ch mit jedem einzelnen Auszubildenden f&amp;uuml;hren.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://qk-Igs1_oSFDyR41g5MEr2puZZgQgs64_rise/FOiVvYba3xPyMs8gkx6tRDRN_dskEkeQ/ckzoaf5cy00lk266e3a4z5im2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welchen Einfluss auf das Berufsausbildungsverh&amp;auml;ltnis hat die Tatsache, dass ein Auszubildender die Abschlusspr&amp;uuml;fung vor dem vertraglich vereinbarten Ausbildungsende bestanden hat?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckzoaf5cy00lo266eykj3tgb6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckzoaf5cy00ll266er0a2c7nm</id>
+        <description lang="en-US">Das Berufsausbildungsverh&amp;auml;ltnis endet mit Ablauf des Monats, in welchem die Pr&amp;uuml;fung bestanden wurde.</description>
+      </component>
+            <component>
+        <id>choice_ckzoaf5cy00ln266eo0y47npx</id>
+        <description lang="en-US">Das Berufsausbildungsverh&amp;auml;ltnis endet - unabh&amp;auml;ngig vom Bestehen/Nichtbestehen der Abschlusspr&amp;uuml;fung - zu dem im Vertrag vereinbarten Zeitpunkt.</description>
+      </component>
+            <component>
+        <id>choice_ckzoaf5cy00lo266eykj3tgb6</id>
+        <description lang="en-US">Das Berufsausbildungsverh&amp;auml;ltnis endet mit dem Bestehen der Abschlusspr&amp;uuml;fung.</description>
+      </component>
+            <component>
+        <id>choice_ckzoaf5cy00lm266e5u38tdl8</id>
+        <description lang="en-US">Das Berufsausbildungsverh&amp;auml;ltnis endet r&amp;uuml;ckwirkend mit Beginn des Monats, in welchem die Pr&amp;uuml;fung bestanden wurde.</description>
+      </component>
+            <component>
+        <id>choice_ckzoah25k00n2266exzve1m25</id>
+        <description lang="en-US">Das Berufsausbildungsverh&amp;auml;ltnis endet mit der Aush&amp;auml;ndigung des Pr&amp;uuml;fungszeugnisses durch die zust&amp;auml;ndige Stelle.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

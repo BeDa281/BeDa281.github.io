@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://12lqwy-o2HdQJXfUVci0p6t2h6Gq-efv_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildung abschließen - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://12lqwy-o2HdQJXfUVci0p6t2h6Gq-efv_rise/mwO00J-Jgrb93QqD3pHjM9CKr6Lt51ZN" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://12lqwy-o2HdQJXfUVci0p6t2h6Gq-efv_rise/mwO00J-Jgrb93QqD3pHjM9CKr6Lt51ZN/ckybe0nwt002w266jdiqzaxvp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie besch&amp;auml;ftigen als Ausbildender mehrere Lehrlinge. Zwei Lehrlinge erhalten eine Einladung zur Zwischenpr&amp;uuml;fung. Diese bitten Sie als Ausbildenden um Erl&amp;auml;uterung der Rechtsgrundlagen und des Zieles der Zwischenpr&amp;uuml;fung sowie um die Information, wer die Geb&amp;uuml;hr f&amp;uuml;r die Zwischenpr&amp;uuml;fung zu zahlen hat!&lt;br&gt;Aufgabe: Geben Sie den beiden Lehrlingen die gew&amp;uuml;nschten Informationen! Stellen Sie den beiden Lehrlingen das Ziel der Zwischenpr&amp;uuml;fung dar! Welche Aussage ist richtig? Ziel der Zwischenpr&amp;uuml;fung ist, ...</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckybe0nwu002x266j2xfl58tp</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckybe0nwu002x266j2xfl58tp</id>
+        <description lang="en-US">zu ermitteln, ob der vorgesehene Ausbildungsstand erreicht wurde, sofern die Ausbildungsordnung einzelner Berufe nichts anderes vorsieht.</description>
+      </component>
+            <component>
+        <id>choice_ckybe0nwu002y266jhjryfk3x</id>
+        <description lang="en-US">dass man in erster Linie den Lernfortschritt in der Berufsschule feststellen kann.</description>
+      </component>
+            <component>
+        <id>choice_ckybe1k2d002z266j4hvvdejn</id>
+        <description lang="en-US">dass man ausschlie&amp;szlig;lich die Ausbildungsarbeit des Meisters immer wieder &amp;uuml;berpr&amp;uuml;fen kann.</description>
+      </component>
+            <component>
+        <id>choice_ckybe1otj0030266jzs4iba5i</id>
+        <description lang="en-US">dass der Lehrling in der Gesellenpr&amp;uuml;fung nur noch &amp;uuml;ber den Lehrstoff der Berufsschule gepr&amp;uuml;ft wird.</description>
+      </component>
+            <component>
+        <id>choice_ckybe1s9z0031266jcw3jej7r</id>
+        <description lang="en-US">dass man in erster Linie das Lernergebnis der &amp;uuml;berbetrieblichen Ausbildung feststellen kann.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://12lqwy-o2HdQJXfUVci0p6t2h6Gq-efv_rise/mwO00J-Jgrb93QqD3pHjM9CKr6Lt51ZN/ckybe27vg0032266joty2uduw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie besch&amp;auml;ftigen als Ausbildender mehrere Lehrlinge. Zwei Lehrlinge erhalten eine Einladung zur Zwischenpr&amp;uuml;fung. Diese bitten Sie als Ausbildenden um die Information, wer die Geb&amp;uuml;hr f&amp;uuml;r die Zwischenpr&amp;uuml;fung zu zahlen hat!&lt;br&gt;Aufgabe: Geben Sie an, wer die Geb&amp;uuml;hr zu zahlen hat! Welche Auswahlantwort ist richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckybe3c2a0035266jjg3zyz4l</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckybe27vg0033266jsf3j183e</id>
+        <description lang="en-US">Der Auszubildende.</description>
+      </component>
+            <component>
+        <id>choice_ckybe27vg0034266jmswjzb8v</id>
+        <description lang="en-US">Der gesetzliche Vertreter des Auszubildenden.</description>
+      </component>
+            <component>
+        <id>choice_ckybe3c2a0035266jjg3zyz4l</id>
+        <description lang="en-US">Der Ausbildende.</description>
+      </component>
+            <component>
+        <id>choice_ckybe3eqy0036266jwbz3f193</id>
+        <description lang="en-US">Ausbildender und Auszubildender je zur H&amp;auml;lfte.</description>
+      </component>
+            <component>
+        <id>choice_ckybe3hq10037266jgrt8nkva</id>
+        <description lang="en-US">Die Agentur f&amp;uuml;r Arbeit.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://12lqwy-o2HdQJXfUVci0p6t2h6Gq-efv_rise/mwO00J-Jgrb93QqD3pHjM9CKr6Lt51ZN/ckybe4byb0038266jzs8ubocs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie besch&amp;auml;ftigen in Ihrem Betrieb einen Auszubildenden, dessen Berufsausbildungsverh&amp;auml;ltnis in den n&amp;auml;chsten zwei Monaten endet. Nach der Ausbildungsordnung des Ausbildungsberufes wird die Gesellenpr&amp;uuml;fung in zwei zeitlich auseinanderfallenden Teilen durchgef&amp;uuml;hrt. Am ersten Teil der Pr&amp;uuml;fung hat der Lehrling ordnungsgem&amp;auml;&amp;szlig; teilgenommen. Nun steht in einem weiteren gesonderten Zulassungsverfahren die Zulassung zum zweiten Teil der Gesellenpr&amp;uuml;fung an.&lt;br&gt;Aufgabe: Der Lehrling wird zu diesem Teil der Pr&amp;uuml;fung zugelassen,</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckybe4byc0039266j2b44zvu5</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckybe4byc0039266j2b44zvu5</id>
+        <description lang="en-US">wenn er die allgemeinen in der Handwerksordnung vorgesehenen Zulassungsvoraussetzungen erf&amp;uuml;llt und am ersten Teil der Gesellenpr&amp;uuml;fung teilgenommen hat.</description>
+      </component>
+            <component>
+        <id>choice_ckybe4byc003a266j7l9ulums</id>
+        <description lang="en-US">&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;o:OfficeDocumentSettings&gt;
+  &lt;o:AllowPNG/&gt;
+ &lt;/o:OfficeDocumentSettings&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;span style=&#39;font-size:12.0pt;
+font-family:&#34;Arial&#34;,sans-serif;mso-fareast-font-family:Arial;mso-fareast-language:
+DE&#39;&gt;&lt;span style=&#34;mso-list:Ignore&#34;&gt;&lt;span style=&#39;font:7.0pt &#34;Times New Roman&#34;&#39;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#39;font-size:12.0pt;font-family:&#34;Arial&#34;,sans-serif;
+mso-fareast-font-family:&#34;Times New Roman&#34;;mso-fareast-language:DE&#39;&gt;wenn er die
+allgemeinen in der Handwerksordnung vorgesehenen Zulassungsvoraussetzungen
+erf&amp;uuml;llt und den ersten Teil der Gesellenpr&amp;uuml;fung bestanden hat.&lt;/span&gt;
+
+</description>
+      </component>
+            <component>
+        <id>choice_ckybe5e5r003b266jau07x560</id>
+        <description lang="en-US">wenn er vom Ausbildungsbetrieb als pr&amp;uuml;fungsreif beurteilt wurde.</description>
+      </component>
+            <component>
+        <id>choice_ckybe5hwq003c266j1ncpnpb7</id>
+        <description lang="en-US">wenn er von der Berufsschule als pr&amp;uuml;fungsreif beurteilt wurde.</description>
+      </component>
+            <component>
+        <id>choice_ckybe5l03003d266jeyuirkul</id>
+        <description lang="en-US">wenn er w&amp;auml;hrend der gesamten Ausbildungsdauer nicht mehr als 30 Tage im Ausbildungsbetrieb gefehlt hat.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://12lqwy-o2HdQJXfUVci0p6t2h6Gq-efv_rise/mwO00J-Jgrb93QqD3pHjM9CKr6Lt51ZN/ckybe5v7f003e266jocpomo3l" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zwei in einem Handwerksbetrieb ausgebildete Lehrlinge haben die Gesellenpr&amp;uuml;fung abgelegt und ihr Zeugnis erhalten. Der Ausbildende verlangt vom Pr&amp;uuml;fungstr&amp;auml;ger, dass ihm die Ergebnisse der Gesellenpr&amp;uuml;fung der Lehrlinge mitgeteilt werden.&lt;br&gt;Aufgabe: Kann er dies verlangen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckybeb3hs003p266j16z2x5ht</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckybe5v7f003f266jow0vk5fg</id>
+        <description lang="en-US">&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;o:OfficeDocumentSettings&gt;
+  &lt;o:AllowPNG/&gt;
+ &lt;/o:OfficeDocumentSettings&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;span style=&#39;font-size:12.0pt;
+font-family:&#34;Arial&#34;,sans-serif;mso-fareast-font-family:&#34;Times New Roman&#34;;
+mso-fareast-language:DE&#39;&gt;Nein, weil die Ergebnisse grunds&amp;auml;tzlich dem
+Pr&amp;uuml;fungsgeheimnis unterliegen, das auch im Verh&amp;auml;ltnis zum Ausbildenden gilt.&lt;/span&gt;</description>
+      </component>
+            <component>
+        <id>choice_ckybe5v7f003g266j0sb8kz8g</id>
+        <description lang="en-US">Nein, weil die beiden Lehrlinge verpflichtet sind, diese dem Ausbildenden mitzuteilen.</description>
+      </component>
+            <component>
+        <id>choice_ckybeay6h003n266ja4r96v9h</id>
+        <description lang="en-US">Nein, weil der Pr&amp;uuml;fungstr&amp;auml;ger nur im Falle des Nichtbestehens der Pr&amp;uuml;fungen dazu verpflichtet ist.</description>
+      </component>
+            <component>
+        <id>choice_ckybeb10w003o266j9pnzx21x</id>
+        <description lang="en-US">Ja, weil dies in der Gewerbeordnung und im Berufsschulgesetz so geregelt ist.</description>
+      </component>
+            <component>
+        <id>choice_ckybeb3hs003p266j16z2x5ht</id>
+        <description lang="en-US">Ja, weil dies im Berufsbildungsgesetz und in der Handwerksordnung so geregelt ist.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://12lqwy-o2HdQJXfUVci0p6t2h6Gq-efv_rise/mwO00J-Jgrb93QqD3pHjM9CKr6Lt51ZN/ckybe8vr5003h266j19jv1hf1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein in einem Handwerksbetrieb ausgebildeter Lehrling hat die Gesellenpr&amp;uuml;fung bestanden. Da er sp&amp;auml;ter einmal, zumindest auf Zeit, im Ausland arbeiten will, beantragt er beim Pr&amp;uuml;fungstr&amp;auml;ger (Innung oder Handwerkskammer), f&amp;uuml;r sein Gesellenpr&amp;uuml;fungszeugnis eine englischsprachige und eine franz&amp;ouml;sischsprachige &amp;Uuml;bersetzung auszufertigen.&lt;br&gt;Aufgabe: Kann der Lehrling dies vom Pr&amp;uuml;fungstr&amp;auml;ger verlangen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckybe9tlg003k266jkxdgzy5d</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckybe8vr5003i266jul9obvn4</id>
+        <description lang="en-US">Nein, weil solche &amp;Uuml;bersetzungen nur den einschl&amp;auml;gigen staatlichen &amp;Uuml;bersetzungsb&amp;uuml;ros vorbehalten sind.</description>
+      </component>
+            <component>
+        <id>choice_ckybe8vr5003j266jda2k9089</id>
+        <description lang="en-US">Nein, weil daf&amp;uuml;r die Agentur f&amp;uuml;r Arbeit zust&amp;auml;ndig ist.</description>
+      </component>
+            <component>
+        <id>choice_ckybe9tlg003k266jkxdgzy5d</id>
+        <description lang="en-US">Ja, weil dies im Berufsbildungsgesetz und in der Handwerksordnung so geregelt ist.</description>
+      </component>
+            <component>
+        <id>choice_ckybe9wtu003l266jinxajrkb</id>
+        <description lang="en-US">Ja, weil dies in der Gewerbeordnung so geregelt ist.</description>
+      </component>
+            <component>
+        <id>choice_ckybe9zpd003m266jrj15rlmk</id>
+        <description lang="en-US">Ja, weil dies im Sozialgesetzbuch III (Arbeitsf&amp;ouml;rderung) so geregelt ist.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://12lqwy-o2HdQJXfUVci0p6t2h6Gq-efv_rise/mwO00J-Jgrb93QqD3pHjM9CKr6Lt51ZN/ckybebp4a003q266j8c720hyd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein in einem Handwerksbetrieb ausgebildeter Lehrling hat die Gesellenpr&amp;uuml;fung bestanden. In der Berufsschulabschlusspr&amp;uuml;fung hat er ordentliche Leistungen erbracht, die er deshalb auch im Gesellenpr&amp;uuml;fungszeugnis ausgewiesen haben will.&lt;br&gt;Aufgabe: Kann der Lehrling dies vom Pr&amp;uuml;fungstr&amp;auml;ger (Innung oder Handwerkskammer) verlangen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckybech7h003u266jbt5qx9fp</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckybebp4a003r266jfkz7kkah</id>
+        <description lang="en-US">Ja, wenn die berufsschulischen Leistungsfeststellungen der Note &amp;bdquo;sehr gut&amp;ldquo; entsprechen.</description>
+      </component>
+            <component>
+        <id>choice_ckybebp4a003s266jzm3at9i0</id>
+        <description lang="en-US">Ja, wenn die Leistungsfeststellungen der Berufsschule der Note &amp;bdquo;gut&amp;ldquo; entsprechen.</description>
+      </component>
+            <component>
+        <id>choice_ckybeccfl003t266je8fdxav2</id>
+        <description lang="en-US">Ja, wenn die Leistungsfeststellungen der Berufsschule der Note &amp;bdquo;befriedigend&amp;ldquo; entsprechen.</description>
+      </component>
+            <component>
+        <id>choice_ckybech7h003u266jbt5qx9fp</id>
+        <description lang="en-US">Ja, weil er darauf nach dem Berufsbildungsgesetz und der Handwerksordnung einen Anspruch hat.</description>
+      </component>
+            <component>
+        <id>choice_ckybecjxs003v266jirfcbdzs</id>
+        <description lang="en-US">Nein, weil die Leistungsfeststellungen der Gesellenpr&amp;uuml;fung und die der Berufsschule nur in jeweils getrennten Zeugnissen ausgewiesen werden d&amp;uuml;rfen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://12lqwy-o2HdQJXfUVci0p6t2h6Gq-efv_rise/mwO00J-Jgrb93QqD3pHjM9CKr6Lt51ZN/ckybedbte003w266j0k5s1687" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie haben in Ihrem Betrieb zwei Lehrlinge ausgebildet und sie nach bestandener Gesellenpr&amp;uuml;fung weiter als Arbeitnehmer besch&amp;auml;ftigt. Da es sich um besonders fortbildungswillige junge Kollegen handelt, wollen sie sich bald fortbilden. Von &amp;auml;lteren Kollegen haben sie erfahren, dass es bei Teilnahme an bestimmten Fortbildungsma&amp;szlig;nahmen finanzielle Zuwendungen auf der Basis von F&amp;ouml;rderungsgesetzen bzw. F&amp;ouml;rderungsprogrammen gibt. Die Mitarbeiter kommen zu Ihnen mit der Bitte, sie &amp;uuml;ber wichtige finanzielle F&amp;ouml;rderungsm&amp;ouml;glichkeiten zu informieren. Da Sie f&amp;uuml;r Ihre Mitarbeiter eine systematische Fortbildungsplanung betreiben wollen und alle einschl&amp;auml;gigen Fortbildungsaktivit&amp;auml;ten unterst&amp;uuml;tzen, kommen Sie dem Wunsch auf Information dieser Mitarbeiter mit einem Informationsvortrag gerne nach.&lt;br&gt;Aufgabe: Informieren Sie Ihre beiden Mitarbeiter &amp;uuml;ber die einschl&amp;auml;gigen M&amp;ouml;glichkeiten zur finanziellen F&amp;ouml;rderung! Dabei orientieren Sie sich bei Ihrem Informationsvortrag zweckm&amp;auml;&amp;szlig;igerweise an folgenden zentralen Fragen bzw. Inhalten:&lt;br&gt;Geben Sie an, wer f&amp;uuml;r die finanzielle F&amp;ouml;rderung der beruflichen Weiterbildung nach dem Sozialgesetzbuch (Arbeitsf&amp;ouml;rderungsrecht) zust&amp;auml;ndig ist! Was ist zutreffend?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckybef2zt003z266jfbom9qkr</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckybedbte003x266j1wmxvifh</id>
+        <description lang="en-US">Die Handwerkskammer.</description>
+      </component>
+            <component>
+        <id>choice_ckybedbte003y266jhk06tuim</id>
+        <description lang="en-US">Das Gewerbeamt.</description>
+      </component>
+            <component>
+        <id>choice_ckybef2zt003z266jfbom9qkr</id>
+        <description lang="en-US">Die Agentur f&amp;uuml;r Arbeit.</description>
+      </component>
+            <component>
+        <id>choice_ckybef6aq0040266j68b9nixt</id>
+        <description lang="en-US">Die zust&amp;auml;ndige Stadt- oder Gemeindeverwaltung.</description>
+      </component>
+            <component>
+        <id>choice_ckybef96b0041266jafzqxsvv</id>
+        <description lang="en-US">Das Sozialhilfeamt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://12lqwy-o2HdQJXfUVci0p6t2h6Gq-efv_rise/mwO00J-Jgrb93QqD3pHjM9CKr6Lt51ZN/ckybefept0042266jlcoz3njt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie haben in Ihrem Betrieb zwei Lehrlinge ausgebildet und sie nach bestandener Gesellenpr&amp;uuml;fung weiter als Arbeitnehmer besch&amp;auml;ftigt. Da es sich um besonders fortbildungswillige junge Kollegen handelt, wollen sie sich bald fortbilden. Von &amp;auml;lteren Kollegen haben sie erfahren, dass es bei Teilnahme an bestimmten Fortbildungsma&amp;szlig;nahmen finanzielle Zuwendungen auf der Basis von F&amp;ouml;rderungsgesetzen bzw. F&amp;ouml;rderungsprogrammen gibt. Die Mitarbeiter kommen zu Ihnen mit der Bitte, sie &amp;uuml;ber wichtige finanzielle F&amp;ouml;rderungsm&amp;ouml;glichkeiten zu informieren. Da Sie f&amp;uuml;r Ihre Mitarbeiter eine systematische Fortbildungsplanung betreiben wollen und alle einschl&amp;auml;gigen Fortbildungsaktivit&amp;auml;ten unterst&amp;uuml;tzen, kommen Sie dem Wunsch auf Information dieser Mitarbeiter mit einem Informationsvortrag gerne nach.&lt;br&gt;Aufgabe: Informieren Sie Ihre beiden Mitarbeiter &amp;uuml;ber die einschl&amp;auml;gigen M&amp;ouml;glichkeiten zur finanziellen F&amp;ouml;rderung! Dabei orientieren Sie sich bei Ihrem Informationsvortrag zweckm&amp;auml;&amp;szlig;igerweise an folgenden zentralen Fragen bzw. Inhalten:&lt;br&gt;Stellen Sie fest, was durch das Bundesausbildungsf&amp;ouml;rderungsgesetz insbesondere gef&amp;ouml;rdert wird: Was ist richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckybefept0043266jhcmd4vy1</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckybefept0043266jhcmd4vy1</id>
+        <description lang="en-US">Der Besuch von bestimmten Schulen und Hochschulen.</description>
+      </component>
+            <component>
+        <id>choice_ckybefept0045266jbmdull4c</id>
+        <description lang="en-US">Der Besuch von Abendkursen, die der beruflichen Fortbildung dienen.</description>
+      </component>
+            <component>
+        <id>choice_ckybefept0046266jg8fzmfm8</id>
+        <description lang="en-US">Der Besuch von Ganztageskursen, sofern sie nicht mehr als sechs Wochen dauern.</description>
+      </component>
+            <component>
+        <id>choice_ckybefept0044266jrqphsz9h</id>
+        <description lang="en-US">Der Besuch von Ganztageskursen, sofern sie nicht mehr als vier Wochen dauern.</description>
+      </component>
+            <component>
+        <id>choice_ckybegpas004d266j05pmgfqk</id>
+        <description lang="en-US">Der Besuch von Kursen, sofern sie mindestens drei Monate dauern.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://12lqwy-o2HdQJXfUVci0p6t2h6Gq-efv_rise/mwO00J-Jgrb93QqD3pHjM9CKr6Lt51ZN/ckybehcc6004e266jpatpwszs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie haben in Ihrem Betrieb zwei Lehrlinge ausgebildet und sie nach bestandener Gesellenpr&amp;uuml;fung weiter als Arbeitnehmer besch&amp;auml;ftigt. Da es sich um besonders fortbildungswillige junge Kollegen handelt, wollen sie sich bald fortbilden. Von &amp;auml;lteren Kollegen haben sie erfahren, dass es bei Teilnahme an bestimmten Fortbildungsma&amp;szlig;nahmen finanzielle Zuwendungen auf der Basis von F&amp;ouml;rderungsgesetzen bzw. F&amp;ouml;rderungsprogrammen gibt. Die Mitarbeiter kommen zu Ihnen mit der Bitte, sie &amp;uuml;ber wichtige finanzielle F&amp;ouml;rderungsm&amp;ouml;glichkeiten zu informieren. Da Sie f&amp;uuml;r Ihre Mitarbeiter eine systematische Fortbildungsplanung betreiben wollen und alle einschl&amp;auml;gigen Fortbildungsaktivit&amp;auml;ten unterst&amp;uuml;tzen, kommen Sie dem Wunsch auf Information dieser Mitarbeiter mit einem Informationsvortrag gerne nach.&lt;br&gt;Aufgabe: Informieren Sie Ihre beiden Mitarbeiter &amp;uuml;ber die einschl&amp;auml;gigen M&amp;ouml;glichkeiten zur finanziellen F&amp;ouml;rderung! Dabei orientieren Sie sich bei Ihrem Informationsvortrag zweckm&amp;auml;&amp;szlig;igerweise an folgenden zentralen Fragen bzw. Inhalten:&lt;br&gt;Informieren Sie die Mitarbeiter, wer f&amp;uuml;r die finanzielle F&amp;ouml;rderung nach dem Bundesausbildungsf&amp;ouml;rderungsgesetz zust&amp;auml;ndig ist! Was trifft zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckybehcc6004g266j7s4hjk6o</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckybehcc6004f266jdzpxqxms</id>
+        <description lang="en-US">Die Berufsberatung der Agentur f&amp;uuml;r Arbeit.</description>
+      </component>
+            <component>
+        <id>choice_ckybehcc6004g266j7s4hjk6o</id>
+        <description lang="en-US">Das Amt f&amp;uuml;r Ausbildungsf&amp;ouml;rderung.</description>
+      </component>
+            <component>
+        <id>choice_ckybeiei8004h266j1td5pa9w</id>
+        <description lang="en-US">Die Handwerkskammer.</description>
+      </component>
+            <component>
+        <id>choice_ckybeihb0004i266jof1brhlo</id>
+        <description lang="en-US">Das Amt f&amp;uuml;r Fortbildung.</description>
+      </component>
+            <component>
+        <id>choice_ckybeik69004j266j6fnh1eaf</id>
+        <description lang="en-US">&amp;nbsp;Der Berufsausbildungsausschuss der Handwerkskammer.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://12lqwy-o2HdQJXfUVci0p6t2h6Gq-efv_rise/mwO00J-Jgrb93QqD3pHjM9CKr6Lt51ZN/ckybeitz8004k266jryq93yoo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie haben in Ihrem Betrieb zwei Lehrlinge ausgebildet und sie nach bestandener Gesellenpr&amp;uuml;fung weiter als Arbeitnehmer besch&amp;auml;ftigt. Da es sich um besonders fortbildungswillige junge Kollegen handelt, wollen sie sich bald fortbilden. Von &amp;auml;lteren Kollegen haben sie erfahren, dass es bei Teilnahme an bestimmten Fortbildungsma&amp;szlig;nahmen finanzielle Zuwendungen auf der Basis von F&amp;ouml;rderungsgesetzen bzw. F&amp;ouml;rderungsprogrammen gibt. Die Mitarbeiter kommen zu Ihnen mit der Bitte, sie &amp;uuml;ber wichtige finanzielle F&amp;ouml;rderungsm&amp;ouml;glichkeiten zu informieren. Da Sie f&amp;uuml;r Ihre Mitarbeiter eine systematische Fortbildungsplanung betreiben wollen und alle einschl&amp;auml;gigen Fortbildungsaktivit&amp;auml;ten unterst&amp;uuml;tzen, kommen Sie dem Wunsch auf Information dieser Mitarbeiter mit einem Informationsvortrag gerne nach.&lt;br&gt;Aufgabe: Informieren Sie Ihre beiden Mitarbeiter &amp;uuml;ber die einschl&amp;auml;gigen M&amp;ouml;glichkeiten zur finanziellen F&amp;ouml;rderung! Dabei orientieren Sie sich bei Ihrem Informationsvortrag zweckm&amp;auml;&amp;szlig;igerweise an folgenden zentralen Fragen bzw. Inhalten:&lt;br&gt;Informieren Sie Ihre beiden Mitarbeiter, welche Ma&amp;szlig;nahmen durch das Aufstiegsfortbildungsf&amp;ouml;rderungsgesetz gef&amp;ouml;rdert werden k&amp;ouml;nnen! Welche Aussage ist zutreffend?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_ckybeitz9004l266jciem5p28</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_ckybeitz9004l266jciem5p28</id>
+        <description lang="en-US">Vollzeit- und Teilzeitma&amp;szlig;nahmen der beruflichen Aufstiegsfortbildung (h&amp;ouml;herqualifizierenden Berufsbildung).</description>
+      </component>
+            <component>
+        <id>choice_ckybeitz9004m266jcjw9fl1r</id>
+        <description lang="en-US">Nur Vollzeitma&amp;szlig;nahmen der beruflichen Aufstiegsfortbildung (h&amp;ouml;herqualifizierenden Berufsbildung).</description>
+      </component>
+            <component>
+        <id>choice_ckybek30g004n266jsgcvhcdd</id>
+        <description lang="en-US">Nur Teilzeitma&amp;szlig;nahmen der beruflichen Aufstiegsfortbildung (h&amp;ouml;herqualifizierenden Berufsbildung).</description>
+      </component>
+            <component>
+        <id>choice_ckybek5uc004o266jn1dldxkk</id>
+        <description lang="en-US">Nur die Teilnahme an Lehrg&amp;auml;ngen zur Vorbereitung auf eine Handwerksmeisterpr&amp;uuml;fung.</description>
+      </component>
+            <component>
+        <id>choice_ckybekawb004p266jgeh7rl70</id>
+        <description lang="en-US">Der Besuch von Fachhochschulen und Hochschulen.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
