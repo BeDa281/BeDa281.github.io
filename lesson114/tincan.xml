@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://1tlSd5PQ0YxNLpSIt3wCSm-hJwMOzwkK_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildung vorbereiten - Quiz 3</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://1tlSd5PQ0YxNLpSIt3wCSm-hJwMOzwkK_rise/dEfQSCw9e92ltaSjZQsr88M4fjgaxlNL" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://1tlSd5PQ0YxNLpSIt3wCSm-hJwMOzwkK_rise/dEfQSCw9e92ltaSjZQsr88M4fjgaxlNL/cl0w5iv250003266f2y17jloe" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Regelung im Ausbildungsvertrag w&amp;auml;re nicht mit geltendem Recht zu vereinbaren und ist somit nichtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w5iv260004266fugn7anaq</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w5iv260004266fugn7anaq</id>
+        <description lang="en-US">Eine Festlegung von Vertragsstrafen bei Verletzung des Ausbildungsvertrages</description>
+      </component>
+            <component>
+        <id>choice_cl0w5iv260005266fyloxfmp4</id>
+        <description lang="en-US">&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;o:OfficeDocumentSettings&gt;
+  &lt;o:AllowPNG/&gt;
+ &lt;/o:OfficeDocumentSettings&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:WordDocument&gt;
+  &lt;w:View&gt;Normal&lt;/w:View&gt;
+  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+  &lt;w:TrackMoves/&gt;
+  &lt;w:TrackFormatting/&gt;
+  &lt;w:HyphenationZone&gt;21&lt;/w:HyphenationZone&gt;
+  &lt;w:PunctuationKerning/&gt;
+  &lt;w:ValidateAgainstSchemas/&gt;
+  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+  &lt;w:DoNotPromoteQF/&gt;
+  &lt;w:LidThemeOther&gt;DE&lt;/w:LidThemeOther&gt;
+  &lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;
+  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+  &lt;w:Compatibility&gt;
+   &lt;w:BreakWrappedTables/&gt;
+   &lt;w:SnapToGridInCell/&gt;
+   &lt;w:WrapTextWithPunct/&gt;
+   &lt;w:UseAsianBreakRules/&gt;
+   &lt;w:DontGrowAutofit/&gt;
+   &lt;w:SplitPgBreakAndParaMark/&gt;
+   &lt;w:EnableOpenTypeKerning/&gt;
+   &lt;w:DontFlipMirrorIndents/&gt;
+   &lt;w:OverrideTableStyleHps/&gt;
+  &lt;/w:Compatibility&gt;
+  &lt;m:mathPr&gt;
+   &lt;m:mathFont m:val=&#34;Cambria Math&#34;/&gt;
+   &lt;m:brkBin m:val=&#34;before&#34;/&gt;
+   &lt;m:brkBinSub m:val=&#34;&amp;#45;-&#34;/&gt;
+   &lt;m:smallFrac m:val=&#34;off&#34;/&gt;
+   &lt;m:dispDef/&gt;
+   &lt;m:lMargin m:val=&#34;0&#34;/&gt;
+   &lt;m:rMargin m:val=&#34;0&#34;/&gt;
+   &lt;m:defJc m:val=&#34;centerGroup&#34;/&gt;
+   &lt;m:wrapIndent m:val=&#34;1440&#34;/&gt;
+   &lt;m:intLim m:val=&#34;subSup&#34;/&gt;
+   &lt;m:naryLim m:val=&#34;undOvr&#34;/&gt;
+  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;D&lt;span style=&#39;font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:&#34;Arial&#34;,sans-serif&#39;&gt;ie
+Angabe der&lt;span style=&#34;letter-spacing:-.05pt&#34;&gt;&amp;nbsp;&lt;/span&gt;Urlaubstage&lt;/span&gt;
+
+</description>
+      </component>
+            <component>
+        <id>choice_cl0w5k5ex0006266f7eqdpplz</id>
+        <description lang="en-US">Die Dauer der Probezeit</description>
+      </component>
+            <component>
+        <id>choice_cl0w5kk0i0008266f76lvrwk3</id>
+        <description lang="en-US">Die H&amp;ouml;he der Ausbildungsverg&amp;uuml;tung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1tlSd5PQ0YxNLpSIt3wCSm-hJwMOzwkK_rise/dEfQSCw9e92ltaSjZQsr88M4fjgaxlNL/cl0w5kwk30009266fyfc7ydyf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Dauer der Ausbildung kann f&amp;uuml;r verschiedene Berufe unterschiedlich sein. Nach welcher Rechtsgrundlage richtet sich die Dauer der Ausbildung?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w5lc1b000c266flgh44k4o</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w5kwk3000a266f5zmvp7ls</id>
+        <description lang="en-US">Betriebsverfassungsgesetz</description>
+      </component>
+            <component>
+        <id>choice_cl0w5kwk3000b266f5yx9nuot</id>
+        <description lang="en-US">Ausbildereignungsverordnung</description>
+      </component>
+            <component>
+        <id>choice_cl0w5lc1b000c266flgh44k4o</id>
+        <description lang="en-US">Ausbildungsordnung</description>
+      </component>
+            <component>
+        <id>choice_cl0w5lhph000d266f73ewhpbo</id>
+        <description lang="en-US">Handelsgesetzbuch</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1tlSd5PQ0YxNLpSIt3wCSm-hJwMOzwkK_rise/dEfQSCw9e92ltaSjZQsr88M4fjgaxlNL/cl0w5ls15000e266f51ohbr35" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wo finden Sie Regelungen zur Arbeitszeit?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w5ls15000f266f55ayw9cr</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w5ls15000f266f55ayw9cr</id>
+        <description lang="en-US">Im Handelsgesetzbuch</description>
+      </component>
+            <component>
+        <id>choice_cl0w5ls15000g266f91r8j5uf</id>
+        <description lang="en-US">Im Tarifvertrag</description>
+      </component>
+            <component>
+        <id>choice_cl0w5mat7000h266fw29d36up</id>
+        <description lang="en-US">In der Landesverfassung</description>
+      </component>
+            <component>
+        <id>choice_cl0w5mebm000i266faoyvgm3z</id>
+        <description lang="en-US">Im B&amp;uuml;rgerlichem Gesetzbuch</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1tlSd5PQ0YxNLpSIt3wCSm-hJwMOzwkK_rise/dEfQSCw9e92ltaSjZQsr88M4fjgaxlNL/cl0w5ml53000j266fmywflx1v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zurzeit werden Ihre Auszubildenden in verschiedenen Werkst&amp;auml;tten direkt in der Produktion ausgebildet. Welchen Vorteil hat das?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w5ml53000k266fi9i91poj</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w5ml53000k266fi9i91poj</id>
+        <description lang="en-US">&lt;span style=&#39;font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:&#34;Arial&#34;,sans-serif&#39;&gt;Es
+sind keine Ausbilder erforderlich, da der Auszubildende &amp;quot;nebenbei&amp;quot;
+ausgebildet werden kann.&lt;/span&gt;
+
+</description>
+      </component>
+            <component>
+        <id>choice_cl0w5ml53000l266fhi865nf2</id>
+        <description lang="en-US">Die Produktion kann auf die Ausbildungsinhalte abgestimmt werden.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5n6sr000m266fn2oyap6e</id>
+        <description lang="en-US">Die Produktion kann bei Fragen des Auszubildenden jederzeit unterbrochen werden.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5naup000n266f5zy6ylb1</id>
+        <description lang="en-US">Die Ausbildung direkt am Arbeitsplatz hat einen hohen Praxisbezug.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1tlSd5PQ0YxNLpSIt3wCSm-hJwMOzwkK_rise/dEfQSCw9e92ltaSjZQsr88M4fjgaxlNL/cl0w5nzrp000o266fu3knpmvz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie &amp;uuml;berlegen, die Auszubildenden nicht in einzelnen Werkst&amp;auml;tten auszubilden, sondern einen zentralen Lernort zu schaffen. Nennen Sie den Vorteil.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w5onhq000r266frsexapi9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w5nzrp000p266fxskguin7</id>
+        <description lang="en-US">Der Praxisbezug wird erh&amp;ouml;ht, da in einer Lehrwerkstatt ausgebildet wird.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5nzrq000q266f0uhznbm2</id>
+        <description lang="en-US">Es ist kein Ausbilder notwendig. Die Auszubildenden im dritten Lehrjahr unterrichten die &amp;quot;Anf&amp;auml;nger&amp;quot;.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5onhq000r266frsexapi9</id>
+        <description lang="en-US">Gerade zu Beginn der Ausbildung k&amp;ouml;nnen die Auszubildenden Grundfertigkeiten ohne Zeitdruck erlernen.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5oqx7000s266fqvmhflh9</id>
+        <description lang="en-US">Die Ausbildungszeit kann verk&amp;uuml;rzt werden, da intensiver auf die Pr&amp;uuml;fung hingearbeitet werden kann.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1tlSd5PQ0YxNLpSIt3wCSm-hJwMOzwkK_rise/dEfQSCw9e92ltaSjZQsr88M4fjgaxlNL/cl0w5otwz000t266frjx29x8u" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Leonie Meier, Auszubildende im Hotelgewerbe, soll in einem Hotel &amp;quot;garni&amp;quot; (Hotel nur mit Fr&amp;uuml;hst&amp;uuml;ck) zur Hotelfachfrau ausgebildet werden. Zum Berufsbild geh&amp;ouml;rt auch die &amp;quot;Arbeit im Restaurant&amp;quot;. Dieser Bereich kann somit nicht vollst&amp;auml;ndig vermittelt werden.&amp;nbsp;&lt;br&gt;Welche Aussage ist richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w5otwz000u266fmmtmjazn</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w5otwz000u266fmmtmjazn</id>
+        <description lang="en-US">Der Ausbildungsbestandteil &amp;quot;Arbeit im Restaurant&amp;quot; kann auch in einem Partnerrestaurant durchgef&amp;uuml;hrt werden.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5otwz000v266f98xwub0c</id>
+        <description lang="en-US">Eine Ausbildung zur Hotelfachfrau ist in dem Hotel &amp;quot;garni&amp;quot; nicht m&amp;ouml;glich.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5q3al000w266fk68zdac0</id>
+        <description lang="en-US">Auf den Ausbildungsteil &amp;quot;Arbeit im Restaurant&amp;quot; kann verzichtet werden, wenn die Auszubildende dies rechtzeitig vor Beginn der Ausbildung erf&amp;auml;hrt.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5qa1v000x266fie44fous</id>
+        <description lang="en-US">Der Schwerpunkt der Ausbildung liegt im Empfangsbereich. Es kann somit auf diesen Teil verzichtet werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1tlSd5PQ0YxNLpSIt3wCSm-hJwMOzwkK_rise/dEfQSCw9e92ltaSjZQsr88M4fjgaxlNL/cl0w5qkqp000y266f4rompx15" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Maja Mondschein ist 17 Jahre alt und beginnt eine Ausbildung als Friseurin.&lt;br&gt;Wie lange darf Sonny ohne Pause arbeiten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w5qkqp000z266f6gtb88ig</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w5qkqp000z266f6gtb88ig</id>
+        <description lang="en-US">Sp&amp;auml;testens nach 3,5 Stunden Arbeitszeit muss eine Pause gew&amp;auml;hrt werden.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5qkqp0010266f10ahnlvk</id>
+        <description lang="en-US">Sp&amp;auml;testens nach 4,5 Stunden Arbeitszeit muss eine Pause gew&amp;auml;hrt werden.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5r9fw0011266fe2emtgqx</id>
+        <description lang="en-US">Sp&amp;auml;testens nach 3 Stunden Arbeitszeit muss eine Pause gew&amp;auml;hrt werden.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5rcv40012266f1896580x</id>
+        <description lang="en-US">Sp&amp;auml;testens nach 4 Stunden Arbeitszeit muss eine Pause gew&amp;auml;hrt werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1tlSd5PQ0YxNLpSIt3wCSm-hJwMOzwkK_rise/dEfQSCw9e92ltaSjZQsr88M4fjgaxlNL/cl0w5rn4o0013266fk8y4e85v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Maja Mondschein ist 17 Jahre alt und beginnt eine Ausbildung als Friseurin.&lt;br&gt;Sie hat eine t&amp;auml;gliche Arbeitszeit von 8 Stunden. Wie hoch ist der Pausenanspruch und wie lang muss die Pause mindestens sein?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w5sd7o0017266f2tdcqjec</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w5rn4o0014266f03otmj2v</id>
+        <description lang="en-US">Sonny hat Anspruch auf 60 Minuten Pause. Eine Pause muss mindestens 10 Min. lang sein.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5rn4o0015266f7hzab1hm</id>
+        <description lang="en-US">Sonny hat Anspruch auf 45 Minuten Pause. Eine Pause muss mindestens 15 Min. lang sein.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5s6xn0016266f06krrmpa</id>
+        <description lang="en-US">Sonny hat Anspruch auf 90 Minuten Pause. Eine Pause muss mindestens 10 Min. lang sein.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5sd7o0017266f2tdcqjec</id>
+        <description lang="en-US">Sonny hat Anspruch auf 60 Minuten Pause. Eine Pause muss mindestens 15 Min. lang sein.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1tlSd5PQ0YxNLpSIt3wCSm-hJwMOzwkK_rise/dEfQSCw9e92ltaSjZQsr88M4fjgaxlNL/cl0w5ttet0018266ftq90fdr9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Romina Hamser (16 Jahre) macht eine Ausbildung als Hotelfachfrau. Im Hotelgewerbe wird auch im Schichtdienst gearbeitet.&lt;br&gt;Ist es erlaubt, dass Hanna nach einem Sp&amp;auml;tdienst am n&amp;auml;chsten Tag einen Fr&amp;uuml;hdienst antreten muss?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w5uxgz001b266fcqlxqlyc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w5ttet0019266fcvfv53l6</id>
+        <description lang="en-US">Nein, nach einem Sp&amp;auml;tdienst d&amp;uuml;rfen Auszubildende keinen Fr&amp;uuml;hdienst machen.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5ttet001a266f0qvni66q</id>
+        <description lang="en-US">Nein, bei einem Wechsel von Sp&amp;auml;tdienst auf Fr&amp;uuml;hdienst muss ein freier Tag eingebunden werden.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5uxgz001b266fcqlxqlyc</id>
+        <description lang="en-US">Ja, es m&amp;uuml;ssen aber 12 Stunden Freizeit zwischen den Schichten gew&amp;auml;hrt werden.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5v1zd001c266f693ofz1j</id>
+        <description lang="en-US">Ja, es m&amp;uuml;ssen aber 15 Stunden Freizeit zwischen den Schichten gew&amp;auml;hrt werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1tlSd5PQ0YxNLpSIt3wCSm-hJwMOzwkK_rise/dEfQSCw9e92ltaSjZQsr88M4fjgaxlNL/cl0w5vnis001d266fwf83m2q2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Romina Hamser (16 Jahre) macht eine Ausbildung als Hotelfachfrau. Im Hotelgewerbe wird auch im Schichtdienst gearbeitet.&lt;br&gt;Sie hat 1 x die Woche Berufsschule. Wie wird diese Zeit auf die Arbeitszeit angerechnet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w5vnit001e266fgugsvrae</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w5vnit001e266fgugsvrae</id>
+        <description lang="en-US">Ein Berufsschultag mit mehr als 5 Stunden wird mit 8 Std. auf die Arbeitszeit angerechnet.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5vnit001f266f1ajyoph9</id>
+        <description lang="en-US">Ein Berufsschultag mit mehr als 4 Stunden wird mit 7 Std. auf die Arbeitszeit angerechnet.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5wssb001g266ft8ij8qbd</id>
+        <description lang="en-US">Ein Berufsschultag mit mehr als 6 Stunden wird mit 8 Std. auf die Arbeitszeit angerechnet.</description>
+      </component>
+            <component>
+        <id>choice_cl0w5wwvd001h266f8gb7h1kv</id>
+        <description lang="en-US">Ein Berufsschultag mit mehr als 4 Stunden wird mit 6 Std. auf die Arbeitszeit angerechnet.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

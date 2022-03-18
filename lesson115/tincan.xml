@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://VUlyP-QNQQY7MRrCnalVPTS7-B-wsYW7_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildung vorbereiten - Quiz 4</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://VUlyP-QNQQY7MRrCnalVPTS7-B-wsYW7_rise/_CtBujtVcb2TB8YeYQAj5Yr3KmqDG-0u" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://VUlyP-QNQQY7MRrCnalVPTS7-B-wsYW7_rise/_CtBujtVcb2TB8YeYQAj5Yr3KmqDG-0u/cl0w5zzf20003266feusoq96x" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wer w&amp;auml;hlt die Jugend- und Auszubildendenvertretung?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w5zzf20005266fobtowdwa</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w5zzf20004266fvb9r3djy</id>
+        <description lang="en-US">Nur die Mitarbeiter des Betriebes unter 18 Jahre</description>
+      </component>
+            <component>
+        <id>choice_cl0w5zzf20005266fobtowdwa</id>
+        <description lang="en-US">Alle Auszubildenden unter 25 und die Arbeitnehmer unter 18 Jahre</description>
+      </component>
+            <component>
+        <id>choice_cl0w60n5v0006266ffpy5gh03</id>
+        <description lang="en-US">Alle Mitarbeiter des Betriebes unter 25 Jahre</description>
+      </component>
+            <component>
+        <id>choice_cl0w60r700007266fvwnx73zy</id>
+        <description lang="en-US">Nur die Auszubildenden unter 21 Jahre</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VUlyP-QNQQY7MRrCnalVPTS7-B-wsYW7_rise/_CtBujtVcb2TB8YeYQAj5Yr3KmqDG-0u/cl0w619o50008266fly39bxb1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In welchem Abstand wird die Vertretung der Jugendlichen und Auszubildenden gew&amp;auml;hlt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w61uuj000c266f69il8hzd</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w619o50009266f4uqbn52s</id>
+        <description lang="en-US">Nach Bedarf</description>
+      </component>
+            <component>
+        <id>choice_cl0w619o5000a266fg2jd9inm</id>
+        <description lang="en-US">Alle 4 Jahre</description>
+      </component>
+            <component>
+        <id>choice_cl0w61rnk000b266fvquce7ge</id>
+        <description lang="en-US">Alle 3 Jahre</description>
+      </component>
+            <component>
+        <id>choice_cl0w61uuj000c266f69il8hzd</id>
+        <description lang="en-US">Alle 2 Jahre</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VUlyP-QNQQY7MRrCnalVPTS7-B-wsYW7_rise/_CtBujtVcb2TB8YeYQAj5Yr3KmqDG-0u/cl0w625qv000d266fyxqmbdfk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welcher Plan ordnet die Vorgaben des Ausbildungsrahmenplans den betrieblichen Lernorten zu?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w62xdt000g266f4t12puus</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w625qv000e266fajk6jmjf</id>
+        <description lang="en-US">Dienstplan</description>
+      </component>
+            <component>
+        <id>choice_cl0w625qv000f266fu7hd8ji6</id>
+        <description lang="en-US">Rahmenlehrplan</description>
+      </component>
+            <component>
+        <id>choice_cl0w62xdt000g266f4t12puus</id>
+        <description lang="en-US">Betrieblicher Ausbildungsplan</description>
+      </component>
+            <component>
+        <id>choice_cl0w630ch000h266f5l9b1bne</id>
+        <description lang="en-US">Arbeitsablaufplan</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VUlyP-QNQQY7MRrCnalVPTS7-B-wsYW7_rise/_CtBujtVcb2TB8YeYQAj5Yr3KmqDG-0u/cl0w63el2000i266fwq67kqgd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussage zum betrieblichen Ausbildungsplan ist nicht richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w63el2000k266fbuoartrv</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w63el2000j266fji3pu84o</id>
+        <description lang="en-US">&lt;span style=&#39;font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:&#34;Arial&#34;,sans-serif&#39;&gt;Bei
+der sachlichen Gliederung m&amp;uuml;ssen die Anforderungen zur Zwischenpr&amp;uuml;fung
+ber&amp;uuml;cksichtigt&lt;span style=&#34;letter-spacing:-.05pt&#34;&gt;&amp;nbsp;&lt;/span&gt;werden.&lt;/span&gt;
+
+</description>
+      </component>
+            <component>
+        <id>choice_cl0w63el2000k266fbuoartrv</id>
+        <description lang="en-US">Der Rahmenlehrplan der Berufsschule braucht nicht ber&amp;uuml;cksichtigt zu werden.</description>
+      </component>
+            <component>
+        <id>choice_cl0w64273000l266f6vpuerj6</id>
+        <description lang="en-US">Die betriebliche Ausbildung muss mit au&amp;szlig;erbetrieblichen Ausbildungsg&amp;auml;ngen abgestimmt werden.</description>
+      </component>
+            <component>
+        <id>choice_cl0w6464i000m266fyj2w2lmt</id>
+        <description lang="en-US">Alle Fertigkeiten und Kenntnisse aus dem Ausbildungsrahmenplan m&amp;uuml;ssen &amp;uuml;bernommen werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VUlyP-QNQQY7MRrCnalVPTS7-B-wsYW7_rise/_CtBujtVcb2TB8YeYQAj5Yr3KmqDG-0u/cl0w64f9e000n266fz7qi4u5m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Ausbildungsplanung soll sich von &amp;bdquo;didaktischen Strategien&amp;ldquo; leiten lassen. Was ist damit gemeint?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w65d9r000r266f3uj6cob0</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w64f9e000o266f0t2tswee</id>
+        <description lang="en-US">Der Auszubildende soll sich alles selbst erarbeiten.</description>
+      </component>
+            <component>
+        <id>choice_cl0w64f9e000p266fch8dlxsd</id>
+        <description lang="en-US">Der Auszubildende sollte Fragen nur in der Berufsschule stellen.</description>
+      </component>
+            <component>
+        <id>choice_cl0w658r6000q266f3xe5107w</id>
+        <description lang="en-US">Das F&amp;uuml;hren des Berichtsheftes sollte au&amp;szlig;erhalb der Arbeitszeit erfolgen.</description>
+      </component>
+            <component>
+        <id>choice_cl0w65d9r000r266f3uj6cob0</id>
+        <description lang="en-US">Es sollten bestimmte Prinzipien angewandt werden, z. B. &amp;bdquo;Vom Einfachen zum Schweren, vom Allgemeinen zum Speziellen&amp;ldquo;.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VUlyP-QNQQY7MRrCnalVPTS7-B-wsYW7_rise/_CtBujtVcb2TB8YeYQAj5Yr3KmqDG-0u/cl0w65qxr000s266f5iab5my4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussagen zum betrieblichen Ausbildungsplan sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w65qxr000t266fz1m2qox8</correctResponsePattern>
+            <correctResponsePattern>choice_cl0w6664v0019266fp186nq2q</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w65qxr000t266fz1m2qox8</id>
+        <description lang="en-US">Der betriebliche Ausbildungsplan ist Bestandteil des Ausbildungsvertrages.</description>
+      </component>
+            <component>
+        <id>choice_cl0w65qxr000u266fhgbkruxp</id>
+        <description lang="en-US">Nicht vermittelte Fertigkeiten sind der Berufsschule zu melden.</description>
+      </component>
+            <component>
+        <id>choice_cl0w6664v0019266fp186nq2q</id>
+        <description lang="en-US">Um die Lernziele zu erreichen, sind geeignete Ausbildungsformen zu ergreifen.</description>
+      </component>
+            <component>
+        <id>choice_cl0w66925001h266f0sc2wuwu</id>
+        <description lang="en-US">Gr&amp;ouml;&amp;szlig;ere Ausbildungsabschnitte sollen nicht in kleinere Abschnitte zerteilt werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VUlyP-QNQQY7MRrCnalVPTS7-B-wsYW7_rise/_CtBujtVcb2TB8YeYQAj5Yr3KmqDG-0u/cl0w66loz001t266ftkxwo3k8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Produktionsbereich wird ins Ausland verlagert. Bestimmte vorgeschriebene Ausbildungsinhalte k&amp;ouml;nnen somit nicht mehr vermittelt werden.&amp;nbsp;&lt;br&gt;Was bedeutet das f&amp;uuml;r die Ausbildung?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w66loz001v266fr0shjx0m</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w66loz001u266fuaubegvi</id>
+        <description lang="en-US">Der Ausbildungsvertrag muss entsprechend ge&amp;auml;ndert werden.</description>
+      </component>
+            <component>
+        <id>choice_cl0w66loz001v266fr0shjx0m</id>
+        <description lang="en-US">Die Vermittlung der vorgeschriebenen Ausbildungsinhalte, die durch die Verlagerung weggefallen sind, k&amp;ouml;nnen in einem Kooperationsbetrieb oder in einer au&amp;szlig;erbetrieblichen Ma&amp;szlig;nahme erfolgen.</description>
+      </component>
+            <component>
+        <id>choice_cl0w67cl0001w266fev5tflqc</id>
+        <description lang="en-US">Die nicht vermittelten Inhalte sind bei der Pr&amp;uuml;fungsanmeldung zu vermerken.</description>
+      </component>
+            <component>
+        <id>choice_cl0w67fsd001x266fzvvx5pob</id>
+        <description lang="en-US">Der Ausbildungsvertrag kann au&amp;szlig;erordentlich gek&amp;uuml;ndigt werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VUlyP-QNQQY7MRrCnalVPTS7-B-wsYW7_rise/_CtBujtVcb2TB8YeYQAj5Yr3KmqDG-0u/cl0w67svl0023266fxeev7kf9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei der Auswahl neuer Auszubildenden kann nach Schl&amp;uuml;sselqualifikation und fachlicher Qualifikation unterschieden werden.&amp;nbsp;&lt;br&gt;Was sind Schl&amp;uuml;sselqualifikationen?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w67svm0024266fks3jjp81</correctResponsePattern>
+            <correctResponsePattern>choice_cl0w67svm0027266flmkautxg</correctResponsePattern>
+            <correctResponsePattern>choice_cl0w68vc0003v266f59ntlhj9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w67svm0024266fks3jjp81</id>
+        <description lang="en-US">Zuverl&amp;auml;ssigkeit</description>
+      </component>
+            <component>
+        <id>choice_cl0w67svm0026266f2zctf61b</id>
+        <description lang="en-US">Rechtschreibung</description>
+      </component>
+            <component>
+        <id>choice_cl0w67svm0027266flmkautxg</id>
+        <description lang="en-US">Verantwortungsbewusstsein</description>
+      </component>
+            <component>
+        <id>choice_cl0w67svm0025266foorjawz5</id>
+        <description lang="en-US">Note in Physik</description>
+      </component>
+            <component>
+        <id>choice_cl0w68vc0003v266f59ntlhj9</id>
+        <description lang="en-US">Logisches Denken</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VUlyP-QNQQY7MRrCnalVPTS7-B-wsYW7_rise/_CtBujtVcb2TB8YeYQAj5Yr3KmqDG-0u/cl0w697pb004a266fqrf3jerq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Firma KFZ-M&amp;uuml;ller sucht 2 neue Auszubildende als KFZ-Mechatroniker. In welchem Schulfach w&amp;auml;re eine gute Note w&amp;uuml;nschenswert? &amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w6a1ps0059266fktms0oga</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w697pb004b266frcis9hol</id>
+        <description lang="en-US">Deutsch</description>
+      </component>
+            <component>
+        <id>choice_cl0w697pb004c266fu9unx7rk</id>
+        <description lang="en-US">Geschichte</description>
+      </component>
+            <component>
+        <id>choice_cl0w69ye30058266fypda7qpp</id>
+        <description lang="en-US">Englisch</description>
+      </component>
+            <component>
+        <id>choice_cl0w6a1ps0059266fktms0oga</id>
+        <description lang="en-US">Physik</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://VUlyP-QNQQY7MRrCnalVPTS7-B-wsYW7_rise/_CtBujtVcb2TB8YeYQAj5Yr3KmqDG-0u/cl0w6a779005a266fmrej2brg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Florian K&amp;auml;fer bewirbt sich f&amp;uuml;r die Ausbildung als Tischler. Welche Bedeutung hat das Schulzeugnis bei der Bewertung der Eignung f&amp;uuml;r den Ausbildungsplatz?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0w6a77a005e266fbmwnj74y</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0w6a779005b266fiorbem5k</id>
+        <description lang="en-US">Es hat keine Bedeutung, da er keine kaufm&amp;auml;nnische Ausbildung anstrebt.</description>
+      </component>
+            <component>
+        <id>choice_cl0w6a779005d266fq5ua8t0y</id>
+        <description lang="en-US">Florian K&amp;auml;fer sollte mindestens einen Realschulabschluss vorweisen k&amp;ouml;nnen.</description>
+      </component>
+            <component>
+        <id>choice_cl0w6a77a005e266fbmwnj74y</id>
+        <description lang="en-US">Die schulischen Vorkenntnisse sollten ausreichen, um das Ausbildungsziel erreichen zu k&amp;ouml;nnen.</description>
+      </component>
+            <component>
+        <id>choice_cl0w6a779005c266fjjbislnp</id>
+        <description lang="en-US">Florian K&amp;auml;fer sollte mindestens einen guten Hauptschulabschluss vorweisen k&amp;ouml;nnen.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
