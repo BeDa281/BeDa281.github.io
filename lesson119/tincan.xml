@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://ub-2aGjiM-WmIseD1JTADu1LaGXtrmRn_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildung abschließen - Quiz 5</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://ub-2aGjiM-WmIseD1JTADu1LaGXtrmRn_rise/XlTgPd-Hn9lQcpv190hfrD3f7Pbi2y2c" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://ub-2aGjiM-WmIseD1JTADu1LaGXtrmRn_rise/XlTgPd-Hn9lQcpv190hfrD3f7Pbi2y2c/cl0wdxb7r0003266feeipkc5s" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Gesch&amp;auml;ftsf&amp;uuml;hrung hat entschieden, dem 17-j&amp;auml;hrigen Auszubildenden Julian vor Ablauf der Probezeit zu k&amp;uuml;ndigen. Welche Aussagen dazu sind richtig? (2 richtige Antworten)</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdxb7r0006266f2dh0avzf</correctResponsePattern>
+            <correctResponsePattern>choice_cl0wdxb7r0007266f0tvctkzu</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdxb7r0004266fam7c94a3</id>
+        <description lang="en-US">Die K&amp;uuml;ndigung kann nur mit Angabe eines wichtigen Grundes erfolgen.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdxb7r0006266f2dh0avzf</id>
+        <description lang="en-US">Ein K&amp;uuml;ndigungsgrund muss nicht angegeben werden.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdxb7r0007266f0tvctkzu</id>
+        <description lang="en-US">Die K&amp;uuml;ndigung muss schriftlich und gegen&amp;uuml;ber dem Erziehungsberechtigen erfolgen.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdxb7r0005266firqg1w7g</id>
+        <description lang="en-US">Die K&amp;uuml;ndigungsfrist von 4 Wochen muss eingehalten werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ub-2aGjiM-WmIseD1JTADu1LaGXtrmRn_rise/XlTgPd-Hn9lQcpv190hfrD3f7Pbi2y2c/cl0wdyf3c001d266f41u3ol3y" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Gesch&amp;auml;ftsf&amp;uuml;hrung teilt Ihnen mit, dass aus wirtschaftlichen Gr&amp;uuml;nden leider keine Auszubildenden in ein festes Arbeitsverh&amp;auml;ltnis &amp;uuml;bernommen werden k&amp;ouml;nnen.&lt;br&gt;Welche Aussage dazu ist richtig?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdyf3c001e266fawcohs0o</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdyf3c001e266fawcohs0o</id>
+        <description lang="en-US">Der Ausbildungsvertrag endet mit Fristablauf oder bestandener Pr&amp;uuml;fung. Eine K&amp;uuml;ndigung ist nicht notwendig.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdyf3c001f266fm9ojqx8u</id>
+        <description lang="en-US">Sie m&amp;uuml;ssen den Auszubildenden mit entsprechenden Fristen k&amp;uuml;ndigen.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdz19e001l266fs65ye75c</id>
+        <description lang="en-US">Sie m&amp;uuml;ssen die Auszubildenden weiter besch&amp;auml;ftigen, bis diese einen neuen Arbeitsplatz gefunden haben.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdz4b8001m266fptrr5ec1</id>
+        <description lang="en-US">Sie sind verpflichtet, Auszubildende mindestens 6 Monate zu &amp;uuml;bernehmen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ub-2aGjiM-WmIseD1JTADu1LaGXtrmRn_rise/XlTgPd-Hn9lQcpv190hfrD3f7Pbi2y2c/cl0wdze45001n266f44543pqu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Marcel Meier ist ein sehr guter Auszubildender. In der Berufsschule hat er einen Notendurchschnitt von 2,3. Was ist beim Antrag auf Verk&amp;uuml;rzung zu beachten? (2 richtige Antworten)</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdze45001o266fm6ri4oym</correctResponsePattern>
+            <correctResponsePattern>choice_cl0wdze45001r266f3vc39x14</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdze45001o266fm6ri4oym</id>
+        <description lang="en-US">Die Pr&amp;uuml;fung soll nicht mehr als 6 Monate vor dem urspr&amp;uuml;nglichen Termin stattfinden.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdze45001q266fot1qzdnf</id>
+        <description lang="en-US">Die Berufsschule entscheidet in der Lehrerkonferenz &amp;uuml;ber den Antrag.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdze45001r266f3vc39x14</id>
+        <description lang="en-US">Der Antrag wird vom Auszubildenden bei der zust&amp;auml;ndigen Stelle gestellt.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdze45001p266fcb0efj23</id>
+        <description lang="en-US">Der Notendurchschnitt muss in den pr&amp;uuml;fungsrelevanten F&amp;auml;chern besser als 2,01 sein.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ub-2aGjiM-WmIseD1JTADu1LaGXtrmRn_rise/XlTgPd-Hn9lQcpv190hfrD3f7Pbi2y2c/cl0we0gu10032266fdst4ftp2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Muss der Ausbildungsbetrieb dem Auszubildenden ein Zeugnis ausstellen?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0we0zim0036266fuopqe2ni</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0we0gu10033266fb35jkbr7</id>
+        <description lang="en-US">Nein, diesen weiteren Aufwand kann man nicht verlangen.</description>
+      </component>
+            <component>
+        <id>choice_cl0we0gu10034266fqygnemb0</id>
+        <description lang="en-US">Nein, das Zeugnis wird durch die Berufsschule ausgestellt.</description>
+      </component>
+            <component>
+        <id>choice_cl0we0wlf0035266f2q5bppj4</id>
+        <description lang="en-US">Nein, aber auf freiwilliger Basis kann der Betrieb ein Ausbildungszeugnis ausstellen.</description>
+      </component>
+            <component>
+        <id>choice_cl0we0zim0036266fuopqe2ni</id>
+        <description lang="en-US">Ja, der Betrieb ist verpflichtet, ein Zeugnis auszustellen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ub-2aGjiM-WmIseD1JTADu1LaGXtrmRn_rise/XlTgPd-Hn9lQcpv190hfrD3f7Pbi2y2c/cl0we17r70037266fvqen2k34" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was ist der Unterschied zwischen einem &amp;quot;normalen Arbeitszeugnis&amp;quot; und einem &amp;quot;qualifizierten Arbeitszeugnis&amp;quot;?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0we17r80038266f8yi7cl9v</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0we17r80038266f8yi7cl9v</id>
+        <description lang="en-US">Das qualifizierte Arbeitszeugnis enth&amp;auml;lt zus&amp;auml;tzlich Angaben &amp;uuml;ber Verhalten und Leistung des Auszubildenden.</description>
+      </component>
+            <component>
+        <id>choice_cl0we17r80039266fu9yzxytt</id>
+        <description lang="en-US">Das qualifizierte Arbeitszeugnis wird zus&amp;auml;tzlich vom zust&amp;auml;ndigen Ausbilder unterschrieben.</description>
+      </component>
+            <component>
+        <id>choice_cl0we1qgw003a266fzsrn0gjl</id>
+        <description lang="en-US">Das qualifizierte Arbeitszeugnis enth&amp;auml;lt eine genaue Beschreibung der Ausbildungsinhalte.</description>
+      </component>
+            <component>
+        <id>choice_cl0we1v8k003b266fa9ddd3eg</id>
+        <description lang="en-US">Das qualifizierte Arbeitszeugnis enth&amp;auml;lt Angaben &amp;uuml;ber die k&amp;ouml;rperliche Leistungsf&amp;auml;higkeit und die Krankheitstage.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ub-2aGjiM-WmIseD1JTADu1LaGXtrmRn_rise/XlTgPd-Hn9lQcpv190hfrD3f7Pbi2y2c/cl0we25wl003c266fbszs8ble" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wer unterschreibt das Ausbildungszeugnis?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0we25wl003e266f7y751m8k</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0we25wl003d266f362biwa5</id>
+        <description lang="en-US">Der Auszubildende</description>
+      </component>
+            <component>
+        <id>choice_cl0we25wl003e266f7y751m8k</id>
+        <description lang="en-US">Der Ausbildende und evtl. der verantwortliche Ausbilder</description>
+      </component>
+            <component>
+        <id>choice_cl0we2lj4003f266f4fripyxr</id>
+        <description lang="en-US">Der Ausbilder und ein Vertreter der Berufsschule</description>
+      </component>
+            <component>
+        <id>choice_cl0we2om4003g266f4muky6ur</id>
+        <description lang="en-US">Der Ausbilder und der Auszubildende</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ub-2aGjiM-WmIseD1JTADu1LaGXtrmRn_rise/XlTgPd-Hn9lQcpv190hfrD3f7Pbi2y2c/cl0we3156003h266fbz2tqfxz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Auszubildenden Cedrik M&amp;uuml;ller und Beate Weinrich haben ihre Ausbildungen beendet.&lt;br&gt;Sie werden beauftragt ein Arbeitszeugnis auszustellen. Beate Weinrich w&amp;uuml;nscht ein qualifiziertes Zeugnis. Welcher Text weist auf ein qualifiziertes Ausbildungszeugnis hin?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0we3njs003l266fn1gd0goe</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0we3156003i266fuanew1q4</id>
+        <description lang="en-US">Das Einzelhandelsgesch&amp;auml;ft Herrmann ist seit &amp;uuml;ber 80 Jahren in Neustadt t&amp;auml;tig.</description>
+      </component>
+            <component>
+        <id>choice_cl0we3156003j266fqwizj4ra</id>
+        <description lang="en-US">Frau Beate Weinrich hat ihre Ausbildung am 25.08&amp;hellip; mit Erfolg abgeschlossen.</description>
+      </component>
+            <component>
+        <id>choice_cl0we3jlw003k266fx7udu8i0</id>
+        <description lang="en-US">Frau Weinrich wurde im dritten Lehrjahr in der Filiale in Oldenburg eingesetzt.</description>
+      </component>
+            <component>
+        <id>choice_cl0we3njs003l266fn1gd0goe</id>
+        <description lang="en-US">Frau Weinrich hat im dritten Ausbildungsjahr die Filiale in Oldenburg in Abwesenheit der Filialleiterin zu unserer vollen Zufriedenheit gef&amp;uuml;hrt. Sie konnte durch neue Ideen &amp;uuml;berzeugen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ub-2aGjiM-WmIseD1JTADu1LaGXtrmRn_rise/XlTgPd-Hn9lQcpv190hfrD3f7Pbi2y2c/cl0we3rzj003m266f168tsbrb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Auszubildenden Cedrik M&amp;uuml;ller und Beate Weinrich haben ihre Ausbildungen beendet.&lt;br&gt;Leider kann Cedrik M&amp;uuml;ller nach der Ausbildung nicht &amp;uuml;bernommen werden. Welche Aussagen sind richtig? (2 richtige Antworten)</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0we3rzj003n266fmuptv42k</correctResponsePattern>
+            <correctResponsePattern>choice_cl0we4pc1003q266f26me1ku9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0we3rzj003n266fmuptv42k</id>
+        <description lang="en-US">Sie m&amp;uuml;ssen nicht k&amp;uuml;ndigen, da der Ausbildungsvertrag ein befristeter Vertrag ist.</description>
+      </component>
+            <component>
+        <id>choice_cl0we3rzj003o266fytcs1b5u</id>
+        <description lang="en-US">Sie m&amp;uuml;ssen Cedrik M&amp;uuml;ller 3 Monate vor Beendigung der Ausbildung schriftlich k&amp;uuml;ndigen.</description>
+      </component>
+            <component>
+        <id>choice_cl0we4lhh003p266f2laisd7m</id>
+        <description lang="en-US">Sie m&amp;uuml;ssen Cedrik M&amp;uuml;ller in ein festes Arbeitsverh&amp;auml;ltnis &amp;uuml;bernehmen, wenn Sie nicht fristgerecht gek&amp;uuml;ndigt haben.</description>
+      </component>
+            <component>
+        <id>choice_cl0we4pc1003q266f26me1ku9</id>
+        <description lang="en-US">Sie sollten Cedrik M&amp;uuml;ller rechtzeitig informieren, damit er auf dem Arbeitsmarkt aktiv werden kann.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ub-2aGjiM-WmIseD1JTADu1LaGXtrmRn_rise/XlTgPd-Hn9lQcpv190hfrD3f7Pbi2y2c/cl0we52rq0043266f430jeslx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie erfahren, dass die IHK Pr&amp;uuml;fer f&amp;uuml;r die Abschlusspr&amp;uuml;fung sucht. Da Sie seit 6 Jahren f&amp;uuml;r die Ausbildung der Verk&amp;auml;ufer/innen verantwortlich sind, interessieren Sie sich f&amp;uuml;r diese T&amp;auml;tigkeit. Sie m&amp;ouml;chten jedoch wissen, wer die Kosten f&amp;uuml;r Ihre T&amp;auml;tigkeit als Pr&amp;uuml;fer tr&amp;auml;gt.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0we52rr0046266fnxqpctaq</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0we52rr0044266fd1elvly7</id>
+        <description lang="en-US">Sie haben mit 6 Jahren noch nicht gen&amp;uuml;gend Praxis f&amp;uuml;r die T&amp;auml;tigkeit als Pr&amp;uuml;fer gesammelt.</description>
+      </component>
+            <component>
+        <id>choice_cl0we52rr0046266fnxqpctaq</id>
+        <description lang="en-US">F&amp;uuml;r Auslagen und f&amp;uuml;r die Pr&amp;uuml;fungszeit erhalten Sie als Pr&amp;uuml;fer von der zust&amp;auml;ndigen Stelle eine Entsch&amp;auml;digung.</description>
+      </component>
+            <component>
+        <id>choice_cl0we52rr0047266frmpzpxe7</id>
+        <description lang="en-US">Ihr Arbeitgeber hat f&amp;uuml;r alle Kosten aufzukommen, da in Ihrem Betrieb ausgebildet wird.</description>
+      </component>
+            <component>
+        <id>choice_cl0we52rr0045266ffjuwqzj7</id>
+        <description lang="en-US">Als Pr&amp;uuml;fer tragen Sie die Kosten selber.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ub-2aGjiM-WmIseD1JTADu1LaGXtrmRn_rise/XlTgPd-Hn9lQcpv190hfrD3f7Pbi2y2c/cl0we5xqm004e266f5141ocmv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Vorteile ergeben sich aus einer T&amp;auml;tigkeit als Pr&amp;uuml;fer? (2 richtige Antworten)</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0we5xqm004i266f2fy8zw8a</correctResponsePattern>
+            <correctResponsePattern>choice_cl0we5xqm004h266fq1stl9l0</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0we5xqm004f266f3v4vgsvf</id>
+        <description lang="en-US">Sie bekommen die Pr&amp;uuml;fungsfragen vorab und k&amp;ouml;nnen somit den eigenen Auszubildenden Tipps zur Pr&amp;uuml;fung geben.</description>
+      </component>
+            <component>
+        <id>choice_cl0we5xqm004h266fq1stl9l0</id>
+        <description lang="en-US">Sie k&amp;ouml;nnen Erfahrungen mit anderen Pr&amp;uuml;fern austauschen.</description>
+      </component>
+            <component>
+        <id>choice_cl0we5xqm004i266f2fy8zw8a</id>
+        <description lang="en-US">Sie erhalten Informationen zum Ablauf von Pr&amp;uuml;fungen und zur Entwicklung des Berufes.</description>
+      </component>
+            <component>
+        <id>choice_cl0we5xqm004g266fzovq4axq</id>
+        <description lang="en-US">Sie k&amp;ouml;nnen Einfluss auf die Benotung Ihrer Auszubildenden nehmen.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

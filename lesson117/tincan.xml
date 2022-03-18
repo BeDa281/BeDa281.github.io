@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://ks0BDAB6v_J9jRp1RhsJtQXXRhZpf1n2_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildung abschließen - Quiz 3</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://ks0BDAB6v_J9jRp1RhsJtQXXRhZpf1n2_rise/265WuCc2pbcorrLT20PvqQ_Tuv0t4bkx" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://ks0BDAB6v_J9jRp1RhsJtQXXRhZpf1n2_rise/265WuCc2pbcorrLT20PvqQ_Tuv0t4bkx/cl0wdhliw005f266fo8096f4n" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Symptome von Pr&amp;uuml;fungsangst entsprechen aus dem psychischen &amp;nbsp;Bereich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdhliw005g266fvs13ohfo</correctResponsePattern>
+            <correctResponsePattern>choice_cl0wdhliw005h266ffk9flk42</correctResponsePattern>
+            <correctResponsePattern>choice_cl0wdhliw005j266fu5adz15m</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdhliw005g266fvs13ohfo</id>
+        <description lang="en-US">Konzentrationsschw&amp;auml;che</description>
+      </component>
+            <component>
+        <id>choice_cl0wdhliw005i266f8d3nt2k8</id>
+        <description lang="en-US">Bauchschmerzen</description>
+      </component>
+            <component>
+        <id>choice_cl0wdhliw005j266fu5adz15m</id>
+        <description lang="en-US">Denkblockade</description>
+      </component>
+            <component>
+        <id>choice_cl0wdhliw005h266ffk9flk42</id>
+        <description lang="en-US">Hoffnungslosigkeit</description>
+      </component>
+            <component>
+        <id>choice_cl0wdiald006m266f8zsxiof1</id>
+        <description lang="en-US">Schwindel</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ks0BDAB6v_J9jRp1RhsJtQXXRhZpf1n2_rise/265WuCc2pbcorrLT20PvqQ_Tuv0t4bkx/cl0wd60750003266fw96gm15z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ihr Auszubildender zum Fachlagerist Tim Karel muss zur Abschlusspr&amp;uuml;fung angemeldet werden. Wie l&amp;auml;uft dieser Vorgang meist ab?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wd60750004266fy0w3svvk</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wd60750004266fy0w3svvk</id>
+        <description lang="en-US">Der Fachkundelehrer meldet Tim Karel im Auftrag der Berufsschule bei der zust&amp;auml;ndigen Stelle an.</description>
+      </component>
+            <component>
+        <id>choice_cl0wd60750005266f5y3mfpvi</id>
+        <description lang="en-US">Tim Karel muss sich selber bei der zust&amp;auml;ndigen Stelle zur Abschlusspr&amp;uuml;fung anmelden.</description>
+      </component>
+            <component>
+        <id>choice_cl0wd6qhi0006266f0ialywfz</id>
+        <description lang="en-US">Der Ausbildungsbetrieb meldet zur Abschlusspr&amp;uuml;fung an. Die entsprechenden Formulare werden von der zust&amp;auml;ndigen Stelle zugeschickt.</description>
+      </component>
+            <component>
+        <id>choice_cl0wd6u6m0007266fnj46npu1</id>
+        <description lang="en-US">Die IHK als zust&amp;auml;ndige Stelle nimmt die Anmeldung automatisch vor. Die entsprechenden Daten werden aus dem Berufsausbildungsvertrag &amp;uuml;bernommen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ks0BDAB6v_J9jRp1RhsJtQXXRhZpf1n2_rise/265WuCc2pbcorrLT20PvqQ_Tuv0t4bkx/cl0wd71yi0008266fljumlaz5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Teilnahme an der Abschlusspr&amp;uuml;fung (AP) ist an Bedingungen gekn&amp;uuml;pft.&lt;br&gt;&amp;nbsp;Was sind Voraussetzungen f&amp;uuml;r die Teilnahme an der AP? </name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wd71yi000a266f1lvjnay7</correctResponsePattern>
+            <correctResponsePattern>choice_cl0wd71yi000c266fka4c52u1</correctResponsePattern>
+            <correctResponsePattern>choice_cl0wd71yi000b266fxf5j0g0o</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wd71yi0009266fcu99q31r</id>
+        <description lang="en-US">Eine bestandene Zwischenpr&amp;uuml;fung</description>
+      </component>
+            <component>
+        <id>choice_cl0wd71yi000b266fxf5j0g0o</id>
+        <description lang="en-US">Eine Teilnahme an der Zwischenpr&amp;uuml;fung</description>
+      </component>
+            <component>
+        <id>choice_cl0wd71yi000c266fka4c52u1</id>
+        <description lang="en-US">Eintragung des Berufsausbildungsverh&amp;auml;ltnisses in das Verzeichnis der zust&amp;auml;ndigen Stelle</description>
+      </component>
+            <component>
+        <id>choice_cl0wd71yi000a266f1lvjnay7</id>
+        <description lang="en-US">Ableistung der erforderlichen Ausbildungsdauer</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ks0BDAB6v_J9jRp1RhsJtQXXRhZpf1n2_rise/265WuCc2pbcorrLT20PvqQ_Tuv0t4bkx/cl0wda5kc001w266fm6jtfcg9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die zust&amp;auml;ndige Stelle h&amp;auml;lt die Voraussetzung zur Teilnahme an der Abschlusspr&amp;uuml;fung f&amp;uuml;r Dominik Peters als nicht erf&amp;uuml;llt. Wer entscheidet, ob Tim f&amp;uuml;r die Pr&amp;uuml;fung zugelassen wird?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wda5kc001y266fuakvewyy</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wda5kc001x266fae4bpp2b</id>
+        <description lang="en-US">Die zust&amp;auml;ndige Stelle, in diesem Fall der Ausbildungsberater der IHK.</description>
+      </component>
+            <component>
+        <id>choice_cl0wda5kc001y266fuakvewyy</id>
+        <description lang="en-US">Der Pr&amp;uuml;fungsausschuss</description>
+      </component>
+            <component>
+        <id>choice_cl0wdakmc001z266f678ldlj1</id>
+        <description lang="en-US">Das Direktorium der Berufsschule</description>
+      </component>
+            <component>
+        <id>choice_cl0wdapn00020266fujwhy0o5</id>
+        <description lang="en-US">Der Ausbildungsbetrieb, da er die Leistungsf&amp;auml;higkeit von Tim Karel am besten beurteilen kann.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ks0BDAB6v_J9jRp1RhsJtQXXRhZpf1n2_rise/265WuCc2pbcorrLT20PvqQ_Tuv0t4bkx/cl0wdb0rs0021266f5fgag5aj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Petro Oglowski &amp;nbsp;ist eine sehr gute Auszubildende als Kauffrau im Einzelhandel. Ihr Berufsschulzeugnis nach Abschluss des zweiten Lehrjahres hat einen Durchschnitt von 1,7 in den Hauptf&amp;auml;chern. Kurz nach Erhalt des Zeugnisses teilt Sonny dem Betrieb mit, dass sie ihre Ausbildung verk&amp;uuml;rzen m&amp;ouml;chte. Welche Aussage ist richtig?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdbo7d0025266f6dwxsmwz</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdb0rs0022266fo82m9859</id>
+        <description lang="en-US">Nein, eine Verk&amp;uuml;rzung ist nicht m&amp;ouml;glich. Dieses h&amp;auml;tte schon bei Beginn des Ausbildungsverh&amp;auml;ltnisses beantragt werden m&amp;uuml;ssen.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdb0rs0023266f8elvle6q</id>
+        <description lang="en-US">Nein, eine Verk&amp;uuml;rzung ist nicht m&amp;ouml;glich. Die Leistungen in der Berufsschule reichen daf&amp;uuml;r nicht aus.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdbio50024266f1w881iv5</id>
+        <description lang="en-US">Nein, der noch n&amp;ouml;tige Ausbildungsstoff ist ihr in der kurzen Zeit nicht zu vermitteln.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdbo7d0025266f6dwxsmwz</id>
+        <description lang="en-US">Ja, ihre Leistungen im Betrieb und in der Berufsschule sprechen f&amp;uuml;r eine Verk&amp;uuml;rzung.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ks0BDAB6v_J9jRp1RhsJtQXXRhZpf1n2_rise/265WuCc2pbcorrLT20PvqQ_Tuv0t4bkx/cl0wdbwrg0026266fpmv3fqbh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Auszubildende Sina Kiewel besteht ihre Abschlusspr&amp;uuml;fung mit dem letzten Pr&amp;uuml;fungsteil am 25. Juni. Die Ergebnisse werden ihr noch am gleichen Tag mitgeteilt. Ihr Ausbildungsvertrag l&amp;auml;uft noch bis zum 31. Juli. Wann endet das Ausbildungsverh&amp;auml;ltnis?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdbwrh0027266f31x736u6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdbwrh0027266f31x736u6</id>
+        <description lang="en-US">Am 25. Juni</description>
+      </component>
+            <component>
+        <id>choice_cl0wdbwrh0028266f51uzwwu2</id>
+        <description lang="en-US">Am 31. Juli</description>
+      </component>
+            <component>
+        <id>choice_cl0wdec9q0029266fbnjlciqo</id>
+        <description lang="en-US">Am Tage der Freisprechung</description>
+      </component>
+            <component>
+        <id>choice_cl0wdeh21002a266fpmntkqg2</id>
+        <description lang="en-US">Am Ende des Monats, in dem die letzte Pr&amp;uuml;fung stattfand. In diesem Fall am 30. Juni.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ks0BDAB6v_J9jRp1RhsJtQXXRhZpf1n2_rise/265WuCc2pbcorrLT20PvqQ_Tuv0t4bkx/cl0wdezz1002b266ftc18z1b0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In einigen Berufen gibt es eine &amp;bdquo;gestreckte Pr&amp;uuml;fung&amp;ldquo;. Welche Aussagen dazu sind richtig? (2 richtige Antworten)</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdezz2002d266fkgoxl29r</correctResponsePattern>
+            <correctResponsePattern>choice_cl0wdezz2002e266f05gh7og6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdezz2002c266f9x4lsnr6</id>
+        <description lang="en-US">Die schriftliche Abschlusspr&amp;uuml;fung wird &amp;uuml;ber den Zeitraum von 2 Wochen gestreckt.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdezz2002e266f05gh7og6</id>
+        <description lang="en-US">Die Abschlusspr&amp;uuml;fung wird in 2 Teile gegliedert. Teil 1 ersetzt die Zwischenpr&amp;uuml;fung.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdezz2002f266fkke4y1yk</id>
+        <description lang="en-US">Die Ergebnisse des ersten Teils der gestreckten Pr&amp;uuml;fung haben keinen Einfluss auf die Endnoten.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdezz2002d266fkgoxl29r</id>
+        <description lang="en-US">Die Pr&amp;uuml;fungsrisiken werden verteilt. Somit wird das Risiko einer &amp;bdquo;schlechten Tagesform&amp;ldquo; geringer.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ks0BDAB6v_J9jRp1RhsJtQXXRhZpf1n2_rise/265WuCc2pbcorrLT20PvqQ_Tuv0t4bkx/cl0wdfr6t003h266f5jflwix8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie ist nach Ma&amp;szlig;gabe des BBiG der Pr&amp;uuml;fungsausschuss zusammengesetzt?&lt;br&gt;&amp;nbsp; (2 richtige Antworten)</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdfr6t003i266flryriihm</correctResponsePattern>
+            <correctResponsePattern>choice_cl0wdgg0s003k266fqlr56u2n</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdfr6t003i266flryriihm</id>
+        <description lang="en-US">Die berufsbildenden Schulen sind mit mindestens einer Lehrkraft vertreten.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdfr6t003j266f4ttc67im</id>
+        <description lang="en-US">Er besteht aus mindestens 4 Personen.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdgg0s003k266fqlr56u2n</id>
+        <description lang="en-US">Die Arbeitgeber und Arbeitnehmer stellen die gleiche Anzahl an Pr&amp;uuml;fern.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdgldc003l266fgxkbrba5</id>
+        <description lang="en-US">Der Vorsitzende des Pr&amp;uuml;fungsausschusses wird von der zust&amp;auml;ndigen Stelle (z. B. IHK) bestimmt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ks0BDAB6v_J9jRp1RhsJtQXXRhZpf1n2_rise/265WuCc2pbcorrLT20PvqQ_Tuv0t4bkx/cl0wdgx6q003u266fbxlvkxp6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Symptome von Pr&amp;uuml;fungsangst entsprechen aus dem physischen Bereich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdgx6r003x266f171wn6hg</correctResponsePattern>
+            <correctResponsePattern>choice_cl0wdhhft0052266fa4hym0xm</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdgx6r003v266foi4mvp9e</id>
+        <description lang="en-US">Konzentrationsschw&amp;auml;che</description>
+      </component>
+            <component>
+        <id>choice_cl0wdgx6r003x266f171wn6hg</id>
+        <description lang="en-US">Bauchschmerzen</description>
+      </component>
+            <component>
+        <id>choice_cl0wdgx6r003y266f90pfa6oq</id>
+        <description lang="en-US">Denkblockade</description>
+      </component>
+            <component>
+        <id>choice_cl0wdgx6r003w266fndmi97lq</id>
+        <description lang="en-US">Hoffnungslosigkeit</description>
+      </component>
+            <component>
+        <id>choice_cl0wdhhft0052266fa4hym0xm</id>
+        <description lang="en-US">Schwindel</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://ks0BDAB6v_J9jRp1RhsJtQXXRhZpf1n2_rise/265WuCc2pbcorrLT20PvqQ_Tuv0t4bkx/cl0wd8now001r266fuz30ji8d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Die Teilnahme an der Abschlusspr&amp;uuml;fung (AP) ist an Bedingungen gekn&amp;uuml;pft.&lt;br&gt;&amp;nbsp;Was sind &lt;u&gt;&lt;strong&gt;keine &lt;/strong&gt;&lt;/u&gt;Voraussetzungen f&amp;uuml;r die Teilnahme der AP? </name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wd8now001s266f8dueulo3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wd8now001s266f8dueulo3</id>
+        <description lang="en-US">Eine bestandene Zwischenpr&amp;uuml;fung</description>
+      </component>
+            <component>
+        <id>choice_cl0wd8now001t266f870vyl2l</id>
+        <description lang="en-US">Eine Teilnahme an der Zwischenpr&amp;uuml;fung</description>
+      </component>
+            <component>
+        <id>choice_cl0wd95c8001u266fkhtvy2ii</id>
+        <description lang="en-US">Eintragung des Berufsausbildungsverh&amp;auml;ltnisses in das Verzeichnis der zust&amp;auml;ndigen Stelle</description>
+      </component>
+            <component>
+        <id>choice_cl0wd98mj001v266fffqa8nnr</id>
+        <description lang="en-US">Ableistung der erforderlichen Ausbildungsdauer</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

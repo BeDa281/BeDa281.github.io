@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://CSrG2uiwJQ67W02CMreQTXKJTX1E4LkE_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ausbildung abschließen - Quiz 4</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://CSrG2uiwJQ67W02CMreQTXKJTX1E4LkE_rise/2PEWH-DmPKwXStKlWgWvGafd0vBXb0VG" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://CSrG2uiwJQ67W02CMreQTXKJTX1E4LkE_rise/2PEWH-DmPKwXStKlWgWvGafd0vBXb0VG/cl0wdk2za0003266f663hrajn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Ma&amp;szlig;nahmen k&amp;ouml;nnen zum Abbau von Pr&amp;uuml;fungs&amp;auml;ngsten beitragen? (2 richtige Antworten)</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdk2za0005266fyt4d28ma</correctResponsePattern>
+            <correctResponsePattern>choice_cl0wdksbh000e266fwd32fysy</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdk2za0004266fsygxl5ek</id>
+        <description lang="en-US">Weisen Sie den Auszubildenden m&amp;ouml;glichst h&amp;auml;ufig auf die nahende Pr&amp;uuml;fung hin.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdk2za0005266fyt4d28ma</id>
+        <description lang="en-US">Bauen Sie Vertrauen in die eigene Leistungsf&amp;auml;higkeit des Auszubildenden auf.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdksbh000e266fwd32fysy</id>
+        <description lang="en-US">Planen Sie mit dem Auszubildenden die Pr&amp;uuml;fungsvorbereitung zusammen.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdkwja000n266fztr1n0ri</id>
+        <description lang="en-US">Vergeben Sie bei Erfolgskontrollen zum Lernanreiz schlechte Noten.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CSrG2uiwJQ67W02CMreQTXKJTX1E4LkE_rise/2PEWH-DmPKwXStKlWgWvGafd0vBXb0VG/cl0wdl9n50012266fak3jvnkk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Angaben zum Bewertungsschl&amp;uuml;ssel nach &amp;sect; 24 der Musterpr&amp;uuml;fungsordnung sind richtig? (2 richtige Antworten)</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdl9n50013266flysq60f2</correctResponsePattern>
+            <correctResponsePattern>choice_cl0wdl9n50014266fspc47yn6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdl9n50013266flysq60f2</id>
+        <description lang="en-US">Unter 92 - 81 Punkte = Note 2</description>
+      </component>
+            <component>
+        <id>choice_cl0wdl9n50015266fdqb7scfq</id>
+        <description lang="en-US">Unter 79 - 68 Punkte = Note 3</description>
+      </component>
+            <component>
+        <id>choice_cl0wdl9n50016266fkkr9fk2n</id>
+        <description lang="en-US">Unter 62 - 52 Punkte = Note 4</description>
+      </component>
+            <component>
+        <id>choice_cl0wdl9n50014266fspc47yn6</id>
+        <description lang="en-US">Unter 50 - 30 Punkte = Note 5</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CSrG2uiwJQ67W02CMreQTXKJTX1E4LkE_rise/2PEWH-DmPKwXStKlWgWvGafd0vBXb0VG/cl0wdm2bx002c266fe54wh3v1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Auszubildenden Paula wird die Zulassung zur Abschlusspr&amp;uuml;fung verweigert. Welchen Grund kann das haben?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdm2bx002d266fg3mc9k94</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdm2bx002d266fg3mc9k94</id>
+        <description lang="en-US">Paula ist schon dreimal durch die Pr&amp;uuml;fung gefallen.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdm2bx002e266fpckwtnsb</id>
+        <description lang="en-US">Paulas Ausbildungsbetrieb ist in Konkurs gegangen.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdmepy002f266fsk8vtmz7</id>
+        <description lang="en-US">Paula ist durch die Zwischenpr&amp;uuml;fung gefallen.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdmi32002g266frul2p63y</id>
+        <description lang="en-US">Paulas Leistungen im Betrieb sind in der letzten Zeit ziemlich schlecht.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CSrG2uiwJQ67W02CMreQTXKJTX1E4LkE_rise/2PEWH-DmPKwXStKlWgWvGafd0vBXb0VG/cl0wdmvkv002h266fph8t76ci" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Plaumer Davit hat an der Abschlusspr&amp;uuml;fung nicht teilgenommen. Auf Nachfrage gibt er keinen Grund an. Ein &amp;auml;rztliches Attest kann er auch nicht vorweisen. Kann eine Verl&amp;auml;ngerung der Ausbildung verlangt werden?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdohqj002l266f8qt7q4ti</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdmvkv002i266fkf5yamf7</id>
+        <description lang="en-US">Ja, wenn er schriftlich versichert, dass er an der n&amp;auml;chsten Pr&amp;uuml;fung teilnimmt.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdmvkv002j266faf6a0a2i</id>
+        <description lang="en-US">Ja, die Teilnahme an Pr&amp;uuml;fungen ist nicht erforderlich.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdohqj002l266f8qt7q4ti</id>
+        <description lang="en-US">Nein, da er ohne wichtigen Grund nicht an der Pr&amp;uuml;fung teilgenommen hat.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdoo9b002m266f2uacct0x</id>
+        <description lang="en-US">Die Entscheidung trifft die zust&amp;auml;ndige Stelle.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CSrG2uiwJQ67W02CMreQTXKJTX1E4LkE_rise/2PEWH-DmPKwXStKlWgWvGafd0vBXb0VG/cl0wdlvqh0021266flimhp83r" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ein Ausbildungsvertrag soll &lt;strong&gt;&lt;u&gt;nach &lt;/u&gt;&lt;/strong&gt;der Probezeit mit einer Frist von 4 Wochen durch eine ordentliche K&amp;uuml;ndigung beendet werden. Wer hat das Recht dazu?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdlvqh0022266fuop2z751</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdlvqh0022266fuop2z751</id>
+        <description lang="en-US">Der Auszubildende</description>
+      </component>
+            <component>
+        <id>choice_cl0wdlvqh0024266f2b5fuoga</id>
+        <description lang="en-US">Der Auszubildende und Ausbildende gemeinsam</description>
+      </component>
+            <component>
+        <id>choice_cl0wdlvqh0025266f5dr6mqiu</id>
+        <description lang="en-US">Der Ausbildende</description>
+      </component>
+            <component>
+        <id>choice_cl0wdlvqh0023266f00n991bk</id>
+        <description lang="en-US">Der Ausbildende mit Genehmigung der zust&amp;auml;ndigen Stelle</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CSrG2uiwJQ67W02CMreQTXKJTX1E4LkE_rise/2PEWH-DmPKwXStKlWgWvGafd0vBXb0VG/cl0wdr5t9003p266fsx00dbzq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Pr&amp;uuml;fungstermin f&amp;uuml;r die Abschlusspr&amp;uuml;fung von Nina Mummel ist nur 26 Tage nach der Entbindung. Darf sie daran teilnehmen?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdrmng003s266f4rrnubm9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdr5t9003q266fepv0h2vn</id>
+        <description lang="en-US">Nein, da M&amp;uuml;tter bis zum Ablauf von 8 Wochen nach der Geburt nicht besch&amp;auml;ftigt werden d&amp;uuml;rfen (Besch&amp;auml;ftigungsverbot laut Mutterschutzgesetz).</description>
+      </component>
+            <component>
+        <id>choice_cl0wdr5t9003r266f2uck1bv6</id>
+        <description lang="en-US">Nein, die Pr&amp;uuml;fungsordnung verbietet eine Gef&amp;auml;hrdung der jungen Mutter.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdrmng003s266f4rrnubm9</id>
+        <description lang="en-US">Ja, die Teilnahme an der Abschlusspr&amp;uuml;fung gilt nicht als Besch&amp;auml;ftigung.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdrq7r003t266f0wf5l3t3</id>
+        <description lang="en-US">Nein, der Betrieb ist verpflichtet, die Teilnahme an der Pr&amp;uuml;fung zu verhindern.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CSrG2uiwJQ67W02CMreQTXKJTX1E4LkE_rise/2PEWH-DmPKwXStKlWgWvGafd0vBXb0VG/cl0wds1vl003u266fmr1apgr0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Severin Blocker m&amp;ouml;chte ein qualifiziertes Arbeitszeugnis haben. Selina Dingel bittet um Ausstellung eines einfachen Arbeitszeugnisses. Was ist zu tun?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wds1vl003w266fdkenm7be</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wds1vl003v266fy7uf229h</id>
+        <description lang="en-US">Die beiden sollen sich einigen, damit nur eine Art von Zeugnis ausgestellt werden muss.</description>
+      </component>
+            <component>
+        <id>choice_cl0wds1vl003w266fdkenm7be</id>
+        <description lang="en-US">Sie erstellen die Zeugnisse wie von den beiden Auszubildenden gew&amp;uuml;nscht.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdslo9003x266fwh9jda4y</id>
+        <description lang="en-US">Sie erstellen beiden ein einfaches Zeugnis. Zu mehr sind Sie nicht verpflichtet.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdsoyx003y266f211f2deh</id>
+        <description lang="en-US">Sie erstellen das einfache Zeugnis. F&amp;uuml;r die Erstellung des qualifizierten Zeugnisses ist die Berufsschule zust&amp;auml;ndig.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CSrG2uiwJQ67W02CMreQTXKJTX1E4LkE_rise/2PEWH-DmPKwXStKlWgWvGafd0vBXb0VG/cl0wdsvx5003z266foij7zzp8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Auszubildende Max Portimann f&amp;auml;llt durch die Pr&amp;uuml;fung. Kann diese wiederholt werden? Wenn ja, wie oft?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdtfgn0042266f97qokptq</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdsvx50040266f1gki28gw</id>
+        <description lang="en-US">Nein, eine Wiederholung ist nicht m&amp;ouml;glich.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdsvx50041266fufgl5s5g</id>
+        <description lang="en-US">Ja, die Pr&amp;uuml;fung kann 1-mal wiederholt werden.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdtfgn0042266f97qokptq</id>
+        <description lang="en-US">Ja, die Pr&amp;uuml;fung kann 2-mal wiederholt werden.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdtijl0043266frfdd2mnk</id>
+        <description lang="en-US">Ja, die Pr&amp;uuml;fung kann 3-mal wiederholt werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CSrG2uiwJQ67W02CMreQTXKJTX1E4LkE_rise/2PEWH-DmPKwXStKlWgWvGafd0vBXb0VG/cl0wdtsn40044266fmoswn5h7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Max Blaum ist am 12.06. durch die Pr&amp;uuml;fung gefallen. Am 31.07. endet sein Ausbildungsvertrag. Er m&amp;ouml;chte seine Ausbildung bis zur n&amp;auml;chsten Pr&amp;uuml;fung verl&amp;auml;ngern. M&amp;uuml;ssen Sie als Ausbildungsbetrieb das erm&amp;ouml;glichen?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdtsn40047266fdpgszggn</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wdtsn40045266f9rk8l0uk</id>
+        <description lang="en-US">Nein, Sie m&amp;uuml;ssen der Verl&amp;auml;ngerung nicht zustimmen.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdtsn40047266fdpgszggn</id>
+        <description lang="en-US">Ja, wenn Max Blaum das verlangt.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdtsn40048266f5lv2agab</id>
+        <description lang="en-US">Die Entscheidung erfolgt durch den Ausbildungsberater der zust&amp;auml;ndigen Stelle.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdtsn40046266fu660hjhx</id>
+        <description lang="en-US">Nein, da Sie damit rechnen, dass er die Wiederholungspr&amp;uuml;fung auch nicht schaffen wird.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://CSrG2uiwJQ67W02CMreQTXKJTX1E4LkE_rise/2PEWH-DmPKwXStKlWgWvGafd0vBXb0VG/cl0wduovx004f266fmizcec2l" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Max Blaum ist am 12.06. durch die Pr&amp;uuml;fung gefallen. Am 31.07. endet sein Ausbildungsvertrag. m&amp;ouml;chte seine Ausbildung in dem Betrieb nicht weiterf&amp;uuml;hren. Wann endet das Ausbildungsverh&amp;auml;ltnis?&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl0wdvjk7004j266f0ovhrfnd</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl0wduovx004g266fwip9ejoz</id>
+        <description lang="en-US">Am 12.06.</description>
+      </component>
+            <component>
+        <id>choice_cl0wduovx004h266fktzwuvom</id>
+        <description lang="en-US">Am 30.06.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdvfh7004i266fsa00csa7</id>
+        <description lang="en-US">Das Ausbildungsverh&amp;auml;ltnis wird auf jeden Fall bis zum n&amp;auml;chstm&amp;ouml;glichen Pr&amp;uuml;fungstermin fortgesetzt.</description>
+      </component>
+            <component>
+        <id>choice_cl0wdvjk7004j266f0ovhrfnd</id>
+        <description lang="en-US">Am 31.07.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
