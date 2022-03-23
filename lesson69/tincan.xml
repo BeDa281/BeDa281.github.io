@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://mp1BD77IW7IO5u8l20KfW854BOUhaPuY_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Betoninstandsetzung - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://mp1BD77IW7IO5u8l20KfW854BOUhaPuY_rise/jvUwuAubau5EhHkimn5VB_bJZZm4lkKx" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://mp1BD77IW7IO5u8l20KfW854BOUhaPuY_rise/jvUwuAubau5EhHkimn5VB_bJZZm4lkKx/cl13bhqef000e266f242zhm59" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Markieren Sie die wichtigen Regelwerke f&amp;uuml;r die Betoninstandsetzung!</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13bhqef000f266fts1eejzh</correctResponsePattern>
+            <correctResponsePattern>choice_cl13bhqef000g266fciw6ktep</correctResponsePattern>
+            <correctResponsePattern>choice_cl13bhqef000i266f678z6cny</correctResponsePattern>
+            <correctResponsePattern>choice_cl13biqcx002o266fxa7zhr2g</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13bhqef000f266fts1eejzh</id>
+        <description lang="en-US">DIN 488</description>
+      </component>
+            <component>
+        <id>choice_cl13bhqef000h266fwvtbdjq4</id>
+        <description lang="en-US">DIN 1054</description>
+      </component>
+            <component>
+        <id>choice_cl13bhqef000i266f678z6cny</id>
+        <description lang="en-US">DIN 1045</description>
+      </component>
+            <component>
+        <id>choice_cl13bhqef000g266fciw6ktep</id>
+        <description lang="en-US">Instandsetzungsrichtlinie des Deutschen Ausschuss f&amp;uuml;r Stahlbeton</description>
+      </component>
+            <component>
+        <id>choice_cl13bikjr0028266fk5ndohpp</id>
+        <description lang="en-US">Energieeinsparverordnung</description>
+      </component>
+            <component>
+        <id>choice_cl13binj3002h266fgg8tjvrw</id>
+        <description lang="en-US">Meisterpr&amp;uuml;fungsverfahrensverordnung</description>
+      </component>
+            <component>
+        <id>choice_cl13biqcx002o266fxa7zhr2g</id>
+        <description lang="en-US">ZTV-Ing</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mp1BD77IW7IO5u8l20KfW854BOUhaPuY_rise/jvUwuAubau5EhHkimn5VB_bJZZm4lkKx/cl13bj060002x266feg0r17u7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Markieren Sie die Aufgaben von Beton und Stahl im Baustoff Stahlbeton!</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13bj0610031266f7vivur17</correctResponsePattern>
+            <correctResponsePattern>choice_cl13bj0610030266fcuebvhuo</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13bj0610030266fcuebvhuo</id>
+        <description lang="en-US">Beton &amp;uuml;bernimmt Druckkr&amp;auml;fte</description>
+      </component>
+            <component>
+        <id>choice_cl13bj0610031266f7vivur17</id>
+        <description lang="en-US">Stahl unterst&amp;uuml;tzt Beton und &amp;uuml;bernimmt Druckkr&amp;auml;fte</description>
+      </component>
+            <component>
+        <id>choice_cl13bj060002z266fbm3avne8</id>
+        <description lang="en-US">Sahl leitet elektrischen Strom</description>
+      </component>
+            <component>
+        <id>choice_cl13bk2xj004h266fyzbvxo29</id>
+        <description lang="en-US">Stahl &amp;uuml;bernimmt Zugkr&amp;auml;fte</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mp1BD77IW7IO5u8l20KfW854BOUhaPuY_rise/jvUwuAubau5EhHkimn5VB_bJZZm4lkKx/cl13blwbj0083266ftdui9uji" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Markieren Sie die richtigen Aussagen!</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13blwbj0086266fz70zir7f</correctResponsePattern>
+            <correctResponsePattern>choice_cl13blwbj0087266f1xg9p723</correctResponsePattern>
+            <correctResponsePattern>choice_cl13bmqpv009u266fprustbe6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13blwbj0084266fowyqy08i</id>
+        <description lang="en-US">Stahlbeton funktioniert, weil Beton und Stahl dieselbe elektrische Leitf&amp;auml;higkeit haben</description>
+      </component>
+            <component>
+        <id>choice_cl13blwbj0086266fz70zir7f</id>
+        <description lang="en-US">Beton und Stahl haben dieselbe W&amp;auml;rmeausdehnung</description>
+      </component>
+            <component>
+        <id>choice_cl13blwbj0087266f1xg9p723</id>
+        <description lang="en-US">aus den Expositionsklassen ergeben sich die Anforderungen an den Beton</description>
+      </component>
+            <component>
+        <id>choice_cl13blwbj0085266fwfd2tu98</id>
+        <description lang="en-US">ein hoher w/z-Wert ergibt hohe Druckfestigkeiten</description>
+      </component>
+            <component>
+        <id>choice_cl13bmqpv009u266fprustbe6</id>
+        <description lang="en-US">ein geringer w/z-Wert verbessert die Zugfestigkeit des Betons</description>
+      </component>
+            <component>
+        <id>choice_cl13bn0j700a3266fpjmeo909</id>
+        <description lang="en-US">ein hoher w/z-Wert ergibt hohe Abriebsfestigkeiten</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mp1BD77IW7IO5u8l20KfW854BOUhaPuY_rise/jvUwuAubau5EhHkimn5VB_bJZZm4lkKx/cl13bk4qi004p266fijwl5gkh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Markieren Sie die Aufgaben von Beton und Stahl im Baustoff Stahlbeton!</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13bk4qi004r266fkvgb1xvl</correctResponsePattern>
+            <correctResponsePattern>choice_cl13bk4qi004s266fjau8lzeu</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13bk4qi004q266fcadkbd9h</id>
+        <description lang="en-US">Beton &amp;uuml;bernimmt Drainagefunktion</description>
+      </component>
+            <component>
+        <id>choice_cl13bk4qi004s266fjau8lzeu</id>
+        <description lang="en-US">Beton &amp;uuml;bernimmt Korrosionsschutz</description>
+      </component>
+            <component>
+        <id>choice_cl13bk4qi004t266fgf7iwrqs</id>
+        <description lang="en-US">Beton &amp;uuml;bernimmt Zugkr&amp;auml;fte</description>
+      </component>
+            <component>
+        <id>choice_cl13bk4qi004r266fkvgb1xvl</id>
+        <description lang="en-US">Beton &amp;uuml;bernimmt Brandschutz</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mp1BD77IW7IO5u8l20KfW854BOUhaPuY_rise/jvUwuAubau5EhHkimn5VB_bJZZm4lkKx/cl13bnd2v00ai266fzlbhgezc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Markieren Sie die richtigen Aussagen! Nachbehandlung beeinflusst folgende Eigenschaften:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13bnd2v00aj266f6ggfa188</correctResponsePattern>
+            <correctResponsePattern>choice_cl13bnd2v00ak266fg7dez0rf</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13bnd2v00aj266f6ggfa188</id>
+        <description lang="en-US">Wasseraufnahmeverm&amp;ouml;gen wird geringer</description>
+      </component>
+            <component>
+        <id>choice_cl13bnd2v00al266f9xmzy7q1</id>
+        <description lang="en-US">Oberfl&amp;auml;chenfestigkeit wird geringer</description>
+      </component>
+            <component>
+        <id>choice_cl13bnd2v00am266ftu23w0d2</id>
+        <description lang="en-US">Schwindvorgang wird gr&amp;ouml;&amp;szlig;er</description>
+      </component>
+            <component>
+        <id>choice_cl13bnd2v00ak266fg7dez0rf</id>
+        <description lang="en-US">Karbonatisierungsgeschwindigkeit und &amp;ndash;tiefe wird geringer</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mp1BD77IW7IO5u8l20KfW854BOUhaPuY_rise/jvUwuAubau5EhHkimn5VB_bJZZm4lkKx/cl13bobbx00cb266f8gu10z1e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Markieren Sie die einfachen Pr&amp;uuml;fungen!</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13bobbx00cd266f34s9licz</correctResponsePattern>
+            <correctResponsePattern>choice_cl13bobbx00cf266f4is26ypw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13bobbx00cc266fksw98nfy</id>
+        <description lang="en-US">zerst&amp;ouml;rende Drukfestigkeitspr&amp;uuml;fung</description>
+      </component>
+            <component>
+        <id>choice_cl13bobbx00ce266f4keb5jtq</id>
+        <description lang="en-US">Feuchtemessung mit CM-Ger&amp;auml;t</description>
+      </component>
+            <component>
+        <id>choice_cl13bobbx00cf266f4is26ypw</id>
+        <description lang="en-US">Kratzen an Oberfl&amp;auml;che</description>
+      </component>
+            <component>
+        <id>choice_cl13bobbx00cd266f34s9licz</id>
+        <description lang="en-US">Abklopfen der Oberfl&amp;auml;che</description>
+      </component>
+            <component>
+        <id>choice_cl13bowsk00do266fe4p0i6f9</id>
+        <description lang="en-US">Bohrmehlpr&amp;uuml;fung f&amp;uuml;r Chloridprofil</description>
+      </component>
+            <component>
+        <id>choice_cl13bp06b00dy266f8f22kvlz</id>
+        <description lang="en-US">Haftzugpr&amp;uuml;fung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mp1BD77IW7IO5u8l20KfW854BOUhaPuY_rise/jvUwuAubau5EhHkimn5VB_bJZZm4lkKx/cl13bphln00e9266fg0nsbjtd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Markieren Sie die richtige Aussage! Aus den nachfolgenden Pr&amp;uuml;fungen ergeben sich folgende Erkenntnisse:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13bphln00ea266f03txn9n4</correctResponsePattern>
+            <correctResponsePattern>choice_cl13bphln00eb266f3or6rzmk</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13bphln00ea266f03txn9n4</id>
+        <description lang="en-US">Bespr&amp;uuml;hen mit Wasser --&amp;gt; Wasseraufnahme</description>
+      </component>
+            <component>
+        <id>choice_cl13bphln00ec266fqb6huzu2</id>
+        <description lang="en-US">Sandfl&amp;auml;chenverfahren --&amp;gt; Staubbindung des Untergrunde</description>
+      </component>
+            <component>
+        <id>choice_cl13bphlo00ed266f3dc12vb5</id>
+        <description lang="en-US">Bohrmehlprobe --&amp;gt; Absandfaktor</description>
+      </component>
+            <component>
+        <id>choice_cl13bphln00eb266f3or6rzmk</id>
+        <description lang="en-US">Bohrmehlprobe --&amp;gt; Chloridgehalt des Betons</description>
+      </component>
+            <component>
+        <id>choice_cl13bsdcd00io266fy1xvgrgw</id>
+        <description lang="en-US">Haftzugpr&amp;uuml;fung --&amp;gt; Klebef&amp;auml;higkeit Stahl in Beton</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mp1BD77IW7IO5u8l20KfW854BOUhaPuY_rise/jvUwuAubau5EhHkimn5VB_bJZZm4lkKx/cl13bspcx00jd266f4klgtjoi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Markieren Sie die Instandsetzungsprinzipien der Instandsetzungsrichtlinie!</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13bspcx00jf266fbjnuq8r1</correctResponsePattern>
+            <correctResponsePattern>choice_cl13btaxs00k3266fs17ui2oa</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13bspcx00je266f82v59z4j</id>
+        <description lang="en-US">A &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Alkalisierung</description>
+      </component>
+            <component>
+        <id>choice_cl13bspcx00jf266fbjnuq8r1</id>
+        <description lang="en-US">K &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Kathodischer Korrosionsschutz</description>
+      </component>
+            <component>
+        <id>choice_cl13bt7i500ju266f6rpyam5a</id>
+        <description lang="en-US">D &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Dickbettbeschichtung</description>
+      </component>
+            <component>
+        <id>choice_cl13btaxs00k3266fs17ui2oa</id>
+        <description lang="en-US">R &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Realkalisierung</description>
+      </component>
+            <component>
+        <id>choice_cl13btefs00kc266f9i6c6h23</id>
+        <description lang="en-US">E &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Elektrolytverfahren</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mp1BD77IW7IO5u8l20KfW854BOUhaPuY_rise/jvUwuAubau5EhHkimn5VB_bJZZm4lkKx/cl13btqh900kq266fbol37vtt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Markieren Sie die richtigen Schritte der Betoninstandsetzung!</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13btqh900kr266f4vuxnglz</correctResponsePattern>
+            <correctResponsePattern>choice_cl13btqh900ks266f5d0bmfuq</correctResponsePattern>
+            <correctResponsePattern>choice_cl13but2m00mr266fcgnphan5</correctResponsePattern>
+            <correctResponsePattern>choice_cl13buqzg00mk266fgp0by4zl</correctResponsePattern>
+            <correctResponsePattern>choice_cl13btqh900ku266fu3w5jve3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13btqh900kr266f4vuxnglz</id>
+        <description lang="en-US">Vorbereitung der Unterlage durch Stemmen und Strahlen</description>
+      </component>
+            <component>
+        <id>choice_cl13btqh900kt266f07jabruw</id>
+        <description lang="en-US">Abschleifen des Stahls</description>
+      </component>
+            <component>
+        <id>choice_cl13btqh900ku266fu3w5jve3</id>
+        <description lang="en-US">Korrosionsschutz der Bewehrung</description>
+      </component>
+            <component>
+        <id>choice_cl13btqh900ks266f5d0bmfuq</id>
+        <description lang="en-US">Haftbr&amp;uuml;cke</description>
+      </component>
+            <component>
+        <id>choice_cl13buoht00md266f86kvamcm</id>
+        <description lang="en-US">Entlastungsbohrungen</description>
+      </component>
+            <component>
+        <id>choice_cl13buqzg00mk266fgp0by4zl</id>
+        <description lang="en-US">Betonersatz</description>
+      </component>
+            <component>
+        <id>choice_cl13but2m00mr266fcgnphan5</id>
+        <description lang="en-US">Oberfl&amp;auml;chenschutzsystem</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mp1BD77IW7IO5u8l20KfW854BOUhaPuY_rise/jvUwuAubau5EhHkimn5VB_bJZZm4lkKx/cl13bv2vp00n4266frosig2z3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Markieren Sie die richtige Aussage!</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13bv2vp00n7266f99khc5ki</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13bv2vp00n5266fh5ygt9k8</id>
+        <description lang="en-US">Die Festigkeit des Instandsetzungsmaterials soll eine gr&amp;ouml;&amp;szlig;ere Festigkeit haben als das Originalmaterial</description>
+      </component>
+            <component>
+        <id>choice_cl13bv2vp00n7266f99khc5ki</id>
+        <description lang="en-US">Die Festigkeit des Instandsetzungsmaterials soll eine geringf&amp;uuml;gig geringere Festigkeit haben als das Originalmaterial</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
