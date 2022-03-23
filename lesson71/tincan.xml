@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://I_mjwZPugZTHzEVPT5-jkkgmncYYnFpS_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Wareneingangskontrolle - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://I_mjwZPugZTHzEVPT5-jkkgmncYYnFpS_rise/FlEJM3kwSqBMRRGE-R3z7kxWF4hapwDC" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://I_mjwZPugZTHzEVPT5-jkkgmncYYnFpS_rise/FlEJM3kwSqBMRRGE-R3z7kxWF4hapwDC/cl13f0v2m0009266f9idnhhzf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas m&amp;ouml;chte ein Produkt auf den europ&amp;auml;ischen Markt bringen. Welche Zulassung muss ihm das DIBt ausstellen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13f0v2m000b266fj9zq8lc9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13f0v2m000a266flh9r3htf</id>
+        <description lang="en-US">abZ (allgemein bauaufsichtliche Zulassung) &amp;Uuml;-Zeichen</description>
+      </component>
+            <component>
+        <id>choice_cl13f0v2m000b266fj9zq8lc9</id>
+        <description lang="en-US">ETA (europ&amp;auml;ische technische Bewertung) CE-Zeichen</description>
+      </component>
+            <component>
+        <id>choice_cl13f1elq000c266f92m2ua5z</id>
+        <description lang="en-US">abP (allgemeines bauaufsichtliches Pr&amp;uuml;fzeugnis)</description>
+      </component>
+            <component>
+        <id>choice_cl13f1j19000d266fzdap2ej4</id>
+        <description lang="en-US">ZiE (Zustimmung im Einzelfall)</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://I_mjwZPugZTHzEVPT5-jkkgmncYYnFpS_rise/FlEJM3kwSqBMRRGE-R3z7kxWF4hapwDC/cl13f1rg1000e266fn59jdzps" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zu welche Bauregelliste geh&amp;ouml;ren Bauprodukte, f&amp;uuml;r die es weder technische Baubestimmungen noch allgemein anerkannte Regeln der Technik gibt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13f28lb000h266fp5pj4kke</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13f1rg1000f266f6l46ojdw</id>
+        <description lang="en-US">Bauregelliste A Teil II</description>
+      </component>
+            <component>
+        <id>choice_cl13f1rg1000g266fj8vqi6cm</id>
+        <description lang="en-US">Bauregelliste B Teil I</description>
+      </component>
+            <component>
+        <id>choice_cl13f28lb000h266fp5pj4kke</id>
+        <description lang="en-US">Bauregelliste C</description>
+      </component>
+            <component>
+        <id>choice_cl13f2d4r000i266f5z89yk7b</id>
+        <description lang="en-US">Bauregelliste B Teil I</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://I_mjwZPugZTHzEVPT5-jkkgmncYYnFpS_rise/FlEJM3kwSqBMRRGE-R3z7kxWF4hapwDC/cl13f2r9x000j266f6cndws2t" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wer ver&amp;ouml;ffentlicht die Bauregellisten (BRL)?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13f373g000n266f10641kog</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13f2r9x000k266flmjibikc</id>
+        <description lang="en-US">Die jeweilige Landesbauordnung</description>
+      </component>
+            <component>
+        <id>choice_cl13f2r9x000l266fathvqsfa</id>
+        <description lang="en-US">Das Bauamt der Kommunen</description>
+      </component>
+            <component>
+        <id>choice_cl13f331x000m266fiscj7jru</id>
+        <description lang="en-US">Die Bauaufsichtliche Verwaltung der Landeshauptst&amp;auml;dte</description>
+      </component>
+            <component>
+        <id>choice_cl13f373g000n266f10641kog</id>
+        <description lang="en-US">Das deutsche Institut f&amp;uuml;r Bautechnik (DIBt)</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://I_mjwZPugZTHzEVPT5-jkkgmncYYnFpS_rise/FlEJM3kwSqBMRRGE-R3z7kxWF4hapwDC/cl13f3hra000o266fcx5jqp3o" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Maria hat neues KVH bekommen und m&amp;ouml;chte es nun einlagern. Welche M&amp;ouml;glichkeiten kann sie nutzen, damit ihr Holz keinen Qualit&amp;auml;tsverlust erleidet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13f3hra000q266fyfulj3vw</correctResponsePattern>
+            <correctResponsePattern>choice_cl13f5400001l266fhsyf6ydg</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13f3hra000p266f76xrujg0</id>
+        <description lang="en-US">Es reicht, wenn sie es im Au&amp;szlig;enbereich auf den Pflastersteinen stapelt und es mit einer Gewebeplane abdeckt.</description>
+      </component>
+            <component>
+        <id>choice_cl13f3hra000q266fyfulj3vw</id>
+        <description lang="en-US">Es sollte unter Dach liegen mit Lagerh&amp;ouml;lzern, damit ausreichend Luft zwischen den einzelnen Balken zirkulieren kann.</description>
+      </component>
+            <component>
+        <id>choice_cl13f4w4i000z266fundtrx2z</id>
+        <description lang="en-US">Marie sollte es in Folie einwickeln damit es gut vor Regen gesch&amp;uuml;tzt ist und nicht schmutzig wird.</description>
+      </component>
+            <component>
+        <id>choice_cl13f5400001l266fhsyf6ydg</id>
+        <description lang="en-US">Sie sollte es direkt zum Kunden liefern lassen und &amp;bdquo;just-in-time&amp;ldquo; einbauen, um Qualit&amp;auml;tsverlust zu minimieren.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://I_mjwZPugZTHzEVPT5-jkkgmncYYnFpS_rise/FlEJM3kwSqBMRRGE-R3z7kxWF4hapwDC/cl13f5hzc0023266fsrlf2c70" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas hat bei einer Lieferung eine Wareneingangskontrolle gemacht. Nach zwei Wochen f&amp;auml;llt ihm auf, dass die Menge der OSB Platten nicht stimmt und 3 St&amp;uuml;ck fehlen. Kann er das beim Lieferanten noch reklamieren?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13f5hzc0025266f1rd9opse</correctResponsePattern>
+            <correctResponsePattern>choice_cl13f5hzc0026266fe8yt7mld</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13f5hzc0024266fz8xe2ss1</id>
+        <description lang="en-US">Nein, weil die 2 Wochen Frist abgelaufen ist.</description>
+      </component>
+            <component>
+        <id>choice_cl13f5hzc0026266fe8yt7mld</id>
+        <description lang="en-US">Nein, da er dies direkt nach Erhalt der Ware h&amp;auml;tte feststellen m&amp;uuml;ssen.</description>
+      </component>
+            <component>
+        <id>choice_cl13f5hzc0027266f5hahfar1</id>
+        <description lang="en-US">Ja, weil er hat f&amp;uuml;r die 3 OSB Platten bezahlt und hat den Bestellschein noch.</description>
+      </component>
+            <component>
+        <id>choice_cl13f5hzc0025266f1rd9opse</id>
+        <description lang="en-US">Thomas hat keinen Anspruch mehr, jedoch versucht er es, da er den Lieferanten sehr gut kennt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://I_mjwZPugZTHzEVPT5-jkkgmncYYnFpS_rise/FlEJM3kwSqBMRRGE-R3z7kxWF4hapwDC/cl13f6ftn003h266fs3mp10yd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Niklas ist Azubi im ersten Lehrjahr. Als Holz geliefert wird, sagt ihm der Meister, dass er bitte die Wareneingangskontrolle durchf&amp;uuml;hren soll. Niklas fragt sich, ob er dazu berechtigt ist.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13f6ftn003i266fj71e4uj6</correctResponsePattern>
+            <correctResponsePattern>choice_cl13f7ctg004s266f61ayg655</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13f6ftn003i266fj71e4uj6</id>
+        <description lang="en-US">Ja, jeder kann eine Wareneingangkontrolle durchf&amp;uuml;hren.</description>
+      </component>
+            <component>
+        <id>choice_cl13f6ftn003j266fcycolj49</id>
+        <description lang="en-US">Nein, da ihm die Lehrg&amp;auml;nge aus der Ausbildung noch fehlen.</description>
+      </component>
+            <component>
+        <id>choice_cl13f77kj004i266f89vqrv2k</id>
+        <description lang="en-US">Nein, da er erst eine offizielle Unterweisung bekommen muss.</description>
+      </component>
+            <component>
+        <id>choice_cl13f7ctg004s266f61ayg655</id>
+        <description lang="en-US">Ja, aber vorher sollte ihm die Wichtigkeit und die Umsetzung von Erfahrenen aus dem Betrieb erl&amp;auml;utert werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://I_mjwZPugZTHzEVPT5-jkkgmncYYnFpS_rise/FlEJM3kwSqBMRRGE-R3z7kxWF4hapwDC/cl13f7p850055266fitqh0w4a" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussagen &amp;uuml;ber das RAL-G&amp;uuml;tesiegel sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13f7p860056266fdctzy34w</correctResponsePattern>
+            <correctResponsePattern>choice_cl13f7p860058266f6wfdj7cq</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13f7p860056266fdctzy34w</id>
+        <description lang="en-US">RAL ist eine G&amp;uuml;tegemeinschaft</description>
+      </component>
+            <component>
+        <id>choice_cl13f7p860058266f6wfdj7cq</id>
+        <description lang="en-US">RAL G&amp;uuml;te bildet seit 1972 einen einheitlichen Qualit&amp;auml;tsstandard</description>
+      </component>
+            <component>
+        <id>choice_cl13f7p860059266f5d0p651d</id>
+        <description lang="en-US">Betriebe k&amp;ouml;nnen das Siegel auch ohne qualifizierte F&amp;uuml;hrungskraft haben.</description>
+      </component>
+            <component>
+        <id>choice_cl13f7p860057266fc5ui2qyq</id>
+        <description lang="en-US">RAL G&amp;uuml;tesiegel gibt es nur f&amp;uuml;r Holzbau und Dachdecker Betriebe.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://I_mjwZPugZTHzEVPT5-jkkgmncYYnFpS_rise/FlEJM3kwSqBMRRGE-R3z7kxWF4hapwDC/cl13f8ku6006f266fvk858zbj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Marie bekommt eine Lieferung f&amp;uuml;r eine Fachwerkbaustelle. Sie hat Eiche bestellt aus nat&amp;uuml;rlicher Trocknung. Sie bittet seinen Gesellen unbedingt eine Holzfeuchtemessung durchzuf&amp;uuml;hren. Warum ist das wichtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13f8ku6006g266f3i8a3h45</correctResponsePattern>
+            <correctResponsePattern>choice_cl13f9wj8007g266fieri3qg7</correctResponsePattern>
+            <correctResponsePattern>choice_cl13fa47b0082266f6004foxd</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13f8ku6006g266f3i8a3h45</id>
+        <description lang="en-US">Weil die Eichebalken nicht technisch getrocknet wurden und bei einer Holzfeuchte von mehr als 20% nicht eingebaut werden sollten.</description>
+      </component>
+            <component>
+        <id>choice_cl13f8ku6006h266fiuha2hwg</id>
+        <description lang="en-US">Damit Marie einsch&amp;auml;tzen kann, ob sie die Balken nochmal f&amp;uuml;r ein halbes Jahr in die Trocknungskammer legen muss.</description>
+      </component>
+            <component>
+        <id>choice_cl13f9wj8007g266fieri3qg7</id>
+        <description lang="en-US">Um Reklamationsanspr&amp;uuml;che geltend zu machen, da sie trockene Eiche bestellt hat.</description>
+      </component>
+            <component>
+        <id>choice_cl13fa47b0082266f6004foxd</id>
+        <description lang="en-US">Da diese Balken durch nat&amp;uuml;rliche Trocknung sehr lange brauchen, um auf eine HF von 20% zu trocknen und dementsprechend teuer sind.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://I_mjwZPugZTHzEVPT5-jkkgmncYYnFpS_rise/FlEJM3kwSqBMRRGE-R3z7kxWF4hapwDC/cl13faokr008h266fxcsy0zkb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Holzlieferant hat beim Abladen die Ware besch&amp;auml;digt. Thomas reklamiert und fordert neue Ware an. Wer haftet f&amp;uuml;r den Aufwand?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13faoks008k266f582m60rn</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13faoks008i266fcrudsnm7</id>
+        <description lang="en-US">Der Holzh&amp;auml;ndler, da er den Lieferanten beauftragt hat.</description>
+      </component>
+            <component>
+        <id>choice_cl13faoks008k266f582m60rn</id>
+        <description lang="en-US">Der Lieferant, da er das Abladen durchgef&amp;uuml;hrt hat.</description>
+      </component>
+            <component>
+        <id>choice_cl13faoks008l266fa7pv5ofj</id>
+        <description lang="en-US">Thomas, da ihm die Ware geh&amp;ouml;rt, sobald der Lieferant auf dem Betriebsgel&amp;auml;nde abl&amp;auml;dt.</description>
+      </component>
+            <component>
+        <id>choice_cl13faoks008j266fxla8sah9</id>
+        <description lang="en-US">Keiner haftet, da es ein Unfall war.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://I_mjwZPugZTHzEVPT5-jkkgmncYYnFpS_rise/FlEJM3kwSqBMRRGE-R3z7kxWF4hapwDC/cl13fbs0g009r266fqwls9zbe" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Marie hat Ware direkt zum Kunden liefern lassen. Leider war keiner bei der Lieferung vor Ort. Wer ist f&amp;uuml;r Ware verantwortlich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fbs0g009v266f6gwddm8g</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fbs0g009s266fkc5j1s4f</id>
+        <description lang="en-US">Der Kunde, da die Ware in seinen Besitz geht, sobald sie auf der Baustelle gelagert wird.</description>
+      </component>
+            <component>
+        <id>choice_cl13fbs0g009u266fdsbyi6os</id>
+        <description lang="en-US">Marie, weil sie die Ware bestellt hat und f&amp;uuml;r Qualit&amp;auml;tssicherung verantwortlich ist.</description>
+      </component>
+            <component>
+        <id>choice_cl13fbs0g009v266f6gwddm8g</id>
+        <description lang="en-US">Der Lieferant bzw. H&amp;auml;ndler, weil keiner die Warenannahme unterzeichnet hat.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
