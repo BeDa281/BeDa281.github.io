@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://FrvyGkL-fPlwgGPVjCfzJWb1t76n8Jil_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Gebäudeenergiegesetz (GEG) - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://FrvyGkL-fPlwgGPVjCfzJWb1t76n8Jil_rise/rXArh4vqOX4nY5YqOWLV-2Z_rCD7z8zh" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://FrvyGkL-fPlwgGPVjCfzJWb1t76n8Jil_rise/rXArh4vqOX4nY5YqOWLV-2Z_rCD7z8zh/cl13ffepj000b266fc32opgzm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was ist das Ziel der deutschen Klimaschutzpolitik?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13ffepj000d266fpo6e2mre</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13ffepj000c266fpc0xlml6</id>
+        <description lang="en-US">Alle Bestandsgeb&amp;auml;ude sollen bis 2030 mit einem WDVS ausgestattet sein</description>
+      </component>
+            <component>
+        <id>choice_cl13ffepj000d266fpo6e2mre</id>
+        <description lang="en-US">Klimaneutraler Geb&amp;auml;udebestand bis zum Jahr 2050</description>
+      </component>
+            <component>
+        <id>choice_cl13ffr5u000e266f2xixlw0x</id>
+        <description lang="en-US">Neutraler Emissionen Haushalt bis 2050</description>
+      </component>
+            <component>
+        <id>choice_cl13ffugl000f266fqx5a4lhj</id>
+        <description lang="en-US">70% der Energie aus erneuerbaren Energietr&amp;auml;gern</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FrvyGkL-fPlwgGPVjCfzJWb1t76n8Jil_rise/rXArh4vqOX4nY5YqOWLV-2Z_rCD7z8zh/cl13fg2qb000g266fjtx0sttm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">GEG im Kern &amp;ndash; W&amp;auml;hlen Sie die richtige Antwort!</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fg2qc000i266fosxi01nj</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fg2qc000h266f0nittl1n</id>
+        <description lang="en-US">Gesetz zur Umsetzung von energieeinsparenden Ma&amp;szlig;nahmen und die Nutzung von w&amp;auml;rmespeichernden Geb&amp;auml;uden.</description>
+      </component>
+            <component>
+        <id>choice_cl13fg2qc000j266frddne7hz</id>
+        <description lang="en-US">Gesetz zur Einf&amp;uuml;hrung von energiesparenden D&amp;auml;mmstoffen und zur Nutzung von nachhaltiger Energie in Geb&amp;auml;uden.</description>
+      </component>
+            <component>
+        <id>choice_cl13fg2qc000k266fj556tm0h</id>
+        <description lang="en-US">Gesetz zur Einhaltung von einsparenden Energietr&amp;auml;gern und zur Nutzung von energiefreien Geb&amp;auml;uden.</description>
+      </component>
+            <component>
+        <id>choice_cl13fg2qc000i266fosxi01nj</id>
+        <description lang="en-US">Gesetz zur Einsparung von Energie und zur Nutzung erneuerbarer Energien zur W&amp;auml;rme- und K&amp;auml;lteerzeugung in Geb&amp;auml;uden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FrvyGkL-fPlwgGPVjCfzJWb1t76n8Jil_rise/rXArh4vqOX4nY5YqOWLV-2Z_rCD7z8zh/cl13fgs4t000v266fk1d45xc8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Einzelgesetze wurden im GEG zusammengef&amp;uuml;hrt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fgs4t000z266ft2fhglgc</correctResponsePattern>
+            <correctResponsePattern>choice_cl13fgs4t000y266fudttvwpy</correctResponsePattern>
+            <correctResponsePattern>choice_cl13fh8wn001s266fu8kbep33</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fgs4t000w266f5cewyq5o</id>
+        <description lang="en-US">EnEV (Erneuerbare Einsparverordnung)</description>
+      </component>
+            <component>
+        <id>choice_cl13fgs4t000y266fudttvwpy</id>
+        <description lang="en-US">EnEG (Energieeinspargesetz)</description>
+      </component>
+            <component>
+        <id>choice_cl13fgs4t000z266ft2fhglgc</id>
+        <description lang="en-US">EEW&amp;auml;rmeG (Erneuerbare Energien W&amp;auml;rmegesetz)</description>
+      </component>
+            <component>
+        <id>choice_cl13fgs4t000x266fk8i19bnc</id>
+        <description lang="en-US">EEW&amp;auml;rmeG (Einsparende Energien W&amp;auml;rmegesetz)</description>
+      </component>
+            <component>
+        <id>choice_cl13fh8wn001s266fu8kbep33</id>
+        <description lang="en-US">EnEV (Energieeinsparverordnung)</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FrvyGkL-fPlwgGPVjCfzJWb1t76n8Jil_rise/rXArh4vqOX4nY5YqOWLV-2Z_rCD7z8zh/cl13fho1x0029266f1o42u5eu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Das Geb&amp;auml;udeenergiegesetz ist ein wichtiger Schritt zur&amp;hellip;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fi28s002d266ftayfl7f7</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fho1x002a266feui8h4u9</id>
+        <description lang="en-US">Umsetzung von Energieeinsparenden Geb&amp;auml;uden</description>
+      </component>
+            <component>
+        <id>choice_cl13fho1x002b266f047zjtm5</id>
+        <description lang="en-US">Umsetzung von erneuerbaren Energien</description>
+      </component>
+            <component>
+        <id>choice_cl13fhybl002c266fu34l0crv</id>
+        <description lang="en-US">Umsetzung von energetischer Sanierung der Bestandsgeb&amp;auml;ude</description>
+      </component>
+            <component>
+        <id>choice_cl13fi28s002d266ftayfl7f7</id>
+        <description lang="en-US">Umsetzung der Eckpunkte des Klimaschutzprogrammes 2030</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FrvyGkL-fPlwgGPVjCfzJWb1t76n8Jil_rise/rXArh4vqOX4nY5YqOWLV-2Z_rCD7z8zh/cl13fi7ng002e266f16w6uojh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Das GEG gilt nicht f&amp;uuml;r&amp;hellip;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fi7nh002f266f6aztr8d7</correctResponsePattern>
+            <correctResponsePattern>choice_cl13fihif002h266ffbhshhpn</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fi7nh002f266f6aztr8d7</id>
+        <description lang="en-US">Landwirtschaftliche Geb&amp;auml;ude</description>
+      </component>
+            <component>
+        <id>choice_cl13fi7nh002g266faanoqt9n</id>
+        <description lang="en-US">Hotels</description>
+      </component>
+            <component>
+        <id>choice_cl13fihif002h266ffbhshhpn</id>
+        <description lang="en-US">Kirchen</description>
+      </component>
+            <component>
+        <id>choice_cl13fiki7002i266f5svh90z8</id>
+        <description lang="en-US">Kinderg&amp;auml;rten</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FrvyGkL-fPlwgGPVjCfzJWb1t76n8Jil_rise/rXArh4vqOX4nY5YqOWLV-2Z_rCD7z8zh/cl13fiqhm002r266fj85s76gs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wer ist f&amp;uuml;r die Einhaltung der Vorschriften verantwortlich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fiqhm002u266fnhfitohw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fiqhm002s266fckja1mpl</id>
+        <description lang="en-US">Der Architekt</description>
+      </component>
+            <component>
+        <id>choice_cl13fiqhm002u266fnhfitohw</id>
+        <description lang="en-US">Der Eigent&amp;uuml;mer bzw. Bauherr</description>
+      </component>
+            <component>
+        <id>choice_cl13fiqhm002v266ffgt89nbl</id>
+        <description lang="en-US">Der ausf&amp;uuml;hrende Handwerksbetrieb</description>
+      </component>
+            <component>
+        <id>choice_cl13fiqhm002t266f6exqfn2m</id>
+        <description lang="en-US">Der Statiker</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FrvyGkL-fPlwgGPVjCfzJWb1t76n8Jil_rise/rXArh4vqOX4nY5YqOWLV-2Z_rCD7z8zh/cl13fjfwc0036266fxgdrrzty" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas m&amp;ouml;chte sein Geb&amp;auml;ude energetisch sanieren. Nach langer Pr&amp;uuml;fung ergibt sich, dass durch eine energetische Sanierung der Brandschutz sowie die Standsicherheit des Geb&amp;auml;udes nicht gew&amp;auml;hrleistet sind. Thomas meint, dass er dann nicht verpflichtet ist nach GEG zu sanieren. Stimmt das?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fjfwc003a266fi55c6n1c</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fjfwc0037266fxp6paw68</id>
+        <description lang="en-US">Nein, es muss in jedem Fall energetisch nach GEG saniert werden.</description>
+      </component>
+            <component>
+        <id>choice_cl13fjfwc0039266feox3vutg</id>
+        <description lang="en-US">Nein, weil Thomas die U-Werte einhalten muss.</description>
+      </component>
+            <component>
+        <id>choice_cl13fjfwc003a266fi55c6n1c</id>
+        <description lang="en-US">Ja, denn Standsicherheit und Brandschutz geh&amp;ouml;ren zu den Dingen, die dem Grundsatz in &amp;sect;10 nicht entgegenstehen d&amp;uuml;rfen.</description>
+      </component>
+            <component>
+        <id>choice_cl13fjfwc0038266fciy7l8f6</id>
+        <description lang="en-US">Ja, weil die Standsicherheit wichtiger als die W&amp;auml;rmed&amp;auml;mmung ist.&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FrvyGkL-fPlwgGPVjCfzJWb1t76n8Jil_rise/rXArh4vqOX4nY5YqOWLV-2Z_rCD7z8zh/cl13fkejs0040266fyhbpa4a1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas hat sein Geb&amp;auml;ude mit W&amp;auml;rmed&amp;auml;mmung entsprechend dem U-Wert ausgestattet. Nun freut er sich seine lang bew&amp;auml;hrte Heiz&amp;ouml;lanlage von 1989 energiesparend weiter nutzen zu k&amp;ouml;nnen. Hat er damit Recht?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fkejs0041266fkj7ozz48</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fkejs0041266fkj7ozz48</id>
+        <description lang="en-US">Nein, weil er seine Heiz&amp;ouml;lanlage nach GEG nicht mehr verwenden darf.</description>
+      </component>
+            <component>
+        <id>choice_cl13fkejs0042266f4evd9duw</id>
+        <description lang="en-US">Nein, weil er Energie aus 100% erneuerbaren Energien beziehen muss.</description>
+      </component>
+            <component>
+        <id>choice_cl13fkpzr0043266fvzzlouca</id>
+        <description lang="en-US">Ja, weil da der Verbrauch nun deutlich weniger ist als vorher.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl13fksnr0044266fqmijk7cp</id>
+        <description lang="en-US">Ja, aber nur wenn die Anlage durch einen Techniker gepr&amp;uuml;ft wurde.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FrvyGkL-fPlwgGPVjCfzJWb1t76n8Jil_rise/rXArh4vqOX4nY5YqOWLV-2Z_rCD7z8zh/cl13fl0iy0045266f879ns762" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was ist das Referenzgeb&amp;auml;ude?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13flg040048266fzsqp2fzs</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fl0iy0046266f4q5svtty</id>
+        <description lang="en-US">Das Referenzgeb&amp;auml;ude ist immer das gleiche optimale Geb&amp;auml;ude nach GEG.</description>
+      </component>
+            <component>
+        <id>choice_cl13fl0iy0047266fxtn7dk4m</id>
+        <description lang="en-US">Es ist ein Geb&amp;auml;ude nach GEG, das die optimale Geometrie im Verh&amp;auml;ltnis nur Energieeinsparung repr&amp;auml;sentiert.</description>
+      </component>
+            <component>
+        <id>choice_cl13flg040048266fzsqp2fzs</id>
+        <description lang="en-US">Das Referenzgeb&amp;auml;ude ist in Geometrie, Nutzfl&amp;auml;che und Ausrichtung identisch zum nachzuweisenden Geb&amp;auml;ude.</description>
+      </component>
+            <component>
+        <id>choice_cl13flltt0049266f76cky5cq</id>
+        <description lang="en-US">Es ist das digital hinterlegte Geb&amp;auml;ude bei der Bank, um die staatlichen F&amp;ouml;rderungen zu beantragen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://FrvyGkL-fPlwgGPVjCfzJWb1t76n8Jil_rise/rXArh4vqOX4nY5YqOWLV-2Z_rCD7z8zh/cl13flrax004a266flauv2cxo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was ist der Jahres-Prim&amp;auml;renergiebedarf?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13flrax004b266fpkypk3ap</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13flrax004b266fpkypk3ap</id>
+        <description lang="en-US">Er gibt an wie viel Energie im Verlauf eines durchschnittlichen Jahres f&amp;uuml;r Heizen und Warmwasseraufbereitung verbraucht wird.</description>
+      </component>
+            <component>
+        <id>choice_cl13flrax004c266fclhupttq</id>
+        <description lang="en-US">Er zeigt an wie viel im 1. Jahr nach energetischer Sanierung der Energiebedarf war.</description>
+      </component>
+            <component>
+        <id>choice_cl13fm17s004d266f6ojt0em8</id>
+        <description lang="en-US">Er ist ein Richtwert f&amp;uuml;r alle Neubauten nach GEG.</description>
+      </component>
+            <component>
+        <id>choice_cl13fm4c2004e266fg2wiz8bd</id>
+        <description lang="en-US">Er zeigt an aus welchen Quellen prim&amp;auml;r Energie f&amp;uuml;r das Heizen und die Warmwasseraufbereitung entnommen wird.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

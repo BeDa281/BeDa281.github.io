@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://OenK2Zg9cyqn5GLiSPlKC0TbnpaZek-f_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Gebäudeenergiegesetz (GEG) - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://OenK2Zg9cyqn5GLiSPlKC0TbnpaZek-f_rise/0hFks1OkBEtF4xOEZgYPkkI0ky9sMff-" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://OenK2Zg9cyqn5GLiSPlKC0TbnpaZek-f_rise/0hFks1OkBEtF4xOEZgYPkkI0ky9sMff-/cl13fq6c1000b266f03e9nqrj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was sind Transmissionsw&amp;auml;rmeverluste?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fq6c1000c266fix23ecc8</correctResponsePattern>
+            <correctResponsePattern>choice_cl13fqt6z0016266fz5at3v3k</correctResponsePattern>
+            <correctResponsePattern>choice_cl13fqpmv000w266fyuf3bfqh</correctResponsePattern>
+            <correctResponsePattern>choice_cl13fq6c1000d266f690spzpc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fq6c1000c266fix23ecc8</id>
+        <description lang="en-US">Es sind W&amp;auml;rmeverluste, die durch Konvektion im Bauteil entstehen.</description>
+      </component>
+            <component>
+        <id>choice_cl13fq6c1000d266f690spzpc</id>
+        <description lang="en-US">Es sind W&amp;auml;rmeverluste durch Leckagen im Haus</description>
+      </component>
+            <component>
+        <id>choice_cl13fqpmv000w266fyuf3bfqh</id>
+        <description lang="en-US">Es sind W&amp;auml;rmeverluste durch undichte Stellen am Dach oder in der Wand.</description>
+      </component>
+            <component>
+        <id>choice_cl13fqt6z0016266fz5at3v3k</id>
+        <description lang="en-US">Es sind W&amp;auml;rmeverluste, die bei einem Blowerdoor-Test sichtbar werden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://OenK2Zg9cyqn5GLiSPlKC0TbnpaZek-f_rise/0hFks1OkBEtF4xOEZgYPkkI0ky9sMff-/cl13fqzgv001l266f81fi81jh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Marie hat sich ein altes Fachwerkhaus gekauft. Es steht unter Denkmalschutz. Sie m&amp;ouml;chte es kernsanieren und energetisch aufwerten. Was muss sie bez&amp;uuml;glich dem GEG beachten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fqzgv001n266fnpufeqra</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fqzgv001m266fnxgge7a6</id>
+        <description lang="en-US">Dass die Wand- und der Dachaufbau dem neusten U-Wert entsprechen.</description>
+      </component>
+            <component>
+        <id>choice_cl13fqzgv001o266ffgm3wn35</id>
+        <description lang="en-US">Da sie die Fassade erhalten muss, muss sie mit Innend&amp;auml;mmung den U-Wert erreichen.</description>
+      </component>
+            <component>
+        <id>choice_cl13fqzgv001p266fr5e1l74w</id>
+        <description lang="en-US">Da die Transmissionsw&amp;auml;rmeverluste bei Fachwerk sehr hoch sind, muss sie innenseitig mit OSB Platten eine winddichte Ebene herstellen, um die Werte zu minimieren.</description>
+      </component>
+            <component>
+        <id>choice_cl13fqzgv001n266fnpufeqra</id>
+        <description lang="en-US">Sie muss sich an die Vorgaben vom Denkmalamt halten. Das GEG muss er daher nicht beachten.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://OenK2Zg9cyqn5GLiSPlKC0TbnpaZek-f_rise/0hFks1OkBEtF4xOEZgYPkkI0ky9sMff-/cl13fsjxl002o266feh33n3k7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussage ist richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fsjxl002q266fpik7ocu2</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fsjxl002p266f3mk75ige</id>
+        <description lang="en-US">Ein Geb&amp;auml;ude ist so zu erreichten, dass die Einsparung von Energie &amp;uuml;ber die Umfassungsfl&amp;auml;chen, einschlie&amp;szlig;lich der Fugen dauerhaft W&amp;auml;rme speichert und nach den anerkannten Regeln der Technik ausgef&amp;uuml;hrt ist.</description>
+      </component>
+            <component>
+        <id>choice_cl13fsjxl002q266fpik7ocu2</id>
+        <description lang="en-US">Ein Geb&amp;auml;ude ist so zu erreichten, dass die w&amp;auml;rme&amp;uuml;bertragende Umfassungsfl&amp;auml;che einschlie&amp;szlig;lich der Fugen dauerhaft luftundurchl&amp;auml;ssig nach den anerkannten Regeln der Technik abgedichtet ist.</description>
+      </component>
+            <component>
+        <id>choice_cl13fswig002r266f67ate3ep</id>
+        <description lang="en-US">Ein Geb&amp;auml;ude ist so zu erreichten, dass die im Geb&amp;auml;ude erzeugte Energie &amp;uuml;ber die Umfassungsfl&amp;auml;che einschlie&amp;szlig;lich der Fugen dauerhaft eingehalten wird und nach den anerkannten Regeln der Technik aufbereitet wird.</description>
+      </component>
+            <component>
+        <id>choice_cl13ft4ri002s266fdolj7vi7</id>
+        <description lang="en-US">Ein Geb&amp;auml;ude ist so zu erreichten, dass die abgedichtete Umfassungsfl&amp;auml;che einschlie&amp;szlig;lich der Fugen dauerhaft nach den anerkannten Regeln der Technik energieeinsparend ist.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://OenK2Zg9cyqn5GLiSPlKC0TbnpaZek-f_rise/0hFks1OkBEtF4xOEZgYPkkI0ky9sMff-/cl13fta1a002t266fj8unm7xx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was gilt als Wohngeb&amp;auml;ude laut GEG?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fta1a002u266f83f3swj0</correctResponsePattern>
+            <correctResponsePattern>choice_cl13fta1a002v266fcfl7izo8</correctResponsePattern>
+            <correctResponsePattern>choice_cl13fts8x003d266fix0imztt</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fta1a002u266f83f3swj0</id>
+        <description lang="en-US">Gesch&amp;auml;fts und B&amp;uuml;rogeb&amp;auml;ude</description>
+      </component>
+            <component>
+        <id>choice_cl13fta1a002v266fcfl7izo8</id>
+        <description lang="en-US">Schulen und Kinderg&amp;auml;rten</description>
+      </component>
+            <component>
+        <id>choice_cl13ftphm0036266fkdcb88ar</id>
+        <description lang="en-US">Kirchen und landwirtschaftliche Geb&amp;auml;ude</description>
+      </component>
+            <component>
+        <id>choice_cl13fts8x003d266fix0imztt</id>
+        <description lang="en-US">Gastst&amp;auml;tten und Krankh&amp;auml;user</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://OenK2Zg9cyqn5GLiSPlKC0TbnpaZek-f_rise/0hFks1OkBEtF4xOEZgYPkkI0ky9sMff-/cl13fu0ft003s266f89tn40yw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Worin liegt der Unterschied von Wohn- und Nicht-Wohngeb&amp;auml;uden laut GEG?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fu0fu003v266foecptzn7</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fu0fu003t266fj1gql1af</id>
+        <description lang="en-US">Bei der Art von Nutzung</description>
+      </component>
+            <component>
+        <id>choice_cl13fu0fu003v266foecptzn7</id>
+        <description lang="en-US">Beim Innentemperaturbedarf</description>
+      </component>
+            <component>
+        <id>choice_cl13fu0fu003w266fcn3t5gbi</id>
+        <description lang="en-US">Bei der Nutzungsdauer pro Jahr</description>
+      </component>
+            <component>
+        <id>choice_cl13fu0fu003u266f4o41c311</id>
+        <description lang="en-US">Bei der Gr&amp;ouml;&amp;szlig;e der Nutzungsfl&amp;auml;che</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://OenK2Zg9cyqn5GLiSPlKC0TbnpaZek-f_rise/0hFks1OkBEtF4xOEZgYPkkI0ky9sMff-/cl13fuo1w004d266fgms4hox1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Seit wann gilt das GEG?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fuo1w004e266f4o23zrco</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fuo1w004e266f4o23zrco</id>
+        <description lang="en-US">01.11.2020</description>
+      </component>
+            <component>
+        <id>choice_cl13fuo1w004f266fu4q0ychl</id>
+        <description lang="en-US">01.11.2021</description>
+      </component>
+            <component>
+        <id>choice_cl13fuy2s004g266fckhdr1tf</id>
+        <description lang="en-US">01.10.2020</description>
+      </component>
+            <component>
+        <id>choice_cl13fv0v3004h266f8035hwjd</id>
+        <description lang="en-US">01.10.2021</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://OenK2Zg9cyqn5GLiSPlKC0TbnpaZek-f_rise/0hFks1OkBEtF4xOEZgYPkkI0ky9sMff-/cl13fv91i004i266f1gtlum66" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas plant einen Neubau und verwendet 2 zul&amp;auml;ssige Berechnungsmethoden, um dem GEG gerecht zu werden. Welche folgenden sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fv91i004k266ffxyh9p4q</correctResponsePattern>
+            <correctResponsePattern>choice_cl13fv91i004m266fmzxp9or8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fv91i004j266fkhvkykmz</id>
+        <description lang="en-US">Er zeigt durch den Bloower Door Test auf, dass sein Geb&amp;auml;ude die gew&amp;uuml;nschte Dichtheit aufweist.</description>
+      </component>
+            <component>
+        <id>choice_cl13fv91i004l266fdb3nfcdx</id>
+        <description lang="en-US">Er berechnet seine Wohnfl&amp;auml;che mit der Nutzungsdauer von Prim&amp;auml;renergie.</description>
+      </component>
+            <component>
+        <id>choice_cl13fv91i004m266fmzxp9or8</id>
+        <description lang="en-US">Er berechnet den Prim&amp;auml;renergiebedarf, den sein Neubau verbrauchen darf.</description>
+      </component>
+            <component>
+        <id>choice_cl13fv91i004k266ffxyh9p4q</id>
+        <description lang="en-US">Er berechnet die zul&amp;auml;ssigen CO&amp;sup2; Treibhausgase, die sein Neubau verursachen darf.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://OenK2Zg9cyqn5GLiSPlKC0TbnpaZek-f_rise/0hFks1OkBEtF4xOEZgYPkkI0ky9sMff-/cl13fw4co005v266fiv33xv22" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas hat sein Neubau fertiggestellt. Nach einem Jahr bekommt er Post von der Beh&amp;ouml;rde, er soll gem&amp;auml;&amp;szlig; den Auflagen seinen Berechnungen Bericht erstatten. Ist das zul&amp;auml;ssig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fw4cp005z266f6s3m23sw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fw4cp005w266fzaj9rnkz</id>
+        <description lang="en-US">Nein, denn Thomas hat alle Anforderungen vor Baubeginn erf&amp;uuml;llt.</description>
+      </component>
+            <component>
+        <id>choice_cl13fw4cp005y266fashun73p</id>
+        <description lang="en-US">Nein, denn nach Genehmigung der &amp;ouml;rtlichen Beh&amp;ouml;rde f&amp;uuml;r die Errichtung des Geb&amp;auml;udes, gibt es keinen Anspruch f&amp;uuml;r weitere Auflagen</description>
+      </component>
+            <component>
+        <id>choice_cl13fw4cp005z266f6s3m23sw</id>
+        <description lang="en-US">Ja, denn Thomas muss &amp;uuml;ber seine Investitionskosten und Energieverbr&amp;auml;uche Bericht erstatten.</description>
+      </component>
+            <component>
+        <id>choice_cl13fw4cp005x266fwjdyu8ms</id>
+        <description lang="en-US">Ja, denn wenn seine Berechnungen nicht den Auflagen entsprechen, muss er seinen Neubau energetisch sanieren.&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://OenK2Zg9cyqn5GLiSPlKC0TbnpaZek-f_rise/0hFks1OkBEtF4xOEZgYPkkI0ky9sMff-/cl13fx5j0006v266fwg4z3qr0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was ist Prim&amp;auml;renergie?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fxijn007c266f3otu0lab</correctResponsePattern>
+            <correctResponsePattern>choice_cl13fxlb7007j266fqs1yotap</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fx5j0006w266fwmq9enmz</id>
+        <description lang="en-US">Prim&amp;auml;renergie ist die Energie, die ich haupts&amp;auml;chlich f&amp;uuml;r die Beheizung meines Geb&amp;auml;udes verwende. Prozentual gemessen.</description>
+      </component>
+            <component>
+        <id>choice_cl13fx5j0006x266fusfvgb9a</id>
+        <description lang="en-US">Prim&amp;auml;renergie ist die bevorzugte Energiequelle gem&amp;auml;&amp;szlig; GEG.</description>
+      </component>
+            <component>
+        <id>choice_cl13fxijn007c266f3otu0lab</id>
+        <description lang="en-US">Prim&amp;auml;renergie schlie&amp;szlig;t alle Prozesse der Energiebereitstellung ein.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl13fxlb7007j266fqs1yotap</id>
+        <description lang="en-US">Prim&amp;auml;renergie beinhaltet die Prozesse: Rohstoffabbau, Transport und Verwendung im Geb&amp;auml;ude.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://OenK2Zg9cyqn5GLiSPlKC0TbnpaZek-f_rise/0hFks1OkBEtF4xOEZgYPkkI0ky9sMff-/cl13fxtbt007w266f9m2ojdb6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was versteht man unter Endenergie?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl13fxtbt007x266f393shd68</correctResponsePattern>
+            <correctResponsePattern>choice_cl13fxtbt007y266feptp2arh</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl13fxtbt007x266f393shd68</id>
+        <description lang="en-US">Die Endenergie wird dem Geb&amp;auml;ude von au&amp;szlig;en zugef&amp;uuml;hrt.</description>
+      </component>
+            <component>
+        <id>choice_cl13fxtbt007y266feptp2arh</id>
+        <description lang="en-US">Die Energiemenge, die schlie&amp;szlig;lich am Hausanschluss ankommt. Strom, Gas oder Fernw&amp;auml;rme.</description>
+      </component>
+            <component>
+        <id>choice_cl13fy3qa007z266f6a6rtqg6</id>
+        <description lang="en-US">Die Endenergie ist die Energiemenge, um Energie zu transportieren</description>
+      </component>
+            <component>
+        <id>choice_cl13fy7k50080266fu8xptchc</id>
+        <description lang="en-US">Die Energie in Form von W&amp;auml;rme nachdem Verbrauch durch technische Anlagen.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
