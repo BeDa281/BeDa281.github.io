@@ -97,7 +97,7 @@
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
-            <correctResponsePattern>choice_ckz5v3g95003k266j2p14sj9a</correctResponsePattern>
+            <correctResponsePattern>choice_ckz5v4ap0003n266jp09fuflo</correctResponsePattern>
             </correctResponsePatterns>
             <choices>
             <component>
@@ -264,7 +264,7 @@
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
-            <correctResponsePattern>choice_ckz5vdjnu008n266jjakhamnk</correctResponsePattern>
+            <correctResponsePattern>choice_ckz5ve2xe008p266jb5wadk1p</correctResponsePattern>
             </correctResponsePatterns>
             <choices>
             <component>
