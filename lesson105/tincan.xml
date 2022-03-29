@@ -171,7 +171,7 @@
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
-            <correctResponsePattern>choice_ckxbofl66006n266j6u8ypn62</correctResponsePattern>
+            <correctResponsePattern>choice_ckxbofhhr006m266j9kn6paxe</correctResponsePattern>
             </correctResponsePatterns>
             <choices>
             <component>
@@ -202,7 +202,7 @@
       <description lang="en-US"></description>
       <interactionType>choice</interactionType>
       <correctResponsePatterns>
-            <correctResponsePattern>choice_ckxbogrkh006s266jwjachsjh</correctResponsePattern>
+            <correctResponsePattern>choice_ckxbohavc006u266j9ebpohb5</correctResponsePattern>
             </correctResponsePatterns>
             <choices>
             <component>
