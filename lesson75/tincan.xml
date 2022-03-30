@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://4Al9arincQqMcONCZUTIY-ZQgLcsIQsS_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Chemischer Holzschutz - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://4Al9arincQqMcONCZUTIY-ZQgLcsIQsS_rise/Yb6Z3DDBZKqC-d_kj06OpW-tdugl-VN4" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://4Al9arincQqMcONCZUTIY-ZQgLcsIQsS_rise/Yb6Z3DDBZKqC-d_kj06OpW-tdugl-VN4/cl1c4ct6i0003266gm31pon4b" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welchem Holzsch&amp;auml;dling ist dieses Schadensbild zuzuordnen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4ct6i0004266gypjgvay9</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4ct6j0007266grgh4q2fy</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4ct6i0006266grmupgueo</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4ct6i0004266gypjgvay9</id>
+        <description lang="en-US">Hausbock</description>
+      </component>
+            <component>
+        <id>choice_cl1c4ct6i0006266grmupgueo</id>
+        <description lang="en-US">Brauner Kellerschwamm</description>
+      </component>
+            <component>
+        <id>choice_cl1c4ct6j0007266grgh4q2fy</id>
+        <description lang="en-US">Wei&amp;szlig;er Porenschwamm</description>
+      </component>
+            <component>
+        <id>choice_cl1c4ct6i0005266gmz31rolz</id>
+        <description lang="en-US">Echter Hausschwamm</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://4Al9arincQqMcONCZUTIY-ZQgLcsIQsS_rise/Yb6Z3DDBZKqC-d_kj06OpW-tdugl-VN4/cl1c4e71v0025266gyg5mm3c4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Muss Schimmelpilzbefall vorhanden sein, damit sich tierische Holzsch&amp;auml;dlinge ansiedeln?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4e71w0028266g6g6xajdo</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4e71w0029266giwvnq90h</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4e71w0026266g42otf6y8</id>
+        <description lang="en-US">Ja, denn sonst gibt es keine Nahrungsgrundlagen f&amp;uuml;r die tierischen Holzsch&amp;auml;dlinge</description>
+      </component>
+            <component>
+        <id>choice_cl1c4e71w0028266g6g6xajdo</id>
+        <description lang="en-US">Es kommt darauf an um welchen tierischen Holzsch&amp;auml;dling es sich handelt.</description>
+      </component>
+            <component>
+        <id>choice_cl1c4e71w0029266giwvnq90h</id>
+        <description lang="en-US">Nein, denn die gew&amp;ouml;hnlichen Holzsch&amp;auml;dlinge ern&amp;auml;hren sich vom vorhandenen Substrat im Holz selbst.</description>
+      </component>
+            <component>
+        <id>choice_cl1c4e71w0027266g81zf5yp3</id>
+        <description lang="en-US">Ja, denn die Holzfeuchte liegt dann erst im dem f&amp;uuml;r Holzsch&amp;auml;dlinge interessanten Bereich.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://4Al9arincQqMcONCZUTIY-ZQgLcsIQsS_rise/Yb6Z3DDBZKqC-d_kj06OpW-tdugl-VN4/cl1c4f8y9003q266g17g1afsy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wodurch kann Holz gesch&amp;auml;digt bzw. abgebaut werden? W&amp;auml;hlen Sie die richtigen Antworten aus!</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4f8y9003s266gg08ko7sy</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4f8y9003r266gtlx823oa</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4f8y9003t266ghq91f52n</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4g1lo004j266g18i3atr6</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4g59i004k266gm1apf0ol</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4f8y9003r266gtlx823oa</id>
+        <description lang="en-US">Pilze</description>
+      </component>
+            <component>
+        <id>choice_cl1c4f8y9003t266ghq91f52n</id>
+        <description lang="en-US">Insekten</description>
+      </component>
+            <component>
+        <id>choice_cl1c4f8y9003u266g8ev9pzho</id>
+        <description lang="en-US">Regen</description>
+      </component>
+            <component>
+        <id>choice_cl1c4f8y9003s266gg08ko7sy</id>
+        <description lang="en-US">Feuer</description>
+      </component>
+            <component>
+        <id>choice_cl1c4g1lo004j266g18i3atr6</id>
+        <description lang="en-US">Chemische Einfl&amp;uuml;sse</description>
+      </component>
+            <component>
+        <id>choice_cl1c4g59i004k266gm1apf0ol</id>
+        <description lang="en-US">Bakterien</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://4Al9arincQqMcONCZUTIY-ZQgLcsIQsS_rise/Yb6Z3DDBZKqC-d_kj06OpW-tdugl-VN4/cl1c4gpek0052266gzmxalrq9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Es gibt 3 wesentliche Grundlagen, die f&amp;uuml;r Insekten und Pilze vorhanden sein m&amp;uuml;ssen, um das Holz zu befallen. W&amp;auml;hlen Sie die richtigen 3 aus!</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4gpel0053266g3lwreboh</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4gpel0053266g3lwreboh</id>
+        <description lang="en-US">Substrat, Substanzfeuchte, Substanztemperatur</description>
+      </component>
+            <component>
+        <id>choice_cl1c4gpel0054266gice6ufx4</id>
+        <description lang="en-US">Substrat, Substratart, Substanzfeuchte</description>
+      </component>
+            <component>
+        <id>choice_cl1c4h8fs0055266gfwk6fu2w</id>
+        <description lang="en-US">Cellulose, Substanzart, Substanztemperatur</description>
+      </component>
+            <component>
+        <id>choice_cl1c4hb190056266glu2rvmb6</id>
+        <description lang="en-US">Substrat, Holzfeuchte, Splintanteile</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://4Al9arincQqMcONCZUTIY-ZQgLcsIQsS_rise/Yb6Z3DDBZKqC-d_kj06OpW-tdugl-VN4/cl1c4hj1y0057266gbtky11vb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In welcher aus den folgenden Antworten sind nur die Frischholzinsekten genannt!</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4igs1005b266gkzl5b0t4</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4hj1y0058266g7xj24glz</id>
+        <description lang="en-US">Borkenk&amp;auml;fer, Fichtenbock, Rothalsbock</description>
+      </component>
+            <component>
+        <id>choice_cl1c4hj1y0059266gsljaza0g</id>
+        <description lang="en-US">Borkenk&amp;auml;fer, Splintholzk&amp;auml;fer, Hausbock</description>
+      </component>
+            <component>
+        <id>choice_cl1c4ic76005a266glgsc7oe5</id>
+        <description lang="en-US">Mulmbock, Holzwespen, Nagek&amp;auml;fer</description>
+      </component>
+            <component>
+        <id>choice_cl1c4igs1005b266gkzl5b0t4</id>
+        <description lang="en-US">Fichtenbock, Holzwespen, Borkenk&amp;auml;fer</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://4Al9arincQqMcONCZUTIY-ZQgLcsIQsS_rise/Yb6Z3DDBZKqC-d_kj06OpW-tdugl-VN4/cl1c4ipzh005c266gixziyn5e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussagen sind &lt;strong&gt;&lt;u&gt;falsch&lt;/u&gt;&lt;/strong&gt;?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4ipzh005e266gmtgq6uan</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4ipzh005g266gpy0cdxc9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4ipzh005d266g8v3peyfp</id>
+        <description lang="en-US">Der Hausbock bef&amp;auml;llt &amp;uuml;berwiegend Kernholz</description>
+      </component>
+            <component>
+        <id>choice_cl1c4ipzh005f266ggswl145i</id>
+        <description lang="en-US">Der Nagek&amp;auml;fer hat eher ovale Ausflugl&amp;ouml;cher</description>
+      </component>
+            <component>
+        <id>choice_cl1c4ipzh005g266gpy0cdxc9</id>
+        <description lang="en-US">Die Holzwespen z&amp;auml;hlen zu den Frischholzinsekten</description>
+      </component>
+            <component>
+        <id>choice_cl1c4ipzh005e266gmtgq6uan</id>
+        <description lang="en-US">Der Hausbock ist eines der wichtigsten holzzerst&amp;ouml;renden Insekten und ist in einigen Bundesl&amp;auml;nder nach LBO noch anzeigepflichtig</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://4Al9arincQqMcONCZUTIY-ZQgLcsIQsS_rise/Yb6Z3DDBZKqC-d_kj06OpW-tdugl-VN4/cl1c4jtnv006n266gkdtg8r65" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussage &amp;uuml;ber den bunten Nagek&amp;auml;fer ist richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4jtnv006o266gb6vnnake</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4jtnv006p266g3y1sql80</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4jtnv006q266geau6i59t</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4jtnv006r266g6bkz8bdd</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4jtnv006o266gb6vnnake</id>
+        <description lang="en-US">Der bunte Nagek&amp;auml;fer bef&amp;auml;llt Laubholz, Nadelholz und ben&amp;ouml;tigt eine Holzfeuchte von &amp;uuml;ber 14%.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl1c4jtnv006q266geau6i59t</id>
+        <description lang="en-US">Der bunte Nagek&amp;auml;fer bef&amp;auml;llt pilzbefallenes oder pilzvorgesch&amp;auml;digtes Holz.</description>
+      </component>
+            <component>
+        <id>choice_cl1c4jtnv006r266g6bkz8bdd</id>
+        <description lang="en-US">Das Schadbild des bunten Nagek&amp;auml;fers deutet auf Pilzbefall hin.</description>
+      </component>
+            <component>
+        <id>choice_cl1c4jtnv006p266g3y1sql80</id>
+        <description lang="en-US">Er hinterl&amp;auml;sst runde Ausflugl&amp;ouml;cher ca. 3-4mm gro&amp;szlig;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://4Al9arincQqMcONCZUTIY-ZQgLcsIQsS_rise/Yb6Z3DDBZKqC-d_kj06OpW-tdugl-VN4/cl1c4ktqp0082266gd6pwtblq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Es gibt holzverf&amp;auml;rbende Pilze und holzzerst&amp;ouml;rende Pilze. W&amp;auml;hlen Sie in den folgenden Antworten die holzzerst&amp;ouml;renden Pilze!</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4ktqq0086266g5sfwzh40</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4ktqq0083266gzf40spb7</id>
+        <description lang="en-US">Schimmelpilze, Moderf&amp;auml;ulepilze</description>
+      </component>
+            <component>
+        <id>choice_cl1c4ktqq0085266g172lc1he</id>
+        <description lang="en-US">Braunf&amp;auml;ulepilze, Wei&amp;szlig;f&amp;auml;ulepilze</description>
+      </component>
+            <component>
+        <id>choice_cl1c4ktqq0086266g5sfwzh40</id>
+        <description lang="en-US">Schimmelpilze, Bl&amp;auml;uepilze</description>
+      </component>
+            <component>
+        <id>choice_cl1c4ktqq0084266gmdkeu32q</id>
+        <description lang="en-US">Bl&amp;auml;uepilze, Braunf&amp;auml;ulepilze</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://4Al9arincQqMcONCZUTIY-ZQgLcsIQsS_rise/Yb6Z3DDBZKqC-d_kj06OpW-tdugl-VN4/cl1c4lvlr008d266g4y8v9d1j" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Warum ist der echte Hausschwamm so gef&amp;auml;hrlich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4lvlr008f266gbakgo55b</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4meuc009d266g4m4ewh1b</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4mhqu009k266gu3pb87n6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4lvlr008e266gqgxe5kjx</id>
+        <description lang="en-US">Weil sein Fruchtk&amp;ouml;rper giftig ist</description>
+      </component>
+            <component>
+        <id>choice_cl1c4lvlr008f266gbakgo55b</id>
+        <description lang="en-US">Weil seine Myzelien anorganische Stoffe &amp;uuml;berwachsen k&amp;ouml;nnen&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl1c4meuc009d266g4m4ewh1b</id>
+        <description lang="en-US">Weil er Holz aktiv selbst befeuchten kann</description>
+      </component>
+            <component>
+        <id>choice_cl1c4mhqu009k266gu3pb87n6</id>
+        <description lang="en-US">Weil er sich in kurzer Zeit bei optimalen Bedingungen sehr stark ausbreitet</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://4Al9arincQqMcONCZUTIY-ZQgLcsIQsS_rise/Yb6Z3DDBZKqC-d_kj06OpW-tdugl-VN4/cl1c4msz500a1266gpgca9268" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Warum ist der Schutz des Holzes so wichtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4msz500a2266gceke5nza</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4nv8x00ar266gfe04jale</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4ns9100ai266gfbiqyllg</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4msz500a3266gjv00mpgd</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4msz500a2266gceke5nza</id>
+        <description lang="en-US">Um eine verl&amp;auml;ngerte Lebensdauer zu gew&amp;auml;hrleisten</description>
+      </component>
+            <component>
+        <id>choice_cl1c4msz500a3266gjv00mpgd</id>
+        <description lang="en-US">Gew&amp;auml;hrleistungen von Standsicherheit und Gebrauchstauglichkeit</description>
+      </component>
+            <component>
+        <id>choice_cl1c4ns9100ai266gfbiqyllg</id>
+        <description lang="en-US">Bindung von Kohlendioxid CO&amp;sup2;</description>
+      </component>
+            <component>
+        <id>choice_cl1c4nv8x00ar266gfe04jale</id>
+        <description lang="en-US">Schutz der optischen Eigenschaft</description>
+      </component>
+            <component>
+        <id>choice_cl1c4nyr400b0266gcctpm0zc</id>
+        <description lang="en-US">Damit die Holzfeuchte gem&amp;auml;&amp;szlig; DIN 68800 immer &amp;uuml;ber 20% bleibt</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

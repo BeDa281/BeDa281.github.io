@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://Bo1plr25GpErQnD4DonWSDsUgVHE4ciY_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Chemischer Holzschutz - Quiz 3</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://Bo1plr25GpErQnD4DonWSDsUgVHE4ciY_rise/qamWemcZd01cIn-0vCEk5kh2qEe7mRx3" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://Bo1plr25GpErQnD4DonWSDsUgVHE4ciY_rise/qamWemcZd01cIn-0vCEk5kh2qEe7mRx3/cl1c52hfx000c266gfipyh93b" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Schutzarten f&amp;uuml;r chemischen Holzschutz gibt es? Welche der folgenden Antworten sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c52hfx000d266gaf6if156</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c530pg000v266g1554c8k7</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c52hfx000e266gbjauqxzt</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c52hfx000d266gaf6if156</id>
+        <description lang="en-US">Oberfl&amp;auml;chenschutz</description>
+      </component>
+            <component>
+        <id>choice_cl1c52hfx000e266gbjauqxzt</id>
+        <description lang="en-US">Randschutz</description>
+      </component>
+            <component>
+        <id>choice_cl1c530pg000v266g1554c8k7</id>
+        <description lang="en-US">Tiefenschutz</description>
+      </component>
+            <component>
+        <id>choice_cl1c533l40012266gikk34njb</id>
+        <description lang="en-US">Hirnholzfl&amp;auml;chenschutz</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Bo1plr25GpErQnD4DonWSDsUgVHE4ciY_rise/qamWemcZd01cIn-0vCEk5kh2qEe7mRx3/cl1c53a3e001d266g00j7l6yt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welchen Schutz bieten Lacke und Farben?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c53wkz001u266gq0bmenb2</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c53a3e001f266gv2vu9l47</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c53a3e001e266ge4bbu2ae</id>
+        <description lang="en-US">Sie sch&amp;uuml;tzen das Holz vor Tauwasser</description>
+      </component>
+            <component>
+        <id>choice_cl1c53a3e001f266gv2vu9l47</id>
+        <description lang="en-US">Sie haben vorrangig eine Dekorfunktion und bieten nur gewissen Schutz vor fl&amp;uuml;ssigem und dampff&amp;ouml;rmigem Wasser</description>
+      </component>
+            <component>
+        <id>choice_cl1c53wkz001u266gq0bmenb2</id>
+        <description lang="en-US">Sie bieten keinen Schutz im Sinne des chemischen Holzschutzes nach DIN 68800-3</description>
+      </component>
+            <component>
+        <id>choice_cl1c53zzc0023266gqyzni8ch</id>
+        <description lang="en-US">Sie bieten ausreichenden Schutz vor Pilzen und Insekten.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Bo1plr25GpErQnD4DonWSDsUgVHE4ciY_rise/qamWemcZd01cIn-0vCEk5kh2qEe7mRx3/cl1c54dp1002g266g2awg0yd7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Auszeichnung ben&amp;ouml;tigen Holzschutzmittel im bauaufsichtlichen Bereich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c54xq9002k266g2h0w6edi</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c54dp1002h266gt5y4j33h</id>
+        <description lang="en-US">Eine allgemeine bauaufsichtliche Zulassung durch das Deutsche Ingenieursb&amp;uuml;ro f&amp;uuml;r technische und chemische Holzschutzmittel.</description>
+      </component>
+            <component>
+        <id>choice_cl1c54dp1002i266guzdsv7k2</id>
+        <description lang="en-US">Ein Pr&amp;uuml;fzeichen der RAL G&amp;uuml;tegemeinschaft f&amp;uuml;r konstruktiven Holzschutz.</description>
+      </component>
+            <component>
+        <id>choice_cl1c54uh0002j266giu33fnqy</id>
+        <description lang="en-US">Ein Pr&amp;uuml;fzeugnis durch das Deutsche Institut f&amp;uuml;r Sch&amp;auml;dlingsbefall f&amp;uuml;r tragende Bauteile.</description>
+      </component>
+            <component>
+        <id>choice_cl1c54xq9002k266g2h0w6edi</id>
+        <description lang="en-US">Eine allgemeine bauaufsichtliche Zulassung durch das deutsche Institut f&amp;uuml;r Bautechnik (DIBt).</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Bo1plr25GpErQnD4DonWSDsUgVHE4ciY_rise/qamWemcZd01cIn-0vCEk5kh2qEe7mRx3/cl1c55jm2002l266g8dhppx5g" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Ma&amp;szlig;nahmen sind richtig bei der Bek&amp;auml;mpfung des echten Hausschwamms?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c55jm2002m266gmixt4nyz</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c55jm2002p266gff14bxgb</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c55jm2002o266g9seb06ej</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c55jm2002m266gmixt4nyz</id>
+        <description lang="en-US">Bei Mauerwerksbefall, Fugen auskratzen und Mauerwerk abflammen.</description>
+      </component>
+            <component>
+        <id>choice_cl1c55jm2002o266g9seb06ej</id>
+        <description lang="en-US">Zum letzten erkennbaren Befall 1m Sicherheitsabstand zur&amp;uuml;ckschneiden in der L&amp;auml;ngsachse bei Holzbauteilen.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl1c55jm2002p266gff14bxgb</id>
+        <description lang="en-US">Bei fortgeschrittenem Befall muss die gesamte Holzkonstruktion ausgetauscht werden.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl1c55jm2002n266g6dtwvdqd</id>
+        <description lang="en-US">Alle Fruchtk&amp;ouml;rper entsorgen, um das Wachstum zu stoppen.&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Bo1plr25GpErQnD4DonWSDsUgVHE4ciY_rise/qamWemcZd01cIn-0vCEk5kh2qEe7mRx3/cl1c56h5c003u266gyf2kuwc5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Ist chemischer Holzschutz gesundheitsgef&amp;auml;hrdend?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c56h5c003w266gw90ebunv</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c56h5c003v266gl2jqaec2</id>
+        <description lang="en-US">Nein, seit dem 01.11.2020 sind nur noch Holzschutzmittel zugelassen, die unbedenklich sind.</description>
+      </component>
+            <component>
+        <id>choice_cl1c56h5c003w266gw90ebunv</id>
+        <description lang="en-US">Ja, denn nach dem heutigen Kenntnisstand enthalten Holzschutzmittel immer noch einen gro&amp;szlig;en Anteil an Bioziden.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl1c56zak003x266gxloc36j1</id>
+        <description lang="en-US">Ja, aber nur die Holzschutzmittel in der Verwendung der KDI (Kesseldruckimpr&amp;auml;gnierung).</description>
+      </component>
+            <component>
+        <id>choice_cl1c574c4003y266g0ypcmexh</id>
+        <description lang="en-US">Nein, da der chemische Holzschutz ausschlie&amp;szlig;lich f&amp;uuml;r Holzsch&amp;auml;dlinge gef&amp;auml;hrlich ist.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Bo1plr25GpErQnD4DonWSDsUgVHE4ciY_rise/qamWemcZd01cIn-0vCEk5kh2qEe7mRx3/cl1c57h8k0044266gu9kbh55a" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Marie findet bei ihrem Holz einen Bl&amp;auml;uepilzbefall. Sie ist sich unsicher diesen Balken als tragendes Bauteil zu verbauen. Sind ihre Bedenken berechtigt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c57h8k0046266gfz2h3z8z</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c57h8k0045266g9a857i7b</id>
+        <description lang="en-US">Ja, denn der Bl&amp;auml;uepilz hat erhebliche Einwirkung auf die Tragf&amp;auml;higkeit.</description>
+      </component>
+            <component>
+        <id>choice_cl1c57h8k0046266gfz2h3z8z</id>
+        <description lang="en-US">Nein, denn der Bl&amp;auml;uepilz ist lediglich eine Farbver&amp;auml;nderung des Holzes.</description>
+      </component>
+            <component>
+        <id>choice_cl1c58bfz0047266ggvvz19ty</id>
+        <description lang="en-US">Ja, denn der Bl&amp;auml;uepilz lockt Insekten an, die das Holz befallen k&amp;ouml;nnen.</description>
+      </component>
+            <component>
+        <id>choice_cl1c58f2v0048266g6vt9vo7b</id>
+        <description lang="en-US">Nein, denn der Bl&amp;auml;uepilz bef&amp;auml;llt nur das Splintholz und beeintr&amp;auml;chtig nicht die Tragf&amp;auml;higkeit des Kernholzes.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Bo1plr25GpErQnD4DonWSDsUgVHE4ciY_rise/qamWemcZd01cIn-0vCEk5kh2qEe7mRx3/cl1c58m2d0049266ghgmdsjy5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welcher der folgenden Holzsch&amp;auml;dlinge sind sehr gef&amp;auml;hrlich, jedoch in Deutschland eher weniger von Bedeutung?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c597wb004r266gh4duy9ir</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c58m2e004a266gsn1h3sc8</id>
+        <description lang="en-US">Bambusbohrer</description>
+      </component>
+            <component>
+        <id>choice_cl1c58m2e004b266g4i3ismkh</id>
+        <description lang="en-US">Bohrk&amp;auml;fer</description>
+      </component>
+            <component>
+        <id>choice_cl1c597wb004r266gh4duy9ir</id>
+        <description lang="en-US">Termiten</description>
+      </component>
+            <component>
+        <id>choice_cl1c59aye004s266g0iu58lts</id>
+        <description lang="en-US">Schwarze Rossameise</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Bo1plr25GpErQnD4DonWSDsUgVHE4ciY_rise/qamWemcZd01cIn-0vCEk5kh2qEe7mRx3/cl1c59iy9004t266grw14fy1z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Gebrauchsklassen decken den Bereich ab in denen Holzteile nicht durch Niederschl&amp;auml;ge, Spritzwasser oder dergleichen beansprucht werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c59iya004v266ghcplaq3h</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c59iya004u266grxxlg1qy</id>
+        <description lang="en-US">GK 1 und GK 2</description>
+      </component>
+            <component>
+        <id>choice_cl1c59iya004w266glwzvs8ut</id>
+        <description lang="en-US">GK 3-4</description>
+      </component>
+            <component>
+        <id>choice_cl1c59iya004x266g6n69aysr</id>
+        <description lang="en-US">GK 0</description>
+      </component>
+            <component>
+        <id>choice_cl1c59iya004v266ghcplaq3h</id>
+        <description lang="en-US">GK 0-2</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Bo1plr25GpErQnD4DonWSDsUgVHE4ciY_rise/qamWemcZd01cIn-0vCEk5kh2qEe7mRx3/cl1c5aoc00054266gok1ahroo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Schutz vor Umwelteinfl&amp;uuml;ssen. Welche der Folgenden Aussagen z&amp;auml;hlen zu den physikalischen Einfl&amp;uuml;ssen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c5aoc00055266gip0dgj5u</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c5bh5j0063266gimhglsj2</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c5bkdi006c266gskkjnw3t</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c5aoc00055266gip0dgj5u</id>
+        <description lang="en-US">Temperatur</description>
+      </component>
+            <component>
+        <id>choice_cl1c5aoc00056266gzfszgoj4</id>
+        <description lang="en-US">Salze</description>
+      </component>
+            <component>
+        <id>choice_cl1c5bbjg005n266ghp6k9ier</id>
+        <description lang="en-US">Fl&amp;uuml;ssigkeiten und S&amp;auml;uren</description>
+      </component>
+            <component>
+        <id>choice_cl1c5bel3005w266geedg1m3d</id>
+        <description lang="en-US">Umweltbelastungen</description>
+      </component>
+            <component>
+        <id>choice_cl1c5bh5j0063266gimhglsj2</id>
+        <description lang="en-US">Feuchte</description>
+      </component>
+            <component>
+        <id>choice_cl1c5bkdi006c266gskkjnw3t</id>
+        <description lang="en-US">UV-Strahlung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://Bo1plr25GpErQnD4DonWSDsUgVHE4ciY_rise/qamWemcZd01cIn-0vCEk5kh2qEe7mRx3/cl1c5bv6l006n266gb390nkbw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas ist verwirrt. Er m&amp;ouml;chte an seine Sparren auf der Innenseite des Daches eine Folie montieren, um die Konstruktion vor eindringender Feuchtigkeit zu sch&amp;uuml;tzen. Welche der Aussagen ist richtig und sollte in der Folienbeschreibung sinngem&amp;auml;&amp;szlig; stehen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c5bv6l006o266g53q76gau</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c5bv6l006r266g13zzvx4h</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c5bv6l006o266g53q76gau</id>
+        <description lang="en-US">Im Winter innenseitig diffusionsdicht</description>
+      </component>
+            <component>
+        <id>choice_cl1c5bv6l006q266g9mhurujq</id>
+        <description lang="en-US">Im Sommer innenseitig diffusionsdicht</description>
+      </component>
+            <component>
+        <id>choice_cl1c5bv6l006r266g13zzvx4h</id>
+        <description lang="en-US">Diffusionsrichtung im Winter nach au&amp;szlig;en</description>
+      </component>
+            <component>
+        <id>choice_cl1c5bv6l006p266gybya0iaf</id>
+        <description lang="en-US">Diffusionsrichtung im Sommer nach au&amp;szlig;en.&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

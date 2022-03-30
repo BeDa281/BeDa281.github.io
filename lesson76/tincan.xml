@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://d2RAyM2HzQt5PDpxqSKVZMIWKJuR_WyU_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Chemischer Holzschutz - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://d2RAyM2HzQt5PDpxqSKVZMIWKJuR_WyU_rise/VSySF4coaPDFcT6E9qO8Tpz_iZSLBtbr" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://d2RAyM2HzQt5PDpxqSKVZMIWKJuR_WyU_rise/VSySF4coaPDFcT6E9qO8Tpz_iZSLBtbr/cl1c4oy2n0003266g3z8pqd3f" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas hat an seinem Fachwerkhaus einen Pilzbefall. Er m&amp;ouml;chte diesen Teil besonders sch&amp;uuml;tzen. Was kann er tun?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4ppa30006266g3k8tyx6x</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4oy2n0004266gu0drz0nj</id>
+        <description lang="en-US">Er sollte vorbeugende Ma&amp;szlig;nahmen treffen und diesen befallenen Teil regelm&amp;auml;&amp;szlig;ig beobachten und pflegen.</description>
+      </component>
+            <component>
+        <id>choice_cl1c4oy2n0005266gcmzvr1zk</id>
+        <description lang="en-US">Er sollte konstruktiven Holzschutz anwenden.</description>
+      </component>
+            <component>
+        <id>choice_cl1c4ppa30006266g3k8tyx6x</id>
+        <description lang="en-US">Er sollte den Pilz entfernen bzw. rausschneiden und anschlie&amp;szlig;end bek&amp;auml;mpfende Ma&amp;szlig;nahmen treffen.</description>
+      </component>
+            <component>
+        <id>choice_cl1c4psjh0007266gtrcswq76</id>
+        <description lang="en-US">Er sollte den befallenen Teil mit Folie einwickeln, damit sich der Pilz nicht weiterverbreitet.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d2RAyM2HzQt5PDpxqSKVZMIWKJuR_WyU_rise/VSySF4coaPDFcT6E9qO8Tpz_iZSLBtbr/cl1c4qad60008266gssulk4ag" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Marie m&amp;ouml;chte in ihrem Garten eine kleine H&amp;uuml;tte bauen. Als Nivellierschwelle f&amp;uuml;r ihre Holzrahmenbauw&amp;auml;nde m&amp;ouml;chte sie geeignetes Holz verwenden. Welche Holzart ist daf&amp;uuml;r geeignet?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4qad6000a266ga4lkblev</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4qad6000c266gfkwm6ak7</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4qad60009266gustpzo9n</id>
+        <description lang="en-US">Douglasie oder Buche</description>
+      </component>
+            <component>
+        <id>choice_cl1c4qad6000b266gjziqkvbk</id>
+        <description lang="en-US">Buche oder Kiefer splintfrei</description>
+      </component>
+            <component>
+        <id>choice_cl1c4qad6000c266gfkwm6ak7</id>
+        <description lang="en-US">Eiche oder Douglasie</description>
+      </component>
+            <component>
+        <id>choice_cl1c4qad6000a266ga4lkblev</id>
+        <description lang="en-US">L&amp;auml;rche oder Douglasie</description>
+      </component>
+            <component>
+        <id>choice_cl1c4rsqc002p266guvo7qacd</id>
+        <description lang="en-US">Buche oder L&amp;auml;rche</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d2RAyM2HzQt5PDpxqSKVZMIWKJuR_WyU_rise/VSySF4coaPDFcT6E9qO8Tpz_iZSLBtbr/cl1c4s9c10030266g4244bgg8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas hat in seiner Altbauwohnung alte Deckenbalken. Im Auflagerbereich sind die Balken durch Feuchteeintrag von tierischen Sch&amp;auml;dlingen befallen. Welche Schritte sollten eingeleitet werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4s9c10031266gl7lcgv06</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4s9c10031266gl7lcgv06</id>
+        <description lang="en-US">Balken zur&amp;uuml;ckschneiden und mit der Axt bebeilen sodass das befallene Holz beseitigt ist, danach bek&amp;auml;mpfend behandeln und mit einem neuen Holz das St&amp;uuml;ck ersetzen.</description>
+      </component>
+            <component>
+        <id>choice_cl1c4s9c10033266geyr4rjox</id>
+        <description lang="en-US">Balken zur&amp;uuml;ckschneiden, trocknen lassen und mit einem neuen Holz das St&amp;uuml;ck ersetzen.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl1c4s9c10034266g2nlc06yf</id>
+        <description lang="en-US">Den gesamten Balken austauschen und verbrennen, dass eine erneute Ausbreitung nicht m&amp;ouml;glich ist.</description>
+      </component>
+            <component>
+        <id>choice_cl1c4s9c10032266g2omr9sbs</id>
+        <description lang="en-US">Balken zur&amp;uuml;ckschneiden und mit der Axt bebeilen sodass das befallene Holz beseitigt ist, danach mit einem neuen St&amp;uuml;ck Holz ersetzen.&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d2RAyM2HzQt5PDpxqSKVZMIWKJuR_WyU_rise/VSySF4coaPDFcT6E9qO8Tpz_iZSLBtbr/cl1c4td88003b266gybcxiutf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Vorbeugende chemischer Holzschutz wird in bestimmte Verfahren umgesetzt. Welche Verfahren sind das?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4td88003d266g033y7r9g</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4tx5y004k266g8jnj8jbp</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4td88003c266gsml1a64p</id>
+        <description lang="en-US">Anstrichverfahren</description>
+      </component>
+            <component>
+        <id>choice_cl1c4td88003e266gqg5lygqd</id>
+        <description lang="en-US">Beheizungsverfahren</description>
+      </component>
+            <component>
+        <id>choice_cl1c4td88003f266gi0dlcffg</id>
+        <description lang="en-US">Vakuumverfahren</description>
+      </component>
+            <component>
+        <id>choice_cl1c4td88003d266g033y7r9g</id>
+        <description lang="en-US">Trogtr&amp;auml;nk- bzw. Tauchverfahren</description>
+      </component>
+            <component>
+        <id>choice_cl1c4tx5y004k266g8jnj8jbp</id>
+        <description lang="en-US">Kesseldruckverfahren</description>
+      </component>
+            <component>
+        <id>choice_cl1c4u05u004r266ggyqqvz6v</id>
+        <description lang="en-US">Eindringverfahren</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d2RAyM2HzQt5PDpxqSKVZMIWKJuR_WyU_rise/VSySF4coaPDFcT6E9qO8Tpz_iZSLBtbr/cl1c4upkn0052266gv05mpylu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas ist auf der Baustelle und er hat eine neue Eichschwelle einzubauen. Dadurch, dass viele Sch&amp;auml;dlinge in dem Bereich des Einbaus vorhanden waren, m&amp;ouml;chte er vor Ort seine Schwelle mit chemischem vorbeugendem Schutz ausstatten. Welche M&amp;ouml;glichkeiten hat er?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4upko0053266g5ctpmgty</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4upko0054266gcg5jib38</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4vg1p0067266gle2o4whu</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4upko0056266g0hpq51yc</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4upko0055266gi5mbpkvc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4upko0053266g5ctpmgty</id>
+        <description lang="en-US">Fluten</description>
+      </component>
+            <component>
+        <id>choice_cl1c4upko0055266gi5mbpkvc</id>
+        <description lang="en-US">Spritzen&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl1c4upko0056266g0hpq51yc</id>
+        <description lang="en-US">Streichen</description>
+      </component>
+            <component>
+        <id>choice_cl1c4upko0054266gcg5jib38</id>
+        <description lang="en-US">Bohrlochtr&amp;auml;nkung</description>
+      </component>
+            <component>
+        <id>choice_cl1c4vg1p0067266gle2o4whu</id>
+        <description lang="en-US">Bohrlochdrucktr&amp;auml;nkung</description>
+      </component>
+            <component>
+        <id>choice_cl1c4viqw006g266geplbp8rs</id>
+        <description lang="en-US">Spr&amp;uuml;hen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d2RAyM2HzQt5PDpxqSKVZMIWKJuR_WyU_rise/VSySF4coaPDFcT6E9qO8Tpz_iZSLBtbr/cl1c4vtnc006s266g5uejlc7p" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welcher Befall liegt an diesem Sparren vor?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4wmwd006w266gx53tjmmo</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4vtnc006t266gp5g0bgk7</id>
+        <description lang="en-US">Nagek&amp;auml;fer</description>
+      </component>
+            <component>
+        <id>choice_cl1c4vtnc006u266gsmkvpqrv</id>
+        <description lang="en-US">Borkenk&amp;auml;fer</description>
+      </component>
+            <component>
+        <id>choice_cl1c4wmwd006w266gx53tjmmo</id>
+        <description lang="en-US">Hausbock</description>
+      </component>
+            <component>
+        <id>choice_cl1c4wq7f006x266glzqli1qs</id>
+        <description lang="en-US">Holzwespen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d2RAyM2HzQt5PDpxqSKVZMIWKJuR_WyU_rise/VSySF4coaPDFcT6E9qO8Tpz_iZSLBtbr/cl1c4x4180075266ggdo00p6e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Runde Ausflugl&amp;ouml;cher ca. 1-2mm. Laubholz besonders Splint und Nadelholz um die 15% Holzfeuchte. Sp&amp;auml;tholzschichten bleiben als Lamellen stehen. Um welchen tierischen Holzsch&amp;auml;dling handelt es sich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4x4180077266gkxl242fp</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4x4180076266guzolc9hf</id>
+        <description lang="en-US">Bunter Nagek&amp;auml;fer</description>
+      </component>
+            <component>
+        <id>choice_cl1c4x4180079266ggdmwf026</id>
+        <description lang="en-US">Gescheckter Nagek&amp;auml;fer</description>
+      </component>
+            <component>
+        <id>choice_cl1c4x4180077266gkxl242fp</id>
+        <description lang="en-US">Gew&amp;ouml;hnlicher Nagek&amp;auml;fer&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl1c4xx1x008d266gqgw2q8cz</id>
+        <description lang="en-US">Brauner Nagek&amp;auml;fer</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d2RAyM2HzQt5PDpxqSKVZMIWKJuR_WyU_rise/VSySF4coaPDFcT6E9qO8Tpz_iZSLBtbr/cl1c4yhcn008o266ga3srsrdb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussagen geh&amp;ouml;ren zu den grunds&amp;auml;tzlich baulichen Ma&amp;szlig;nahmen nach DIN 68800?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c4yhcn008p266gplii560l</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4yhcn008q266gn9p3ryj2</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4yhcn008s266g09xm4yms</correctResponsePattern>
+            <correctResponsePattern>choice_cl1c4yhcn008r266gxsrfh3au</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4yhcn008p266gplii560l</id>
+        <description lang="en-US">Einbau von trockenem Holz (unter 20% HF)</description>
+      </component>
+            <component>
+        <id>choice_cl1c4yhcn008r266gxsrfh3au</id>
+        <description lang="en-US">Schutz vor Niederschlag und Spritzwasser</description>
+      </component>
+            <component>
+        <id>choice_cl1c4yhcn008s266g09xm4yms</id>
+        <description lang="en-US">Schutz vor Feuchte aus angrenzenden Bauteilen</description>
+      </component>
+            <component>
+        <id>choice_cl1c4yhcn008q266gn9p3ryj2</id>
+        <description lang="en-US">Schutz vor unzutr&amp;auml;glicher Feuchteerh&amp;ouml;hung im Bauteil durch Tauwasser</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d2RAyM2HzQt5PDpxqSKVZMIWKJuR_WyU_rise/VSySF4coaPDFcT6E9qO8Tpz_iZSLBtbr/cl1c4zk8w00a3266gnuxq87cp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas hat alles versucht um konstruktiven Holzschutz anzuwenden, jedoch hat er Bauteile, die der direkten Bewitterung ausgesetzt sind und einen vorbeugenden chemischen Holzschutz ben&amp;ouml;tigen. Ist das zul&amp;auml;ssig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c5008500a6266gcpi78xz7</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c4zk8w00a4266g64kvd843</id>
+        <description lang="en-US">Nein, konstruktiver Holzschutz ist chemischem Holzschutz immer vorzuziehen.</description>
+      </component>
+            <component>
+        <id>choice_cl1c4zk8w00a5266gg3z9z1sv</id>
+        <description lang="en-US">Nein, da er hier eine resistentere Holzklasse w&amp;auml;hlen sollte.</description>
+      </component>
+            <component>
+        <id>choice_cl1c5008500a6266gcpi78xz7</id>
+        <description lang="en-US">Ja, da alle M&amp;ouml;glichkeiten des konstruktiven Holzschutzes ausgesch&amp;ouml;pft sind.</description>
+      </component>
+            <component>
+        <id>choice_cl1c503oq00a7266gsodkcgqz</id>
+        <description lang="en-US">Thomas darf chemischen Holzschutz &amp;uuml;berall ohne Bedenken einsetzen, wenn er sich an das Holzschutzmittelverzeichnis h&amp;auml;lt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://d2RAyM2HzQt5PDpxqSKVZMIWKJuR_WyU_rise/VSySF4coaPDFcT6E9qO8Tpz_iZSLBtbr/cl1c50ei100a8266grhye1la7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas m&amp;ouml;chte tragende Bauteile verbauen im Bereich GK 4. Vor Ort streicht er die Balken mit einem chemischen Holzschutz. Ist das zul&amp;auml;ssig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl1c50ty500ab266gv5i6zf5z</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl1c50ei100a9266gpdr4nfkw</id>
+        <description lang="en-US">Ja, weil f&amp;uuml;r tragenden Bauteile ein chemischer Holzschutz vorgesehen ist, den er einfach anstreichen kann.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl1c50ei100aa266gbt7mrz65</id>
+        <description lang="en-US">Nein, weil GK 4 nach DIN 68800-3 f&amp;uuml;r tragende Bauteile keinen Holzschutz vorsieht.</description>
+      </component>
+            <component>
+        <id>choice_cl1c50ty500ab266gv5i6zf5z</id>
+        <description lang="en-US">Ja, chemischer Holzschutz ist vorgesehen, jedoch muss es nach GK 4 &amp;uuml;ber ein Druckverfahren eingebracht werden.</description>
+      </component>
+            <component>
+        <id>choice_cl1c50xdv00ac266g6mly5ww5</id>
+        <description lang="en-US">Nein, denn chemischen Holzschutz f&amp;uuml;r GK 4 ist seit dem 01.11.2020 unzul&amp;auml;ssig.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
