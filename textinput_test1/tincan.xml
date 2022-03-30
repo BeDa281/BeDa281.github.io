@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://LOcdA-DNoIiC9QQ71JmfSJCF6tKYi55E_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">textinput_test1</name>
+      <description lang="en-US"></description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://LOcdA-DNoIiC9QQ71JmfSJCF6tKYi55E_rise/VYnOsCfZ1rLZZgqE8iGJaVcaAJ7IdFlD" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Text input/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>

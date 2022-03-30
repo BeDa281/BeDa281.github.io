@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="urn:articulate:storyline:6mHeSTUiCwp" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Drag_Drop_OMS</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="urn:articulate:storyline:6mHeSTUiCwp/64SbnXgzlRI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Start</name>
+			<description lang="und">Start</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mHeSTUiCwp/6UmNyMfckah" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Drag-and-Drop</name>
+			<description lang="und">Drag-and-Drop</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mHeSTUiCwp/6UmNyMfckah/69QluLC3SkK" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag-and-Drop</name>
+			<description lang="und">Drag-and-Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6Yita1BOlFA[.]choice_6TefE2MH5FG</correctResponsePattern>
+				<correctResponsePattern>statement_5ufkExw1v9N[.]choice_6RO94wQI9By</correctResponsePattern>
+				<correctResponsePattern>statement_6d9aZTM58Yu[.]choice_5xEVu83drpe</correctResponsePattern>
+				<correctResponsePattern>statement_6AOEstwCdBv[.]choice_6JcM7qyjDMy</correctResponsePattern>
+				<correctResponsePattern>statement_5YRAQcGqhp9[.]choice_5YEhgwIHD26</correctResponsePattern>
+				<correctResponsePattern>statement_6OTYtxDQ6pc[.]choice_6WS05UwQh4l</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6Yita1BOlFA</id>
+					<description lang="und">Rechteck 16</description>
+				</component>
+				<component>
+					<id>statement_5ufkExw1v9N</id>
+					<description lang="und">Rechteck 14</description>
+				</component>
+				<component>
+					<id>statement_6d9aZTM58Yu</id>
+					<description lang="und">Rechteck 13</description>
+				</component>
+				<component>
+					<id>statement_6AOEstwCdBv</id>
+					<description lang="und">Rechteck 17</description>
+				</component>
+				<component>
+					<id>statement_5YRAQcGqhp9</id>
+					<description lang="und">Rechteck 15</description>
+				</component>
+				<component>
+					<id>statement_6OTYtxDQ6pc</id>
+					<description lang="und">Rechteck 12</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6TefE2MH5FG</id>
+					<description lang="und">Rechteck 10 - Benetzungsprobe mit Wasser</description>
+				</component>
+				<component>
+					<id>choice_6RO94wQI9By</id>
+					<description lang="und">Rechteck 9 - Wasser perlt ab, stark unterschiedliche Saugfähigkeit</description>
+				</component>
+				<component>
+					<id>choice_5xEVu83drpe</id>
+					<description lang="und">Rechteck 8 - Hochdruckreinigung mitlösenden Zusätzen</description>
+				</component>
+				<component>
+					<id>choice_6JcM7qyjDMy</id>
+					<description lang="und">Rechteck 11 - Poren, Lunker, Kiesnester</description>
+				</component>
+				<component>
+					<id>choice_5YEhgwIHD26</id>
+					<description lang="und">Rechteck 7 - Augenschein</description>
+				</component>
+				<component>
+					<id>choice_6WS05UwQh4l</id>
+					<description lang="und">Rechteck 6 - Füllung der Öffnungen mit artgleichem Material</description>
+				</component>
+				<component>
+					<id>choice_6O2ZJUaG81o</id>
+					<description lang="und">Rechteck 4 - Rostflecken</description>
+				</component>
+				<component>
+					<id>choice_6O7yaVr3Ddv</id>
+					<description lang="und">Rechteck 5 - Netzartige Risse &lt; 0,2 mm</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="urn:articulate:storyline:6mHeSTUiCwp/5xMH71sXNRw" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Drag-and-Drop</name>
+			<description lang="und">Drag-and-Drop</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mHeSTUiCwp/5xMH71sXNRw/5evt8XcPXIN" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag-and-Drop</name>
+			<description lang="und">Drag-and-Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6BZwpB4COPF[.]choice_6k3hfC9Xthi</correctResponsePattern>
+				<correctResponsePattern>statement_5cTlRdLORs4[.]choice_6DCwaaKfoWs</correctResponsePattern>
+				<correctResponsePattern>statement_5qTLHiLK5NY[.]choice_5pwlLaxF8Al</correctResponsePattern>
+				<correctResponsePattern>statement_5bGIEzhj1An[.]choice_5oSngqj55e4</correctResponsePattern>
+				<correctResponsePattern>statement_5dPIzvtJufX[.]choice_6YNUPUr4vQK</correctResponsePattern>
+				<correctResponsePattern>statement_6hYoK1sCtic[.]choice_61dDk0ZunZl</correctResponsePattern>
+				<correctResponsePattern>statement_61dKSR2eOdN[.]choice_6RctVKJy8dq</correctResponsePattern>
+				<correctResponsePattern>statement_5wcX7LiFRXd[.]choice_6rfb3KwwDCr</correctResponsePattern>
+				<correctResponsePattern>statement_6UwdHwTbdpQ[.]choice_5rzBKOZ78zD</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6BZwpB4COPF</id>
+					<description lang="und">Rechteck 17</description>
+				</component>
+				<component>
+					<id>statement_5cTlRdLORs4</id>
+					<description lang="und">Rechteck 15</description>
+				</component>
+				<component>
+					<id>statement_5qTLHiLK5NY</id>
+					<description lang="und">Rechteck 12</description>
+				</component>
+				<component>
+					<id>statement_5bGIEzhj1An</id>
+					<description lang="und">Rechteck 16</description>
+				</component>
+				<component>
+					<id>statement_5dPIzvtJufX</id>
+					<description lang="und">Rechteck 14</description>
+				</component>
+				<component>
+					<id>statement_6hYoK1sCtic</id>
+					<description lang="und">Rechteck 13</description>
+				</component>
+				<component>
+					<id>statement_61dKSR2eOdN</id>
+					<description lang="und">Rechteck 24</description>
+				</component>
+				<component>
+					<id>statement_5wcX7LiFRXd</id>
+					<description lang="und">Rechteck 25</description>
+				</component>
+				<component>
+					<id>statement_6UwdHwTbdpQ</id>
+					<description lang="und">Rechteck 23</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6k3hfC9Xthi</id>
+					<description lang="und">Rechteck 10 - Sinterschichten</description>
+				</component>
+				<component>
+					<id>choice_6DCwaaKfoWs</id>
+					<description lang="und">Rechteck 29 - Kratzen/Abschleifen anschließend Benetzungsprobe</description>
+				</component>
+				<component>
+					<id>choice_5pwlLaxF8Al</id>
+					<description lang="und">Rechteck 30 - Trocken: Oberflächenglanz; Benetzung: Dunkelfärbung an Kratzstellen</description>
+				</component>
+				<component>
+					<id>choice_5oSngqj55e4</id>
+					<description lang="und">Rechteck 7 - Rostflecken</description>
+				</component>
+				<component>
+					<id>choice_6YNUPUr4vQK</id>
+					<description lang="und">Rechteck 27 - Rostfärbungen an einzelnen Stellen</description>
+				</component>
+				<component>
+					<id>choice_61dDk0ZunZl</id>
+					<description lang="und">Rechteck 28 - Kleine Rostteile entfernen, evtl. Instandsetzungs-maßnahmen</description>
+				</component>
+				<component>
+					<id>choice_6RctVKJy8dq</id>
+					<description lang="und">Rechteck 11 - Feine Oberflächenrisse</description>
+				</component>
+				<component>
+					<id>choice_6rfb3KwwDCr</id>
+					<description lang="und">Rechteck 9 - Augenschein, Benetzungsprobe</description>
+				</component>
+				<component>
+					<id>choice_5rzBKOZ78zD</id>
+					<description lang="und">Rechteck 6 - Beschichtungssysteme</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="urn:articulate:storyline:6mHeSTUiCwp/5cX4RdH1jn1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Start</name>
+			<description lang="und">Start</description>
+		</activity>
+	</activities>
+</tincan>
