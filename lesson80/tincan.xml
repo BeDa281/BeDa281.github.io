@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://nPWOS6qjQ36lqXD0pkPrXA2V_F4e_JHr_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Baulicher Brandschutz - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://nPWOS6qjQ36lqXD0pkPrXA2V_F4e_JHr_rise/EqVzhJgt-xpsNDWAlk9bA_8hergmVjab" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://nPWOS6qjQ36lqXD0pkPrXA2V_F4e_JHr_rise/EqVzhJgt-xpsNDWAlk9bA_8hergmVjab/cl38epuwi000v2a6f9eroe6rs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Punkte geh&amp;ouml;ren zu den wichtigsten Schutzzielen, die mit dem Brandschutz zu erreichen sind?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38epuwi000w2a6f3jh60oc8</correctResponsePattern>
+            <correctResponsePattern>choice_cl38eqkl8001o2a6fpdev6nql</correctResponsePattern>
+            <correctResponsePattern>choice_cl38eqgxr001g2a6fl3aev5x6</correctResponsePattern>
+            <correctResponsePattern>choice_cl38epuwi000x2a6f1r35garu</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38epuwi000w2a6f3jh60oc8</id>
+        <description lang="en-US">Schutz vor den Auswirkungen von Feuer und Rauch</description>
+      </component>
+            <component>
+        <id>choice_cl38epuwi000x2a6f1r35garu</id>
+        <description lang="en-US">Sicherheit f&amp;uuml;r Menschen und Tiere</description>
+      </component>
+            <component>
+        <id>choice_cl38eqgxr001g2a6fl3aev5x6</id>
+        <description lang="en-US">Wirksame L&amp;ouml;scharbeiten erm&amp;ouml;glichen</description>
+      </component>
+            <component>
+        <id>choice_cl38eqkl8001o2a6fpdev6nql</id>
+        <description lang="en-US">Brandauswirkung vorbeugen</description>
+      </component>
+            <component>
+        <id>choice_cl38eqp89001y2a6fsobhnqoh</id>
+        <description lang="en-US">Schutz von Sachg&amp;uuml;tern vor Brand in Geb&amp;auml;uden</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://nPWOS6qjQ36lqXD0pkPrXA2V_F4e_JHr_rise/EqVzhJgt-xpsNDWAlk9bA_8hergmVjab/cl38era2k002i2a6fgdwmwxju" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In welchen der folgenden Dokumente sind die gesellschaftlich vereinbarten Schutzziele definiert?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38era2k002j2a6fxdaqkdd9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38era2k002j2a6fxdaqkdd9</id>
+        <description lang="en-US">In der Musterbauordnung und den darauf basierenden Landesbauordnungen.</description>
+      </component>
+            <component>
+        <id>choice_cl38era2k002k2a6fjpn0kiv9</id>
+        <description lang="en-US">In den Schutzzielen der europ&amp;auml;ischen Union.</description>
+      </component>
+            <component>
+        <id>choice_cl38erwoj002l2a6fyxqbrnxh</id>
+        <description lang="en-US">In dem Regelwerk f&amp;uuml;r baulich technische Anlagen gem. DIBt.</description>
+      </component>
+            <component>
+        <id>choice_cl38es09p002m2a6fwwq0yk24</id>
+        <description lang="en-US">In den Dokumenten f&amp;uuml;r Bev&amp;ouml;lkerungsschutz des Innenministeriums.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://nPWOS6qjQ36lqXD0pkPrXA2V_F4e_JHr_rise/EqVzhJgt-xpsNDWAlk9bA_8hergmVjab/cl38es8h2002n2a6fw52mhrvi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welches der folgenden Aussagen beschreibt ein Bauprodukt?&lt;br&gt;&lt;br&gt;&lt;br&gt;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38es8h2002p2a6fkomy2fsf</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38es8h2002o2a6fn7513tzi</id>
+        <description lang="en-US">Ein Bauprodukt ist ein aus mehreren Produkten hergestelltes Bauwerk.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl38es8h2002p2a6fkomy2fsf</id>
+        <description lang="en-US">Ein Bauprodukt ist ein Produkt, das hergestellt und in Verkehr gebracht wird, um dauerhaft in einem Bauwerk eingebaut zu werden und dessen Leistung sich auf die Leistung des Bauwerks und auf die Grundanforderungen eines Bauwerkes auswirkt.</description>
+      </component>
+            <component>
+        <id>choice_cl38esw73002q2a6fz8wvppa6</id>
+        <description lang="en-US">Ein Bauprodukt ist ein Produkt, das eine bestimmte Position in einem Bauwerk einnimmt und dessen Eigenschaften in einem gewissen prozentualen Anteil auf das Bauwerk einwirkt.</description>
+      </component>
+            <component>
+        <id>choice_cl38eszst002r2a6fvwjh99ds</id>
+        <description lang="en-US">Ein Bauprodukt ist ein Produkt aus verschiedenen Rohstoffen zusammengestelltes Bauwerk.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://nPWOS6qjQ36lqXD0pkPrXA2V_F4e_JHr_rise/EqVzhJgt-xpsNDWAlk9bA_8hergmVjab/cl38etjb2002s2a6f3k2tedu4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Punkte sind Grundanforderungen an Bauwerke gem. Anhang I der Bauproduktenverordnung?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38etjb2002t2a6f8u00khbt</correctResponsePattern>
+            <correctResponsePattern>choice_cl38etjb2002u2a6fou9xnqak</correctResponsePattern>
+            <correctResponsePattern>choice_cl38eua2v00442a6fivirvld7</correctResponsePattern>
+            <correctResponsePattern>choice_cl38eu6le003x2a6f9m377od2</correctResponsePattern>
+            <correctResponsePattern>choice_cl38etjb2002w2a6fe7idp9k5</correctResponsePattern>
+            <correctResponsePattern>choice_cl38etjb2002v2a6fui4dq5zy</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38etjb2002t2a6f8u00khbt</id>
+        <description lang="en-US">Mechanische Festigkeit und Standsicherheit</description>
+      </component>
+            <component>
+        <id>choice_cl38etjb2002v2a6fui4dq5zy</id>
+        <description lang="en-US">Brandschutz</description>
+      </component>
+            <component>
+        <id>choice_cl38etjb2002w2a6fe7idp9k5</id>
+        <description lang="en-US">Hygiene, Gesundheit und Umweltschutz</description>
+      </component>
+            <component>
+        <id>choice_cl38etjb2002u2a6fou9xnqak</id>
+        <description lang="en-US">Sicherheit und Barrierefreiheit bei der Nutzung</description>
+      </component>
+            <component>
+        <id>choice_cl38eu6le003x2a6f9m377od2</id>
+        <description lang="en-US">Schallschutz und nachhaltige Nutzung der nat&amp;uuml;rlichen Ressourcen</description>
+      </component>
+            <component>
+        <id>choice_cl38eua2v00442a6fivirvld7</id>
+        <description lang="en-US">Energieeinsparung und W&amp;auml;rmeschutz</description>
+      </component>
+            <component>
+        <id>choice_cl38ev4v6004i2a6fnuc6aw4e</id>
+        <description lang="en-US">Optische Bauintegration</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://nPWOS6qjQ36lqXD0pkPrXA2V_F4e_JHr_rise/EqVzhJgt-xpsNDWAlk9bA_8hergmVjab/cl38evf73005d2a6f085rm116" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas hat ein Produkt was er verbauen m&amp;ouml;chte, jedoch besitzt dieses keine CE Kennzeichnung. Der Bauherr meint, dass er mit ihm auf beiderseitigem Einverst&amp;auml;ndnis das CE Zeichen vereinbart. Geht das?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38evvf4005g2a6f9rv96n5y</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38evf73005e2a6fzde4ani7</id>
+        <description lang="en-US">Ja, wenn Sie es schriftlich festhalten.</description>
+      </component>
+            <component>
+        <id>choice_cl38evf73005f2a6fwj4njtl4</id>
+        <description lang="en-US">Ja, auch wenn Sie es nur m&amp;uuml;ndlich vereinbaren.</description>
+      </component>
+            <component>
+        <id>choice_cl38evvf4005g2a6f9rv96n5y</id>
+        <description lang="en-US">Nein, da durch solch eine Vereinbarung nicht gesetzliche Vorgaben umgangen werden d&amp;uuml;rfen.</description>
+      </component>
+            <component>
+        <id>choice_cl38evz5t005h2a6fe70ua9ky</id>
+        <description lang="en-US">Ja, wenn Sie es mit der Bauaufsicht abstimmen.</description>
+      </component>
+            <component>
+        <id>choice_cl38ew2e9005i2a6fsdwjb62a</id>
+        <description lang="en-US">Nein, hierf&amp;uuml;r m&amp;uuml;ssen Sie einen Antrag beim DIBt stellen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://nPWOS6qjQ36lqXD0pkPrXA2V_F4e_JHr_rise/EqVzhJgt-xpsNDWAlk9bA_8hergmVjab/cl38ewc9m005j2a6fdq287ip1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Antwort ist richtig? Was versteht man unter Feuerwiderstandsdauer eines Bauteils?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38ewvuu005m2a6fi6c2am9a</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38ewc9m005k2a6fzre2zz76</id>
+        <description lang="en-US">Die Feuerwiderstandsdauer ist die Maximaldauer in Minuten, w&amp;auml;hrend der ein Bauteil bei der Pr&amp;uuml;fung nach genormten Pr&amp;uuml;fverfahren unter praxisgerechten Randbedingungen und unter einer bestimmten Temperaturbeanspruchung bestimmte festgelegte Anforderungen erf&amp;uuml;llt.</description>
+      </component>
+            <component>
+        <id>choice_cl38ewc9m005l2a6fytkmnips</id>
+        <description lang="en-US">Die Feuerwiderstandsdauer ist die Mindestdauer in Stunden, w&amp;auml;hrend der ein Bauteil bei der Pr&amp;uuml;fung nach genormten Pr&amp;uuml;fverfahren unter theoretischen Randbedingungen und unter einer bestimmten Temperaturbeanspruchung bestimmte festgelegte Anforderungen erf&amp;uuml;llt.</description>
+      </component>
+            <component>
+        <id>choice_cl38ewvuu005m2a6fi6c2am9a</id>
+        <description lang="en-US">Die Feuerwiderstandsdauer ist die Mindestdauer in Minuten, w&amp;auml;hrend der ein Bauteil bei der Pr&amp;uuml;fung nach genormten Pr&amp;uuml;fverfahren unter praxisgerechten Randbedingungen und unter einer bestimmten Temperaturbeanspruchung bestimmte festgelegte Anforderungen erf&amp;uuml;llt.</description>
+      </component>
+            <component>
+        <id>choice_cl38ex04n005n2a6fkdv832rp</id>
+        <description lang="en-US">Die Feuerwiderstandsdauer ist die Mindestdauer in Minuten, w&amp;auml;hrend der ein Bauteil bei der Pr&amp;uuml;fung nach gesonderten Pr&amp;uuml;fverfahren unter theoretischen Randbedingungen und unter einem bestimmte Temperaturverlauf festgelegte Anforderungen erf&amp;uuml;llt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://nPWOS6qjQ36lqXD0pkPrXA2V_F4e_JHr_rise/EqVzhJgt-xpsNDWAlk9bA_8hergmVjab/cl38exh6v005o2a6fmqwqhu08" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welches der folgenden Punkte sind Schutzziele, die D&amp;auml;cher aus Sicht des Brandschutzes erf&amp;uuml;llen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38exh6v005p2a6f0emqmolg</correctResponsePattern>
+            <correctResponsePattern>choice_cl38exh6v005s2a6f56cwag98</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38exh6v005p2a6f0emqmolg</id>
+        <description lang="en-US">Schutz von innen nach au&amp;szlig;en auf ein Nachbargeb&amp;auml;ude</description>
+      </component>
+            <component>
+        <id>choice_cl38exh6v005r2a6f2v4gagdv</id>
+        <description lang="en-US">Schutz vor Brand&amp;uuml;berschlag bei einer Doppelhaush&amp;auml;lfte durch eine Brandwand</description>
+      </component>
+            <component>
+        <id>choice_cl38exh6v005s2a6f56cwag98</id>
+        <description lang="en-US">Schutz von au&amp;szlig;en von einem Nachbargeb&amp;auml;ude</description>
+      </component>
+            <component>
+        <id>choice_cl38exh6v005q2a6f70ygfp0f</id>
+        <description lang="en-US">Schutz vor Brandausl&amp;ouml;sung durch Blitze</description>
+      </component>
+            <component>
+        <id>choice_cl38ey8mb00752a6fbchsc2mw</id>
+        <description lang="en-US">Schutz vor Einwirkung eines Sonnenbrandes</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://nPWOS6qjQ36lqXD0pkPrXA2V_F4e_JHr_rise/EqVzhJgt-xpsNDWAlk9bA_8hergmVjab/cl38eylmv007f2a6fvfwjs6j9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Baustoffe werden bez&amp;uuml;glich ihres Brandverhaltens in so genannte Baustoffklassen eingeteilt. Auf der Grundlage welcher Normen werden diese klassifiziert?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38eylmv007g2a6f2dp7b1tk</correctResponsePattern>
+            <correctResponsePattern>choice_cl38eylmv007j2a6fr7v79sai</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38eylmv007g2a6f2dp7b1tk</id>
+        <description lang="en-US">Nach der deutschen Brandschutznorm DIN 4102</description>
+      </component>
+            <component>
+        <id>choice_cl38eylmv007i2a6fwe9kjlz7</id>
+        <description lang="en-US">Nach der deutschen Baustoffnorm nach Widerstandsf&amp;auml;higkeit DIN 4102</description>
+      </component>
+            <component>
+        <id>choice_cl38eylmv007j2a6fr7v79sai</id>
+        <description lang="en-US">Nach der europ&amp;auml;isch harmonisierten Norm DIN EN 13501</description>
+      </component>
+            <component>
+        <id>choice_cl38eylmv007h2a6f5xhbbuvc</id>
+        <description lang="en-US">Nach der europ&amp;auml;ischen Brandschutznorm f&amp;uuml;r Bauwerke DIN EN 13501</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://nPWOS6qjQ36lqXD0pkPrXA2V_F4e_JHr_rise/EqVzhJgt-xpsNDWAlk9bA_8hergmVjab/cl38ezqx8008y2a6fk2be6mx2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Punkte entsprechen der Fragestellung. Welche technischen Regeln m&amp;uuml;ssen bei der Verwendung von nichtbrennbaren Baustoffen beachtet werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38ezqx8008z2a6frrmgjkqw</correctResponsePattern>
+            <correctResponsePattern>choice_cl38ezqx800902a6fxv4z7fei</correctResponsePattern>
+            <correctResponsePattern>choice_cl38f0e8o00ab2a6fiylr6g8e</correctResponsePattern>
+            <correctResponsePattern>choice_cl38ezqx800912a6f88u28nyy</correctResponsePattern>
+            <correctResponsePattern>choice_cl38ezqx800922a6ftcnhb01g</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38ezqx8008z2a6frrmgjkqw</id>
+        <description lang="en-US">Keine oder eine begrenzt bleibende Entz&amp;uuml;ndung.</description>
+      </component>
+            <component>
+        <id>choice_cl38ezqx800912a6f88u28nyy</id>
+        <description lang="en-US">Geringstm&amp;ouml;gliche Rauchentwicklung</description>
+      </component>
+            <component>
+        <id>choice_cl38ezqx800922a6ftcnhb01g</id>
+        <description lang="en-US">Kein fortschreitendes Glimmen oder Schwellen</description>
+      </component>
+            <component>
+        <id>choice_cl38ezqx800902a6fxv4z7fei</id>
+        <description lang="en-US">Kein brennendes Abtropfen oder Abfallen</description>
+      </component>
+            <component>
+        <id>choice_cl38f0e8o00ab2a6fiylr6g8e</id>
+        <description lang="en-US">Art der Bestandteile und Formstabilit&amp;auml;t</description>
+      </component>
+            <component>
+        <id>choice_cl38f0ip300ak2a6f2jxqhyid</id>
+        <description lang="en-US">Schmelzpunkt von mindestens 300&amp;deg;C nach DIN4102</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://nPWOS6qjQ36lqXD0pkPrXA2V_F4e_JHr_rise/EqVzhJgt-xpsNDWAlk9bA_8hergmVjab/cl38f0uvj00ax2a6ftl5276l9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Zu welchem Zeitpunkt der Anwendung von Bauprodukten muss ein g&amp;uuml;ltiger Verwendbarkeitsnachweis vorliegen? Welche der folgenden Antworten sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38f0uvj00ay2a6f369yf0tk</correctResponsePattern>
+            <correctResponsePattern>choice_cl38f0uvj00b02a6f4zam19em</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38f0uvj00ay2a6f369yf0tk</id>
+        <description lang="en-US">Aus der Sicht des Bauordnungsrecht muss der Nachweis zum Zeitpunkt der Anwendung bzw. des Einbaus vorliegen.</description>
+      </component>
+            <component>
+        <id>choice_cl38f0uvj00b02a6f4zam19em</id>
+        <description lang="en-US">Aus privatrechtlicher Sicht muss der Nachweis zum Zeitpunkt der Abnahme vorliegen. Dies muss aber gesondert vereinbart werden.</description>
+      </component>
+            <component>
+        <id>choice_cl38f0uvj00b12a6ff61btg24</id>
+        <description lang="en-US">Aus bauordnungsrechtlicher Sicht muss der Nachweis vor Beginn der Arbeiten vorliegen.</description>
+      </component>
+            <component>
+        <id>choice_cl38f0uvj00az2a6fkcvors0h</id>
+        <description lang="en-US">Aus privatrechtlicher Sicht muss der Nachweis zum Zeitpunkt einer Leistungserkl&amp;auml;rung vorliegen.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

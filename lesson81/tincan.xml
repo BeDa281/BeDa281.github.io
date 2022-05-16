@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://GWyN1359qRX7tMv-_EuwSD-d131aWKrT_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Baulicher Brandschutz - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://GWyN1359qRX7tMv-_EuwSD-d131aWKrT_rise/uCIIS870qlJeJLFvHCm5mjvplMHvJaBv" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://GWyN1359qRX7tMv-_EuwSD-d131aWKrT_rise/uCIIS870qlJeJLFvHCm5mjvplMHvJaBv/cl38fae1400162a6f2u8ts836" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Im notwendigen Flur soll eine zugelassene Kabelvollbandage im Zuge einer Elektrotrasse montiert werden. Im &amp;sect; &amp;bdquo;notwendiger Flur&amp;ldquo; der Landesbauordnung steht, dass nur nichtbrennbare D&amp;auml;mmstoffe verwendet werden d&amp;uuml;rfen.&lt;br&gt;&lt;br&gt;Um welchen Abweichungstyp handelt es sich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38fae1400182a6ffnu1csy6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38fae1400172a6feklkg685</id>
+        <description lang="en-US">Abweichung von einer Eingef&amp;uuml;hrten Technischen Baubestimmung, z. B. auf Basis&lt;br&gt;der Leitungsanlagen-Richtlinie</description>
+      </component>
+            <component>
+        <id>choice_cl38fae1400182a6ffnu1csy6</id>
+        <description lang="en-US">Materielle Abweichung vom Bauordnungsrecht</description>
+      </component>
+            <component>
+        <id>choice_cl38fb1du00192a6ffk38zfzd</id>
+        <description lang="en-US">Abweichung von einem Verwendbarkeitsnachweis</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GWyN1359qRX7tMv-_EuwSD-d131aWKrT_rise/uCIIS870qlJeJLFvHCm5mjvplMHvJaBv/cl38fbgrx001a2a6fbkwpr80f" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In einer F 30-leichten Trennwand muss ein T 30-RS Feuerabschluss eingebaut werden. In der Zulassung steht drin, dass die T&amp;uuml;r in einer F 90-leichten Trennwand eingebaut werden muss.&lt;br&gt;&lt;br&gt;Darf man einen T 30-RS Feuerabschluss in einer F 30-leichten Trennwand einbauen? Wenn ja, &amp;uuml;ber welche Abweichung ist das m&amp;ouml;glich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38fbgry001e2a6fq418ini1</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38fbgry001b2a6fmrwdy9vr</id>
+        <description lang="en-US">Abweichung von einer Eingef&amp;uuml;hrten Technischen Baubestimmung, z. B. auf Basis&lt;br&gt;der Leitungsanlagen-Richtlinie</description>
+      </component>
+            <component>
+        <id>choice_cl38fbgry001d2a6f82rb5gnn</id>
+        <description lang="en-US">Materielle Abweichung vom Bauordnungsrecht</description>
+      </component>
+            <component>
+        <id>choice_cl38fbgry001e2a6fq418ini1</id>
+        <description lang="en-US">Abweichung von einem Verwendbarkeitsnachweis</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GWyN1359qRX7tMv-_EuwSD-d131aWKrT_rise/uCIIS870qlJeJLFvHCm5mjvplMHvJaBv/cl38fcid0001y2a6fk3emphvi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In einer F 30-leichten Trennwand muss ein T 30-RS Feuerabschluss eingebaut werden. In der Zulassung steht drin, dass die T&amp;uuml;r in einer F 90-leichten Trennwand eingebaut werden muss.&lt;br&gt;&lt;br&gt;Darf man einen T 30-RS Feuerabschluss in einer F 30-leichten Trennwand einbauen? Um welche Art der Abweichung handelt es sich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38fbgry001d2a6f82rb5gnn</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38fbgry001b2a6fmrwdy9vr</id>
+        <description lang="en-US">eine wesentliche Abweichung oder</description>
+      </component>
+            <component>
+        <id>choice_cl38fbgry001d2a6f82rb5gnn</id>
+        <description lang="en-US">eine nicht wesentliche Abweichung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GWyN1359qRX7tMv-_EuwSD-d131aWKrT_rise/uCIIS870qlJeJLFvHCm5mjvplMHvJaBv/cl38fegrz001z2a6fetdlq0fp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei einer F 90-leichten Trennwand m&amp;uuml;ssen Sie einen gleitenden Deckenanschluss erstellen. Wie verhalten Sie sich bei einer fachlichen Fragestellung zum Einbau von Brand-schutzklappen im Hinblick auf den Anschluss der L&amp;uuml;ftungskan&amp;auml;le?&lt;br&gt;&lt;br&gt;K&amp;ouml;nnen die L&amp;uuml;ftungskan&amp;auml;le aus Blech starr angeschlossen werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38fegs000202a6f41r7ky4h</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38fegs000202a6f41r7ky4h</id>
+        <description lang="en-US">Ja</description>
+      </component>
+            <component>
+        <id>choice_cl38fegs000212a6f9n04x5nr</id>
+        <description lang="en-US">Nein</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GWyN1359qRX7tMv-_EuwSD-d131aWKrT_rise/uCIIS870qlJeJLFvHCm5mjvplMHvJaBv/cl38fevee00222a6finhdhfkb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei einer F 90-leichten Trennwand m&amp;uuml;ssen Sie einen gleitenden Deckenanschluss erstellen. Wie verhalten Sie sich bei einer fachlichen Fragestellung zum Einbau von Brand-schutzklappen im Hinblick auf den Anschluss der L&amp;uuml;ftungskan&amp;auml;le?&lt;br&gt;&lt;br&gt;K&amp;ouml;nnen die f&amp;uuml;r die Vormontage verwendeten Gewindestangen an der Brandschutzklappe verbleiben oder m&amp;uuml;ssen diese entfernt werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38fegs000202a6f41r7ky4h</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38fegs000202a6f41r7ky4h</id>
+        <description lang="en-US">k&amp;ouml;nnen verbleiben</description>
+      </component>
+            <component>
+        <id>choice_cl38fegs000212a6f9n04x5nr</id>
+        <description lang="en-US">m&amp;uuml;ssen entfernt werden</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GWyN1359qRX7tMv-_EuwSD-d131aWKrT_rise/uCIIS870qlJeJLFvHCm5mjvplMHvJaBv/cl38ffjsw00232a6fshqi43yw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie sollen eine F 90 Trockenbauwand erstellen. Die maximale H&amp;ouml;he ist im Verwendbarkeitsnachweis mit 4,50 m zwischen den Geschossdecken angegeben. Die Ausf&amp;uuml;hrung in der Praxis muss jedoch 4,70 m hoch sein.&lt;br&gt;&lt;br&gt;Um welchen Abweichungstyp handelt es sich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38ffxv100262a6flxyb0epz</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38ffjsw00242a6fknpmtgt8</id>
+        <description lang="en-US">Abweichung von einer Eingef&amp;uuml;hrten Technischen Baubestimmung, z. B. auf Basis&lt;br&gt;der Leitungsanlagen-Richtlinie</description>
+      </component>
+            <component>
+        <id>choice_cl38ffjsw00252a6fuhlail1x</id>
+        <description lang="en-US">Materielle Abweichung vom Bauordnungsrecht</description>
+      </component>
+            <component>
+        <id>choice_cl38ffxv100262a6flxyb0epz</id>
+        <description lang="en-US">Abweichung von einem Verwendbarkeitsnachweis</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GWyN1359qRX7tMv-_EuwSD-d131aWKrT_rise/uCIIS870qlJeJLFvHCm5mjvplMHvJaBv/cl38fg3kz00272a6f70o7w1d2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie sollen eine F 90 Trockenbauwand erstellen. Die maximale H&amp;ouml;he ist im Verwendbarkeitsnachweis mit 4,50 m zwischen den Geschossdecken angegeben. Die Ausf&amp;uuml;hrung in der Praxis muss jedoch 4,70 m hoch sein.&lt;br&gt;&lt;br&gt;Um welche Art der Abweichung handelt es sich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38fg3kz00292a6f4tzzlt91</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38fg3kz00282a6fh3ak8d99</id>
+        <description lang="en-US">eine wesentliche Abweichung oder</description>
+      </component>
+            <component>
+        <id>choice_cl38fg3kz00292a6f4tzzlt91</id>
+        <description lang="en-US">eine nicht wesentliche Abweichung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GWyN1359qRX7tMv-_EuwSD-d131aWKrT_rise/uCIIS870qlJeJLFvHCm5mjvplMHvJaBv/cl38fgwzp002a2a6fnm2whztl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei welchen dieser Richtlinien handelt es sich um eine technische Baubestimmung nach der MVVTB Teil A (Muster-Verwaltungsvorschrift Technische Baubestimmung). Bitte ankreuzen.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38fgwzp002b2a6ffzu7b0ms</correctResponsePattern>
+            <correctResponsePattern>choice_cl38fgwzp002c2a6fc1xg45h2</correctResponsePattern>
+            <correctResponsePattern>choice_cl38fgwzp002d2a6fj84105zr</correctResponsePattern>
+            <correctResponsePattern>choice_cl38fhu2x003x2a6fuds3n8c8</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38fgwzp002b2a6ffzu7b0ms</id>
+        <description lang="en-US">ML&amp;Uuml;AR (L&amp;uuml;ftungsanlagen)</description>
+      </component>
+            <component>
+        <id>choice_cl38fgwzp002d2a6fj84105zr</id>
+        <description lang="en-US">M-HFHHolzR &amp;nbsp;(Hochfeuerhemmende Bauteile in Holzbauweise)</description>
+      </component>
+            <component>
+        <id>choice_cl38fgwzp002e2a6fbgu5niob</id>
+        <description lang="en-US">VdS 2095 (Automatische Brandmeldeanlagen BMA)</description>
+      </component>
+            <component>
+        <id>choice_cl38fgwzp002c2a6fc1xg45h2</id>
+        <description lang="en-US">MLAR (Leitungsanlagen)</description>
+      </component>
+            <component>
+        <id>choice_cl38fhu2x003x2a6fuds3n8c8</id>
+        <description lang="en-US">MSysB&amp;Ouml;R (Systemb&amp;ouml;den)</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GWyN1359qRX7tMv-_EuwSD-d131aWKrT_rise/uCIIS870qlJeJLFvHCm5mjvplMHvJaBv/cl38figip004c2a6f00jmbfqi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Eine Unterverteilung soll nach baurechtlichen Vorgaben brandschutztechnisch mind. F30 gesch&amp;uuml;tzt werden. Welche L&amp;ouml;sung w&amp;uuml;rden Sie anbieten? Bitte ankreuzen.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38figiq004d2a6f5piyllug</correctResponsePattern>
+            <correctResponsePattern>choice_cl38fjc3400522a6fblj71j9q</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38figiq004d2a6f5piyllug</id>
+        <description lang="en-US">F30 / EI 30 Brandschutzgeh&amp;auml;use mit Verwendbarkeitsnachweis</description>
+      </component>
+            <component>
+        <id>choice_cl38figiq004e2a6fgmsz4pcz</id>
+        <description lang="en-US">F30 Brandschutzbeschichtung</description>
+      </component>
+            <component>
+        <id>choice_cl38fj8xo004t2a6fvvvqq4qw</id>
+        <description lang="en-US">GKF Plattenabdeckung 35 mm</description>
+      </component>
+            <component>
+        <id>choice_cl38fjc3400522a6fblj71j9q</id>
+        <description lang="en-US">X &amp;nbsp;F30/ EI 30 Schachtwand und Revisions&amp;ouml;ffnung mit Verwendbarkeitsnachweis</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://GWyN1359qRX7tMv-_EuwSD-d131aWKrT_rise/uCIIS870qlJeJLFvHCm5mjvplMHvJaBv/cl38fksz9006y2a6fkfurv0ib" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Oberhalb einer T30 RS Brandschutzt&amp;uuml;re (Feuerschutzabschluss) soll ein S90 Kombischott mit der Abmessung 400 x 600 mm (b x h) eingebaut werden. Welcher Abstand ist gem&amp;auml;&amp;szlig; DIBT Abstandsregel zwischen der Abschottung und der Brandschutzt&amp;uuml;re mind. einzuhalten? &amp;nbsp;Bitte ankreuzen.&amp;nbsp;</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38fl64v00712a6fn5ro28in</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38fksz9006z2a6f1cd5sxbg</id>
+        <description lang="en-US">50 &amp;nbsp;mm</description>
+      </component>
+            <component>
+        <id>choice_cl38fksz900702a6fjw6htv2z</id>
+        <description lang="en-US">100 mm</description>
+      </component>
+            <component>
+        <id>choice_cl38fl64v00712a6fn5ro28in</id>
+        <description lang="en-US">200&amp;nbsp; mm</description>
+      </component>
+            <component>
+        <id>choice_cl38flcld00722a6fhfc2hiar</id>
+        <description lang="en-US">250 &amp;nbsp;mm</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

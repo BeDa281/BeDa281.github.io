@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://6WxDnEZBen7CbIXha9s9czraAhQ9EVuG_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">VOB C - Teil 1 (Zimmerer)</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://6WxDnEZBen7CbIXha9s9czraAhQ9EVuG_rise/c1tPSOeLXpOG_nuW2gPsYbA2Xy-1eHTC" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://6WxDnEZBen7CbIXha9s9czraAhQ9EVuG_rise/c1tPSOeLXpOG_nuW2gPsYbA2Xy-1eHTC/cl38dl39u00092a6gdbkz65j5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas hat einen VOB Vertrag mit einem Auftraggeber abgeschlossen. Es stellt sich heraus, dass bei der Ausf&amp;uuml;hrung eines Details ein Widerspruch mit der im Vertrag festgehaltenen Ausf&amp;uuml;hrung und dem VOB Teil C besteht. Was gilt nun?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38dl39v000a2a6g7uix9kyw</correctResponsePattern>
+            <correctResponsePattern>choice_cl38dl39v000d2a6ggjazzuh9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38dl39v000a2a6g7uix9kyw</id>
+        <description lang="en-US">Thomas muss sich an die im Bauvertrag festgehaltenen Ausf&amp;uuml;hrung halten.</description>
+      </component>
+            <component>
+        <id>choice_cl38dl39v000c2a6g3fg21j1d</id>
+        <description lang="en-US">Thomas muss sich nach den Vorgaben VOB Teil C halten, da diese wesentliche Auslegungskriterien f&amp;uuml;r den Inhalt des Bauvertrages beinhalten.</description>
+      </component>
+            <component>
+        <id>choice_cl38dl39v000d2a6ggjazzuh9</id>
+        <description lang="en-US">VOB Teil C gilt nur, wenn explizit im Bauvertrag hingewiesen wurde.</description>
+      </component>
+            <component>
+        <id>choice_cl38dl39v000b2a6g6v0w9qnr</id>
+        <description lang="en-US">Bei Widerspr&amp;uuml;chen geht die VOB Teil C dem Teil B vor.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6WxDnEZBen7CbIXha9s9czraAhQ9EVuG_rise/c1tPSOeLXpOG_nuW2gPsYbA2Xy-1eHTC/cl38dmhu700262a6gz8ww7867" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wof&amp;uuml;r steht die Abk&amp;uuml;rzung ATV?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38dmzqy00292a6ghdjjmsqb</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38dmhu700272a6g2xn3bbyl</id>
+        <description lang="en-US">Allgemein Technisches Vertragsbestimmungen</description>
+      </component>
+            <component>
+        <id>choice_cl38dmhu700282a6ge3xbvds6</id>
+        <description lang="en-US">Allgemein Technische Vertr&amp;auml;ge f&amp;uuml;r Bauleistungen</description>
+      </component>
+            <component>
+        <id>choice_cl38dmzqy00292a6ghdjjmsqb</id>
+        <description lang="en-US">Allgemein Technische Vertragsbedingungen f&amp;uuml;r Bauleistungen</description>
+      </component>
+            <component>
+        <id>choice_cl38dn2z3002a2a6g6d8c7xti</id>
+        <description lang="en-US">Allgemein Technische Vertragsbestandteile VOB Teil C</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6WxDnEZBen7CbIXha9s9czraAhQ9EVuG_rise/c1tPSOeLXpOG_nuW2gPsYbA2Xy-1eHTC/cl38dntoo002b2a6g1o1ar0i9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Marie bietet neben ihren Holzbauprojekten auch Parkettarbeiten mit Echtholzeiche an. Sie fragt sich, ob diese Ausf&amp;uuml;hrungen der Arbeiten &amp;uuml;ber die DIN18334 geregelt sind?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38dqr1c002g2a6g1oneck23</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38dntoo002c2a6gw8p1nxc1</id>
+        <description lang="en-US">Ja, denn jegliche Art von Holzarbeiten sind in diesen ATV&amp;acute;s geregelt.</description>
+      </component>
+            <component>
+        <id>choice_cl38dntoo002d2a6glhtppx1p</id>
+        <description lang="en-US">Nur bedingt, wenn es sich um Massivholzparkett handelt.</description>
+      </component>
+            <component>
+        <id>choice_cl38dqr1c002g2a6g1oneck23</id>
+        <description lang="en-US">Nein, denn f&amp;uuml;r Parkettarbeiten gelten die ATV gem. DIN 18334 nicht.</description>
+      </component>
+            <component>
+        <id>choice_cl38dr04c002h2a6gtx54ty77</id>
+        <description lang="en-US">Nein. Marie muss sich erst f&amp;uuml;r diese Arbeiten beim Gewerbeamt registrieren.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6WxDnEZBen7CbIXha9s9czraAhQ9EVuG_rise/c1tPSOeLXpOG_nuW2gPsYbA2Xy-1eHTC/cl38dreeg002i2a6gh2bhnbvm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas muss nach erfolgter Deckenbalkensanierung nun einen Fehlboden bzw. Zwischenboden einbauen. Als Auflager der Bretter montiert er 4x6 Latten der G&amp;uuml;teklasse II. Der Bauherr beschwert sich, dies sei nicht gem. den ATV.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38dreeg002m2a6gfb660rus</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38dreeg002j2a6gigcxfze9</id>
+        <description lang="en-US">Der Bauherr hat recht, da f&amp;uuml;r den Zwischenboden Latten im gr&amp;ouml;&amp;szlig;eren Querschnitt verwendet werden m&amp;uuml;ssen.</description>
+      </component>
+            <component>
+        <id>choice_cl38dreeg002l2a6g8mbq0ks4</id>
+        <description lang="en-US">Der Bauherr liegt falsch, da Zwischenb&amp;ouml;den gar nicht in den ATV geregelt sind.</description>
+      </component>
+            <component>
+        <id>choice_cl38dreeg002m2a6gfb660rus</id>
+        <description lang="en-US">Der Bauherr liegt falsch, da nach DIN68365 ein Mindestquerschnitt von 24x48mm festgelegt ist.</description>
+      </component>
+            <component>
+        <id>choice_cl38dreeg002k2a6gv0z04mxe</id>
+        <description lang="en-US">Der Bauherr hat recht, da die Latten der G&amp;uuml;teklasse I entsprechen m&amp;uuml;ssen.&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6WxDnEZBen7CbIXha9s9czraAhQ9EVuG_rise/c1tPSOeLXpOG_nuW2gPsYbA2Xy-1eHTC/cl38dspo200362a6gvxepf8mw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas bindet f&amp;uuml;r den Kunden einen Dachstuhl ab. Bei der Kehlbalkenlage entscheidet er sich f&amp;uuml;r eine Schwalbenschwanzverbindung mit den Mittelpfetten. Welchen Spielraum hat er nach ATV bei der Art der Holzverbindung?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38dspo200392a6gtulwwo72</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38dspo200372a6g496h5jv1</id>
+        <description lang="en-US">Er hat keinen Spielraum, da er sich nach den neuesten ATV gem. DIN18334 an Ingenieursverbindungen halten muss.</description>
+      </component>
+            <component>
+        <id>choice_cl38dspo200392a6gtulwwo72</id>
+        <description lang="en-US">Thomas ist &amp;uuml;berlassen welche Holzverbindung er w&amp;auml;hlt.</description>
+      </component>
+            <component>
+        <id>choice_cl38dspo2003a2a6g05kvmpay</id>
+        <description lang="en-US">Solange er keine traditionellen Holzverbindungen w&amp;auml;hlt muss er sich nach den Vorgaben des VOB Teil C halten.</description>
+      </component>
+            <component>
+        <id>choice_cl38dspo200382a6gpol58jo8</id>
+        <description lang="en-US">Der Spielraum ist von Region zu Region unterschiedlich.&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6WxDnEZBen7CbIXha9s9czraAhQ9EVuG_rise/c1tPSOeLXpOG_nuW2gPsYbA2Xy-1eHTC/cl38dubdu003u2a6gix12jkrq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei welchen der folgenden M&amp;auml;ngel kann der Auftragnehmer Bedenken geltend machen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38dubdu003v2a6ganza6m5i</correctResponsePattern>
+            <correctResponsePattern>choice_cl38dubdu003w2a6g8x9x4jxr</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38dubdu003v2a6ganza6m5i</id>
+        <description lang="en-US">Fehlende Voraussetzungen f&amp;uuml;r die Verankerung und Befestigung</description>
+      </component>
+            <component>
+        <id>choice_cl38dubdu003w2a6g8x9x4jxr</id>
+        <description lang="en-US">Zu hoher Baufeuchte</description>
+      </component>
+            <component>
+        <id>choice_cl38dv0v0003y2a6gv2sbpjy7</id>
+        <description lang="en-US">Fehlender chemischer Holzschutz im Auflagerbereich Mauerwerk</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6WxDnEZBen7CbIXha9s9czraAhQ9EVuG_rise/c1tPSOeLXpOG_nuW2gPsYbA2Xy-1eHTC/cl38dv9yh00412a6gnqvafcze" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei welchen der folgenden M&amp;auml;ngel kann der Auftragnehmer Bedenken geltend machen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38duwwe003x2a6g8j7d1iu6</correctResponsePattern>
+            <correctResponsePattern>choice_cl38dv4nf003z2a6gskjouoxj</correctResponsePattern>
+            <correctResponsePattern>choice_cl38dv7w600402a6ghze2n8a6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38duwwe003x2a6g8j7d1iu6</id>
+        <description lang="en-US">Fehlende Aussparungen</description>
+      </component>
+            <component>
+        <id>choice_cl38dv4nf003z2a6gskjouoxj</id>
+        <description lang="en-US">Unrichtiger Lage von H&amp;ouml;he von Fundamenten, Auflagern und sonstigen Unterkonstruktionen</description>
+      </component>
+            <component>
+        <id>choice_cl38dv7w600402a6ghze2n8a6</id>
+        <description lang="en-US">Fehlende H&amp;ouml;henbezugspunkte je Gescho&amp;szlig;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6WxDnEZBen7CbIXha9s9czraAhQ9EVuG_rise/c1tPSOeLXpOG_nuW2gPsYbA2Xy-1eHTC/cl38dx77z005c2a6gznv5ne30" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas pr&amp;uuml;ft die Arbeit seiner Mitarbeiter. Er entdeckt, dass f&amp;uuml;r die Ortgang- und Traufschalung einfache ungehobelte Bretter montiert wurden. Entspricht dies den Normen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38dxxfr005g2a6ge4rcs5vf</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38dx77z005d2a6g45dwuju2</id>
+        <description lang="en-US">Ja, da durch die Dach&amp;uuml;berst&amp;auml;nde der konstruktive Holzschutz DIN68800 gegeben ist.</description>
+      </component>
+            <component>
+        <id>choice_cl38dx77z005e2a6gak28yrte</id>
+        <description lang="en-US">Ja, da diese eh nochmal vom Maler lackiert werden.</description>
+      </component>
+            <component>
+        <id>choice_cl38dxt6t005f2a6g0485yknj</id>
+        <description lang="en-US">Nein, die Bretter m&amp;uuml;ssen nach DIN 68365 gespundet sein und mindestens eine St&amp;auml;rke von 15mm haben.</description>
+      </component>
+            <component>
+        <id>choice_cl38dxxfr005g2a6ge4rcs5vf</id>
+        <description lang="en-US">Nein, die Bretter m&amp;uuml;ssen der G&amp;uuml;teklasse II entsprechen, gespundet und 18mm dick sein sowie an der Sichtfl&amp;auml;che gehobelt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6WxDnEZBen7CbIXha9s9czraAhQ9EVuG_rise/c1tPSOeLXpOG_nuW2gPsYbA2Xy-1eHTC/cl38dy7kc005h2a6gbdgk7kkg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas montiert f&amp;uuml;r einen Anbau eines Holzrahmenbaus f&amp;uuml;r den Kunden eine St&amp;uuml;lpschalung. Welche der folgenden Vorgaben sind nach ATV richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38dy7kc005j2a6gotcbyy2q</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38dy7kc005i2a6gqdl08aat</id>
+        <description lang="en-US">St&amp;uuml;lpschalungen m&amp;uuml;ssen aus profilierten, bes&amp;auml;umten Brettern sein. &amp;Uuml;berdeckung 12% der Brettbreite und 15mm dick.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl38dy7kc005k2a6gugn0z95r</id>
+        <description lang="en-US">St&amp;uuml;lpschalungen m&amp;uuml;ssen aus profilierten, bes&amp;auml;umten Brettern sein. &amp;Uuml;berdeckung mind. 10mm. Mindestdicke 18mm.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl38dy7kc005l2a6gqwl13kd8</id>
+        <description lang="en-US">St&amp;uuml;lpschalungen m&amp;uuml;ssen aus nicht profilierten, bes&amp;auml;umten Brettern sein. &amp;Uuml;berdeckung 15% der Brettbreite, jedoch mind. 10mm und 15mm dick.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl38dy7kc005j2a6gotcbyy2q</id>
+        <description lang="en-US">St&amp;uuml;lpschalungen m&amp;uuml;ssen aus nicht profilierten, bes&amp;auml;umten Brettern sein. &amp;Uuml;berdeckung 12% der Brettbreite, jedoch mind. 10mm und 18mm dick.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://6WxDnEZBen7CbIXha9s9czraAhQ9EVuG_rise/c1tPSOeLXpOG_nuW2gPsYbA2Xy-1eHTC/cl38dzbum00652a6g9gtzgfci" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Marie rechnet ihre Nebenleistungen gesondert als separate Rechnung ab. Der Kunde beschwert sich und meint, dass dies in ihrem Angebot enthalten sein sollte. Wie ist die Regel?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38dzbum00662a6gfv6rc517</correctResponsePattern>
+            <correctResponsePattern>choice_cl38dzbum00682a6gjth4ykzn</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38dzbum00662a6gfv6rc517</id>
+        <description lang="en-US">Nebenleistungen sind in den Einheitspreisen enthalten und somit auch Teil des Angebotes.</description>
+      </component>
+            <component>
+        <id>choice_cl38dzbum00682a6gjth4ykzn</id>
+        <description lang="en-US">Nebenleistungen k&amp;ouml;nnen nur dann gesondert abgerechnet werden, wenn sie als gesonderte Position oder Ausf&amp;uuml;hrungsvorgaben im LV aufgef&amp;uuml;hrt sind.</description>
+      </component>
+            <component>
+        <id>choice_cl38dzbum00692a6gaye6vk51</id>
+        <description lang="en-US">Nebenleistungen k&amp;ouml;nnen separat abgerechnet werden, auch wenn es um Befestigungsmaterial geht bis 6mm Durchmesser.</description>
+      </component>
+            <component>
+        <id>choice_cl38dzbum00672a6gyyqc8bpn</id>
+        <description lang="en-US">Marie musste 1,5cm auff&amp;uuml;ttern um eine ebene Fl&amp;auml;che des Ringbetonankers herzustellen. Diese Leistung muss er gesondert abrechnen.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

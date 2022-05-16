@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://uUOg5DGpPrWQJxil80PwrlR9wNzAcn7U_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">VOB C - Teil 2 (Zimmerer)</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://uUOg5DGpPrWQJxil80PwrlR9wNzAcn7U_rise/0YE-t8JrG4lnEiHoaa5kgpSL7NaY8R0x" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://uUOg5DGpPrWQJxil80PwrlR9wNzAcn7U_rise/0YE-t8JrG4lnEiHoaa5kgpSL7NaY8R0x/cl38e36yv00022a6gb4x4v1g4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Thomas hat f&amp;uuml;r den Kunden die neu eingebaute Treppe zum Schutz abgeklebt und mit Folie eingepackt, damit seine Mitarbeiter ins Dachgeschoss kommen ohne die Treppe zu besch&amp;auml;digen. Thomas rechnet diese Leistung als besondere Leistung ab. Der Kunde meint, dass dies als Nebenleistung in seinem Angebot enthalten sein muss. Wie ist die Regel?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38e36yv00042a6g0htw2msa</correctResponsePattern>
+            <correctResponsePattern>choice_cl38e36yv00062a6gczx40gal</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38e36yv00032a6gz05rd6q7</id>
+        <description lang="en-US">Thomas kann das nicht als besondere Leistung abrechnen, da er allgemein immer sicherstellen muss, dass nichts auf der Baustelle besch&amp;auml;digt wird.</description>
+      </component>
+            <component>
+        <id>choice_cl38e36yv00052a6glngn4yo1</id>
+        <description lang="en-US">Der Kunde liegt richtig, da dies als Nebenleistung in der Angebotskalkulation beinhaltet sein muss.</description>
+      </component>
+            <component>
+        <id>choice_cl38e36yv00062a6gczx40gal</id>
+        <description lang="en-US">Diese Art von Leistung gilt als besondere Leistung und ist nicht in den Einheitspreisen enthalten. Thomas muss sie aber nicht erbringen, wenn es in den Ausf&amp;uuml;hrungsvorgaben nicht aufgef&amp;uuml;hrt sind.</description>
+      </component>
+            <component>
+        <id>choice_cl38e36yv00042a6g0htw2msa</id>
+        <description lang="en-US">Diese Art von Leitung gilt als besondere Leistung und ist nicht in den Einheitspreisen enthalten. Thomas muss sie erbringen, wenn es als gesonderte Position im LV aufgef&amp;uuml;hrt ist.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://uUOg5DGpPrWQJxil80PwrlR9wNzAcn7U_rise/0YE-t8JrG4lnEiHoaa5kgpSL7NaY8R0x/cl38e4r67001i2a6gmc3u71kk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Aussagen entsprechen den ATV VOB Teil C?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38e4r67001j2a6gba5rhvpt</correctResponsePattern>
+            <correctResponsePattern>choice_cl38e5928001l2a6g7433f834</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38e4r67001j2a6gba5rhvpt</id>
+        <description lang="en-US">Bei allen Holzbauteilen ist DIN68800 Teil 2 &amp;bdquo;Holzschutz im Hochbau; Vorbeugende bauliche Ma&amp;szlig;nahmen&amp;ldquo; zu beachten.</description>
+      </component>
+            <component>
+        <id>choice_cl38e4r67001k2a6g72u9l3er</id>
+        <description lang="en-US">Das Verfahren der Verarbeitung der Holzschutzmittel bestimmt der Auftraggeber.</description>
+      </component>
+            <component>
+        <id>choice_cl38e5928001l2a6g7433f834</id>
+        <description lang="en-US">Die Holzschutzmittel sind so auszuw&amp;auml;hlen, dass sie mit den in Ber&amp;uuml;hrung kommenden anderen Baustoffen vertr&amp;auml;glich sind.</description>
+      </component>
+            <component>
+        <id>choice_cl38e5c3k001m2a6gvwgkwhro</id>
+        <description lang="en-US">Der chemische Holzschutz von Bauholz ist nach DIN68800 Teil 3 allgemein im Au&amp;szlig;enbereich vorbeugend anzuwenden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://uUOg5DGpPrWQJxil80PwrlR9wNzAcn7U_rise/0YE-t8JrG4lnEiHoaa5kgpSL7NaY8R0x/cl38e5pg7001v2a6gju3c4t8j" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Aussagen entsprechen den ATV VOB Teil C?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38e5pg8001w2a6glh98wtng</correctResponsePattern>
+            <correctResponsePattern>choice_cl38e5pg8001x2a6g72svcgnq</correctResponsePattern>
+            <correctResponsePattern>choice_cl38e5pg8001y2a6gl6l1bnqa</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38e5pg8001w2a6glh98wtng</id>
+        <description lang="en-US">Treppen m&amp;uuml;ssen so zusammengearbeitet und aufgestellt werden, dass die Stufen beim Begehen nicht knarren.</description>
+      </component>
+            <component>
+        <id>choice_cl38e5pg8001y2a6gl6l1bnqa</id>
+        <description lang="en-US">Sichtbar bleibende Holzoberfl&amp;auml;chen der Treppen und Gel&amp;auml;nder sind zu schleifen sowie alle sichtbar bleibenden Holzkanten sind zu brechen.</description>
+      </component>
+            <component>
+        <id>choice_cl38e5pg8001z2a6glpzvw058</id>
+        <description lang="en-US">Trittstufen d&amp;uuml;rfen nicht aus verleimten Einzelteilen hergestellt werden.</description>
+      </component>
+            <component>
+        <id>choice_cl38e5pg8001x2a6g72svcgnq</id>
+        <description lang="en-US">Bei Handlaufkr&amp;uuml;mmlingen ist es ausreichend sie mit D&amp;uuml;beln an die anschlie&amp;szlig;enden Handl&amp;auml;ufe zu verbinden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://uUOg5DGpPrWQJxil80PwrlR9wNzAcn7U_rise/0YE-t8JrG4lnEiHoaa5kgpSL7NaY8R0x/cl38e6lxw003g2a6glt5t9exe" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Aussagen entsprechen den ATV VOB Teil C?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38e6lxw003h2a6gz2qdhif3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38e6lxw003h2a6gz2qdhif3</id>
+        <description lang="en-US">Bei allen Holzbauarten ist DIN 68800 Teil 2 &amp;bdquo;Holzschutz im Hochbau; vorbeugende bauliche Ma&amp;szlig;nahmen&amp;ldquo; zu beachten.</description>
+      </component>
+            <component>
+        <id>choice_cl38e6lxw003i2a6gwrij6pbl</id>
+        <description lang="en-US">In jeder Hinsicht d&amp;uuml;rfen keine chemischen Holzschutzmittel verwendet werden.</description>
+      </component>
+            <component>
+        <id>choice_cl38e84g8003y2a6gx6dasdwn</id>
+        <description lang="en-US">Chemischer Holzschutz ist eine fachliche Entscheidung und gilt somit als Nebenleistung.</description>
+      </component>
+            <component>
+        <id>choice_cl38e87u000482a6g23kadjtp</id>
+        <description lang="en-US">Konstruktiver Holzschutz ist eine fachliche Entscheidung und gilt somit als Nebenleistung.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://uUOg5DGpPrWQJxil80PwrlR9wNzAcn7U_rise/0YE-t8JrG4lnEiHoaa5kgpSL7NaY8R0x/cl38e8hgl004i2a6g9h1yqtx1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Marie soll einen alten Dachstuhl sanieren. Dabei soll so viel es geht erhalten bleiben. F&amp;uuml;r neue statische Verbindungen verwendet sie Gewindestangen, Bulldocks sowie Muttern mit Unterlegscheiben. Teilweise liegt die Unterlegscheibe schief am Holz, da sich bei dem alten Sparren dort eine Baumkante befindet. Ist dies zul&amp;auml;ssig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38e8hgm004k2a6gmhznxnpm</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38e8hgm004j2a6g8xbxi6oy</id>
+        <description lang="en-US">Ja, denn Marie kann dies schriftlich und rechnerisch nachweisen und dem Bauherrn best&amp;auml;tigen.</description>
+      </component>
+            <component>
+        <id>choice_cl38e8hgm004k2a6gmhznxnpm</id>
+        <description lang="en-US">Nein, denn Baumkanten d&amp;uuml;rfen nicht die Funktion der Verbindungsmittel beeintr&amp;auml;chtigen.</description>
+      </component>
+            <component>
+        <id>choice_cl38e9ixm004l2a6gehp1cd9w</id>
+        <description lang="en-US">Nein, denn Baumkanten sind stark gef&amp;auml;hrdet beim Befall von Holzsch&amp;auml;dlingen. Diese k&amp;ouml;nnten durch Fra&amp;szlig;g&amp;auml;nge die Kraftschl&amp;uuml;ssigkeit beeintr&amp;auml;chtigen.</description>
+      </component>
+            <component>
+        <id>choice_cl38e9nmt004m2a6gwsjshrsc</id>
+        <description lang="en-US">Ja, das ist trotz der Baumkanten eine kraftschl&amp;uuml;ssige Verbindung.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://uUOg5DGpPrWQJxil80PwrlR9wNzAcn7U_rise/0YE-t8JrG4lnEiHoaa5kgpSL7NaY8R0x/cl38e9xwt004n2a6g1f2f9qxn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Warum ist der Teil C der VOB so wichtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38e9xwu004o2a6gj7xq4uc5</correctResponsePattern>
+            <correctResponsePattern>choice_cl38e9xwu004p2a6gep3sug6z</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38e9xwu004o2a6gj7xq4uc5</id>
+        <description lang="en-US">Der Teil C gibt Vorschriften zum Aufstellen der Leistungsbeschreibungen, Nebenleistungen und besondere Leistungen sowie zur Abrechnung.</description>
+      </component>
+            <component>
+        <id>choice_cl38e9xwu004p2a6gep3sug6z</id>
+        <description lang="en-US">Der Teil C stellt sicher, dass die Leistungen f&amp;uuml;r die Unternehmen seri&amp;ouml;s und mit vertretbarem Aufwand kalkulierbar sind und st&amp;auml;rken damit den Wettbewerb.</description>
+      </component>
+            <component>
+        <id>choice_cl38eai4k004w2a6grmu3io7t</id>
+        <description lang="en-US">Der Teil C stellt auch sicher, dass die Auftragnehmer finanziell vom DIBt abgesichert werden, falls der Auftraggeber nicht zahlt.</description>
+      </component>
+            <component>
+        <id>choice_cl38eamrq00592a6gemujg7ye</id>
+        <description lang="en-US">Wer nach VOB Teil C arbeitet gilt als zertifiziertes Unternehmen gem&amp;auml;&amp;szlig; LBO des jeweiligen Bundeslandes und darf als Fachbetrieb sein Gewerk ausf&amp;uuml;hren.</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

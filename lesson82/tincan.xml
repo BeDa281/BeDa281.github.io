@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://mbwoX6OhIgPkgKQcl0STPE72OOemgvJf_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Baulicher Brandschutz - Quiz 3</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://mbwoX6OhIgPkgKQcl0STPE72OOemgvJf_rise/eUwuWaY1GebOggbQ9rZjHkIIDT8FVWqI" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://mbwoX6OhIgPkgKQcl0STPE72OOemgvJf_rise/eUwuWaY1GebOggbQ9rZjHkIIDT8FVWqI/cl38fofwz000g2a6fsipazj2c" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Dokumente m&amp;uuml;ssen Sie als Fachunternehmer/Ersteller der Gewerke Brandschutz (z. B. Kombiabschottung/ F90 Trockenbauwand) im Rahmen der Ausf&amp;uuml;hrung mindestens bereitstellen wenn vertraglich keine besonderen oder zus&amp;auml;tzlichen Anforderungen gestellt wurden? Bitte ankreuzen.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38fofwz000i2a6fxnmkdqra</correctResponsePattern>
+            <correctResponsePattern>choice_cl38fofwz000k2a6f895x7gom</correctResponsePattern>
+            <correctResponsePattern>choice_cl38fofwz000j2a6fbhl0snt3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38fofwz000h2a6fnakbtk2t</id>
+        <description lang="en-US">Montageanleitung</description>
+      </component>
+            <component>
+        <id>choice_cl38fofwz000j2a6fbhl0snt3</id>
+        <description lang="en-US">Fachunternehmererkl&amp;auml;rung</description>
+      </component>
+            <component>
+        <id>choice_cl38fofwz000k2a6f895x7gom</id>
+        <description lang="en-US">&amp;Uuml;bereinstimmungsbest&amp;auml;tigung</description>
+      </component>
+            <component>
+        <id>choice_cl38fofwz000i2a6fxnmkdqra</id>
+        <description lang="en-US">Verwendbarkeitsnachweis (z. B. ABZ/ ABP/ABG etc.)</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mbwoX6OhIgPkgKQcl0STPE72OOemgvJf_rise/eUwuWaY1GebOggbQ9rZjHkIIDT8FVWqI/cl38fpcdg00252a6f638ywnwh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Dokumente m&amp;uuml;ssen Sie als Fachunternehmer/Ersteller der Gewerke Brandschutz (z. B. Kombiabschottung/ F90 Trockenbauwand) im Rahmen der Ausf&amp;uuml;hrung mindestens bereitstellen wenn vertraglich keine besonderen oder zus&amp;auml;tzlichen Anforderungen gestellt wurden? Bitte ankreuzen.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38fofwz000k2a6f895x7gom</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38fofwz000k2a6f895x7gom</id>
+        <description lang="en-US">Kennzeichnungsschild wenn gem&amp;auml;&amp;szlig; Zulassung erforderlich</description>
+      </component>
+            <component>
+        <id>choice_cl38fofwz000i2a6fxnmkdqra</id>
+        <description lang="en-US">Fotodokumentation der Abschottung</description>
+      </component>
+            <component>
+        <id>choice_cl38fpsjo002w2a6fhzqqvzzt</id>
+        <description lang="en-US">Plan mit Verortung der Abschottung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mbwoX6OhIgPkgKQcl0STPE72OOemgvJf_rise/eUwuWaY1GebOggbQ9rZjHkIIDT8FVWqI/cl38fqfy3003e2a6fny4cvuv4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie sollen eine R90 Brandschutzmanschette unterhalb der Decke montieren. Aufgrund beengter Platzverh&amp;auml;ltnisse l&amp;auml;sst sich die Brandschutzmanschette nicht direkt am Bauteil gem&amp;auml;&amp;szlig; Zulassung befestigen. Sie schlagen eine abweichende Sonderl&amp;ouml;sung als sog. Vorbauschott vor (siehe Skizze).&lt;br&gt;Um welchen Abweichungstyp handelt es sich? </name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38frd1z003i2a6f22ach5s4</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38fqfy3003f2a6frbigeyee</id>
+        <description lang="en-US">Abweichung von einer Eingef&amp;uuml;hrten Technischen Baubestimmung, z. B. auf Basis&lt;br&gt;der Leitungsanlagen-Richtlinie</description>
+      </component>
+            <component>
+        <id>choice_cl38fqfy3003g2a6fc3iqxas6</id>
+        <description lang="en-US">Materielle Abweichung vom Bauordnungsrecht</description>
+      </component>
+            <component>
+        <id>choice_cl38frd1z003i2a6f22ach5s4</id>
+        <description lang="en-US">Abweichung von einem Verwendbarkeitsnachweis (z. B. Zulassung)</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mbwoX6OhIgPkgKQcl0STPE72OOemgvJf_rise/eUwuWaY1GebOggbQ9rZjHkIIDT8FVWqI/cl38frjyq003j2a6fjtky3dn1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sie sollen eine R90 Brandschutzmanschette unterhalb der Decke montieren. Aufgrund beengter Platzverh&amp;auml;ltnisse l&amp;auml;sst sich die Brandschutzmanschette nicht direkt am Bauteil gem&amp;auml;&amp;szlig; Zulassung befestigen. Sie schlagen eine abweichende Sonderl&amp;ouml;sung als sog. Vorbauschott vor (siehe Skizze).&lt;br&gt;Um welchen Art der Abweichung handelt es sich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38fqfy3003g2a6fc3iqxas6</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38fqfy3003f2a6frbigeyee</id>
+        <description lang="en-US">eine wesentliche Abweichung oder</description>
+      </component>
+            <component>
+        <id>choice_cl38fqfy3003g2a6fc3iqxas6</id>
+        <description lang="en-US">eine nicht wesentliche Abweichung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mbwoX6OhIgPkgKQcl0STPE72OOemgvJf_rise/eUwuWaY1GebOggbQ9rZjHkIIDT8FVWqI/cl38fsc6p003t2a6flo6q4tae" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In einem notwendigen Flur (Rettungsweg) mit hoher Installationsdichte (Kabeltrassen, brennbare D&amp;auml;mmstoffe etc.) soll gem&amp;auml;&amp;szlig; Brandschutzplanung eine F30 Unterdecke eingebaut werden. Welche Anforderung muss diese Decke erf&amp;uuml;llen. Bitte ankreuzen</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38fsc6p003u2a6fa970vmb9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38fsc6p003u2a6fa970vmb9</id>
+        <description lang="en-US">F30 von oben und unten</description>
+      </component>
+            <component>
+        <id>choice_cl38fsc6p003v2a6f7ie9bzze</id>
+        <description lang="en-US">F 30 nur von unten</description>
+      </component>
+            <component>
+        <id>choice_cl38fsuc4003w2a6f1g442s39</id>
+        <description lang="en-US">F 30 nur von oben</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mbwoX6OhIgPkgKQcl0STPE72OOemgvJf_rise/eUwuWaY1GebOggbQ9rZjHkIIDT8FVWqI/cl38ft481003x2a6ft7enj9kw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Unter welcher nationalen Kurzbezeichnung werden Kabel- oder Rohrabschottungen bezeichnet? Bitte ankreuzen.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38ft481003z2a6fgom1f9ke</correctResponsePattern>
+            <correctResponsePattern>choice_cl38ft48100412a6frwpzfjn9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38ft481003y2a6fgxx0i8bo</id>
+        <description lang="en-US">G 90</description>
+      </component>
+            <component>
+        <id>choice_cl38ft48100402a6fqdxnlbwo</id>
+        <description lang="en-US">F 90 nach LAR</description>
+      </component>
+            <component>
+        <id>choice_cl38ft48100412a6frwpzfjn9</id>
+        <description lang="en-US">S 90</description>
+      </component>
+            <component>
+        <id>choice_cl38ft481003z2a6fgom1f9ke</id>
+        <description lang="en-US">R 90</description>
+      </component>
+            <component>
+        <id>choice_cl38ftt2d004z2a6f8f4tpiqq</id>
+        <description lang="en-US">EI 90</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mbwoX6OhIgPkgKQcl0STPE72OOemgvJf_rise/eUwuWaY1GebOggbQ9rZjHkIIDT8FVWqI/cl38ftyt600562a6f4b3zp6ry" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche leichten Trennw&amp;auml;nde d&amp;uuml;rfen auf Systemb&amp;ouml;den (Doppelboden/ Hohlb&amp;ouml;den) gestellt werden.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38ftyt600582a6ftfio8g15</correctResponsePattern>
+            <correctResponsePattern>choice_cl38funb6005q2a6fpfxa72h2</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38ftyt600572a6f05bfsg3i</id>
+        <description lang="en-US">Wand in der Bauart einer Brandwand</description>
+      </component>
+            <component>
+        <id>choice_cl38ftyt600582a6ftfio8g15</id>
+        <description lang="en-US">W&amp;auml;nde notwendiger Flure innerhalb derselben Nutzungseinheit &amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl38fujrd005h2a6frndfbilo</id>
+        <description lang="en-US">Wohnungstrennw&amp;auml;nde</description>
+      </component>
+            <component>
+        <id>choice_cl38funb6005q2a6fpfxa72h2</id>
+        <description lang="en-US">W&amp;auml;nde die gemeinsam mit den Systemb&amp;ouml;den auf die erforderliche Feuerwiderstandsdauer gepr&amp;uuml;ft wurden</description>
+      </component>
+            <component>
+        <id>choice_cl38fusic005x2a6fbrccshpd</id>
+        <description lang="en-US">W&amp;auml;nde notwendiger Flure die Nutzungseinheiten trennen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://mbwoX6OhIgPkgKQcl0STPE72OOemgvJf_rise/eUwuWaY1GebOggbQ9rZjHkIIDT8FVWqI/cl38fv28n00662a6fdj1ro66t" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Bestandsschutz gilt unter folgenden Voraussetzungen:</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl38fv28o00672a6fcp59zsug</correctResponsePattern>
+            <correctResponsePattern>choice_cl38fv28o00682a6fw7v2cdyh</correctResponsePattern>
+            <correctResponsePattern>choice_cl38fv28o00692a6f6ig56zoq</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl38fv28o00672a6fcp59zsug</id>
+        <description lang="en-US">Errichtet nach damals g&amp;uuml;ltigen Vorschriften</description>
+      </component>
+            <component>
+        <id>choice_cl38fv28o00692a6f6ig56zoq</id>
+        <description lang="en-US">Keine wesentlichen Ver&amp;auml;nderungen</description>
+      </component>
+            <component>
+        <id>choice_cl38fv28o006a2a6fejxsdgh6</id>
+        <description lang="en-US">Sanierung / Umbau bei einem wesentlichen Eingriff in die Geb&amp;auml;udesubstanz</description>
+      </component>
+            <component>
+        <id>choice_cl38fv28o00682a6fw7v2cdyh</id>
+        <description lang="en-US">Renovierung ohne wesentlichen Eingriff in die Substanz</description>
+      </component>
+            <component>
+        <id>choice_cl38fvonw007c2a6fi9nmp0vt</id>
+        <description lang="en-US">Nutzungs&amp;auml;nderung (neuer Bauantrag)</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
