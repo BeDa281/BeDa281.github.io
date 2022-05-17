@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://dnDg6ESdzlmtAyN6zcvL3sEh3r8fcykJ_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Baustoffe Trockenbau - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://dnDg6ESdzlmtAyN6zcvL3sEh3r8fcykJ_rise/3b9cJf2SysK2fUOOoXP1RHsDCa0zRESa" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://dnDg6ESdzlmtAyN6zcvL3sEh3r8fcykJ_rise/3b9cJf2SysK2fUOOoXP1RHsDCa0zRESa/cl39zwfsl001e2a6gwstm7834" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Merkmale entsprechen einem Fertigteilestrich?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl39zwya3001s2a6gjnogld0u</correctResponsePattern>
+            <correctResponsePattern>choice_cl39zx1tt00202a6gbhqf7dzw</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl39zwfsl001f2a6gv23qfgh2</id>
+        <description lang="en-US">Bodensystem bestehend aus Gipsfaser-, Gipskarton-, Kalziumsilikat-, Holzwerkstoff-, oder Perlitplatten</description>
+      </component>
+            <component>
+        <id>choice_cl39zwfsl001g2a6gh3r2kl65</id>
+        <description lang="en-US">Einzelplattensystem</description>
+      </component>
+            <component>
+        <id>choice_cl39zwya3001s2a6gjnogld0u</id>
+        <description lang="en-US">Estrichplatten verklebt mit Stufenfalz bzw. dicke Estrichplatten mit gefr&amp;auml;sten Stufenfalz</description>
+      </component>
+            <component>
+        <id>choice_cl39zx1tt00202a6gbhqf7dzw</id>
+        <description lang="en-US">Estrichplatten bestehend aus hochfesten Gipsfaser Elementen oder aus speziellen Gipsbauplatten verklebt, verschraubt oder geklammert</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://dnDg6ESdzlmtAyN6zcvL3sEh3r8fcykJ_rise/3b9cJf2SysK2fUOOoXP1RHsDCa0zRESa/cl39zxe4q002e2a6gm72jbs0p" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Svenja hat Rissbildungen in den Anschl&amp;uuml;ssen, welche der folgenden Antworten sind relevante Ursachen daf&amp;uuml;r?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl39zxe4q002f2a6gkobhype8</correctResponsePattern>
+            <correctResponsePattern>choice_cl39zxe4q002g2a6gev4k7jxz</correctResponsePattern>
+            <correctResponsePattern>choice_cl39zybgs003y2a6goj1nqect</correctResponsePattern>
+            <correctResponsePattern>choice_cl39zxe4q002i2a6gdfwwuis7</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl39zxe4q002f2a6gkobhype8</id>
+        <description lang="en-US">Ungeeignete Spachtelmasse</description>
+      </component>
+            <component>
+        <id>choice_cl39zxe4q002h2a6gag9jr2ah</id>
+        <description lang="en-US">Zu wenige Fugen in der Fl&amp;auml;che</description>
+      </component>
+            <component>
+        <id>choice_cl39zxe4q002i2a6gdfwwuis7</id>
+        <description lang="en-US">Falsche Anordnung der Fugen bei T&amp;uuml;ren und Fenstern</description>
+      </component>
+            <component>
+        <id>choice_cl39zxe4q002g2a6gev4k7jxz</id>
+        <description lang="en-US">Fehlende Bewegungsfugen in Fl&amp;auml;che und Anschl&amp;uuml;ssen</description>
+      </component>
+            <component>
+        <id>choice_cl39zy6u7003p2a6govtjvetj</id>
+        <description lang="en-US">Fehlende Kreuzfugen</description>
+      </component>
+            <component>
+        <id>choice_cl39zybgs003y2a6goj1nqect</id>
+        <description lang="en-US">Fehlende Fugenvorbereitung; Staub entfernen vorn&amp;auml;ssen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://dnDg6ESdzlmtAyN6zcvL3sEh3r8fcykJ_rise/3b9cJf2SysK2fUOOoXP1RHsDCa0zRESa/cl39zzael00492a6g4rltkiao" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Meister Daniel muss die Arbeiten seiner Mitarbeiter auf der Baustelle bewerten. Nach der Beplankung einer Trockenbauwand sind ihm einige Fehler aufgefallen. Welche der folgenden Ausf&amp;uuml;hrungen sind &lt;u&gt;&lt;strong&gt;falsch&lt;/strong&gt;&lt;/u&gt;?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl39zzael004b2a6g37h2pnpk</correctResponsePattern>
+            <correctResponsePattern>choice_cl39zzael004d2a6gyxm39mla</correctResponsePattern>
+            <correctResponsePattern>choice_cl39zzael004c2a6glmxs4pyf</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl39zzael004a2a6gsevhdgxr</id>
+        <description lang="en-US">Die Gipsplatten sind auf dem St&amp;auml;nder fugenversetzt mit mindestens einem St&amp;auml;nderprofil dicht gesto&amp;szlig;en worden</description>
+      </component>
+            <component>
+        <id>choice_cl39zzael004c2a6glmxs4pyf</id>
+        <description lang="en-US">Auf der Seite der zweilagigen Beplankung wurden die Fugen der ersten Lage nicht verf&amp;uuml;llt</description>
+      </component>
+            <component>
+        <id>choice_cl39zzael004d2a6gyxm39mla</id>
+        <description lang="en-US">Die mehrlagigen Beplankungen wurden mit der obersten Beplankung in die Unterkonstruktion verschraubt.</description>
+      </component>
+            <component>
+        <id>choice_cl39zzael004b2a6g37h2pnpk</id>
+        <description lang="en-US">Alle Kreuzfugen wurden sorgf&amp;auml;ltig mit Armierungsgewebe und Fugenmasse verf&amp;uuml;llt</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://dnDg6ESdzlmtAyN6zcvL3sEh3r8fcykJ_rise/3b9cJf2SysK2fUOOoXP1RHsDCa0zRESa/cl3a017dd006x2a6g9duvdcml" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Randbedingungen sollten bei der Ausf&amp;uuml;hrung von Trockenbaukonstruktionen beachtet werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a017de006y2a6g9xwdgq51</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a017de006z2a6gq9itda10</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a017de00702a6gwzk70d33</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a017de006y2a6g9xwdgq51</id>
+        <description lang="en-US">Ausreichende Zeit f&amp;uuml;r Trocknungsphasen und Aufheizen ist zu planen</description>
+      </component>
+            <component>
+        <id>choice_cl3a017de00702a6gwzk70d33</id>
+        <description lang="en-US">Schnelle Temperaturanstiege und Luftfeuchtesenkungen sollten vermieden werden</description>
+      </component>
+            <component>
+        <id>choice_cl3a017de00712a6g3oe4zu32</id>
+        <description lang="en-US">Eine schnelle Trocknung nach Abschluss der Trockenbauarbeiten</description>
+      </component>
+            <component>
+        <id>choice_cl3a017de006z2a6gq9itda10</id>
+        <description lang="en-US">Verwendung von impr&amp;auml;gnierten Platten in R&amp;auml;umen, die auf Dauer mit der Au&amp;szlig;enluft in Verbindung stehen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://dnDg6ESdzlmtAyN6zcvL3sEh3r8fcykJ_rise/3b9cJf2SysK2fUOOoXP1RHsDCa0zRESa/cl3a027im00892a6gownfu496" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Meister Daniel m&amp;ouml;chte die Abnahme mit dem Bauherren durchgehen. Der Bauherr bem&amp;auml;ngelt Fehler bei Rohrdurchf&amp;uuml;hrungen bzw. Durchdringungen. Welche der Ausf&amp;uuml;hrungen sind &lt;u&gt;&lt;strong&gt;falsch&lt;/strong&gt;&lt;/u&gt;?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a027im008b2a6g92ekboq2</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a027im008d2a6g4kpz17og</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a027im008a2a6geuafwi8r</id>
+        <description lang="en-US">Die Rohrdurchf&amp;uuml;hrung wurde mit Anpressmutter und Dichtring ausgebildet.</description>
+      </component>
+            <component>
+        <id>choice_cl3a027im008c2a6gia1zh4bg</id>
+        <description lang="en-US">Der Baustellenverschlussstopfen ist im Durchmesser nicht gr&amp;ouml;&amp;szlig;er als die Rohrdurchf&amp;uuml;hrung selbst.</description>
+      </component>
+            <component>
+        <id>choice_cl3a027im008d2a6g4kpz17og</id>
+        <description lang="en-US">Die Anschlussmuffe f&amp;uuml;hrt bis zur Oberfl&amp;auml;chenebene der sp&amp;auml;teren Verfliesung und ragt 1cm dar&amp;uuml;ber hinaus.</description>
+      </component>
+            <component>
+        <id>choice_cl3a027im008b2a6g92ekboq2</id>
+        <description lang="en-US">Die Anschlussmuffe f&amp;uuml;hrt bis zur Oberfl&amp;auml;chenebene der sp&amp;auml;teren Verfliesung und ragt nicht dar&amp;uuml;ber hinaus.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://dnDg6ESdzlmtAyN6zcvL3sEh3r8fcykJ_rise/3b9cJf2SysK2fUOOoXP1RHsDCa0zRESa/cl3a03d3400at2a6g3qh9okwk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Typen von Anschl&amp;uuml;ssen werden auf der Grundlage des Merkblattes Nr. 3 IGG unterschieden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a03d3400au2a6g7g9qknqm</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a03d3400av2a6g1x39c6n5</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a03d3400aw2a6gq7fanm9b</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a03d3400ax2a6g31eeecud</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a040yr00c22a6gkp42wevi</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a03d3400au2a6g7g9qknqm</id>
+        <description lang="en-US">A &amp;ndash; starr angespachtelter Anschluss</description>
+      </component>
+            <component>
+        <id>choice_cl3a03d3400aw2a6gq7fanm9b</id>
+        <description lang="en-US">B &amp;ndash; starr angespachtelter Anschluss an Trockenbaukonstruktionen mit Gipsplatten</description>
+      </component>
+            <component>
+        <id>choice_cl3a03d3400ax2a6g31eeecud</id>
+        <description lang="en-US">C &amp;ndash; Anschlussfuge mit Dichtstoffen</description>
+      </component>
+            <component>
+        <id>choice_cl3a03d3400av2a6g1x39c6n5</id>
+        <description lang="en-US">D &amp;ndash; offene Anschlussfuge (Schattenfuge)</description>
+      </component>
+            <component>
+        <id>choice_cl3a040yr00c22a6gkp42wevi</id>
+        <description lang="en-US">E &amp;ndash; gleitende Anschlussfuge (horizontale und vertikale Gleitung)</description>
+      </component>
+            <component>
+        <id>choice_cl3a044fv00cb2a6gbzjdketg</id>
+        <description lang="en-US">F &amp;ndash; geschlossene Anschlussfuge (vertikal)</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://dnDg6ESdzlmtAyN6zcvL3sEh3r8fcykJ_rise/3b9cJf2SysK2fUOOoXP1RHsDCa0zRESa/cl3a04etl00ci2a6g5w83ucjc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Auf der Baustelle wurden Faserd&amp;auml;mmstoffe f&amp;uuml;r Schall- und Brandschutz verbaut. Welche der folgenden Ausf&amp;uuml;hrungen sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a04etl00cj2a6gk6vc8ibn</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a04etl00cm2a6gh6vvybgv</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a04etl00cj2a6gk6vc8ibn</id>
+        <description lang="en-US">Die D&amp;auml;mmstoffe wurden &amp;uuml;ber die gesamte Fl&amp;auml;che dicht gesto&amp;szlig;en und abrutschsicher verlegt.</description>
+      </component>
+            <component>
+        <id>choice_cl3a04etl00cl2a6gn5w6m8ul</id>
+        <description lang="en-US">Die D&amp;auml;mmstoffe wurden an angrenzende Bauteile mit einem Abstand von 2cm angeschlossen.</description>
+      </component>
+            <component>
+        <id>choice_cl3a04etl00cm2a6gh6vvybgv</id>
+        <description lang="en-US">Die Hohlr&amp;auml;ume zwischen T&amp;uuml;r- und Fensterzargen wurden mit dem D&amp;auml;mmstoff ausgestopft.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl3a04etl00ck2a6g1rettrr2</id>
+        <description lang="en-US">Die Hohlr&amp;auml;ume zwischen T&amp;uuml;r- und Fensterzargen wurden ausgelassen und statt mit Faserd&amp;auml;mmstoffen mit Brandschutzschaum gef&amp;uuml;llt.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://dnDg6ESdzlmtAyN6zcvL3sEh3r8fcykJ_rise/3b9cJf2SysK2fUOOoXP1RHsDCa0zRESa/cl3a05snb00e12a6g7fvmw9uk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Trockenbaumeisterin Svenja erkl&amp;auml;rt dem Kunden, weshalb gipsgebundene Platten f&amp;uuml;r Brandschutz genutzt werden k&amp;ouml;nnen. Welche der folgenden Aussagen sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a05snc00e22a6gdo0sgxf5</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a05snc00e32a6ggg7s3tv0</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a05snc00e52a6gbbwqwy9s</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a05snc00e22a6gdo0sgxf5</id>
+        <description lang="en-US">Gipsplatten enthalten chemisch gebundenes Wasser. Im Brandfall wird dieses Kristallwasser als Wasserdampf freigesetzt.</description>
+      </component>
+            <component>
+        <id>choice_cl3a05snc00e42a6gf1rq4ju2</id>
+        <description lang="en-US">Durch die Freisetzung des Wasserdampfs und die chemische Wechselwirkung kann das Feuer um 80% reduziert werden.</description>
+      </component>
+            <component>
+        <id>choice_cl3a05snc00e52a6gbbwqwy9s</id>
+        <description lang="en-US">Die Freisetzung des Wasserdampfs verz&amp;ouml;gert die Brandeinwirkung auf die dahinterliegenden Bauteile.</description>
+      </component>
+            <component>
+        <id>choice_cl3a05snc00e32a6ggg7s3tv0</id>
+        <description lang="en-US">Gipsplatten mit der Klassifizierung F verf&amp;uuml;gen &amp;uuml;ber einen verbesserten Gef&amp;uuml;gezusammenhalt des Kerns bei hohen Temperaturen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://dnDg6ESdzlmtAyN6zcvL3sEh3r8fcykJ_rise/3b9cJf2SysK2fUOOoXP1RHsDCa0zRESa/cl3a076z000fz2a6gs4tpr2hy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Meister Daniel fragt seinen Lehrling im 1. Lehrjahr welche g&amp;uuml;nstigen Eigenschaften gipsgebundenen Platten haben. Welche der folgenden Aussagen sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a076z000g02a6gf3l61iec</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a07x4p00hb2a6gxuajdpvj</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a081g700hk2a6gmdcvisq1</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a076z000g22a6gvdrxviwf</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a076z000g32a6gwd5ynlnu</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a076z000g02a6gf3l61iec</id>
+        <description lang="en-US">Einfache Verarbeitung und nicht brennbar</description>
+      </component>
+            <component>
+        <id>choice_cl3a076z000g22a6gvdrxviwf</id>
+        <description lang="en-US">Vielseitige Oberfl&amp;auml;chenbeschichtung</description>
+      </component>
+            <component>
+        <id>choice_cl3a076z000g32a6gwd5ynlnu</id>
+        <description lang="en-US">Formbarkeit (Falt und Biegetechnik)</description>
+      </component>
+            <component>
+        <id>choice_cl3a076z000g12a6gggnza78g</id>
+        <description lang="en-US">Hohe hygrische und thermische Form&amp;auml;nderungen</description>
+      </component>
+            <component>
+        <id>choice_cl3a07x4p00hb2a6gxuajdpvj</id>
+        <description lang="en-US">Feuchtigkeitsregulierende Eigenschaften</description>
+      </component>
+            <component>
+        <id>choice_cl3a081g700hk2a6gmdcvisq1</id>
+        <description lang="en-US">Wirtschaftliche industrielle Produktion</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://dnDg6ESdzlmtAyN6zcvL3sEh3r8fcykJ_rise/3b9cJf2SysK2fUOOoXP1RHsDCa0zRESa/cl3a08ul100in2a6gkjau59o6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Meister Daniel schickt seinen Lehrling zum Lieferanten, um Brandschutzplatten zu besorgen. Der Lehrling soll bei der Warenannahme die Platten pr&amp;uuml;fen, ob Sie f&amp;uuml;r den Einsatz zul&amp;auml;ssig sind. Welche der folgenden Platten k&amp;ouml;nnen bei Brandschutz in Trockenbausystemen zum Einsatz kommen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a08ul200io2a6go234z01u</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a08ul200iq2a6gjuyb3t0d</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a08ul200ir2a6gvoiy1grl</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a09hs500jq2a6gxwtgbr3g</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a09m1z00jx2a6gt2z51yzu</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a09p8u00k42a6gkkaa8i1w</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a08ul200io2a6go234z01u</id>
+        <description lang="en-US">Gipsplatten</description>
+      </component>
+            <component>
+        <id>choice_cl3a08ul200iq2a6gjuyb3t0d</id>
+        <description lang="en-US">Gipsfaserplatten</description>
+      </component>
+            <component>
+        <id>choice_cl3a08ul200ir2a6gvoiy1grl</id>
+        <description lang="en-US">Zementgebundene Fibersilikat Platten</description>
+      </component>
+            <component>
+        <id>choice_cl3a09hs500jq2a6gxwtgbr3g</id>
+        <description lang="en-US">Glasfaserleichtbeton Platte mit Bl&amp;auml;hglasgranulat</description>
+      </component>
+            <component>
+        <id>choice_cl3a09m1z00jx2a6gt2z51yzu</id>
+        <description lang="en-US">Zementgebundene Faserplatte nach DIN EN 12467</description>
+      </component>
+            <component>
+        <id>choice_cl3a09p8u00k42a6gkkaa8i1w</id>
+        <description lang="en-US">Mineralfaserplatten</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

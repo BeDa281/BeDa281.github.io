@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://oBoGMhcD7kXPOOZHrEQNbS_oZJwFZ45e_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Baustoffe Trockenbau - Quiz 4</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://oBoGMhcD7kXPOOZHrEQNbS_oZJwFZ45e_rise/N0nXfCgxS9o25lJqx3ZDoU9SGzOcriME" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://oBoGMhcD7kXPOOZHrEQNbS_oZJwFZ45e_rise/N0nXfCgxS9o25lJqx3ZDoU9SGzOcriME/cl3a3roox001r2a6fyldb0w8f" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Daniels Lehrling sollte Gipsplatten direkt auf Holzwerkstoffplatten montieren. Jedoch haben sich einige Fugenrisse gebildet. Welche der folgenden Ausf&amp;uuml;hrungen h&amp;auml;tte er unbedingt leisten m&amp;uuml;ssen, um die Fugenrisse zu vermeiden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a3roox001s2a6fp1lthh9o</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3roox001t2a6fbncl6ez3</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3roox001u2a6fj5xad19x</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a3roox001s2a6fp1lthh9o</id>
+        <description lang="en-US">Unterkonstruktion mit Dachlatten</description>
+      </component>
+            <component>
+        <id>choice_cl3a3roox001u2a6fj5xad19x</id>
+        <description lang="en-US">Einbau einer Trennschicht in Form von Kraftpapier bzw. PE Folie</description>
+      </component>
+            <component>
+        <id>choice_cl3a3roox001v2a6fsrvuz11j</id>
+        <description lang="en-US">Befestigung mit Schrauben und nicht mit Klammern</description>
+      </component>
+            <component>
+        <id>choice_cl3a3roox001t2a6fbncl6ez3</id>
+        <description lang="en-US">Gipsfaserplatten mit Klebefugen verlegen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oBoGMhcD7kXPOOZHrEQNbS_oZJwFZ45e_rise/N0nXfCgxS9o25lJqx3ZDoU9SGzOcriME/cl3a3so45003e2a6ftm68spg6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Aussagen &amp;uuml;ber Holzrahmenbauweise ist richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a3so45003f2a6f20l9f0l8</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3so45003h2a6fpqhfqeda</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3so45003g2a6fxzstwxnm</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a3so45003f2a6f20l9f0l8</id>
+        <description lang="en-US">Die moderne Form des Skelettbaus ist die Holzrahmenbauweise</description>
+      </component>
+            <component>
+        <id>choice_cl3a3so45003h2a6fpqhfqeda</id>
+        <description lang="en-US">Die Zwischenr&amp;auml;ume werden vor der Beplankung mit Holzwerkstoffen und Gipsplatten mit D&amp;auml;mmstoffen gef&amp;uuml;llt.</description>
+      </component>
+            <component>
+        <id>choice_cl3a3so45003i2a6f0wdbynfg</id>
+        <description lang="en-US">Bei der Holzrahmenbauweise sind Fenster und T&amp;uuml;ren sowie Innen- und Au&amp;szlig;enverkleidungen im Werk vormontiert.</description>
+      </component>
+            <component>
+        <id>choice_cl3a3so45003g2a6fxzstwxnm</id>
+        <description lang="en-US">Bei der Holzrahmenbauweise wird die Aussteifung der Wand durch die Montage der Beplankung erreicht.&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oBoGMhcD7kXPOOZHrEQNbS_oZJwFZ45e_rise/N0nXfCgxS9o25lJqx3ZDoU9SGzOcriME/cl3a3vwmf004s2a6fpshylxvb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Aussagen sind zielf&amp;uuml;hrende Ausf&amp;uuml;hrungen, um Sch&amp;auml;den im Raumabschluss zu vermeiden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a3vwmf004t2a6f0d5psgvu</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3vwmf004u2a6fp5z3zqcq</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3wyk800642a6f393ixji2</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3vwmf004w2a6f3bbmkl32</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3vwmf004v2a6f3ssonvdz</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a3vwmf004t2a6f0d5psgvu</id>
+        <description lang="en-US">Gleitende Decken- und Wandanschl&amp;uuml;sse herstellen</description>
+      </component>
+            <component>
+        <id>choice_cl3a3vwmf004v2a6f3ssonvdz</id>
+        <description lang="en-US">Fugen sind bei ausgepr&amp;auml;gten Querschnitts&amp;auml;nderungen der Bekleidungsfl&amp;auml;che wie Flurerweiterungen oder einspringende W&amp;auml;nde anzuordnen</description>
+      </component>
+            <component>
+        <id>choice_cl3a3vwmf004w2a6f3bbmkl32</id>
+        <description lang="en-US">Dehnungsfugen oder Bewegungsfugen sind bei gr&amp;ouml;&amp;szlig;eren Bauteilfl&amp;auml;chen anzuordnen</description>
+      </component>
+            <component>
+        <id>choice_cl3a3vwmf004u2a6fp5z3zqcq</id>
+        <description lang="en-US">Bewegungsfugen des Bauwerks m&amp;uuml;ssen konstruktiv mit gleicher Bewegungsm&amp;ouml;glichkeit &amp;uuml;bernommen werden.</description>
+      </component>
+            <component>
+        <id>choice_cl3a3wyk800642a6f393ixji2</id>
+        <description lang="en-US">Gipsbauteile sind von anderen Bauteilen (Beton, Mauerwerk, geputzte Fl&amp;auml;chen etc.) konstruktiv zu trennen.&lt;br&gt;&lt;br&gt;</description>
+      </component>
+            <component>
+        <id>choice_cl3a3xetl006i2a6f7bljcse6</id>
+        <description lang="en-US">Gipsbauteile sind mit anderen Bauteilen (Beton, Mauerwerk, geputzte Fl&amp;auml;chen etc.) invasiev zu verbinden.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oBoGMhcD7kXPOOZHrEQNbS_oZJwFZ45e_rise/N0nXfCgxS9o25lJqx3ZDoU9SGzOcriME/cl3a3ze5c009y2a6fcaikfh9f" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In welchen der folgenden Anwendbarkeitsnachweisen finden Sie Angaben zu den Wandh&amp;ouml;hen von leichten Trennw&amp;auml;nden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a3ze5c009z2a6ffoq7cugm</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3ze5c00a02a6fakt2nmsc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a3ze5c009z2a6ffoq7cugm</id>
+        <description lang="en-US">W&amp;auml;nde nach DIN 4102-4 in der DIN 18183</description>
+      </component>
+            <component>
+        <id>choice_cl3a3ze5c00a12a6fsxruh85z</id>
+        <description lang="en-US">W&amp;auml;nde nach CE Kennzeichnung der EU</description>
+      </component>
+            <component>
+        <id>choice_cl3a3ze5c00a22a6f906xqcff</id>
+        <description lang="en-US">W&amp;auml;nde nach AGB in den jeweiligen Trennwand AGB</description>
+      </component>
+            <component>
+        <id>choice_cl3a3ze5c00a02a6fakt2nmsc</id>
+        <description lang="en-US">W&amp;auml;nde ohne Brandschutzanforderungen BV Gips IGG Merkblatt 8</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oBoGMhcD7kXPOOZHrEQNbS_oZJwFZ45e_rise/N0nXfCgxS9o25lJqx3ZDoU9SGzOcriME/cl3a40haf00b62a6fgwee7mg1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Aussagen sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a40haf00b92a6f47mf9r45</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a40haf00ba2a6ftuapghdc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a40haf00b72a6fsj2k2d3l</id>
+        <description lang="en-US">Bei einer L&amp;auml;ngsbefestigung verl&amp;auml;uft die L&amp;auml;ngskante der GK quer zur vertikalen Unterkonstruktion</description>
+      </component>
+            <component>
+        <id>choice_cl3a40haf00b92a6f47mf9r45</id>
+        <description lang="en-US">Bei einer Querbefestigung spannt sich die GK quer zu vertikalen Unterkonstruktion</description>
+      </component>
+            <component>
+        <id>choice_cl3a40haf00ba2a6ftuapghdc</id>
+        <description lang="en-US">Bei einer Querbefestigung ergibt sich der Vorteil einer gr&amp;ouml;&amp;szlig;eren Biegezugfestigkeit der Platten</description>
+      </component>
+            <component>
+        <id>choice_cl3a40haf00b82a6fxvw0virs</id>
+        <description lang="en-US">Bei einer L&amp;auml;ngsbefestigung sind in der Regel gr&amp;ouml;&amp;szlig;ere Spannweiten zul&amp;auml;ssig</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oBoGMhcD7kXPOOZHrEQNbS_oZJwFZ45e_rise/N0nXfCgxS9o25lJqx3ZDoU9SGzOcriME/cl3a4184n00co2a6fqf7oar2q" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Meister Daniel erkl&amp;auml;rt den Azubis was bei der Befestigung der Unterkonstruktion von Trennw&amp;auml;nden zu beachten ist. Bei welchen der folgenden Aussagen hat er sich jedoch vertan?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a4184n00cp2a6fgfoab2qi</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a4184n00cs2a6fczktuirx</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a4184n00cr2a6fs8hpacae</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a4184n00cp2a6fgfoab2qi</id>
+        <description lang="en-US">Die Befestigung der Unterkonstruktion von Trennw&amp;auml;nden ist als starrer Anschluss am Boden auszuf&amp;uuml;hren.</description>
+      </component>
+            <component>
+        <id>choice_cl3a4184n00cr2a6fs8hpacae</id>
+        <description lang="en-US">Der Anschluss an begrenzende Bauteile ist mit einer Anschlussdichtung auszuf&amp;uuml;hren.</description>
+      </component>
+            <component>
+        <id>choice_cl3a4184n00cs2a6fczktuirx</id>
+        <description lang="en-US">Die Anschlussprofile werden mit den f&amp;uuml;r den Untergrund geeigneten Befestigungsmitteln an den angrenzenden Bauteilen befestigt.</description>
+      </component>
+            <component>
+        <id>choice_cl3a4184n00cq2a6fa7cw6g0l</id>
+        <description lang="en-US">Der Abstand einzelner Befestigungspunkte darf max. 1500mm betragen.</description>
+      </component>
+            <component>
+        <id>choice_cl3a41sxb00dx2a6foovzxfpn</id>
+        <description lang="en-US">Bei seitlichen Anschl&amp;uuml;ssen sind mindestens 6 Befestigungspunkte anzuordnen.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oBoGMhcD7kXPOOZHrEQNbS_oZJwFZ45e_rise/N0nXfCgxS9o25lJqx3ZDoU9SGzOcriME/cl3a42jki00f82a6fa09r740h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden fl&amp;uuml;ssigen Abdichtungsstoffe sind in Verbindung mit Fliesen und Platten unter Beachtung der Wassereinwirkungsklassen zu empfehlen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a42jki00f92a6f4jimwk8r</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a42jki00fc2a6f2qp8cqlj</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a42jki00fb2a6f3wpuss0s</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a42jki00f92a6f4jimwk8r</id>
+        <description lang="en-US">W0-I bis W1-I auf Basis von Polymerdispersionen</description>
+      </component>
+            <component>
+        <id>choice_cl3a42jki00fb2a6f3wpuss0s</id>
+        <description lang="en-US">W2-I an Wandfl&amp;auml;chen alle fl&amp;uuml;ssigen Abdichtungsstoffe, im Bodenbereich sind nur mineralische Dichtschl&amp;auml;mmen oder Reaktionsharze zu empfehlen</description>
+      </component>
+            <component>
+        <id>choice_cl3a42jki00fc2a6f2qp8cqlj</id>
+        <description lang="en-US">W3-I mineralische Dichtschl&amp;auml;mmen oder Reaktionsharze&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl3a42jki00fa2a6fk26n09xt</id>
+        <description lang="en-US">W4-I mineralische Dichtschl&amp;auml;mmen mit Sonderzulassung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oBoGMhcD7kXPOOZHrEQNbS_oZJwFZ45e_rise/N0nXfCgxS9o25lJqx3ZDoU9SGzOcriME/cl3a43f6500gl2a6fu9cy3yxf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Sind bei gefliesten Fl&amp;auml;chen Abdichtungsma&amp;szlig;nahmen notwendig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a43x1900go2a6fqa07vxpa</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a43f6500gm2a6fhb18368w</id>
+        <description lang="en-US">Ja, denn Fugen sind grunds&amp;auml;tzlich als wasserundurchl&amp;auml;ssig einzustufen</description>
+      </component>
+            <component>
+        <id>choice_cl3a43f6500gn2a6fn3tuoo7d</id>
+        <description lang="en-US">Nein, denn Fugen sind grunds&amp;auml;tzlich wasserundurchl&amp;auml;ssig</description>
+      </component>
+            <component>
+        <id>choice_cl3a43x1900go2a6fqa07vxpa</id>
+        <description lang="en-US">Ja, denn Fugen sind grunds&amp;auml;tzlich als wasserdurchl&amp;auml;ssig einzustufen</description>
+      </component>
+            <component>
+        <id>choice_cl3a4408e00gp2a6fuycq14db</id>
+        <description lang="en-US">Nein wenn es im Kellerbereich ist.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oBoGMhcD7kXPOOZHrEQNbS_oZJwFZ45e_rise/N0nXfCgxS9o25lJqx3ZDoU9SGzOcriME/cl3a4498400gq2a6f3v7eaex1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Bauplatten k&amp;ouml;nnen in Feucht- und Nassr&amp;auml;umen verwendet werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a4498400gr2a6fupktvvw2</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a4498400gs2a6fwp5ez3p5</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a4498400gt2a6fpq5kufc0</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a4498400gu2a6f3wzk91u0</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a4498400gr2a6fupktvvw2</id>
+        <description lang="en-US">Impr&amp;auml;gnierte Gipsplatten H2 (nur W0-I und W1-I)</description>
+      </component>
+            <component>
+        <id>choice_cl3a4498400gt2a6fpq5kufc0</id>
+        <description lang="en-US">Gipsplatten mit Glasvliesummantelung vorzugsweise in H1</description>
+      </component>
+            <component>
+        <id>choice_cl3a4498400gu2a6f3wzk91u0</id>
+        <description lang="en-US">Gipsfaserplatten</description>
+      </component>
+            <component>
+        <id>choice_cl3a4498400gs2a6fwp5ez3p5</id>
+        <description lang="en-US">Zementgebundene Bauplatten</description>
+      </component>
+            <component>
+        <id>choice_cl3a44um000hz2a6f57eo0vag</id>
+        <description lang="en-US">Gipskartonplatten mit einem Zementanteil von 30%</description>
+      </component>
+            <component>
+        <id>choice_cl3a44yoq00i92a6fm4hhi8iq</id>
+        <description lang="en-US">Impr&amp;auml;gnierte Gipsplatten H3</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://oBoGMhcD7kXPOOZHrEQNbS_oZJwFZ45e_rise/N0nXfCgxS9o25lJqx3ZDoU9SGzOcriME/cl3a454h500ii2a6f0rh3gbmn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">In welche Wassereinwirkungsklasse werden Waschbecken in B&amp;auml;dern und Sp&amp;uuml;lbecken in h&amp;auml;uslichen K&amp;uuml;chen eingeteilt?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a45vl800jr2a6fcsz744tl</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a454h500ij2a6f4umyn1gx</id>
+        <description lang="en-US">W0-II Wassereinwirkung gering</description>
+      </component>
+            <component>
+        <id>choice_cl3a454h500il2a6fo7fqlz7z</id>
+        <description lang="en-US">W1-I Wassereinwirkung gering</description>
+      </component>
+            <component>
+        <id>choice_cl3a454h500im2a6fzdf2eyuh</id>
+        <description lang="en-US">W2-II Wassereinwirkung m&amp;auml;&amp;szlig;ig</description>
+      </component>
+            <component>
+        <id>choice_cl3a454h500ik2a6f6kuzc45t</id>
+        <description lang="en-US">W3-I Wassereinwirkung m&amp;auml;&amp;szlig;ig</description>
+      </component>
+            <component>
+        <id>choice_cl3a45vl800jr2a6fcsz744tl</id>
+        <description lang="en-US">W0-I Wassereinwirkung gering</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

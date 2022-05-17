@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://1_TpCmfWWuw7mi_EJGDxGL4lAawSbaHo_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Baustoffe Trockenbau - Quiz 3</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://1_TpCmfWWuw7mi_EJGDxGL4lAawSbaHo_rise/m6iMSOCPtqgXqRC7CEx0w9KG0q033-Oi" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://1_TpCmfWWuw7mi_EJGDxGL4lAawSbaHo_rise/m6iMSOCPtqgXqRC7CEx0w9KG0q033-Oi/cl3a3fhjx001s2a6g51jsv3o3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Meister Daniel soll f&amp;uuml;r einen Kunden leichte Trennw&amp;auml;nde brandschutztechnisch ert&amp;uuml;chtigen. Welche seiner Schritte sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a3fhjx001t2a6ghzuc4s6x</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3fhjx001v2a6gmvolnqin</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3fhjx001w2a6gbj610u0x</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3gv6200352a6g4blgos3l</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a3fhjx001t2a6ghzuc4s6x</id>
+        <description lang="en-US">Zun&amp;auml;chst sollte er die Anwendbarkeitsnachweise pr&amp;uuml;fen, um eine Grundlage zu haben.</description>
+      </component>
+            <component>
+        <id>choice_cl3a3fhjx001v2a6gmvolnqin</id>
+        <description lang="en-US">Er sollte die Qualit&amp;auml;t der Ausf&amp;uuml;hrung pr&amp;uuml;fen.</description>
+      </component>
+            <component>
+        <id>choice_cl3a3fhjx001w2a6gbj610u0x</id>
+        <description lang="en-US">R&amp;uuml;ckbau der bestehenden Beplankung, um Brandschutzplatten einzusetzen.</description>
+      </component>
+            <component>
+        <id>choice_cl3a3fhjx001u2a6gxv0t5tzv</id>
+        <description lang="en-US">Verspachteln der St&amp;ouml;&amp;szlig;e mit chemischem Brandschutzputz bevor er die zweite Beplankungslage montiert</description>
+      </component>
+            <component>
+        <id>choice_cl3a3gv6200352a6g4blgos3l</id>
+        <description lang="en-US">Flankierende Bauteile m&amp;uuml;ssen mind. die gleiche Feuerwiderstandsf&amp;auml;higkeit haben wie die ert&amp;uuml;chtigte Trennwand.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1_TpCmfWWuw7mi_EJGDxGL4lAawSbaHo_rise/m6iMSOCPtqgXqRC7CEx0w9KG0q033-Oi/cl3a3h3sg003e2a6glarbejn9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Kunde w&amp;uuml;nscht eine schallschutztechnische Ert&amp;uuml;chtigung seiner Bestandsw&amp;auml;nde. Meister Daniel l&amp;auml;sst dies von seinem Team ausf&amp;uuml;hren. Welche der folgenden Regeln m&amp;uuml;ssen dabei unbedingt beachtet werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a3h3sg003f2a6gxeunugqf</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3h3sg003h2a6ghqi3xtid</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a3h3sg003f2a6gxeunugqf</id>
+        <description lang="en-US">Ermittlung der bauaufsichtlichen Anforderungen nach DIN 4102-9&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl3a3h3sg003h2a6ghqi3xtid</id>
+        <description lang="en-US">Bestimmen der fl&amp;auml;chenbezogenen Masse des massiven Bauteils (Trennwand und flankierendes Bauteil)</description>
+      </component>
+            <component>
+        <id>choice_cl3a3h3sg003i2a6g1ukus6rk</id>
+        <description lang="en-US">Bestimmen des Schalld&amp;auml;mm-Ma&amp;szlig;es R&amp;acute;w der bestehenden Trennwand unabh&amp;auml;ngig von der mittleren fl&amp;auml;chenbezogenen Masse</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1_TpCmfWWuw7mi_EJGDxGL4lAawSbaHo_rise/m6iMSOCPtqgXqRC7CEx0w9KG0q033-Oi/cl3a3i1cf00502a6gjyti8xr2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Kunde w&amp;uuml;nscht eine schallschutztechnische Ert&amp;uuml;chtigung seiner Bestandsw&amp;auml;nde. Meister Daniel l&amp;auml;sst dies von seinem Team ausf&amp;uuml;hren. Welche der folgenden Regeln m&amp;uuml;ssen dabei unbedingt beachtet werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a3h3sg003f2a6gxeunugqf</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3h3sg003h2a6ghqi3xtid</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3h3sg003i2a6g1ukus6rk</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a3h3sg003f2a6gxeunugqf</id>
+        <description lang="en-US">Dichtheit der Bestandswand ist Voraussetzung</description>
+      </component>
+            <component>
+        <id>choice_cl3a3h3sg003h2a6ghqi3xtid</id>
+        <description lang="en-US">Abstand zwischen der Vorsatzschale sollte mind. 40mm betragen.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl3a3h3sg003i2a6g1ukus6rk</id>
+        <description lang="en-US">Bestimmen des Schalld&amp;auml;mm-Ma&amp;szlig;es R&amp;acute;w der bestehenden Trennwand abh&amp;auml;ngig von der mittleren fl&amp;auml;chenbezogenen Masse</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1_TpCmfWWuw7mi_EJGDxGL4lAawSbaHo_rise/m6iMSOCPtqgXqRC7CEx0w9KG0q033-Oi/cl3a3j4z0005s2a6glm1zkidw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Der Kunde w&amp;uuml;nscht eine brandschutztechnische Ert&amp;uuml;chtigung seiner Bestandsw&amp;auml;nde. Meister Daniel erkl&amp;auml;rt die wichtigsten Regeln. Welche der folgenden Regeln sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a3j4z0005u2a6g0n4jxucs</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3j4z0005v2a6gy6q6rjsq</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3jzho00792a6g9l029rr4</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a3j4z0005t2a6gxgc9eyvm</id>
+        <description lang="en-US">Ermitteln der baurechtlichen Brandschutzanforderungen nach VOB</description>
+      </component>
+            <component>
+        <id>choice_cl3a3j4z0005v2a6gy6q6rjsq</id>
+        <description lang="en-US">Feuerwiderstand der vorhandenen Wandkonstruktion durch Analogiebetrachtung zu den Konstruktionen nach DIN 4102-4&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl3a3j4z0005w2a6g0nuujuh8</id>
+        <description lang="en-US">Hohlraum zwischen Bekleidung und Wand muss bel&amp;uuml;ftet werden.</description>
+      </component>
+            <component>
+        <id>choice_cl3a3j4z0005u2a6g0n4jxucs</id>
+        <description lang="en-US">Feuerwiderstand der Konstruktion wird durch eine zus&amp;auml;tzliche Folie nicht negativ beeinflusst.</description>
+      </component>
+            <component>
+        <id>choice_cl3a3jzho00792a6g9l029rr4</id>
+        <description lang="en-US">Aufnahme des Aufbaus und der Anschlussausbildung der trennenden Wand und der flankierenden Bauteile.&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1_TpCmfWWuw7mi_EJGDxGL4lAawSbaHo_rise/m6iMSOCPtqgXqRC7CEx0w9KG0q033-Oi/cl3a3kefj007m2a6gy4pibll6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Meister Daniel muss f&amp;uuml;r einen Kunden eine Bestandsdecke (Massivdecke) schallschutztechnisch ert&amp;uuml;chtigen. Welche seiner Schritte sind &amp;uuml;berfl&amp;uuml;ssig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a3l4g7008u2a6g9itihirn</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a3kefj007n2a6gdjd0rbwi</id>
+        <description lang="en-US">Er bewertet den Zustand der alten Decke&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl3a3kefj007p2a6gta95m06o</id>
+        <description lang="en-US">Denkmalgesch&amp;uuml;tzte Konstruktionsteile will er erhalten</description>
+      </component>
+            <component>
+        <id>choice_cl3a3kefj007q2a6gnh7f3k2r</id>
+        <description lang="en-US">Im Deckenhohlraum ordnet er Faserd&amp;auml;mmstoffe als Absorptionsmaterial an</description>
+      </component>
+            <component>
+        <id>choice_cl3a3kefj007o2a6goggkbkgw</id>
+        <description lang="en-US">Da schallschutztechnisch ung&amp;uuml;nstige Flankenbedingungen vorliegen verbessert er die Flanken Vorsatzschalen.&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl3a3l4g7008u2a6g9itihirn</id>
+        <description lang="en-US">Nach Fertigstellung pr&amp;uuml;ft er seine Arbeit mit einem Schallschutzger&amp;auml;t gem&amp;auml;&amp;szlig; LBO.</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1_TpCmfWWuw7mi_EJGDxGL4lAawSbaHo_rise/m6iMSOCPtqgXqRC7CEx0w9KG0q033-Oi/cl3a3ljx0009j2a6grlu5ppt2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Aussagen beschreiben einen Hohlboden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a3ljx0009l2a6gxezae835</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3ljx0009m2a6gqu2fgk43</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3ljx0009n2a6g2e8m1tek</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a3ljx0009k2a6gy6h49zj4</id>
+        <description lang="en-US">Die Tragschicht besteht aus stumpfgesto&amp;szlig;enen Doppelbodenplatten</description>
+      </component>
+            <component>
+        <id>choice_cl3a3ljx0009m2a6gqu2fgk43</id>
+        <description lang="en-US">Die Tragschicht besteht in der Regel aus selbstnivellierendem Flie&amp;szlig;estrich</description>
+      </component>
+            <component>
+        <id>choice_cl3a3ljx0009n2a6g2e8m1tek</id>
+        <description lang="en-US">Grundlage der Estrichscheibe ist verlorene Schalung</description>
+      </component>
+            <component>
+        <id>choice_cl3a3ljx0009l2a6gxezae835</id>
+        <description lang="en-US">Konstruktiv auf h&amp;ouml;henverstellbaren metallischen St&amp;uuml;tzen. </description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1_TpCmfWWuw7mi_EJGDxGL4lAawSbaHo_rise/m6iMSOCPtqgXqRC7CEx0w9KG0q033-Oi/cl3a3mefs00b22a6g8cjy1yp4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche der folgenden Aussagen sind konstruktive Randbedingungen von Doppelb&amp;ouml;den?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a3mefs00b32a6gbfvjfmc3</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3mefs00b42a6ggko9l8er</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a3mefs00b32a6gbfvjfmc3</id>
+        <description lang="en-US">Doppelb&amp;ouml;den sind so herzustellen, dass sie jederzeit an der Stelle den freien Zugang zum Hohlraum erm&amp;ouml;glichen.</description>
+      </component>
+            <component>
+        <id>choice_cl3a3mefs00b52a6gpwcudlxb</id>
+        <description lang="en-US">Die Unterkonstruktion ist auf dem Rohboden schwimmend zu verlegen.</description>
+      </component>
+            <component>
+        <id>choice_cl3a3mefs00b62a6gdpq2a30n</id>
+        <description lang="en-US">Eine Fl&amp;auml;chenspachtelung von Doppelbodenfl&amp;auml;chen ist zu empfehlen.</description>
+      </component>
+            <component>
+        <id>choice_cl3a3mefs00b42a6ggko9l8er</id>
+        <description lang="en-US">Einbauteile in Doppel- und Hohlb&amp;ouml;den m&amp;uuml;ssen statisch geeignet sein und d&amp;uuml;rfen keine Unterschreitung der geforderten Tragf&amp;auml;higkeit der Gesamtkonstruktion verursachen.&amp;nbsp;</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1_TpCmfWWuw7mi_EJGDxGL4lAawSbaHo_rise/m6iMSOCPtqgXqRC7CEx0w9KG0q033-Oi/cl3a3namw00cg2a6gdggds4ow" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Trockenbauunterb&amp;ouml;den eignen sich als Brandschutzkonstruktion bei &amp;bdquo;Brandbelastung von oben&amp;ldquo;. F&amp;uuml;r welche Konstruktionsarten ist diese L&amp;ouml;sung interessant?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a3namw00ch2a6ggmbwfdhz</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3namw00cj2a6gh0w5p8de</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a3namw00ch2a6ggmbwfdhz</id>
+        <description lang="en-US">Holzbalkendecken</description>
+      </component>
+            <component>
+        <id>choice_cl3a3namw00cj2a6gh0w5p8de</id>
+        <description lang="en-US">Stahlkonstruktionen mit Trapezblech</description>
+      </component>
+            <component>
+        <id>choice_cl3a3namw00ck2a6g68haww7m</id>
+        <description lang="en-US">Stahlbetondecken</description>
+      </component>
+            <component>
+        <id>choice_cl3a3namw00ci2a6gkx34kdq4</id>
+        <description lang="en-US">Ortbetondecken</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1_TpCmfWWuw7mi_EJGDxGL4lAawSbaHo_rise/m6iMSOCPtqgXqRC7CEx0w9KG0q033-Oi/cl3a3o1hv00dp2a6gwj59tncb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was ist bei der Auswahl eines geeigneten Trockenbau-Bodensystem zu beachten? Welche der folgenden Aussagen sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a3o1hv00dq2a6g8mcmi6vw</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3o1hv00dr2a6gbvmjfnqh</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3o1hv00ds2a6gscxu6vek</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3osom00ev2a6gtimf9b6w</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3owe000f42a6g8f25dkjj</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a3o1hv00dq2a6g8mcmi6vw</id>
+        <description lang="en-US">Schallschutzanforderungen und w&amp;auml;rmeschutztechnische Anforderungen</description>
+      </component>
+            <component>
+        <id>choice_cl3a3o1hv00ds2a6gscxu6vek</id>
+        <description lang="en-US">Widerstand gegen Feuchtebelastung</description>
+      </component>
+            <component>
+        <id>choice_cl3a3o1hv00dt2a6g6pp3huhb</id>
+        <description lang="en-US">Bodenaufbau von mind. 20cm</description>
+      </component>
+            <component>
+        <id>choice_cl3a3o1hv00dr2a6gbvmjfnqh</id>
+        <description lang="en-US">Anforderungen an elektrostatische Eigenschaften</description>
+      </component>
+            <component>
+        <id>choice_cl3a3osom00ev2a6gtimf9b6w</id>
+        <description lang="en-US">Anforderungen an Abriebfestigkeit der Oberfl&amp;auml;che</description>
+      </component>
+            <component>
+        <id>choice_cl3a3owe000f42a6g8f25dkjj</id>
+        <description lang="en-US">Anforderungen an die geometrische Genauigkeit</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://1_TpCmfWWuw7mi_EJGDxGL4lAawSbaHo_rise/m6iMSOCPtqgXqRC7CEx0w9KG0q033-Oi/cl3a3oztz00fd2a6g3g2fve3e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Meister Daniel will von seinem Lehrling die Besonderheiten von Trockenunterb&amp;ouml;den wissen. Welche seiner Antworten sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl3a3oztz00fe2a6go0wctcjr</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3oztz00fh2a6ggghrgg0z</correctResponsePattern>
+            <correctResponsePattern>choice_cl3a3oztz00fg2a6gn49ietau</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl3a3oztz00fe2a6go0wctcjr</id>
+        <description lang="en-US">Geringe Masse</description>
+      </component>
+            <component>
+        <id>choice_cl3a3oztz00fg2a6gn49ietau</id>
+        <description lang="en-US">Keine technologische Pause f&amp;uuml;r Erh&amp;auml;rtung</description>
+      </component>
+            <component>
+        <id>choice_cl3a3oztz00fh2a6ggghrgg0z</id>
+        <description lang="en-US">Schnelle trockene Verarbeitung und Montage</description>
+      </component>
+            <component>
+        <id>choice_cl3a3oztz00ff2a6gog7dy1qr</id>
+        <description lang="en-US">Gleichzeitig ein guter Schallschutz aufgrund der geringen Dichte</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
