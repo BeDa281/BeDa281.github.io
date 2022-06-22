@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://mXrMmVbh05s9Fd0-feeH1KB6cUH1eCbX_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Arbeitssicherheit - Gerüste</name>
+      <description lang="en-US"></description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://mXrMmVbh05s9Fd0-feeH1KB6cUH1eCbX_rise/av8UBZwuXylM84XKRz5QLd8gGRSFppes" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Arbeitssicherheit - Gerüste/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>

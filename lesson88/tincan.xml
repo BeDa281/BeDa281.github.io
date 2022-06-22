@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://xFVcFipesQXNJZihIjcxTbHuO6S4CJih_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Leitern - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://xFVcFipesQXNJZihIjcxTbHuO6S4CJih_rise/c3F9i48KVKlaluFRc-lBJXFqtBOkxIbn" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://xFVcFipesQXNJZihIjcxTbHuO6S4CJih_rise/c3F9i48KVKlaluFRc-lBJXFqtBOkxIbn/cl4pamh88001d2a6ik52fa642" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Leitertypen gibt es?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4pamh88001e2a6ilfurlvxg</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pamh88001f2a6i15qaa7zz</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pamh88001h2a6ifdc31ll7</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pamh88001g2a6izfkdz41s</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4pamh88001e2a6ilfurlvxg</id>
+        <description lang="en-US">Anlegeleiter</description>
+      </component>
+            <component>
+        <id>choice_cl4pamh88001g2a6izfkdz41s</id>
+        <description lang="en-US">Stehleiter</description>
+      </component>
+            <component>
+        <id>choice_cl4pamh88001h2a6ifdc31ll7</id>
+        <description lang="en-US">Podestleiter</description>
+      </component>
+            <component>
+        <id>choice_cl4pamh88001f2a6i15qaa7zz</id>
+        <description lang="en-US">Plattformleiter</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://xFVcFipesQXNJZihIjcxTbHuO6S4CJih_rise/c3F9i48KVKlaluFRc-lBJXFqtBOkxIbn/cl4pand88003g2a6iq1gslehf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Unter welchen Voraussetzungen d&amp;uuml;rfen Anlegeleitern als Arbeitsplatz verwendet werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4pand88003h2a6iuryyv5nj</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pand89003k2a6i23en0gpg</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pand89003j2a6iqzi1sj6l</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4pand88003h2a6iuryyv5nj</id>
+        <description lang="en-US">Nur f&amp;uuml;r Arbeiten mit geringer Gef&amp;auml;hrdung</description>
+      </component>
+            <component>
+        <id>choice_cl4pand89003j2a6iqzi1sj6l</id>
+        <description lang="en-US">Arbeiten nur bei geringer Dauer</description>
+      </component>
+            <component>
+        <id>choice_cl4pand89003k2a6i23en0gpg</id>
+        <description lang="en-US">Wenn im Rahmen der Gef&amp;auml;hrdungsbeurteilung die Verwendung gepr&amp;uuml;ft wurde</description>
+      </component>
+            <component>
+        <id>choice_cl4pand89003i2a6i3d5wrgis</id>
+        <description lang="en-US">Wenn die Arbeiten von Passanten nicht eingesehen werden k&amp;ouml;nnen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://xFVcFipesQXNJZihIjcxTbHuO6S4CJih_rise/c3F9i48KVKlaluFRc-lBJXFqtBOkxIbn/cl4pao4z7004t2a6ip8it2i7b" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was ist bei Anlegeleitern als Verkehrsweg zu beachten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4pao4z7004u2a6itsfskv1k</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pao4z7004x2a6i9no8mfa5</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pao4z7004w2a6i8rcyfc8v</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4pao4z7004u2a6itsfskv1k</id>
+        <description lang="en-US">M&amp;ouml;glichst Anlegeleitern mit Stufen und Standfu&amp;szlig;verbreitungen verwenden</description>
+      </component>
+            <component>
+        <id>choice_cl4pao4z7004w2a6i8rcyfc8v</id>
+        <description lang="en-US">Leitern nur an sicheren St&amp;uuml;tzpunkten anlehnen</description>
+      </component>
+            <component>
+        <id>choice_cl4pao4z7004x2a6i9no8mfa5</id>
+        <description lang="en-US">Leiten m&amp;uuml;ssen mindestens 1,0 m &amp;uuml;ber die Austrittsstelle hinausragen</description>
+      </component>
+            <component>
+        <id>choice_cl4pao4z7004v2a6iasfxpxtj</id>
+        <description lang="en-US">Holzleitern mit deckenden Farbanstrichen versehen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://xFVcFipesQXNJZihIjcxTbHuO6S4CJih_rise/c3F9i48KVKlaluFRc-lBJXFqtBOkxIbn/cl4paouoh00682a6i64573fh0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was m&amp;uuml;ssen Sie bei Stehleitern beachten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4paouoi00692a6izxlu4n1a</correctResponsePattern>
+            <correctResponsePattern>choice_cl4paouoi006b2a6it3cga997</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4paouoi00692a6izxlu4n1a</id>
+        <description lang="en-US">Der Besch&amp;auml;ftigte muss mit beiden F&amp;uuml;&amp;szlig;en auf einer Stufe oder Sprosse stehen</description>
+      </component>
+            <component>
+        <id>choice_cl4paouoi006b2a6it3cga997</id>
+        <description lang="en-US">Stehleitern niemals als Anlegeleitern verwenden</description>
+      </component>
+            <component>
+        <id>choice_cl4paouoi006c2a6i55nckhq7</id>
+        <description lang="en-US">Stehleitern m&amp;uuml;ssen mindestens auf 3 Punkten stehen</description>
+      </component>
+            <component>
+        <id>choice_cl4paouoi006a2a6if2afr65v</id>
+        <description lang="en-US">Stehleitern immer bis zur obersten Stufe betreten</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://xFVcFipesQXNJZihIjcxTbHuO6S4CJih_rise/c3F9i48KVKlaluFRc-lBJXFqtBOkxIbn/cl4papedx007k2a6idlk6ueeo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was d&amp;uuml;rfen Sie bei Verwendung von Stehleitern keinesfalls machen?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4papedx007l2a6i2kam2z5u</correctResponsePattern>
+            <correctResponsePattern>choice_cl4papedx007n2a6izva0hkyh</correctResponsePattern>
+            <correctResponsePattern>choice_cl4papedx007o2a6i82vkzq36</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4papedx007l2a6i2kam2z5u</id>
+        <description lang="en-US">Stehleitern als Anlegeleitern verwenden</description>
+      </component>
+            <component>
+        <id>choice_cl4papedx007n2a6izva0hkyh</id>
+        <description lang="en-US">Das &amp;Uuml;bersteigen von Plattformen auf Stehleitern&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl4papedx007o2a6i82vkzq36</id>
+        <description lang="en-US">Laufen mit der Leiter&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl4papedx007m2a6ibfeqokti</id>
+        <description lang="en-US">Holmverl&amp;auml;ngerungen nach Herstellerangaben befestigen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://xFVcFipesQXNJZihIjcxTbHuO6S4CJih_rise/c3F9i48KVKlaluFRc-lBJXFqtBOkxIbn/cl4paq0cp008w2a6i4ibvmh25" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was m&amp;uuml;ssen Sie bei der Verwendung von Anlegeleitern beachten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4paq0cp008x2a6i4bbpju1u</correctResponsePattern>
+            <correctResponsePattern>choice_cl4paq0cp008z2a6i3cjfnnyh</correctResponsePattern>
+            <correctResponsePattern>choice_cl4paq0cp00902a6iebfzcgwz</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4paq0cp008x2a6i4bbpju1u</id>
+        <description lang="en-US">Anlegewinkel f&amp;uuml;r Stufenleitern 60-70&amp;deg;, f&amp;uuml;r Sprossenleitern 65-75&amp;deg;</description>
+      </component>
+            <component>
+        <id>choice_cl4paq0cp008z2a6i3cjfnnyh</id>
+        <description lang="en-US">Die obersten 3 Stufen / Sprossen d&amp;uuml;rfen nicht betreten werden</description>
+      </component>
+            <component>
+        <id>choice_cl4paq0cp00902a6iebfzcgwz</id>
+        <description lang="en-US">Besch&amp;auml;ftigte regelm&amp;auml;&amp;szlig;ig im Umgang mit Leitern unterweisen</description>
+      </component>
+            <component>
+        <id>choice_cl4paq0cp008y2a6ihnbadh9f</id>
+        <description lang="en-US">Choice 4</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://xFVcFipesQXNJZihIjcxTbHuO6S4CJih_rise/c3F9i48KVKlaluFRc-lBJXFqtBOkxIbn/cl4parcyu00a42a6i67lwphkm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was ist bei Bauarbeiten auf Anlegeleitern zu beachten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4parcyu00a52a6ivmkkwoh0</correctResponsePattern>
+            <correctResponsePattern>choice_cl4parcyu00a82a6iiqh4u2mx</correctResponsePattern>
+            <correctResponsePattern>choice_cl4parcyu00a72a6ip3y4ilj2</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4parcyu00a52a6ivmkkwoh0</id>
+        <description lang="en-US">Das Gewicht des mitzuf&amp;uuml;hrenden Werkzeugs darf max. 10 kg betragen</description>
+      </component>
+            <component>
+        <id>choice_cl4parcyu00a72a6ip3y4ilj2</id>
+        <description lang="en-US">Gegenst&amp;auml;nde d&amp;uuml;rfen max 1,0 m&amp;sup2; Fl&amp;auml;che haben</description>
+      </component>
+            <component>
+        <id>choice_cl4parcyu00a82a6iiqh4u2mx</id>
+        <description lang="en-US">Bei einer Standh&amp;ouml;he von mehr als 2,0 m nicht l&amp;auml;nger als 2 Stunden</description>
+      </component>
+            <component>
+        <id>choice_cl4parcyu00a62a6i89maaz13</id>
+        <description lang="en-US">Man darf sich max. 1,0 m hinauslehnen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://xFVcFipesQXNJZihIjcxTbHuO6S4CJih_rise/c3F9i48KVKlaluFRc-lBJXFqtBOkxIbn/cl4parwi500bl2a6i8lzr6lve" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was m&amp;uuml;ssen Sie bei mehrteiligen Stehleitern beachten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4parwi600bm2a6ihg2bfwdi</correctResponsePattern>
+            <correctResponsePattern>choice_cl4parwi600bo2a6ipcwwxw9c</correctResponsePattern>
+            <correctResponsePattern>choice_cl4parwi600bp2a6i2mkpbs3k</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4parwi600bm2a6ihg2bfwdi</id>
+        <description lang="en-US">Stehleitern erst verwenden, wenn Spreizsicherungen wirksam sind</description>
+      </component>
+            <component>
+        <id>choice_cl4parwi600bo2a6ipcwwxw9c</id>
+        <description lang="en-US">Die obersten vier Stufen bei Stehleitern mit aufgesetzter Schiebeleiter nicht betreten</description>
+      </component>
+            <component>
+        <id>choice_cl4parwi600bp2a6i2mkpbs3k</id>
+        <description lang="en-US">Augenscheinliche Kontrolle der Leiter vor jeder Verwendung</description>
+      </component>
+            <component>
+        <id>choice_cl4parwi600bn2a6i74kw6qec</id>
+        <description lang="en-US">Leitern immer bis zur maximalen L&amp;auml;nge zusammenstecken</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://xFVcFipesQXNJZihIjcxTbHuO6S4CJih_rise/c3F9i48KVKlaluFRc-lBJXFqtBOkxIbn/cl4pasn5100cv2a6imyqqx2xc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Merkmale haben Podestleitern?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4pasn5100cw2a6iz15qbi8c</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pasn5100cy2a6i062tp3pn</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4pasn5100cw2a6iz15qbi8c</id>
+        <description lang="en-US">Podeste haben eine Umwehrung</description>
+      </component>
+            <component>
+        <id>choice_cl4pasn5100cy2a6i062tp3pn</id>
+        <description lang="en-US">Podestleitern d&amp;uuml;rfen als Arbeitsplatz verwendet werden</description>
+      </component>
+            <component>
+        <id>choice_cl4pasn5100cz2a6inwl2q2zo</id>
+        <description lang="en-US">Nur Zwischenpodeste d&amp;uuml;rfen betreten werden</description>
+      </component>
+            <component>
+        <id>choice_cl4pasn5100cx2a6i8p2lewfl</id>
+        <description lang="en-US">Podeste m&amp;uuml;ssen in der rechtwinklig zum Holm stehen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://xFVcFipesQXNJZihIjcxTbHuO6S4CJih_rise/c3F9i48KVKlaluFRc-lBJXFqtBOkxIbn/cl4pat8c600eh2a6ift98znte" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Was m&amp;uuml;ssen Sie generell bei Leitern beachten?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4pat8c600ei2a6i6t5bx31w</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pat8c600ek2a6iyycqu6r4</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pat8c600el2a6ikj9rdg93</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4pat8c600ei2a6i6t5bx31w</id>
+        <description lang="en-US">Regelm&amp;auml;&amp;szlig;ige Pr&amp;uuml;fung durch eine zur Pr&amp;uuml;fung bef&amp;auml;higte und beauftragte Person</description>
+      </component>
+            <component>
+        <id>choice_cl4pat8c600ek2a6iyycqu6r4</id>
+        <description lang="en-US">Pr&amp;uuml;fergebnisse dokumentieren (Leiterkontrollbuch)</description>
+      </component>
+            <component>
+        <id>choice_cl4pat8c600el2a6ikj9rdg93</id>
+        <description lang="en-US">Augenscheinliche Kontrolle vor jeder Verwendung</description>
+      </component>
+            <component>
+        <id>choice_cl4pat8c600ej2a6i4ii6cs7f</id>
+        <description lang="en-US">Schadhafte Leitern nur bis max. 2,0 m Arbeitsh&amp;ouml;he verwenden</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://rQnuxkRLHsdS-I3HS-vIh-l21_zgApy2_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Betriebsführung - Formelsammlung</name>
+      <description lang="en-US"></description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://rQnuxkRLHsdS-I3HS-vIh-l21_zgApy2_rise/LgUHqmYaGFL5RbvUJzujEpLGo9aLrmDh" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Formelsammlung - Betriebsführung/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>

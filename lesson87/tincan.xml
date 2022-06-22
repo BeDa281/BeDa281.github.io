@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://5Ee8vaizWR4p39OjYh_1M5eZpMgHGX_6_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Gerüste - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://5Ee8vaizWR4p39OjYh_1M5eZpMgHGX_6_rise/p9FmdZXYIo9OIRwXmqHz6WvxYM70A7Vn" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+            
+    <activity id="http://5Ee8vaizWR4p39OjYh_1M5eZpMgHGX_6_rise/p9FmdZXYIo9OIRwXmqHz6WvxYM70A7Vn/cl4pa69cd001z2a6ivpmmyivi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Unter welchen Voraussetzungen ben&amp;ouml;tigen Sie ein Fangger&amp;uuml;st?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4pa69cd00202a6igy5k3vhi</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pa69cd00212a6ilpw52ulj</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4pa69cd00202a6igy5k3vhi</id>
+        <description lang="en-US">Absturzh&amp;ouml;he des Arbeitsplatzes mehr als 2 Meter</description>
+      </component>
+            <component>
+        <id>choice_cl4pa69cd00212a6ilpw52ulj</id>
+        <description lang="en-US">Neigung der Arbeitsfl&amp;auml;che weniger als 22,5&amp;deg;</description>
+      </component>
+            <component>
+        <id>choice_cl4pa84hr002i2a6i11bfc8k8</id>
+        <description lang="en-US">Neigung der Arbeitsfl&amp;auml;che bis 45&amp;deg;</description>
+      </component>
+            <component>
+        <id>choice_cl4pa88dv002r2a6itmjrt380</id>
+        <description lang="en-US">Auffangbreite unterhalb des Arbeitsplatzes kleiner als 60 cm</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://5Ee8vaizWR4p39OjYh_1M5eZpMgHGX_6_rise/p9FmdZXYIo9OIRwXmqHz6WvxYM70A7Vn/cl4pa8cso00302a6i6n3q10dr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Unter welchen Voraussetzungen ben&amp;ouml;tigen Sie ein Dachfangger&amp;uuml;st?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4pa8cso00312a6ifrxwydlf</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pa8cso00332a6ik4areeus</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4pa8cso00312a6ifrxwydlf</id>
+        <description lang="en-US">Absturzh&amp;ouml;he des Arbeitsplatzes mehr als 2,0 Meter</description>
+      </component>
+            <component>
+        <id>choice_cl4pa8cso00332a6ik4areeus</id>
+        <description lang="en-US">Neigung der Arbeitsfl&amp;auml;che mehr als 22,5&amp;deg;, bis 60&amp;deg;</description>
+      </component>
+            <component>
+        <id>choice_cl4pa8cso00342a6ile3jx88c</id>
+        <description lang="en-US">Auffangbreite unterhalb des Arbeitsplatzes kleiner als 60 cm</description>
+      </component>
+            <component>
+        <id>choice_cl4pa8cso00322a6ir5fdi54z</id>
+        <description lang="en-US">Absturzh&amp;ouml;he des Arbeitsplatzes mehr als 1,5 Meter</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://5Ee8vaizWR4p39OjYh_1M5eZpMgHGX_6_rise/p9FmdZXYIo9OIRwXmqHz6WvxYM70A7Vn/cl4pa95tr00492a6ir3iqmxy9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Merkmale hat ein Dachfangger&amp;uuml;st?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4pa95tr004a2a6in2rzkv3x</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pa9nns005a2a6i9ykij47r</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pa95tr004b2a6ickfxxmpc</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4pa95tr004a2a6in2rzkv3x</id>
+        <description lang="en-US">Absturzh&amp;ouml;he des Arbeitsplatzes bis zur Auffangfl&amp;auml;che max. 1,50 Meter</description>
+      </component>
+            <component>
+        <id>choice_cl4pa95tr004b2a6ickfxxmpc</id>
+        <description lang="en-US">Breite der Auffangfl&amp;auml;che mindestens 60 cm</description>
+      </component>
+            <component>
+        <id>choice_cl4pa9nns005a2a6i9ykij47r</id>
+        <description lang="en-US">Schutzwand mit einer Maschenweite von max. 10 cm</description>
+      </component>
+            <component>
+        <id>choice_cl4pa9she005l2a6iuhbsb55n</id>
+        <description lang="en-US">3-teiliger Seitenschutz mit Gel&amp;auml;nderholm, Zwischenholm und Bordbrett</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://5Ee8vaizWR4p39OjYh_1M5eZpMgHGX_6_rise/p9FmdZXYIo9OIRwXmqHz6WvxYM70A7Vn/cl4pa9y4x005x2a6iuig1i0x2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Merkmale hat ein Fangger&amp;uuml;st ohne Schutzwand?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4pa9y4x005y2a6i78o0zu75</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pa9y4x005z2a6indliz1eu</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pa9y4x00602a6i0388wzuh</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pa9y4x00612a6i0sl2eoc4</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4pa9y4x005y2a6i78o0zu75</id>
+        <description lang="en-US">Absturzh&amp;ouml;he des Arbeitsplatzes max. 2,0 Meter</description>
+      </component>
+            <component>
+        <id>choice_cl4pa9y4x00602a6i0388wzuh</id>
+        <description lang="en-US">Mindestabstand von Absturzkante zum Seitenschutz 90 cm</description>
+      </component>
+            <component>
+        <id>choice_cl4pa9y4x00612a6i0sl2eoc4</id>
+        <description lang="en-US">Auffangfl&amp;auml;che mindestens 90 cm breit</description>
+      </component>
+            <component>
+        <id>choice_cl4pa9y4x005z2a6indliz1eu</id>
+        <description lang="en-US">3-teiliger Seitenschutz mit Gel&amp;auml;nderholm, Zwischenholm und Bordbrett</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://5Ee8vaizWR4p39OjYh_1M5eZpMgHGX_6_rise/p9FmdZXYIo9OIRwXmqHz6WvxYM70A7Vn/cl4pab6ff00702a6imsbugcmt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Merkmale haben sowohl Fangger&amp;uuml;st als auch Dachfangger&amp;uuml;st?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4pab6ff00712a6i38hiuny9</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4pab6ff00712a6i38hiuny9</id>
+        <description lang="en-US">Abstand der Auffangfl&amp;auml;che zur Fassade max. 30 cm</description>
+      </component>
+            <component>
+        <id>choice_cl4pab6ff00722a6ijkzwssyy</id>
+        <description lang="en-US">Breite der Auffangfl&amp;auml;che mindestens 70 cm</description>
+      </component>
+            <component>
+        <id>choice_cl4pabmxa00802a6ia0rbjqr2</id>
+        <description lang="en-US">Schutzwand mit einer Maschenweite von max. 10 cm</description>
+      </component>
+            <component>
+        <id>choice_cl4pabq1m00892a6imh4mu3y0</id>
+        <description lang="en-US">3-teiliger Seitenschutz mit Gel&amp;auml;nderholm, Zwischenholm und Bordbrett</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://5Ee8vaizWR4p39OjYh_1M5eZpMgHGX_6_rise/p9FmdZXYIo9OIRwXmqHz6WvxYM70A7Vn/cl4pabwgb008g2a6it22y3uf6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wann kann auf einen Treppenaufstieg zu einem Ger&amp;uuml;st verzichtet werden?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4pabwgc008h2a6injq53jm0</correctResponsePattern>
+            <correctResponsePattern>choice_cl4pabwgc008i2a6ik2pav2y0</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4pabwgc008h2a6injq53jm0</id>
+        <description lang="en-US">Einfamilienhaus</description>
+      </component>
+            <component>
+        <id>choice_cl4pabwgc008i2a6ik2pav2y0</id>
+        <description lang="en-US">Maximale Aufstiegsh&amp;ouml;he 5,0 m</description>
+      </component>
+            <component>
+        <id>choice_cl4pacbol008n2a6ibg1rg30u</id>
+        <description lang="en-US">Aufg&amp;auml;nge zu Dachfangger&amp;uuml;sten</description>
+      </component>
+            <component>
+        <id>choice_cl4pacesd008u2a6i6e5o87kj</id>
+        <description lang="en-US">Wenn innenliegende Leitern die Ger&amp;uuml;stkosten reduzieren</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://5Ee8vaizWR4p39OjYh_1M5eZpMgHGX_6_rise/p9FmdZXYIo9OIRwXmqHz6WvxYM70A7Vn/cl4pacl5c009d2a6iwzwxzb61" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Wie m&amp;uuml;ssen Netze der Dachschutzwand gepr&amp;uuml;ft werden</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4pacl5d009e2a6iga5h0oio</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4pacl5d009e2a6iga5h0oio</id>
+        <description lang="en-US">Mindestens alle 12 Monate auf Mindestbruchkraft</description>
+      </component>
+            <component>
+        <id>choice_cl4pacl5d009f2a6igno8uw13</id>
+        <description lang="en-US">Bei Bedarf augenscheinliche Pr&amp;uuml;fung</description>
+      </component>
+            <component>
+        <id>choice_cl4pacx0h009g2a6ihswfx3an</id>
+        <description lang="en-US">Vor jedem Betreten des Ger&amp;uuml;stes durch einen Sachverst&amp;auml;ndigen</description>
+      </component>
+            <component>
+        <id>choice_cl4paczl7009h2a6iow1lgr87</id>
+        <description lang="en-US">Gelegentliche Pr&amp;uuml;fung durch zerren und ziehen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://5Ee8vaizWR4p39OjYh_1M5eZpMgHGX_6_rise/p9FmdZXYIo9OIRwXmqHz6WvxYM70A7Vn/cl4pad4bz009i2a6i5ncb41ue" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Bei welcher Neigung der Arbeitsfl&amp;auml;che ben&amp;ouml;tige ich ein Dachfangger&amp;uuml;st?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4pad4c0009j2a6iynv1q03g</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4pad4c0009j2a6iynv1q03g</id>
+        <description lang="en-US">Mehr als 22,5&amp;deg; bis max. 60&amp;deg; Neigung</description>
+      </component>
+            <component>
+        <id>choice_cl4pad4c0009k2a6itaux0owa</id>
+        <description lang="en-US">Bis 22,5&amp;deg; Neigung&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl4padh5y009l2a6i23ixmv56</id>
+        <description lang="en-US">Zwischen 45&amp;deg; und 60&amp;deg; Neigung der Arbeitsfl&amp;auml;che</description>
+      </component>
+            <component>
+        <id>choice_cl4padjua009m2a6iyvm0xysb</id>
+        <description lang="en-US">Ab 60&amp;deg; Neigung</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://5Ee8vaizWR4p39OjYh_1M5eZpMgHGX_6_rise/p9FmdZXYIo9OIRwXmqHz6WvxYM70A7Vn/cl4padt19009n2a6i2wwt9prn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Welche Aussagen zur Dachschutzwand sind richtig?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4padt19009o2a6ij981otq2</correctResponsePattern>
+            <correctResponsePattern>choice_cl4padt19009q2a6i83h91ite</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4padt19009o2a6ij981otq2</id>
+        <description lang="en-US">Die Ma&amp;szlig;e: &amp;bdquo;Abstand von Dachschutzwand zur Absturzkante plus die H&amp;ouml;he der Dachschutzwand&amp;ldquo; m&amp;uuml;ssen zusammen mindestens 1,50 Meter betragen</description>
+      </component>
+            <component>
+        <id>choice_cl4padt19009q2a6i83h91ite</id>
+        <description lang="en-US">Die Dachschutzwand muss mindesten 1,0 m hoch sein</description>
+      </component>
+            <component>
+        <id>choice_cl4padt19009r2a6i61g9d1aj</id>
+        <description lang="en-US">Auffangnetze m&amp;uuml;ssen gr&amp;uuml;n sein, damit sie eindeutig erkennbar sind</description>
+      </component>
+            <component>
+        <id>choice_cl4padt19009p2a6i3buu82g6</id>
+        <description lang="en-US">Der Abstand zur Fassade darf max. 90 cm betragen</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://5Ee8vaizWR4p39OjYh_1M5eZpMgHGX_6_rise/p9FmdZXYIo9OIRwXmqHz6WvxYM70A7Vn/cl4paetv800b62a6iobdzor8i" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Woraus besteht ein 3-teiliger Seitenschutz?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_cl4paetv800b72a6i040refvm</correctResponsePattern>
+            <correctResponsePattern>choice_cl4paetv800ba2a6iv46wwwjl</correctResponsePattern>
+            <correctResponsePattern>choice_cl4paetv800b92a6ic87rs6sl</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_cl4paetv800b72a6i040refvm</id>
+        <description lang="en-US">Bordbrett&amp;nbsp;</description>
+      </component>
+            <component>
+        <id>choice_cl4paetv800b92a6ic87rs6sl</id>
+        <description lang="en-US">Zwischenholm</description>
+      </component>
+            <component>
+        <id>choice_cl4paetv800ba2a6iv46wwwjl</id>
+        <description lang="en-US">Gel&amp;auml;nderholm</description>
+      </component>
+            <component>
+        <id>choice_cl4paetv800b82a6iw6f4shnw</id>
+        <description lang="en-US">Diagonale Verstrebung</description>
+      </component>
+            </choices>
+          </activity>
+            </activities>
+</tincan>
