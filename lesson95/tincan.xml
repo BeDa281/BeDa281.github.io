@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://e7zXZB0yzE1mV0MMrvj97Si0F94_xGyB_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Wind &amp; Schnee - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://e7zXZB0yzE1mV0MMrvj97Si0F94_xGyB_rise/tRZE1vVt5UNaQGi4kybBcjwM_ekBDJtw" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://e7zXZB0yzE1mV0MMrvj97Si0F94_xGyB_rise/tRZE1vVt5UNaQGi4kybBcjwM_ekBDJtw/cl89v9ok1001r2a6fjfjmvs22" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der folgenden Parameter ben&amp;ouml;tigt man, um die Schneelastsicherung an einem Geb&amp;auml;ude zu ermitteln?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89v9ok1001s2a6fntafvdo9</correctResponsePattern>
+    <correctResponsePattern>choice_cl89v9ok1001t2a6fgzwxpjs3</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vaenz001u2a6f8armf72q</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vamu3001w2a6f7iqe708y</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89v9ok1001s2a6fntafvdo9</id>
+    <description lang="en-US">H&amp;ouml;he des Gel&amp;auml;ndes</description>
+  </component>
+    <component>
+    <id>choice_cl89v9ok1001t2a6fgzwxpjs3</id>
+    <description lang="en-US">Dachneigungen</description>
+  </component>
+    <component>
+    <id>choice_cl89vaenz001u2a6f8armf72q</id>
+    <description lang="en-US">L&amp;auml;nge vom First zur Schneefangkonstruktion</description>
+  </component>
+    <component>
+    <id>choice_cl89vaj4u001v2a6f2tw30kqo</id>
+    <description lang="en-US">Art der Eindeckung</description>
+  </component>
+    <component>
+    <id>choice_cl89vamu3001w2a6f7iqe708y</id>
+    <description lang="en-US">Schneelastzone</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://e7zXZB0yzE1mV0MMrvj97Si0F94_xGyB_rise/tRZE1vVt5UNaQGi4kybBcjwM_ekBDJtw/cl89vb1n6002a2a6fgrwrnco6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei Dachdeckungen mit Dachziegeln oder Dachsteinen erfolgt die Windsogsicherung &amp;uuml;blicherweise mit ________.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89vb1n6002c2a6f6m0ots4m</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89vb1n6002b2a6fabhux9da</id>
+    <description lang="en-US">N&amp;auml;geln</description>
+  </component>
+    <component>
+    <id>choice_cl89vb1n6002d2a6fxor75wzn</id>
+    <description lang="en-US">Schrauben</description>
+  </component>
+    <component>
+    <id>choice_cl89vb1n6002e2a6fu0iggzzm</id>
+    <description lang="en-US">Haken</description>
+  </component>
+    <component>
+    <id>choice_cl89vb1n6002c2a6f6m0ots4m</id>
+    <description lang="en-US">Klammern</description>
+  </component>
+    <component>
+    <id>choice_cl89vc0d3003j2a6f1bkjvrvc</id>
+    <description lang="en-US">Dr&amp;auml;hten</description>
+  </component>
+    <component>
+    <id>choice_cl89vc4sf003k2a6fhxpfcbpf</id>
+    <description lang="en-US">Einh&amp;auml;nge-Stutzen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://e7zXZB0yzE1mV0MMrvj97Si0F94_xGyB_rise/tRZE1vVt5UNaQGi4kybBcjwM_ekBDJtw/cl89vcfic003l2a6f5pmotal8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Ver&amp;auml;nderungen gibt es seit Juli 2013 in Bezug auf Schneefangsysteme?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89vcfic003n2a6fqci9i0ik</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vcfic003p2a6fhnbf8wms</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89vcfic003m2a6fv1j7jn32</id>
+    <description lang="en-US">Schneefangsysteme m&amp;uuml;ssen mit modernen Metallhaken aus Edelstahl montiert werden.</description>
+  </component>
+    <component>
+    <id>choice_cl89vcfic003o2a6fu66holg8</id>
+    <description lang="en-US">Die Anordnung der Fanggitter m&amp;uuml;ssen aus statischen Gr&amp;uuml;nden im Versatz montiert werden</description>
+  </component>
+    <component>
+    <id>choice_cl89vcfic003p2a6fhnbf8wms</id>
+    <description lang="en-US">Schneelasten auf Schneefangsysteme m&amp;uuml;ssen statische berechnet werden.</description>
+  </component>
+    <component>
+    <id>choice_cl89vcfic003n2a6fqci9i0ik</id>
+    <description lang="en-US">Schneelasten auf Schneefangsysteme auch in Bezug auf die Verkehrssicherungspflicht des Hauseigent&amp;uuml;mers m&amp;uuml;ssen statische berechnet werden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://e7zXZB0yzE1mV0MMrvj97Si0F94_xGyB_rise/tRZE1vVt5UNaQGi4kybBcjwM_ekBDJtw/cl89vd68j004z2a6fzbq4t6o1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die einzelnen Schneearten den anzunehmenden Lasten zu.</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cl89vd68j00502a6fp5igm4pn[.]target_cl89vd68j00502a6fp5igm4pn</correctResponsePattern>
+    <correctResponsePattern>source_cl89vd68j00512a6fcr9pke8x[.]target_cl89vd68j00512a6fcr9pke8x</correctResponsePattern>
+    <correctResponsePattern>source_cl89vd68j00522a6fq863sizx[.]target_cl89vd68j00522a6fq863sizx</correctResponsePattern>
+    <correctResponsePattern>source_cl89ve5wl00532a6f8gnlq1pf[.]target_cl89ve5wl00532a6f8gnlq1pf</correctResponsePattern>
+    <correctResponsePattern>source_cl89vee3g00542a6fruthj4qa[.]target_cl89vee3g00542a6fruthj4qa</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cl89vd68j00502a6fp5igm4pn</id>
+    <description lang="en-US">Frisch gefallener Schnee></description>
+  </component>
+    <component>
+    <id>source_cl89vd68j00512a6fcr9pke8x</id>
+    <description lang="en-US">Gesetzter Schnee (nach einigen Tagen)></description>
+  </component>
+    <component>
+    <id>source_cl89vd68j00522a6fq863sizx</id>
+    <description lang="en-US">Altschnee (Wochen, Monate)></description>
+  </component>
+    <component>
+    <id>source_cl89ve5wl00532a6f8gnlq1pf</id>
+    <description lang="en-US">Feuchter Schnee></description>
+  </component>
+    <component>
+    <id>source_cl89vee3g00542a6fruthj4qa</id>
+    <description lang="en-US">Eis ></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cl89vd68j00502a6fp5igm4pn</id>
+        <description lang="en-US">1 kN/ m³</description>
+      </component>
+          <component>
+        <id>target_cl89vd68j00512a6fcr9pke8x</id>
+        <description lang="en-US">2 kN/m³</description>
+      </component>
+          <component>
+        <id>target_cl89vd68j00522a6fq863sizx</id>
+        <description lang="en-US">2,5-3,5 kN/m³</description>
+      </component>
+          <component>
+        <id>target_cl89ve5wl00532a6f8gnlq1pf</id>
+        <description lang="en-US">4 kN/m³</description>
+      </component>
+          <component>
+        <id>target_cl89vee3g00542a6fruthj4qa</id>
+        <description lang="en-US">9,2 kN/m³</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://e7zXZB0yzE1mV0MMrvj97Si0F94_xGyB_rise/tRZE1vVt5UNaQGi4kybBcjwM_ekBDJtw/cl89vervg00552a6f2ijcrfsx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche wichtigen Anforderungen ben&amp;ouml;tigen Befestigungsmittel.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89vervg00562a6f7qpz3zes</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vervg00582a6fd6jwxnil</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vervg00592a6fnehtzbxm</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89vervg00562a6f7qpz3zes</id>
+    <description lang="en-US">Befestigungen, die der freien Bewitterung ausgesetzt sind, m&amp;uuml;ssen korrosionsbest&amp;auml;ndig sein.</description>
+  </component>
+    <component>
+    <id>choice_cl89vervg00582a6fd6jwxnil</id>
+    <description lang="en-US">Schrauben und andere Kleinmetallmaterialien m&amp;uuml;ssen aus Edelstahl sein</description>
+  </component>
+    <component>
+    <id>choice_cl89vervg00592a6fnehtzbxm</id>
+    <description lang="en-US">Korrosionsschutz nasch DIN EN ISO 1461 und DIN ISO 12944 muss gew&amp;auml;hrleistet sein.</description>
+  </component>
+    <component>
+    <id>choice_cl89vervg00572a6f7mn23o81</id>
+    <description lang="en-US">Schrauben oder N&amp;auml;gel sollten mindestens galvanisch verzinkt sein.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://e7zXZB0yzE1mV0MMrvj97Si0F94_xGyB_rise/tRZE1vVt5UNaQGi4kybBcjwM_ekBDJtw/cl89vg5ko006v2a6f0wcitv3s" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Rebecca deckt gerade seinen First ein und entscheidet sich f&amp;uuml;r die Befestigungsart Verm&amp;ouml;rteln der Firstdachsteine. W&amp;auml;hrend sie in die Arbeit vertieft ist, &amp;uuml;berlegt sie, ob das als mechanische Befestigung gegen Windsogsicherung gilt.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89vg5kp006x2a6fghmiadjy</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89vg5kp006w2a6fzukw1ofj</id>
+    <description lang="en-US">Ja, wenn der M&amp;ouml;rtel Zement enth&amp;auml;lt.</description>
+  </component>
+    <component>
+    <id>choice_cl89vg5kp006y2a6fg0fb0w4s</id>
+    <description lang="en-US">Ja, aber nur wenn Rebecca einen Fachmann bestellt, der ihr einen rechnerischen Nachweis liefert.</description>
+  </component>
+    <component>
+    <id>choice_cl89vg5kp006z2a6f1xb79bxn</id>
+    <description lang="en-US">Nein, es gilt nur im Sonderfall.&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cl89vg5kp006x2a6fghmiadjy</id>
+    <description lang="en-US">Nein, es gilt nicht als mechanisches Befestigungsmittel.&amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://e7zXZB0yzE1mV0MMrvj97Si0F94_xGyB_rise/tRZE1vVt5UNaQGi4kybBcjwM_ekBDJtw/cl89vhu5g009r2a6fe3i2r5ne" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der folgenden Unterteilungen eines Daches geh&amp;ouml;ren zu den Randbereichen.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89vhu5g009s2a6fpwo5qak6</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vhu5g009t2a6f9c354a5r</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vionl00bg2a6fferbt4vj</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vik1u00b62a6fkbef0rej</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vhu5g009v2a6fl53trnoe</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vhu5g009u2a6fgtcc1oaf</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89vhu5g009s2a6fpwo5qak6</id>
+    <description lang="en-US">Grat und Walm</description>
+  </component>
+    <component>
+    <id>choice_cl89vhu5g009u2a6fgtcc1oaf</id>
+    <description lang="en-US">Kehle</description>
+  </component>
+    <component>
+    <id>choice_cl89vhu5g009v2a6fl53trnoe</id>
+    <description lang="en-US">Traufe</description>
+  </component>
+    <component>
+    <id>choice_cl89vhu5g009t2a6f9c354a5r</id>
+    <description lang="en-US">Ortgang</description>
+  </component>
+    <component>
+    <id>choice_cl89vik1u00b62a6fkbef0rej</id>
+    <description lang="en-US">First</description>
+  </component>
+    <component>
+    <id>choice_cl89vionl00bg2a6fferbt4vj</id>
+    <description lang="en-US">Mansardknick</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://e7zXZB0yzE1mV0MMrvj97Si0F94_xGyB_rise/tRZE1vVt5UNaQGi4kybBcjwM_ekBDJtw/cl89vixd400bv2a6f1t0wmbv3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">An welchen Teilen des Daches ist unabh&amp;auml;ngig der erforderlichen Verklammerung eine zus&amp;auml;tzliche mechanische Befestigung erforderlich?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89vixd400bw2a6fndh2ifg2</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vixd400bx2a6fe1s3paa8</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vixd400bz2a6f20qqwdv9</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89vixd400bw2a6fndh2ifg2</id>
+    <description lang="en-US">Im Ortgangbereich</description>
+  </component>
+    <component>
+    <id>choice_cl89vixd400by2a6fmbg98x6l</id>
+    <description lang="en-US">Im Traufbereich</description>
+  </component>
+    <component>
+    <id>choice_cl89vixd400bz2a6f20qqwdv9</id>
+    <description lang="en-US">Beim Pultdachabschluss</description>
+  </component>
+    <component>
+    <id>choice_cl89vixd400bx2a6fe1s3paa8</id>
+    <description lang="en-US">Im Kehlbereich</description>
+  </component>
+    <component>
+    <id>choice_cl89vlvcu00d62a6fh0ct1owf</id>
+    <description lang="en-US">Im Fl&amp;auml;chenbereich</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://e7zXZB0yzE1mV0MMrvj97Si0F94_xGyB_rise/tRZE1vVt5UNaQGi4kybBcjwM_ekBDJtw/cl89vma9900df2a6fe4skpfh6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der folgenden Aussagen geben richtigerweise die Windzonen in Deutschland an?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89vma9900dj2a6fxgxd5tws</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vnemo00fe2a6flcks1hhm</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89vma9900dg2a6flsr6338n</id>
+    <description lang="en-US">Windzone 1 s&amp;uuml;dlicher Bereich von Bayern</description>
+  </component>
+    <component>
+    <id>choice_cl89vma9900di2a6f8i2zqaoc</id>
+    <description lang="en-US">Windzone 2 Nordwestlicher Bereich von Deutschland</description>
+  </component>
+    <component>
+    <id>choice_cl89vma9900dj2a6fxgxd5tws</id>
+    <description lang="en-US">Windzone 3 in der N&amp;auml;he von Hamburg und Bremen sowie der Norden von Mecklenburg-Vorpommern</description>
+  </component>
+    <component>
+    <id>choice_cl89vma9900dh2a6fgn6u9h4z</id>
+    <description lang="en-US">Windzone 4 ausschlie&amp;szlig;lich die Bergregion der Alpen</description>
+  </component>
+    <component>
+    <id>choice_cl89vn9rh00f42a6fo7icounv</id>
+    <description lang="en-US">Windzone 5 Nordwestlicher Bereich von Deutschland</description>
+  </component>
+    <component>
+    <id>choice_cl89vnemo00fe2a6flcks1hhm</id>
+    <description lang="en-US">Hessen befindet sich wie Saarland ausschlie&amp;szlig;lich in Windzone 1</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://e7zXZB0yzE1mV0MMrvj97Si0F94_xGyB_rise/tRZE1vVt5UNaQGi4kybBcjwM_ekBDJtw/cl89vnni000fo2a6fb0vm2gu7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Thomas wohnt in einem Gebiet, das zur Schneelastzone 3 geh&amp;ouml;rt. Auf seinem Dach liegt schon enorm viel Schnee und f&amp;uuml;r morgen k&amp;uuml;ndigt sich neuer Schnee an. Was kann Thomas tun, um die Schneelast zu reduzieren?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89vnni100fq2a6fvctr9ot9</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vnni100fr2a6frw7v4st5</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89vnni100fp2a6fby9sw9kn</id>
+    <description lang="en-US">Er sollte sein Dachgeschoss stark beheizen, damit der alte Schnee bis morgen geschmolzen ist.</description>
+  </component>
+    <component>
+    <id>choice_cl89vnni100fr2a6frw7v4st5</id>
+    <description lang="en-US">Er sollte den Schnee bei Bedarf m&amp;ouml;glichst gleichm&amp;auml;&amp;szlig;ig vom Dach entfernen, da ein komplettes Abtragen auf nur einer Dachseite die Statik beeintr&amp;auml;chtigen k&amp;ouml;nnte.</description>
+  </component>
+    <component>
+    <id>choice_cl89vnni100fs2a6fm6comaw1</id>
+    <description lang="en-US">Er kann unter die Mittepfetten im Innenbereich kurzzeitig Pfosten aufstellen, um das Dach statisch zu ert&amp;uuml;chtigen.</description>
+  </component>
+    <component>
+    <id>choice_cl89vnni100fq2a6fvctr9ot9</id>
+    <description lang="en-US">Thomas kann den Schnee entfernen, aber in der Regel ist sein Dach f&amp;uuml;r Schneelastzone 3 ausgestattet und er sollte nur in besonderen F&amp;auml;llen eingreifen. &amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

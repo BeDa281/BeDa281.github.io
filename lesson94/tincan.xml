@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://PCXNNfR2_Bb9rOlSVaOyI2wfN1DRtTFV_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Baustoffe Beton - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://PCXNNfR2_Bb9rOlSVaOyI2wfN1DRtTFV_rise/MRz41zPOepfhkIhVSScLQ9AqQzOeC2bq" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://PCXNNfR2_Bb9rOlSVaOyI2wfN1DRtTFV_rise/MRz41zPOepfhkIhVSScLQ9AqQzOeC2bq/cl89vsjj4001b2a6fx5n0dcn2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Beton besteht aus Wasser, Zement und &amp;hellip;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89vt0d6001e2a6fyrfgoaym</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89vsjj5001c2a6fvce4vyjj</id>
+    <description lang="en-US">Feinm&amp;ouml;rtel</description>
+  </component>
+    <component>
+    <id>choice_cl89vsjj5001d2a6f7wnibz6e</id>
+    <description lang="en-US">Steinen</description>
+  </component>
+    <component>
+    <id>choice_cl89vt0d6001e2a6fyrfgoaym</id>
+    <description lang="en-US">Gesteinsk&amp;ouml;rnungen</description>
+  </component>
+    <component>
+    <id>choice_cl89vt306001f2a6fw80gku9p</id>
+    <description lang="en-US">Sedimenten</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PCXNNfR2_Bb9rOlSVaOyI2wfN1DRtTFV_rise/MRz41zPOepfhkIhVSScLQ9AqQzOeC2bq/cl89vt83b001g2a6frr424o3e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der folgenden Merkmale zeigen die Qualit&amp;auml;t von Beton?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89vt83b001h2a6fyu6kbpc9</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89vt83b001h2a6fyu6kbpc9</id>
+    <description lang="en-US">Druckfestigkeit</description>
+  </component>
+    <component>
+    <id>choice_cl89vt83b001j2a6flynnn1jp</id>
+    <description lang="en-US">Verarbeitbarkeit</description>
+  </component>
+    <component>
+    <id>choice_cl89vt83b001k2a6f2sdwee7i</id>
+    <description lang="en-US">W&amp;auml;rmeleitf&amp;auml;higkeit</description>
+  </component>
+    <component>
+    <id>choice_cl89vt83b001i2a6fh5ja8lzq</id>
+    <description lang="en-US">Konsistenz</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PCXNNfR2_Bb9rOlSVaOyI2wfN1DRtTFV_rise/MRz41zPOepfhkIhVSScLQ9AqQzOeC2bq/cl89vtkqd001r2a6fuhdo1ago" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Warum ist die Beschaffenheit des Betongef&amp;uuml;ges so wichtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89vtkqe001t2a6f7i9um1rs</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vtkqe001u2a6f6cszongz</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vtkqe001v2a6flal4nvlp</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89vtkqe001s2a6f9ixoiavo</id>
+    <description lang="en-US">Um eine gute Druckfestigkeit zu erreichen</description>
+  </component>
+    <component>
+    <id>choice_cl89vtkqe001u2a6f6cszongz</id>
+    <description lang="en-US">Vermeidung von Wassersaugf&amp;auml;higkeit</description>
+  </component>
+    <component>
+    <id>choice_cl89vtkqe001v2a6flal4nvlp</id>
+    <description lang="en-US">Verhindert die Wasserdurchl&amp;auml;ssigkeit</description>
+  </component>
+    <component>
+    <id>choice_cl89vtkqe001t2a6f7i9um1rs</id>
+    <description lang="en-US">Um eine gute Frostbest&amp;auml;ndigkeit zu erreichen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PCXNNfR2_Bb9rOlSVaOyI2wfN1DRtTFV_rise/MRz41zPOepfhkIhVSScLQ9AqQzOeC2bq/cl89vvt73003m2a6fxbxlo1gg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der folgenden Personenkreise werden nach DIN 1045-2 f&amp;uuml;r die Festlegung und Herstellung von Beton in die Verantwortung genommen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89vvt73003n2a6f6tv5n232</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vvt73003o2a6fycesreu8</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vwkn3003p2a6f7qxje0th</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89vvt73003n2a6f6tv5n232</id>
+    <description lang="en-US">Der Verfasser &amp;ndash; Planer oder Architekt, der die Festlegung f&amp;uuml;r den Frisch- und Festbeton aufstellt.</description>
+  </component>
+    <component>
+    <id>choice_cl89vvt73003o2a6fycesreu8</id>
+    <description lang="en-US">Der Hersteller &amp;ndash; der, der den Beton herstellt und transportiert</description>
+  </component>
+    <component>
+    <id>choice_cl89vwkn3003p2a6f7qxje0th</id>
+    <description lang="en-US">Der Verwender &amp;ndash; die bauausf&amp;uuml;hrende Firma, die dem Frischbeton verarbeitet</description>
+  </component>
+    <component>
+    <id>choice_cl89vwofs003q2a6fhubf394g</id>
+    <description lang="en-US">Der Pr&amp;uuml;fer &amp;ndash; die Pr&amp;uuml;ffirma vor Ort die den Beton nach der Trocknung bewertet</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PCXNNfR2_Bb9rOlSVaOyI2wfN1DRtTFV_rise/MRz41zPOepfhkIhVSScLQ9AqQzOeC2bq/cl89vwzsn00412a6fyknlg2ai" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Nach DIN 1045-2 wird Beton in 16 Klassen C 8/10 &amp;ndash; C 100/115 unterteilt. Was geben die Klassen an?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89vxgjw00442a6fha4ktrmp</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89vwzsn00422a6fou5xff6h</id>
+    <description lang="en-US">Qualit&amp;auml;t und Rohdichte</description>
+  </component>
+    <component>
+    <id>choice_cl89vwzsn00432a6fb3hxowjl</id>
+    <description lang="en-US">Statische Eigenschaften und Anteile von Bew&amp;auml;hrung</description>
+  </component>
+    <component>
+    <id>choice_cl89vxgjw00442a6fha4ktrmp</id>
+    <description lang="en-US">Druckfestigkeit</description>
+  </component>
+    <component>
+    <id>choice_cl89vxkgm00452a6ft0383cvo</id>
+    <description lang="en-US">W&amp;auml;rmespeicher und Luftschall&amp;uuml;bertragung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PCXNNfR2_Bb9rOlSVaOyI2wfN1DRtTFV_rise/MRz41zPOepfhkIhVSScLQ9AqQzOeC2bq/cl89vxo0e00462a6f7zd4hrut" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Es gibt sogenannte Expositionsklassen, in denen der Beton eingeteilt wird. Welche der folgenden Aussagen sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89vxo0e00472a6flzry42lz</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vxo0e00482a6f5rmowepc</correctResponsePattern>
+    <correctResponsePattern>choice_cl89vxo0e00492a6fqcv46zpd</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89vxo0e00472a6flzry42lz</id>
+    <description lang="en-US">Aufgrund der Umgebungsbedingungen entsteht ein Sch&amp;auml;digungsvorgang, der eine Mindestdruckfestigkeitsklasse vorgibt.</description>
+  </component>
+    <component>
+    <id>choice_cl89vxo0e00492a6fqcv46zpd</id>
+    <description lang="en-US">Die Expositionsklassen zeigen welche Anforderungen der Beton haben muss entsprechend unterschiedlichen Umwelteinfl&amp;uuml;ssen.</description>
+  </component>
+    <component>
+    <id>choice_cl89vxo0e004a2a6ffsxu2i72</id>
+    <description lang="en-US">Die Wahl der Expositionsklasse richtet sich nach den Bedingungen am Ort der Herstellung von Beton.</description>
+  </component>
+    <component>
+    <id>choice_cl89vxo0e00482a6f5rmowepc</id>
+    <description lang="en-US">Bei Klasse XO gibt es kein Korrosions- und Angriffsrisiko.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PCXNNfR2_Bb9rOlSVaOyI2wfN1DRtTFV_rise/MRz41zPOepfhkIhVSScLQ9AqQzOeC2bq/cl89vyvvd005g2a6fxue848ex" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie den folgenden Betonarten die richtigen Eigenschaften zu!</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cl89vyvvd005h2a6f800tvvgt[.]target_cl89vyvvd005h2a6f800tvvgt</correctResponsePattern>
+    <correctResponsePattern>source_cl89vyvvd005i2a6f0dw1fuyx[.]target_cl89vyvvd005i2a6f0dw1fuyx</correctResponsePattern>
+    <correctResponsePattern>source_cl89vyvvd005j2a6fydxy7aj1[.]target_cl89vyvvd005j2a6fydxy7aj1</correctResponsePattern>
+    <correctResponsePattern>source_cl89vzrpy005k2a6fnn042yko[.]target_cl89vzrpy005k2a6fnn042yko</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cl89vyvvd005h2a6f800tvvgt</id>
+    <description lang="en-US">Leichtbeton (Dichte)></description>
+  </component>
+    <component>
+    <id>source_cl89vyvvd005i2a6f0dw1fuyx</id>
+    <description lang="en-US">Normalbeton (Dichte)></description>
+  </component>
+    <component>
+    <id>source_cl89vyvvd005j2a6fydxy7aj1</id>
+    <description lang="en-US">Leichtbeton (Wärme)></description>
+  </component>
+    <component>
+    <id>source_cl89vzrpy005k2a6fnn042yko</id>
+    <description lang="en-US">Normalbeton (Wärme)></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cl89vyvvd005h2a6f800tvvgt</id>
+        <description lang="en-US">Geringe Rohdichte</description>
+      </component>
+          <component>
+        <id>target_cl89vyvvd005i2a6f0dw1fuyx</id>
+        <description lang="en-US">Hohe Rohdichte</description>
+      </component>
+          <component>
+        <id>target_cl89vyvvd005j2a6fydxy7aj1</id>
+        <description lang="en-US">Geringe Wärmeleitfähigkeit</description>
+      </component>
+          <component>
+        <id>target_cl89vzrpy005k2a6fnn042yko</id>
+        <description lang="en-US">Hohe Wärmeleitfähigkeit</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://PCXNNfR2_Bb9rOlSVaOyI2wfN1DRtTFV_rise/MRz41zPOepfhkIhVSScLQ9AqQzOeC2bq/cl89w0v4p005l2a6f26rdfupg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Gegen welche der folgenden Einfl&amp;uuml;sse sollte Beton bis zum ausreichenden Erh&amp;auml;rten gesch&amp;uuml;tzt werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89w0v4q005m2a6ft5ompdfw</correctResponsePattern>
+    <correctResponsePattern>choice_cl89w0v4q005n2a6fshmzfh7k</correctResponsePattern>
+    <correctResponsePattern>choice_cl89w0v4q005o2a6frug2hio7</correctResponsePattern>
+    <correctResponsePattern>choice_cl89w0v4q005p2a6ff5tx2dvw</correctResponsePattern>
+    <correctResponsePattern>choice_cl89w1h31006s2a6f5st9wzuu</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89w0v4q005m2a6ft5ompdfw</id>
+    <description lang="en-US">Gegen starkes Abk&amp;uuml;hlen oder starkes Erw&amp;auml;rmen</description>
+  </component>
+    <component>
+    <id>choice_cl89w0v4q005o2a6frug2hio7</id>
+    <description lang="en-US">Gegen Austrocknung</description>
+  </component>
+    <component>
+    <id>choice_cl89w0v4q005p2a6ff5tx2dvw</id>
+    <description lang="en-US">Gegen starken Regen</description>
+  </component>
+    <component>
+    <id>choice_cl89w0v4q005n2a6fshmzfh7k</id>
+    <description lang="en-US">Gegen str&amp;ouml;mendes Wasser</description>
+  </component>
+    <component>
+    <id>choice_cl89w1h31006s2a6f5st9wzuu</id>
+    <description lang="en-US">Gegen mechanische und chemische Einfl&amp;uuml;sse</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PCXNNfR2_Bb9rOlSVaOyI2wfN1DRtTFV_rise/MRz41zPOepfhkIhVSScLQ9AqQzOeC2bq/cl89w1rn1007a2a6ff0v9mynn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Bauleitung bemerkt, dass die Rohbaufirma den Beton ohne R&amp;uuml;ttelmaschinen verarbeitet. Welche Folgen k&amp;ouml;nnen entstehen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89w1rn1007c2a6flq7jlv7a</correctResponsePattern>
+    <correctResponsePattern>choice_cl89w1rn1007e2a6fk9y3fdy2</correctResponsePattern>
+    <correctResponsePattern>choice_cl89w1rn1007d2a6fl5io1t03</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89w1rn1007b2a6f3kdr5ivb</id>
+    <description lang="en-US">Die Konsistenz des Betons ist sehr fl&amp;uuml;ssig, daher ist die Verarbeitung ohne R&amp;uuml;ttelmaschinen zul&amp;auml;ssig, es bestehen keine Folgen.</description>
+  </component>
+    <component>
+    <id>choice_cl89w1rn1007d2a6fl5io1t03</id>
+    <description lang="en-US">Die vom Planer angeforderte Druckfestigkeit des Betons wird ohne R&amp;uuml;ttelmaschinen nicht erreicht.</description>
+  </component>
+    <component>
+    <id>choice_cl89w1rn1007e2a6fk9y3fdy2</id>
+    <description lang="en-US">Durch den unterlassenen Einsatz von R&amp;uuml;ttelmaschinen ist der der Korrosionsschutz nicht gegeben.</description>
+  </component>
+    <component>
+    <id>choice_cl89w1rn1007c2a6flq7jlv7a</id>
+    <description lang="en-US">Der Beton wird wasserdurchl&amp;auml;ssig, wenn er nicht ausreichend durch R&amp;uuml;ttelmaschinen verdichtet wurde.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PCXNNfR2_Bb9rOlSVaOyI2wfN1DRtTFV_rise/MRz41zPOepfhkIhVSScLQ9AqQzOeC2bq/cl89w2fqw008o2a6fg5195l4b" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Funktion erf&amp;uuml;llt der Zement bei der Herstellung von Betonbauten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89w2fqw008p2a6fyp4fv2qc</correctResponsePattern>
+    <correctResponsePattern>choice_cl89w2fqw008q2a6f1g33moq5</correctResponsePattern>
+    <correctResponsePattern>choice_cl89w324b008r2a6fw1vrykfm</correctResponsePattern>
+    <correctResponsePattern>choice_cl89w371e008s2a6f64dmq791</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89w2fqw008p2a6fyp4fv2qc</id>
+    <description lang="en-US">Zement dient als hydraulisches Bindemittel, das alle anderen Bestandteile zusammenh&amp;auml;lt.</description>
+  </component>
+    <component>
+    <id>choice_cl89w2fqw008q2a6f1g33moq5</id>
+    <description lang="en-US">Zement gibt dem Beton die Eigenschaft der Wasserunl&amp;ouml;slichkeit.</description>
+  </component>
+    <component>
+    <id>choice_cl89w324b008r2a6fw1vrykfm</id>
+    <description lang="en-US">Zement erm&amp;ouml;glicht als hydraulisches Bindemittel auch das Abbinden unter Wasser.</description>
+  </component>
+    <component>
+    <id>choice_cl89w371e008s2a6f64dmq791</id>
+    <description lang="en-US">Durch die Verwendung von Zement ist der Beton nach dem Abbinden nicht mehr in seiner Form &amp;auml;nderbar.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
