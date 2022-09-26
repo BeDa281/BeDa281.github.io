@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://4fDSOB4IICDuoY9QheFxRL5plWLGIVgD_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Statik - Lastannahme</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://4fDSOB4IICDuoY9QheFxRL5plWLGIVgD_rise/wMhgGEhFjqaUGzHLjKAeNlK-lV4qdE6s" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://4fDSOB4IICDuoY9QheFxRL5plWLGIVgD_rise/wMhgGEhFjqaUGzHLjKAeNlK-lV4qdE6s/cl8a5o9nx001a2a6fj6wu7juc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In diesem Test sollen Sie die Lastannahme f&amp;uuml;r eine Holzbalkendecke ermitteln. Dabei ist ein Balkenabstand (Achsma&amp;szlig;) vom 0,74 m anzunehmen. Die Lattung f&amp;uuml;r die Gipskartonplatten hat einen Abstand von 0,42 cm. Berechnen Sie die Einwirkung je m&amp;sup2; Decke, Berechnen Sie die Einwirkung je lfm Deckenbalken.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Einwirkung je m&amp;sup2; von zementgebundenen Spanplatten, 2*10 mm&lt;/strong&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl8a5o9nx001b2a6f5dl7a8og</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl8a5o9nx001b2a6f5dl7a8og</id>
+    <description lang="en-US">0,2400 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5o9nx001c2a6fgm3mmje0</id>
+    <description lang="en-US">0,2000 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tv6q001e2a6f3gp9oarb</id>
+    <description lang="en-US">0,1600 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tysh001f2a6fz8m9ihdu</id>
+    <description lang="en-US">0,1200 kN/m&amp;sup2;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://4fDSOB4IICDuoY9QheFxRL5plWLGIVgD_rise/wMhgGEhFjqaUGzHLjKAeNlK-lV4qdE6s/cl8iirons00052a6gy0axxal6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In diesem Test sollen Sie die Lastannahme f&amp;uuml;r eine Holzbalkendecke ermitteln. Dabei ist ein Balkenabstand (Achsma&amp;szlig;) vom 0,74 m anzunehmen. Die Lattung f&amp;uuml;r die Gipskartonplatten hat einen Abstand von 0,42 cm. Berechnen Sie die Einwirkung je m&amp;sup2; Decke, Berechnen Sie die Einwirkung je lfm Deckenbalken.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Einwirkung je m&amp;sup2; von Bl&amp;auml;hperlite 30 mm &lt;br&gt;&lt;/strong&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl8a5o9nx001b2a6f5dl7a8og</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl8a5o9nx001b2a6f5dl7a8og</id>
+    <description lang="en-US">0,0300 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5o9nx001c2a6fgm3mmje0</id>
+    <description lang="en-US">0,2000 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tv6q001e2a6f3gp9oarb</id>
+    <description lang="en-US">0,0100 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tysh001f2a6fz8m9ihdu</id>
+    <description lang="en-US">0,0030 kN/m&amp;sup2;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://4fDSOB4IICDuoY9QheFxRL5plWLGIVgD_rise/wMhgGEhFjqaUGzHLjKAeNlK-lV4qdE6s/cl8iisve800062a6ghff4nrye" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In diesem Test sollen Sie die Lastannahme f&amp;uuml;r eine Holzbalkendecke ermitteln. Dabei ist ein Balkenabstand (Achsma&amp;szlig;) vom 0,74 m anzunehmen. Die Lattung f&amp;uuml;r die Gipskartonplatten hat einen Abstand von 0,42 cm. Berechnen Sie die Einwirkung je m&amp;sup2; Decke, Berechnen Sie die Einwirkung je lfm Deckenbalken.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Einwirkung je m&amp;sup2; von Rauhspund C24, 30 mm &lt;br&gt;&lt;/strong&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl8a5o9nx001b2a6f5dl7a8og</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl8a5o9nx001b2a6f5dl7a8og</id>
+    <description lang="en-US">0,1260 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5o9nx001c2a6fgm3mmje0</id>
+    <description lang="en-US">0,6000 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tv6q001e2a6f3gp9oarb</id>
+    <description lang="en-US">0,1600 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tysh001f2a6fz8m9ihdu</id>
+    <description lang="en-US">0,2420 kN/m&amp;sup2;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://4fDSOB4IICDuoY9QheFxRL5plWLGIVgD_rise/wMhgGEhFjqaUGzHLjKAeNlK-lV4qdE6s/cl8iiv27100072a6gy6r2hvpm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In diesem Test sollen Sie die Lastannahme f&amp;uuml;r eine Holzbalkendecke ermitteln. Dabei ist ein Balkenabstand (Achsma&amp;szlig;) vom 0,74 m anzunehmen. Die Lattung f&amp;uuml;r die Gipskartonplatten hat einen Abstand von 0,42 cm. Berechnen Sie die Einwirkung je m&amp;sup2; Decke, Berechnen Sie die Einwirkung je lfm Deckenbalken.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Einwirkung je m&amp;sup2; von Balken GL24h, 8*20 cm &lt;br&gt;&lt;/strong&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl8a5o9nx001b2a6f5dl7a8og</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl8a5o9nx001b2a6f5dl7a8og</id>
+    <description lang="en-US">0,0800 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5o9nx001c2a6fgm3mmje0</id>
+    <description lang="en-US">0,6000 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tv6q001e2a6f3gp9oarb</id>
+    <description lang="en-US">0,1850 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tysh001f2a6fz8m9ihdu</id>
+    <description lang="en-US">0,0950 kN/m&amp;sup2;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://4fDSOB4IICDuoY9QheFxRL5plWLGIVgD_rise/wMhgGEhFjqaUGzHLjKAeNlK-lV4qdE6s/cl8iiwbf500082a6gkx05tsr3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In diesem Test sollen Sie die Lastannahme f&amp;uuml;r eine Holzbalkendecke ermitteln. Dabei ist ein Balkenabstand (Achsma&amp;szlig;) vom 0,74 m anzunehmen. Die Lattung f&amp;uuml;r die Gipskartonplatten hat einen Abstand von 0,42 cm. Berechnen Sie die Einwirkung je m&amp;sup2; Decke, Berechnen Sie die Einwirkung je lfm Deckenbalken.&lt;br&gt;&lt;strong&gt;Einwirkung je m&amp;sup2; von Kiessch&amp;uuml;ttung, 6,0 cm &lt;br&gt;&lt;/strong&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl8a5o9nx001b2a6f5dl7a8og</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl8a5o9nx001b2a6f5dl7a8og</id>
+    <description lang="en-US">1,0703 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5o9nx001c2a6fgm3mmje0</id>
+    <description lang="en-US">0,1200 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tv6q001e2a6f3gp9oarb</id>
+    <description lang="en-US">1,0600 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tysh001f2a6fz8m9ihdu</id>
+    <description lang="en-US">1,2000 kN/m&amp;sup2;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://4fDSOB4IICDuoY9QheFxRL5plWLGIVgD_rise/wMhgGEhFjqaUGzHLjKAeNlK-lV4qdE6s/cl8ij0fks00092a6ggxjzohb2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In diesem Test sollen Sie die Lastannahme f&amp;uuml;r eine Holzbalkendecke ermitteln. Dabei ist ein Balkenabstand (Achsma&amp;szlig;) vom 0,74 m anzunehmen. Die Lattung f&amp;uuml;r die Gipskartonplatten hat einen Abstand von 0,42 cm. Berechnen Sie die Einwirkung je m&amp;sup2; Decke, Berechnen Sie die Einwirkung je lfm Deckenbalken.&lt;br&gt;&lt;strong&gt;Einwirkung je m&amp;sup2; von Rieselschutzpapier &lt;br&gt;&lt;/strong&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl8a5o9nx001b2a6f5dl7a8og</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl8a5o9nx001b2a6f5dl7a8og</id>
+    <description lang="en-US">0,0000 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5o9nx001c2a6fgm3mmje0</id>
+    <description lang="en-US">0,0011 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tv6q001e2a6f3gp9oarb</id>
+    <description lang="en-US">0,1700 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tysh001f2a6fz8m9ihdu</id>
+    <description lang="en-US">0,0110 kN/m&amp;sup2;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://4fDSOB4IICDuoY9QheFxRL5plWLGIVgD_rise/wMhgGEhFjqaUGzHLjKAeNlK-lV4qdE6s/cl8ij1urs000a2a6ggv7zxlfr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In diesem Test sollen Sie die Lastannahme f&amp;uuml;r eine Holzbalkendecke ermitteln. Dabei ist ein Balkenabstand (Achsma&amp;szlig;) vom 0,74 m anzunehmen. Die Lattung f&amp;uuml;r die Gipskartonplatten hat einen Abstand von 0,42 cm. Berechnen Sie die Einwirkung je m&amp;sup2; Decke, Berechnen Sie die Einwirkung je lfm Deckenbalken.&lt;br&gt;&lt;strong&gt;Einwirkung je m&amp;sup2; von Fehlboden C24, 24 mm &lt;br&gt;&lt;/strong&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl8a5o9nx001b2a6f5dl7a8og</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl8a5o9nx001b2a6f5dl7a8og</id>
+    <description lang="en-US">0,0899 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5o9nx001c2a6fgm3mmje0</id>
+    <description lang="en-US">0,1008 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tv6q001e2a6f3gp9oarb</id>
+    <description lang="en-US">0,1250 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tysh001f2a6fz8m9ihdu</id>
+    <description lang="en-US">0,0108 kN/m&amp;sup2;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://4fDSOB4IICDuoY9QheFxRL5plWLGIVgD_rise/wMhgGEhFjqaUGzHLjKAeNlK-lV4qdE6s/cl8ij3fpw000b2a6geeqw4rvo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In diesem Test sollen Sie die Lastannahme f&amp;uuml;r eine Holzbalkendecke ermitteln. Dabei ist ein Balkenabstand (Achsma&amp;szlig;) vom 0,74 m anzunehmen. Die Lattung f&amp;uuml;r die Gipskartonplatten hat einen Abstand von 0,42 cm. Berechnen Sie die Einwirkung je m&amp;sup2; Decke, Berechnen Sie die Einwirkung je lfm Deckenbalken.&lt;br&gt;&lt;strong&gt;Einwirkung je m&amp;sup2; von Holzwoll-D&amp;auml;mmung, 60 mm&lt;br&gt;&lt;/strong&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl8a5o9nx001b2a6f5dl7a8og</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl8a5o9nx001b2a6f5dl7a8og</id>
+    <description lang="en-US">0,3211 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5o9nx001c2a6fgm3mmje0</id>
+    <description lang="en-US">0,6000 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tv6q001e2a6f3gp9oarb</id>
+    <description lang="en-US">0,1250 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tysh001f2a6fz8m9ihdu</id>
+    <description lang="en-US">0,0108 kN/m&amp;sup2;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://4fDSOB4IICDuoY9QheFxRL5plWLGIVgD_rise/wMhgGEhFjqaUGzHLjKAeNlK-lV4qdE6s/cl8ij5mhv000c2a6gjxuommjq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In diesem Test sollen Sie die Lastannahme f&amp;uuml;r eine Holzbalkendecke ermitteln. Dabei ist ein Balkenabstand (Achsma&amp;szlig;) vom 0,74 m anzunehmen. Die Lattung f&amp;uuml;r die Gipskartonplatten hat einen Abstand von 0,42 cm. Berechnen Sie die Einwirkung je m&amp;sup2; Decke, Berechnen Sie die Einwirkung je lfm Deckenbalken.&lt;br&gt;&lt;strong&gt;Einwirkung je m&amp;sup2; von Latten C24, 3,0/5,0 cm, a = 0,42 m&lt;br&gt;&lt;/strong&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl8a5o9nx001b2a6f5dl7a8og</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl8a5o9nx001b2a6f5dl7a8og</id>
+    <description lang="en-US">0,0150 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5o9nx001c2a6fgm3mmje0</id>
+    <description lang="en-US">0,1500 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tv6q001e2a6f3gp9oarb</id>
+    <description lang="en-US">0,1250 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tysh001f2a6fz8m9ihdu</id>
+    <description lang="en-US">0,2420 kN/m&amp;sup2;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://4fDSOB4IICDuoY9QheFxRL5plWLGIVgD_rise/wMhgGEhFjqaUGzHLjKAeNlK-lV4qdE6s/cl8ij6mlx000d2a6g63pd04z9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In diesem Test sollen Sie die Lastannahme f&amp;uuml;r eine Holzbalkendecke ermitteln. Dabei ist ein Balkenabstand (Achsma&amp;szlig;) vom 0,74 m anzunehmen. Die Lattung f&amp;uuml;r die Gipskartonplatten hat einen Abstand von 0,42 cm. Berechnen Sie die Einwirkung je m&amp;sup2; Decke, Berechnen Sie die Einwirkung je lfm Deckenbalken.&lt;br&gt;&lt;strong&gt;Einwirkung je m&amp;sup2; von Gipskartonplatte 12,5 mm &lt;br&gt;&lt;/strong&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl8a5o9nx001b2a6f5dl7a8og</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl8a5o9nx001b2a6f5dl7a8og</id>
+    <description lang="en-US">0,1125 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5o9nx001c2a6fgm3mmje0</id>
+    <description lang="en-US">0,1500 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tv6q001e2a6f3gp9oarb</id>
+    <description lang="en-US">0,1250 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tysh001f2a6fz8m9ihdu</id>
+    <description lang="en-US">0,0900 kN/m&amp;sup2;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://4fDSOB4IICDuoY9QheFxRL5plWLGIVgD_rise/wMhgGEhFjqaUGzHLjKAeNlK-lV4qdE6s/cl8ij7mnj000e2a6gub3n22l9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In diesem Test sollen Sie die Lastannahme f&amp;uuml;r eine Holzbalkendecke ermitteln. Dabei ist ein Balkenabstand (Achsma&amp;szlig;) vom 0,74 m anzunehmen. Die Lattung f&amp;uuml;r die Gipskartonplatten hat einen Abstand von 0,42 cm. Berechnen Sie die Einwirkung je m&amp;sup2; Decke, Berechnen Sie die Einwirkung je lfm Deckenbalken.&lt;br&gt;&lt;strong&gt;Summe der Einwirkungen je lfm. Balken &lt;br&gt;&lt;/strong&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl8a5o9nx001b2a6f5dl7a8og</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl8a5o9nx001b2a6f5dl7a8og</id>
+    <description lang="en-US">1,5427 kN/m</description>
+  </component>
+    <component>
+    <id>choice_cl8a5o9nx001c2a6fgm3mmje0</id>
+    <description lang="en-US">1,4380 kN/m</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tv6q001e2a6f3gp9oarb</id>
+    <description lang="en-US">0,1250 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cl8a5tysh001f2a6fz8m9ihdu</id>
+    <description lang="en-US">1,8344 kN/m</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

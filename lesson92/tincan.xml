@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://qt7ZunrIM-lzZugZWrbotgQyxGpUNBrK_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Konstruktiver Holzschutz - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://qt7ZunrIM-lzZugZWrbotgQyxGpUNBrK_rise/8cefBrYnuD-1Z3ZHSnGxZ0urRJ9-pmqx" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://qt7ZunrIM-lzZugZWrbotgQyxGpUNBrK_rise/8cefBrYnuD-1Z3ZHSnGxZ0urRJ9-pmqx/cl89w7tv900112a6fjkolordx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die jeweiligen Holzarten in die richtigen Resistenzklassen ein.</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cl89w7tv900122a6fyj981hee[.]target_cl89w7tv900122a6fyj981hee</correctResponsePattern>
+    <correctResponsePattern>source_cl89w7tv900132a6frjlcd9pl[.]target_cl89w7tv900132a6frjlcd9pl</correctResponsePattern>
+    <correctResponsePattern>source_cl89w7tv900142a6fyf2zpr93[.]target_cl89w7tv900142a6fyf2zpr93</correctResponsePattern>
+    <correctResponsePattern>source_cl89wbqth00152a6fm9gudeec[.]target_cl89wbqth00152a6fm9gudeec</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cl89w7tv900122a6fyj981hee</id>
+    <description lang="en-US">Resistenzklasse 2 - dauerhaft></description>
+  </component>
+    <component>
+    <id>source_cl89w7tv900132a6frjlcd9pl</id>
+    <description lang="en-US">Resistenzklasse 3 – mäßig dauerhaft></description>
+  </component>
+    <component>
+    <id>source_cl89w7tv900142a6fyf2zpr93</id>
+    <description lang="en-US">Resistenzklasse 4 – wenig dauerhaft></description>
+  </component>
+    <component>
+    <id>source_cl89wbqth00152a6fm9gudeec</id>
+    <description lang="en-US">Resistenzklasse 5 – nicht dauerhaft ></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cl89w7tv900122a6fyj981hee</id>
+        <description lang="en-US">Eiche</description>
+      </component>
+          <component>
+        <id>target_cl89w7tv900132a6frjlcd9pl</id>
+        <description lang="en-US">Douglasie</description>
+      </component>
+          <component>
+        <id>target_cl89w7tv900142a6fyf2zpr93</id>
+        <description lang="en-US">Heimische Fichte</description>
+      </component>
+          <component>
+        <id>target_cl89wbqth00152a6fm9gudeec</id>
+        <description lang="en-US">Ahorn</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://qt7ZunrIM-lzZugZWrbotgQyxGpUNBrK_rise/8cefBrYnuD-1Z3ZHSnGxZ0urRJ9-pmqx/cl89wc62100162a6fa4jwzztd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Worin unterscheidet sich die Gebrauchsklasse 3.1 von der Gebrauchsklasse 3.2?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89wc62200172a6f2ep0o3so</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89wc62200172a6f2ep0o3so</id>
+    <description lang="en-US">Das Holz der GK 3.1 ist im Gegensatz zur GK 3.2 der Witterung ausgesetzt.</description>
+  </component>
+    <component>
+    <id>choice_cl89wc62200182a6f4cwd2z01</id>
+    <description lang="en-US">Das Holz der GK 3.2 hat im Gegensatz zur GK 3.1 keinen Erd- oder S&amp;uuml;&amp;szlig;wasserkontakt.</description>
+  </component>
+    <component>
+    <id>choice_cl89wclg600192a6fd7hefg0o</id>
+    <description lang="en-US">GK 3.1 unterscheidet sich zur GK 3.2 in der Holzart.</description>
+  </component>
+    <component>
+    <id>choice_cl89wcpc3001a2a6f5oiysk6m</id>
+    <description lang="en-US">GK 3.1 wird das Holz im Gegensatz zur GK 3.2 nur kurz nass und kann ungehindert abtrocknen.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qt7ZunrIM-lzZugZWrbotgQyxGpUNBrK_rise/8cefBrYnuD-1Z3ZHSnGxZ0urRJ9-pmqx/cl89wcx0s001b2a6fgtbmvkhj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der folgenden Aussagen enthalten konstruktiven Holzschutz?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89wcx0s001c2a6fd1pojsl4</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wcx0s001d2a6f73ervndy</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wcx0s001f2a6fvj6i0quy</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89wcx0s001c2a6fd1pojsl4</id>
+    <description lang="en-US">Waagerechte Fl&amp;auml;chen sollten um mindestens 15% abgeschr&amp;auml;gt sein.</description>
+  </component>
+    <component>
+    <id>choice_cl89wcx0s001e2a6fpfup821n</id>
+    <description lang="en-US">Mit einem Dach&amp;uuml;berstand von horizontal gemessenen 10cm sch&amp;uuml;tzt man ausreichend die darunterliegende Konstruktion.</description>
+  </component>
+    <component>
+    <id>choice_cl89wcx0s001f2a6fvj6i0quy</id>
+    <description lang="en-US">Vermeidung mit direktem Erdkontakt durch einen Sockel oder Metallfu&amp;szlig; je nach Untergrund von etwa 30cm.</description>
+  </component>
+    <component>
+    <id>choice_cl89wcx0s001d2a6f73ervndy</id>
+    <description lang="en-US">Beim Anlegen von Terrassen sollte ein leichtes Gef&amp;auml;lle von ca. 1% ber&amp;uuml;cksichtigt werden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qt7ZunrIM-lzZugZWrbotgQyxGpUNBrK_rise/8cefBrYnuD-1Z3ZHSnGxZ0urRJ9-pmqx/cl89wdvna002z2a6f943yhz6p" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der folgenden Holzarten k&amp;ouml;nnen f&amp;uuml;r die Au&amp;szlig;en Fassade als Verkleidung verwendet werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89wdvna00302a6fd990z44g</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wdvna00312a6fffluj7wm</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wdvna00322a6frz1p3ml9</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wdvna00332a6fqwr3amtr</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wei7g00502a6fxl5ta9pe</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89wdvna00302a6fd990z44g</id>
+    <description lang="en-US">Fichte</description>
+  </component>
+    <component>
+    <id>choice_cl89wdvna00322a6frz1p3ml9</id>
+    <description lang="en-US">Kiefer</description>
+  </component>
+    <component>
+    <id>choice_cl89wdvna00332a6fqwr3amtr</id>
+    <description lang="en-US">Tanne</description>
+  </component>
+    <component>
+    <id>choice_cl89wdvna00312a6fffluj7wm</id>
+    <description lang="en-US">L&amp;auml;rche</description>
+  </component>
+    <component>
+    <id>choice_cl89wei7g00502a6fxl5ta9pe</id>
+    <description lang="en-US">Douglasie</description>
+  </component>
+    <component>
+    <id>choice_cl89wemig005f2a6fj4dm3ijz</id>
+    <description lang="en-US">Buche</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qt7ZunrIM-lzZugZWrbotgQyxGpUNBrK_rise/8cefBrYnuD-1Z3ZHSnGxZ0urRJ9-pmqx/cl89wexzi005s2a6fyg510s46" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der folgenden M&amp;ouml;glichkeiten stehen zur Auswahl, um Holz passiv zu sch&amp;uuml;tzen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89wexzi005t2a6f4ere8frw</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wexzi005u2a6f6t4za1jv</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wexzi005v2a6flhyxh2ks</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wexzi005w2a6fdbwaa883</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89wexzi005t2a6f4ere8frw</id>
+    <description lang="en-US">Abdecken</description>
+  </component>
+    <component>
+    <id>choice_cl89wexzi005v2a6flhyxh2ks</id>
+    <description lang="en-US">&amp;Uuml;berdachen</description>
+  </component>
+    <component>
+    <id>choice_cl89wexzi005w2a6fdbwaa883</id>
+    <description lang="en-US">Verkleiden</description>
+  </component>
+    <component>
+    <id>choice_cl89wexzi005u2a6f6t4za1jv</id>
+    <description lang="en-US">Richtig Materialen in der richtigen Anordnung (Wandaufbau Holzrahmenbauweise)</description>
+  </component>
+    <component>
+    <id>choice_cl89wg6fj007q2a6fatakckde</id>
+    <description lang="en-US">Impr&amp;auml;gnieren</description>
+  </component>
+    <component>
+    <id>choice_cl89wgbpg00822a6frbargozw</id>
+    <description lang="en-US">Durch eine Lasur s&amp;auml;ttigen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qt7ZunrIM-lzZugZWrbotgQyxGpUNBrK_rise/8cefBrYnuD-1Z3ZHSnGxZ0urRJ9-pmqx/cl89wgl8t008f2a6fhiqgiygk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Thomas hat den Dachstuhl montieren und &amp;uuml;berall ausreichend Dach&amp;uuml;berstand umgesetzt. Am Ortgang erkennt er, dass alle Pfetten mit den Hirnholzseiten sichtbar bleiben. Er wei&amp;szlig;, dass er vor allem diese sch&amp;uuml;tzen muss. Welche Wahl hat er, wenn er nach dem konstruktiven Holzschutz handelt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89wgl8t008i2a6fnrziz3pc</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wgl8t008j2a6fwxezbvm9</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89wgl8t008g2a6f7o71vm6n</id>
+    <description lang="en-US">Er streicht das Holz mit einer pflanzlichen &amp;Ouml;l Lasur, um es physikalisch vor N&amp;auml;sse zu sch&amp;uuml;tzen.</description>
+  </component>
+    <component>
+    <id>choice_cl89wgl8t008i2a6fnrziz3pc</id>
+    <description lang="en-US">Die Hirnholzseiten deckt er mit einem Holzbrett oder Holzschindeln ab.</description>
+  </component>
+    <component>
+    <id>choice_cl89wgl8t008j2a6fwxezbvm9</id>
+    <description lang="en-US">Die Hirnholzseiten deckt er mit Schieferplatten oder Metall ab.</description>
+  </component>
+    <component>
+    <id>choice_cl89wgl8t008h2a6fu321a0fj</id>
+    <description lang="en-US">Die Hirnseiten ben&amp;ouml;tigen keine Abdeckung, da N&amp;auml;sse immer wieder ab l&amp;uuml;ften kann.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qt7ZunrIM-lzZugZWrbotgQyxGpUNBrK_rise/8cefBrYnuD-1Z3ZHSnGxZ0urRJ9-pmqx/cl89whdog009v2a6f3v308mjz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der folgenden Aussagen sind Inhalte des organisatorischen Holzschutzes?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89whdog009w2a6fijwzvx7k</correctResponsePattern>
+    <correctResponsePattern>choice_cl89whdog009x2a6f58y56p65</correctResponsePattern>
+    <correctResponsePattern>choice_cl89whdog009z2a6fpm2fu4uu</correctResponsePattern>
+    <correctResponsePattern>choice_cl89whdog009y2a6f1ry0s0hs</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89whdog009w2a6fijwzvx7k</id>
+    <description lang="en-US">Im Zuge der Errichtung von Holzbauten wird darauf geachtet, dass das Holz nicht nass wird. </description>
+  </component>
+    <component>
+    <id>choice_cl89whdog009y2a6f1ry0s0hs</id>
+    <description lang="en-US">Bei einer Warenlieferung wird die Holzfeuchte kontrolliert. Bei technisch getrocknetem Holz sollte das bei um die 18% liegen.</description>
+  </component>
+    <component>
+    <id>choice_cl89whdog009z2a6fpm2fu4uu</id>
+    <description lang="en-US">Holz sollte vor dem Einbau auf der Baustelle trocken gelagert werden und frei von Sch&amp;auml;dlingen sein.</description>
+  </component>
+    <component>
+    <id>choice_cl89whdog009x2a6f58y56p65</id>
+    <description lang="en-US">Bei einer Fachwerksanierung sollte darauf geachtet werden, dass neu eingebaute Eiche Balken keine Kernf&amp;auml;ule aufweisen. &amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qt7ZunrIM-lzZugZWrbotgQyxGpUNBrK_rise/8cefBrYnuD-1Z3ZHSnGxZ0urRJ9-pmqx/cl89wigyk00bn2a6fwz9bjz6u" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei welchen der folgenden Szenarien ist es erlaubt chemische Holzschutzmittel zu verwenden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89wigyk00bo2a6fe9vbzdn5</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wigyk00bp2a6fq0rfsv2j</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wigyk00bq2a6fcyhhu8yr</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89wigyk00bo2a6fe9vbzdn5</id>
+    <description lang="en-US">Alle M&amp;ouml;glichkeiten des baulichen Holzschutzes sind ausgesch&amp;ouml;pft</description>
+  </component>
+    <component>
+    <id>choice_cl89wigyk00bq2a6fcyhhu8yr</id>
+    <description lang="en-US">Als bek&amp;auml;mpfende Ma&amp;szlig;nahmen d&amp;uuml;rfen chemische Holzschutzmittel verwendet werden.</description>
+  </component>
+    <component>
+    <id>choice_cl89wigyk00br2a6fv86zq6gz</id>
+    <description lang="en-US">In Regengebieten mit j&amp;auml;hrlichen Niederschl&amp;auml;gen von 100ml pro cm&amp;sup2; d&amp;uuml;rfen lediglich die Fassaden impr&amp;auml;gniert werden.</description>
+  </component>
+    <component>
+    <id>choice_cl89wigyk00bp2a6fq0rfsv2j</id>
+    <description lang="en-US">Pflanzen&amp;ouml;le und Naturharzbehandlungen d&amp;uuml;rfen immer anwendet werden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qt7ZunrIM-lzZugZWrbotgQyxGpUNBrK_rise/8cefBrYnuD-1Z3ZHSnGxZ0urRJ9-pmqx/cl89wjh2800cz2a6fzxlhzrq7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der folgenden Faktoren sind bei der Einsch&amp;auml;tzung von der Verwendung chemischer Holzschutzmittel richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89wjh2900d02a6fysadnark</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wjh2900d12a6fq47op2pn</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wk6hc00e22a6ftcka555s</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wjh2900d32a6fc7xvos3p</correctResponsePattern>
+    <correctResponsePattern>choice_cl89wjh2900d22a6flxrs2lkf</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89wjh2900d02a6fysadnark</id>
+    <description lang="en-US">Nat&amp;uuml;rliche Dauerhaftigkeit der eingebauten H&amp;ouml;lzer</description>
+  </component>
+    <component>
+    <id>choice_cl89wjh2900d22a6flxrs2lkf</id>
+    <description lang="en-US">Geplante Beanspruchung des Holzes</description>
+  </component>
+    <component>
+    <id>choice_cl89wjh2900d32a6fc7xvos3p</id>
+    <description lang="en-US">Umgebungsbedingungen</description>
+  </component>
+    <component>
+    <id>choice_cl89wjh2900d12a6fq47op2pn</id>
+    <description lang="en-US">Statische Wichtigkeit der Bauteile</description>
+  </component>
+    <component>
+    <id>choice_cl89wk6hc00e22a6ftcka555s</id>
+    <description lang="en-US">Die Gebrauchsdauer</description>
+  </component>
+    <component>
+    <id>choice_cl89wk92300eb2a6f8zvzwfkb</id>
+    <description lang="en-US">Zu erwartendes Insekten- und Pilzaufkommen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qt7ZunrIM-lzZugZWrbotgQyxGpUNBrK_rise/8cefBrYnuD-1Z3ZHSnGxZ0urRJ9-pmqx/cl89wkjpn00en2a6fi6by9ea6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Grenzlinie zwischen bewittert und gesch&amp;uuml;tzt unter Dach setzt die DIN 68800 bei ___&amp;deg;. Wobei das gesch&amp;uuml;tzte Vordachr&amp;auml;hm und die Sparren zur GK0 / GK1 geh&amp;ouml;ren.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl89wkjpn00er2a6flzc1767v</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl89wkjpn00eo2a6fgfkhj5up</id>
+    <description lang="en-US">30&amp;deg;</description>
+  </component>
+    <component>
+    <id>choice_cl89wkjpn00eq2a6f1yi7ngb7</id>
+    <description lang="en-US">90&amp;deg;</description>
+  </component>
+    <component>
+    <id>choice_cl89wkjpn00er2a6flzc1767v</id>
+    <description lang="en-US">60&amp;deg;</description>
+  </component>
+    <component>
+    <id>choice_cl89wkjpn00ep2a6faavqx2ab</id>
+    <description lang="en-US">65&amp;deg;</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
