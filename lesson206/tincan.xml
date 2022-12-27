@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://Ph0cyvgEQ2vKWaZDNYfhcvy-Mg3BIWdE_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">VOB A &amp; B - Teil 7 (ZI/DA/TB)</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://Ph0cyvgEQ2vKWaZDNYfhcvy-Mg3BIWdE_rise/dkW7KLwxbZ9MJKHRZx4mJHrvdKhtiCd5" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://Ph0cyvgEQ2vKWaZDNYfhcvy-Mg3BIWdE_rise/dkW7KLwxbZ9MJKHRZx4mJHrvdKhtiCd5/ckty34tlg00403g6ao8ql1hb3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In der VOB/B ist der Ablauf der f&amp;ouml;rmlichen Abnahme geregelt.&amp;nbsp;&lt;br&gt;Nummerieren Sie die Aussagen in der zeitlich richtigen Reihenfolge.</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_ckty34tm000413g6ata44uvjg[.]target_ckty34tm000413g6ata44uvjg</correctResponsePattern>
+    <correctResponsePattern>source_ckty34tm000423g6ad32ixu99[.]target_ckty34tm000423g6ad32ixu99</correctResponsePattern>
+    <correctResponsePattern>source_ckty34tm000433g6a1e8zv7qn[.]target_ckty34tm000433g6a1e8zv7qn</correctResponsePattern>
+    <correctResponsePattern>source_ckty35nwc00493g6ae42jx9od[.]target_ckty35nwc00493g6ae42jx9od</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_ckty34tm000413g6ata44uvjg</id>
+    <description lang="en-US">1></description>
+  </component>
+    <component>
+    <id>source_ckty34tm000423g6ad32ixu99</id>
+    <description lang="en-US">2></description>
+  </component>
+    <component>
+    <id>source_ckty34tm000433g6a1e8zv7qn</id>
+    <description lang="en-US">3></description>
+  </component>
+    <component>
+    <id>source_ckty35nwc00493g6ae42jx9od</id>
+    <description lang="en-US">4></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_ckty34tm000413g6ata44uvjg</id>
+        <description lang="en-US">Abnahme wird vom Auftragnehmer verlangt</description>
+      </component>
+          <component>
+        <id>target_ckty34tm000423g6ad32ixu99</id>
+        <description lang="en-US">Termin vereinbaren</description>
+      </component>
+          <component>
+        <id>target_ckty34tm000433g6a1e8zv7qn</id>
+        <description lang="en-US">Niederschrift erstellen (Abnahmeprotokoll)</description>
+      </component>
+          <component>
+        <id>target_ckty35nwc00493g6ae42jx9od</id>
+        <description lang="en-US">Die Gefahr geht auf den Auftraggeber über</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://Ph0cyvgEQ2vKWaZDNYfhcvy-Mg3BIWdE_rise/dkW7KLwxbZ9MJKHRZx4mJHrvdKhtiCd5/ckty36rzt004a3g6aq9405nm7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In der VOB/B ist der Ablauf der f&amp;ouml;rmlichen Abnahme geregelt.&amp;nbsp;&lt;br&gt;Welche Konsequenz hat das Fernbleiben des Auftragnehmers beim vereinbarten Abnahmetermin?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckty36s0d004b3g6ayejzza3d</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckty36s0d004b3g6ayejzza3d</id>
+    <description lang="en-US">Die Abnahme kann vom Auftraggeber auch ohne Anwesenheit des Auftragnehmers durchgef&amp;uuml;hrt werden.</description>
+  </component>
+    <component>
+    <id>choice_ckty36s0d004d3g6a8hl5175s</id>
+    <description lang="en-US">Die Abnahme kann vom Auftraggeber nicht ohne Anwesenheit des Auftragnehmers durchgef&amp;uuml;hrt werden.</description>
+  </component>
+    <component>
+    <id>choice_ckty36s0d004e3g6az6qoxi1m</id>
+    <description lang="en-US">Die Abnahme wird verschoben.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Ph0cyvgEQ2vKWaZDNYfhcvy-Mg3BIWdE_rise/dkW7KLwxbZ9MJKHRZx4mJHrvdKhtiCd5/ckty38j4a00673g6aak7pu9kj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Vergabe der Arbeiten f&amp;uuml;r ein Seniorenwohnhaus erfolgte aufgrund einer beschr&amp;auml;nkten Ausschreibung nach &amp;ouml;ffentlichem Teilnahmewettbewerb.&amp;nbsp;&lt;br&gt;Erl&amp;auml;utern Sie unter welchen Bedingungen nach VOB/A diese Art der Ausschreibung zul&amp;auml;ssig ist.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckty38j4a00683g6alw6j1zyi</correctResponsePattern>
+    <correctResponsePattern>choice_ckty38j4a006a3g6abl53gblh</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckty38j4a00683g6alw6j1zyi</id>
+    <description lang="en-US">Wenn die Art der Leistung nur von einem beschr&amp;auml;nkten Kreis von Unternehmen ausgef&amp;uuml;hrt werden kann.</description>
+  </component>
+    <component>
+    <id>choice_ckty38j4a006a3g6abl53gblh</id>
+    <description lang="en-US">Wenn die Bearbeitung des Angebots einen au&amp;szlig;erordentlich hohen Aufwand erfordert.</description>
+  </component>
+    <component>
+    <id>choice_ckty38j4a006b3g6ay2rlcakx</id>
+    <description lang="en-US">Wenn die Art der Leistung von einem unbeschr&amp;auml;nkten Kreis von Unternehmen ausgef&amp;uuml;hrt werden kann.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Ph0cyvgEQ2vKWaZDNYfhcvy-Mg3BIWdE_rise/dkW7KLwxbZ9MJKHRZx4mJHrvdKhtiCd5/ckty3k1uu009c3g6ajy9ki69m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Das Ger&amp;uuml;st f&amp;uuml;r die Arbeiten an einer Fassade wird von Ihnen gestellt. &amp;nbsp;Die Abrechnung erfolgt nach VOB/C ATV DIN 18451. F&amp;uuml;r das Freihalten einer Durchfahrt in den Hinterhof eines Wohnhauses wird eine &amp;Uuml;berbr&amp;uuml;ckung ben&amp;ouml;tigt.&lt;br&gt;Welche Abrechnungseinheit/en sind nach der ATV DIN 18451 m&amp;ouml;glich?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckty3k1ve009d3g6a33hv1dbp</correctResponsePattern>
+    <correctResponsePattern>choice_ckty3k1ve009f3g6ac0pkyyrk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckty3k1ve009d3g6a33hv1dbp</id>
+    <description lang="en-US">L&amp;auml;ngenma&amp;szlig; (m)</description>
+  </component>
+    <component>
+    <id>choice_ckty3k1ve009f3g6ac0pkyyrk</id>
+    <description lang="en-US">Anzahl (St&amp;uuml;ck)</description>
+  </component>
+    <component>
+    <id>choice_ckty3k1ve009g3g6akjwgmlhe</id>
+    <description lang="en-US">Pauschal</description>
+  </component>
+    <component>
+    <id>choice_ckty3k1ve009e3g6ah9j77g86</id>
+    <description lang="en-US">Quadratmeter</description>
+  </component>
+    <component>
+    <id>choice_ckty3ld5z00c73g6ant3vsaqt</id>
+    <description lang="en-US">Aufwand</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Ph0cyvgEQ2vKWaZDNYfhcvy-Mg3BIWdE_rise/dkW7KLwxbZ9MJKHRZx4mJHrvdKhtiCd5/ckty3wn9800cx3g6a6p3whhx4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Zwei Wochen nach Beginn der Arbeiten im Seniorenwohnhaus erstellen Sie die erste Abschlagsrechnung.&lt;br&gt;Wann wird diese nach VOB/B f&amp;auml;llig? &amp;nbsp;&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckty3wn9800cy3g6a7tzv0ea2</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckty3wn9800cy3g6a7tzv0ea2</id>
+    <description lang="en-US">Die Abschlagsrechnung ist sp&amp;auml;testen 21 Tage nach ihrem Zugang beim Auftraggeber f&amp;auml;llig.</description>
+  </component>
+    <component>
+    <id>choice_ckty3wn9800cz3g6a66cy9bdd</id>
+    <description lang="en-US">Die Abschlagsrechnung ist sp&amp;auml;testen 14 Tage nach ihrem Zugang beim Auftraggeber f&amp;auml;llig.</description>
+  </component>
+    <component>
+    <id>choice_ckty3yfxc00df3g6a3bsiichf</id>
+    <description lang="en-US">Die Abschlagsrechnung ist sp&amp;auml;testen 30 Tage nach ihrem Zugang beim Auftraggeber f&amp;auml;llig.</description>
+  </component>
+    <component>
+    <id>choice_ckty3yl3400dg3g6at46lj8cd</id>
+    <description lang="en-US">Die Abschlagsrechnung ist sp&amp;auml;testen 10 Tage nach ihrem Zugang beim Auftraggeber f&amp;auml;llig.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Ph0cyvgEQ2vKWaZDNYfhcvy-Mg3BIWdE_rise/dkW7KLwxbZ9MJKHRZx4mJHrvdKhtiCd5/ckty3yx9e00dh3g6atael7m2i" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Der Auftraggeber begleicht die Abschlagsrechnung auch nach Ablauf einer angemessen Nachfrist nicht rechtzeitig. Sie stellen die Arbeiten ein und machen Verzugszinsen geltend.&lt;br&gt;Ist das rechtens? </name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckty3yx9f00di3g6aoklc5u2h</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckty3yx9f00di3g6aoklc5u2h</id>
+    <description lang="en-US">Ja</description>
+  </component>
+    <component>
+    <id>choice_ckty3yx9f00dj3g6aft3ta7zo</id>
+    <description lang="en-US">Nein</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

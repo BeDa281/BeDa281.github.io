@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://v0fKsnwIqGmFEEg0lpdUZzIMcpT2CUWB_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">VOB A &amp; B - Teil 8 (ZI/DA/TB)</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://v0fKsnwIqGmFEEg0lpdUZzIMcpT2CUWB_rise/VYzVUKrae7cZnNSCKnCVLSv-QeOz5bHA" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://v0fKsnwIqGmFEEg0lpdUZzIMcpT2CUWB_rise/VYzVUKrae7cZnNSCKnCVLSv-QeOz5bHA/cktzj1gd40033266fsky51icu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Geben Sie an, wann eine Abnahme stattzufinden hat und binnen welcher Zeit diese durchzuf&amp;uuml;hren ist.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cktzj1gd50034266fusl9n5v5</correctResponsePattern>
+    <correctResponsePattern>choice_cktzj1gd50037266fb5t5q0zo</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cktzj1gd50034266fusl9n5v5</id>
+    <description lang="en-US">Sie ist binnen 12 Werktagen durchzuf&amp;uuml;hren.</description>
+  </component>
+    <component>
+    <id>choice_cktzj1gd50036266fj1psb116</id>
+    <description lang="en-US">Sie ist binnen 30 Werktagen durchzuf&amp;uuml;hren.</description>
+  </component>
+    <component>
+    <id>choice_cktzj1gd50037266fb5t5q0zo</id>
+    <description lang="en-US">Eine f&amp;ouml;rmliche Abnahme hat stattzufinden, wenn eine Vertragspartei es verlangt.</description>
+  </component>
+    <component>
+    <id>choice_cktzj1gd50035266fzephji2v</id>
+    <description lang="en-US">Eine f&amp;ouml;rmliche Abnahme hat immer stattzufinden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://v0fKsnwIqGmFEEg0lpdUZzIMcpT2CUWB_rise/VYzVUKrae7cZnNSCKnCVLSv-QeOz5bHA/ckty4ugx400753g6aj9dlis6k" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Sie vergeben die Trockenbauarbeiten an einen Nachunternehmer. Dieser verlangt von Ihnen die unentgeltliche &amp;Uuml;berlassung von Werkzeugen und Arbeitskleidung. Die Mitarbeiter des Trockenbauers sollen mit demselben Firmenlogo wie Ihre Mitarbeiter auftreten, um ein einheitliches Erscheinungsbild zu gew&amp;auml;hrleisten.&lt;br&gt;Wie ist die Rechtslage nach dem Arbeitnehmer&amp;uuml;berlassungsgesetz?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckty4ugx400763g6ah1fyrw3i</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckty4ugx400763g6ah1fyrw3i</id>
+    <description lang="en-US">Die Mitarbeiter des Nachunternehmers d&amp;uuml;rfen nicht in die Organisation des Hauptunternehmers eingebunden sein und sollten daher ihre eigenen Werkzeuge und Arbeitskleidung verwenden. Bei Versto&amp;szlig; kann eine unerlaubte Arbeitnehmer&amp;uuml;berlassung vorliegen.</description>
+  </component>
+    <component>
+    <id>choice_ckty4ugx400773g6af34nzh9s</id>
+    <description lang="en-US">Die Mitarbeiter des Nachunternehmers k&amp;ouml;nnen jederzeit nicht in die Organisation des Hauptunternehmers eingebunden sein und ben&amp;ouml;tigen daher keine eigenen Werkzeuge und/oder Arbeitskleidung.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://v0fKsnwIqGmFEEg0lpdUZzIMcpT2CUWB_rise/VYzVUKrae7cZnNSCKnCVLSv-QeOz5bHA/ckty4y2vo007i3g6apqe7cqmv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Zwei Wochen nach Beginn der Arbeiten erstellen Sie die erste Abschlagsrechnung.&amp;nbsp;&lt;br&gt;K&amp;ouml;nnen Sie mit Mahnung und durch Angabe eines konkretem Datum der F&amp;auml;lligkeit den Kunden Verzug setzen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckty4y2vo007j3g6a9voe4fpi</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckty4y2vo007j3g6a9voe4fpi</id>
+    <description lang="en-US">Ja</description>
+  </component>
+    <component>
+    <id>choice_ckty4y2vo007k3g6ay8pvld8g</id>
+    <description lang="en-US">Nein</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://v0fKsnwIqGmFEEg0lpdUZzIMcpT2CUWB_rise/VYzVUKrae7cZnNSCKnCVLSv-QeOz5bHA/cku1cqz6e0039266fas6yxmgq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Vertragsparteien legen einen gemeinsamen Termin f&amp;uuml;r die Abnahme fest. Beide Parteien erscheinen zum vereinbarten Termin. Im Abnahmeprotokoll werden f&amp;uuml;nf unwesentliche M&amp;auml;ngel festgehalten, die Sie am folgenden Tag beseitigen wollen.&lt;br&gt;Kann der Auftraggeber die Abnahme verweigern?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cku1cqz6f003a266fbk7adrs8</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cku1cqz6f003a266fbk7adrs8</id>
+    <description lang="en-US">Nein, wegen unwesentlicher M&amp;auml;ngel kann die Abnahme nicht verweigert werden.</description>
+  </component>
+    <component>
+    <id>choice_cku1cqz6f003b266fhjsx1ka5</id>
+    <description lang="en-US">Ja, die Abnahme kann aufgrund des geringsten Mangel verweigert werden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://v0fKsnwIqGmFEEg0lpdUZzIMcpT2CUWB_rise/VYzVUKrae7cZnNSCKnCVLSv-QeOz5bHA/cku1cs0ic003k266fb9i5va59" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Kann ein Auftraggeber auch noch nach der Abnahme gem&amp;auml;&amp;szlig; VOB eine Vertragsstrafe wegen Frist&amp;uuml;berschreitung fordern?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cku1cs0ic003l266flg08qxr5</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cku1cs0ic003l266flg08qxr5</id>
+    <description lang="en-US">Nein. Nach &amp;sect; 11 Abs. 4 VOB/B muss eine Vertragsstrafe sp&amp;auml;testen bei der Abnahme geltend gemacht werden.</description>
+  </component>
+    <component>
+    <id>choice_cku1cs0ic003m266f9tq55pbj</id>
+    <description lang="en-US">Ja. Nach &amp;sect; 11 Abs. 4 VOB/B kann eine Vertragsstrafe bei einer Abnahme nicht geltend gemacht werden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://v0fKsnwIqGmFEEg0lpdUZzIMcpT2CUWB_rise/VYzVUKrae7cZnNSCKnCVLSv-QeOz5bHA/cku1ctjux003s266fbidvxq3j" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In den Besonderen Vertragsbedingungen eines Bauvertrages wurde eine Sicherheitsleistung durch Einbehalt von Zahlungen gem&amp;auml;&amp;szlig; &amp;sect; 17 VOB/B vereinbart.&lt;br&gt;Die gesamte H&amp;ouml;he der Sicherheitsleistung betr&amp;auml;gt 5 % von der Auftragssumme f&amp;uuml;r M&amp;auml;ngelanspr&amp;uuml;che.&lt;br&gt;Sie stellen nach zwei Wochen eine Abschlagsrechnung von 10.000 &amp;euro; zuz&amp;uuml;glich der gesetzlichen Umsatzsteuer.&lt;br&gt;Welchen Betrag darf der Auftraggeber maximal einbehalten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cku1ctjux003t266fe8b29y48</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cku1ctjux003t266fe8b29y48</id>
+    <description lang="en-US">10 % von 11.900,00 &amp;euro; = 1.190,00 &amp;euro;</description>
+  </component>
+    <component>
+    <id>choice_cku1ctjux003u266f0keye343</id>
+    <description lang="en-US">20 % von 11.900,00 &amp;euro; = 2.380,00 &amp;euro;</description>
+  </component>
+    <component>
+    <id>choice_cku1cu6kp003v266f3aruqz9j</id>
+    <description lang="en-US">15 % von 11.900,00 &amp;euro; = 1.785,00 &amp;euro;</description>
+  </component>
+    <component>
+    <id>choice_cku1cu8xq003w266f04pzcchl</id>
+    <description lang="en-US">25 % von 11.900,00 &amp;euro; = 2.975,00 &amp;euro;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://v0fKsnwIqGmFEEg0lpdUZzIMcpT2CUWB_rise/VYzVUKrae7cZnNSCKnCVLSv-QeOz5bHA/cku1culhx003x266f4u43q0nh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In den Besonderen Vertragsbedingungen eines Bauvertrages wurde eine Sicherheitsleistung durch Einbehalt von Zahlungen gem&amp;auml;&amp;szlig; &amp;sect; 17 VOB/B vereinbart.&lt;br&gt;Die gesamte H&amp;ouml;he der Sicherheitsleistung betr&amp;auml;gt 5 % von der Auftragssumme f&amp;uuml;r M&amp;auml;ngelanspr&amp;uuml;che.&lt;br&gt;Sie stellen nach zwei Wochen eine Abschlagsrechnung von 10.000 &amp;euro; zuz&amp;uuml;glich der gesetzlichen Umsatzsteuer.&lt;br&gt;Bis wann muss der Auftraggeber den einbehaltenen Betrag auf ein Sperrkonto einzahlen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cku1culhy003y266f5rjrzom2</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cku1culhy003y266f5rjrzom2</id>
+    <description lang="en-US">Er muss den einbehaltenen Betrag innerhalb von 18 Werktagen auf ein Sperrkonto einzahlen.</description>
+  </component>
+    <component>
+    <id>choice_cku1culhy003z266fffbvyn05</id>
+    <description lang="en-US">Er muss den einbehaltenen Betrag innerhalb von 10 Werktagen auf ein Sperrkonto einzahlen.</description>
+  </component>
+    <component>
+    <id>choice_cku1cv3e70040266fejeyo1tx</id>
+    <description lang="en-US">Er muss den einbehaltenen Betrag innerhalb von 14 Werktagen auf ein Sperrkonto einzahlen.</description>
+  </component>
+    <component>
+    <id>choice_cku1cv6770041266f221kpx5z</id>
+    <description lang="en-US">Er muss den einbehaltenen Betrag innerhalb von 21 Werktagen auf ein Sperrkonto einzahlen.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

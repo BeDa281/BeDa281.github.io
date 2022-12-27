@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://GS0V3aZmWkjGa75z0E7VnVXG8ELV3rFZ_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">VOB A &amp; B - Teil 6 (ZI/DA/TB)</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://GS0V3aZmWkjGa75z0E7VnVXG8ELV3rFZ_rise/kVYTk3HFMkt9tHP94tDTcrf3q7FIGWER" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://GS0V3aZmWkjGa75z0E7VnVXG8ELV3rFZ_rise/kVYTk3HFMkt9tHP94tDTcrf3q7FIGWER/cktof92mm0032266fa6niht02" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie richtig zu!</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cktof92mo0033266fm2bkxaem[.]target_cktof92mo0033266fm2bkxaem</correctResponsePattern>
+    <correctResponsePattern>source_cktof92mo0034266fks3xrczk[.]target_cktof92mo0034266fks3xrczk</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cktof92mo0033266fm2bkxaem</id>
+    <description lang="en-US">Schutz von Bauteilen durch loses Abdecken oder Abhängen></description>
+  </component>
+    <component>
+    <id>source_cktof92mo0034266fks3xrczk</id>
+    <description lang="en-US">Herstellen von Brandbarrieren></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cktof92mo0033266fm2bkxaem</id>
+        <description lang="en-US">Nebenleistung</description>
+      </component>
+          <component>
+        <id>target_cktof92mo0034266fks3xrczk</id>
+        <description lang="en-US">Besondere Leistung</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://GS0V3aZmWkjGa75z0E7VnVXG8ELV3rFZ_rise/kVYTk3HFMkt9tHP94tDTcrf3q7FIGWER/cktogsygr0036266fhsht2zwe" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei einer Ger&amp;uuml;ststellung durch Nachunternehmer entstehen folgende Fragen: &lt;br&gt;&lt;br&gt;D&amp;uuml;rfen Sie sich als Auftraggeber des Nachunternehmers darauf verlassen, dass das Ger&amp;uuml;st verkehrssicher und nach den Vorschriften der Berufsgenossenschaft der Bauwirtschaft (BG Bau) aufgestellt wurde?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cktogsyh20037266f2k7vfdp9</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cktogsyh20037266f2k7vfdp9</id>
+    <description lang="en-US">Nein, grunds&amp;auml;tzlich hat vor Beginn der Arbeiten auf dem Ger&amp;uuml;st eine Pr&amp;uuml;fung der Verkehrssicherheit durch den Auftraggeber stattzufinden.</description>
+  </component>
+    <component>
+    <id>choice_cktogsyh20038266f7sqkrti0</id>
+    <description lang="en-US">Ja, der Nachunternehmer ist dazu verpflichtet seine Arbeiten nach allen geltenden Vorschriften durchzuf&amp;uuml;hren.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GS0V3aZmWkjGa75z0E7VnVXG8ELV3rFZ_rise/kVYTk3HFMkt9tHP94tDTcrf3q7FIGWER/cktogu36h0039266fh6gu9scr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei einer Ger&amp;uuml;ststellung durch Nachunternehmer entstehen folgende Fragen:&lt;br&gt;&lt;br&gt;Wann beginnt die Grundeinsatzzeit nach VOB DIN 18451 und wie lange dauert diese?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cktogu36j003a266f2gu4l3kc</correctResponsePattern>
+    <correctResponsePattern>choice_cktogu36j003b266fzey2fp01</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cktogu36j003a266f2gu4l3kc</id>
+    <description lang="en-US">Die Grundeinsatzzeit beginnt fr&amp;uuml;hestens am Tag der Nutzung oder sp&amp;auml;testens am vertraglich vereinbarten Termin.</description>
+  </component>
+    <component>
+    <id>choice_cktogu36j003b266fzey2fp01</id>
+    <description lang="en-US">Die Grundeinsatzzeit betr&amp;auml;gt 4 Wochen.</description>
+  </component>
+    <component>
+    <id>choice_cktolgup1004i266flbeztvtg</id>
+    <description lang="en-US">Die Grundeinsatzzeit betr&amp;auml;gt 2 Wochen.</description>
+  </component>
+    <component>
+    <id>choice_cktolh49l004s266fkdqfrgly</id>
+    <description lang="en-US">Die Grundeinsatzzeit beginnt am Tag der Auftragserteilung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GS0V3aZmWkjGa75z0E7VnVXG8ELV3rFZ_rise/kVYTk3HFMkt9tHP94tDTcrf3q7FIGWER/cktolhfr50053266feoc77201" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Am 4. August 2022 werden die von Ihnen ausgef&amp;uuml;hrten W&amp;auml;rmed&amp;auml;mm-erbundarbeiten ordnungsgem&amp;auml;&amp;szlig; abgenommen. F&amp;uuml;r die M&amp;auml;ngelhaftung gilt die VOB. Wann verj&amp;auml;hrt der Mangelbeseitigungsanspruch f&amp;uuml;r die Hauptleistung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cktolhfrd0054266fc8zx9nk0</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cktolhfrd0054266fc8zx9nk0</id>
+    <description lang="en-US">4 Jahre nach der Abnahme (4. August 2026).</description>
+  </component>
+    <component>
+    <id>choice_cktolhfrd0056266ftj3csub9</id>
+    <description lang="en-US">2 Jahre nach der Abnahme (4. August 2024)</description>
+  </component>
+    <component>
+    <id>choice_cktolhfrd0057266fmotof964</id>
+    <description lang="en-US">5 Jahre nach der Abnahme (4. August 2027).</description>
+  </component>
+    <component>
+    <id>choice_cktolhfrd0055266fse27x86m</id>
+    <description lang="en-US">Bei WDVS-Arbeiten gilt eine Frist von 10 Jahren (4. August 2032)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GS0V3aZmWkjGa75z0E7VnVXG8ELV3rFZ_rise/kVYTk3HFMkt9tHP94tDTcrf3q7FIGWER/cktolri6e007a266fu0l3btuv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Eine von Ihnen erbrachte Leistung wird ordnungsgem&amp;auml;&amp;szlig; abgenommen. F&amp;uuml;r die M&amp;auml;ngelhaftung gilt die VOB. Genau ein Jahr nach der Abnahme wird ein Mangel schriftlich ger&amp;uuml;gt.&amp;nbsp;Wann verj&amp;auml;hrt der Anspruch auf die Mangelbeseitigung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cktolri6f007b266f443h2r8n</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cktolri6f007b266f443h2r8n</id>
+    <description lang="en-US">Der Anspruch auf die Mangelbeseitigung verj&amp;auml;hrt 2 Jahre nach der schriftlichen M&amp;auml;ngelr&amp;uuml;ge, jedoch nicht vor Ablauf der 4-Jahresfrist.</description>
+  </component>
+    <component>
+    <id>choice_cktolri6f007c266fcayo8hml</id>
+    <description lang="en-US">Der Anspruch auf die Mangelbeseitigung verj&amp;auml;hrt 1 Jahr nach der schriftlichen M&amp;auml;ngelr&amp;uuml;ge, jedoch nicht vor Ablauf der 2-Jahresfrist.</description>
+  </component>
+    <component>
+    <id>choice_cktolttx8007d266fziwncrc8</id>
+    <description lang="en-US">Der Anspruch auf die Mangelbeseitigung verj&amp;auml;hrt 2 Jahre nach der schriftlichen M&amp;auml;ngelr&amp;uuml;ge, jedoch nicht vor Ablauf der 5-Jahresfrist.</description>
+  </component>
+    <component>
+    <id>choice_cktoltx2k007e266fz90khs7u</id>
+    <description lang="en-US">Der Anspruch auf die Mangelbeseitigung verj&amp;auml;hrt 5 Jahre nach der schriftlichen M&amp;auml;ngelr&amp;uuml;ge, jedoch nicht vor Ablauf der 10-Jahresfrist.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GS0V3aZmWkjGa75z0E7VnVXG8ELV3rFZ_rise/kVYTk3HFMkt9tHP94tDTcrf3q7FIGWER/ckton02re002w266f6mcaxonb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Am 4. August 2022 werden die von Ihnen ausgef&amp;uuml;hrten Arbeiten ordnungsgem&amp;auml;&amp;szlig; abgenommen. F&amp;uuml;r die M&amp;auml;ngelhaftung gilt die VOB. Am 10. September 2024 wird dieser Mangel behoben und abgenommen.&amp;nbsp;Wann verj&amp;auml;hrt die Gew&amp;auml;hrleistung f&amp;uuml;r die Mangelbeseitigung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckton02re002x266ffp52svwh</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckton02re002x266ffp52svwh</id>
+    <description lang="en-US">Der Anspruch f&amp;uuml;r diese Mangelbeseitigung verj&amp;auml;hrt 2 Jahre nach der Abnahme dieser Mangelbeseitigung, am 10. September 2026.</description>
+  </component>
+    <component>
+    <id>choice_ckton02re002y266f8mikqnzw</id>
+    <description lang="en-US">Der Anspruch f&amp;uuml;r diese Mangelbeseitigung verj&amp;auml;hrt 1 Jahr nach der Abnahme dieser Mangelbeseitigung, am 10. September 2025.</description>
+  </component>
+    <component>
+    <id>choice_ckton11bj002z266f2tn9rzpt</id>
+    <description lang="en-US">Der Anspruch f&amp;uuml;r diese Mangelbeseitigung verj&amp;auml;hrt 3 Jahre nach der Abnahme dieser Mangelbeseitigung, am 10. September 2027.</description>
+  </component>
+    <component>
+    <id>choice_ckton158q0030266fspntdndy</id>
+    <description lang="en-US">Auf M&amp;auml;ngelbeseitigung gibt es keinen Anspruch auf Gew&amp;auml;hrleistung.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GS0V3aZmWkjGa75z0E7VnVXG8ELV3rFZ_rise/kVYTk3HFMkt9tHP94tDTcrf3q7FIGWER/ckton26vu0031266fymsqeupy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Konsequenz/en folgt/folgen aus der M&amp;auml;ngelhaftung, wenn bei der Verarbeitung die Herstellervorschriften nicht beachtet wurden, undichte Stellen auftreten und dadurch weitergehende Sch&amp;auml;den am Geb&amp;auml;ude verursacht werden?&amp;nbsp;Welche Aussage ist richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckton26vv0032266fka2oyh0a</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckton26vv0032266fka2oyh0a</id>
+    <description lang="en-US">Nach VOB/B &amp;sect; 13 (Abs. 7 Nr. 3a) haftet der Auftragnehmer bei einem Versto&amp;szlig; gegen die anerkannten Regeln der Technik f&amp;uuml;r alle Sch&amp;auml;den, also auch f&amp;uuml;r Folgesch&amp;auml;den, die am Geb&amp;auml;ude entstehen.</description>
+  </component>
+    <component>
+    <id>choice_ckton26vv0033266fs2dnemu5</id>
+    <description lang="en-US">Es folgen keine Konsequenzen, da in erster Linie der Hersteller haftbar gemacht wird.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GS0V3aZmWkjGa75z0E7VnVXG8ELV3rFZ_rise/kVYTk3HFMkt9tHP94tDTcrf3q7FIGWER/ckton382k0034266fpsfv0rz2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei der Ausf&amp;uuml;hrung Ihrer Arbeiten stellen Sie nach acht Arbeitstagen fest, dass Sie mit den Arbeiten gegen&amp;uuml;ber der Planung bereits zwei Tage im Verzug sind. Weil ein fester Endtermin vereinbart wurde, m&amp;uuml;ssen Sie die zwei Tage in den n&amp;auml;chsten beiden Wochen wieder aufholen. &amp;nbsp;Die Verz&amp;ouml;gerung wurde durch zus&amp;auml;tzliche Leistungen des Auftraggebers verursacht.&lt;br&gt;Was m&amp;uuml;ssen Sie tun, um einen Anspruch auf Fristverl&amp;auml;ngerung und eventuell entstandene Mehrkosten zu sichern?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckton382k0035266fjd156vds</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckton382k0035266fjd156vds</id>
+    <description lang="en-US">Schriftliche Behinderungsanzeige mit Antrag einer Fristverl&amp;auml;ngerung sowie gleichzeitiger Ank&amp;uuml;ndigung etwaiger Mehrkosten beim Auftraggeber einreichen.</description>
+  </component>
+    <component>
+    <id>choice_ckton382k0036266f8alz5wsc</id>
+    <description lang="en-US">Die Arbeiten unverz&amp;uuml;glich einstellen und erst nach Absprache mit dem Auftraggeber die Arbeiten wieder aufnehmen.</description>
+  </component>
+    <component>
+    <id>choice_ckton48ti0037266fvu8djovz</id>
+    <description lang="en-US">Den Auftraggeber m&amp;uuml;ndlich informieren und auf Regiestunden aufmerksam machen.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GS0V3aZmWkjGa75z0E7VnVXG8ELV3rFZ_rise/kVYTk3HFMkt9tHP94tDTcrf3q7FIGWER/ckton4gmg0038266fxt2csr18" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">An der Nord- und Ostseite war die Fassade bereits vor Ihrer D&amp;auml;mmungsarbeiten erheblich veralgt. Dieses Problem k&amp;ouml;nnte sich nach den W&amp;auml;rmedammarbeiten und einer Fassadenneugestaltung noch versch&amp;auml;rfen. &lt;br&gt;&lt;br&gt;Welche rechtliche Ma&amp;szlig;nahme sollten Sie ergreifen, um wegen einer etwaigen Veralgung nicht sp&amp;auml;ter in Haftung genommen zu werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckton4gmg0039266f9b1ayc1a</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckton4gmg0039266f9b1ayc1a</id>
+    <description lang="en-US">Schriftlichen Hinweis an den Auftraggeber (Bedenken), dass es aufgrund der Algenbildung hinter der D&amp;auml;mmung zu Problemen kommen kann.</description>
+  </component>
+    <component>
+    <id>choice_ckton4gmg003a266f5iya8x9v</id>
+    <description lang="en-US">Keine.</description>
+  </component>
+    <component>
+    <id>choice_ckton56co003b266fyipcruag</id>
+    <description lang="en-US">M&amp;uuml;ndlich den Auftraggeber informieren.</description>
+  </component>
+    <component>
+    <id>choice_ckton5elh003c266ftmzes5p8</id>
+    <description lang="en-US">Sie m&amp;uuml;ssen keine Ma&amp;szlig;nahmen ergreifen, sie sind zu einer Fachgerechten Ausf&amp;uuml;hrung ihrer Leistung verpflichtet.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GS0V3aZmWkjGa75z0E7VnVXG8ELV3rFZ_rise/kVYTk3HFMkt9tHP94tDTcrf3q7FIGWER/ckton5s0k003d266fah5bkryw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Sie haben in einem Bauvertrag nach VOB folgende Vertragsstrafenregelung unterschrieben: &amp;bdquo;Bei &amp;Uuml;berschreiten der Ausf&amp;uuml;hrungsfrist ist der Auftraggeber berechtigt, pro Kalendertag der Verz&amp;ouml;gerung 0,3 % der Auftragssumme einzubehalten.&amp;ldquo;&amp;nbsp;Wegen einer &amp;Uuml;berschreitung der Frist &amp;nbsp;von 5 Tagen zieht Ihnen der Auftraggeber 1,50 % von der Auftragssumme von 24.000,00 Euro von der Schlussrechnung ab.&lt;br&gt;Wie ist die Rechtslage?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckton5s0k003e266f55qkal45</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckton5s0k003e266f55qkal45</id>
+    <description lang="en-US">Als AGB-Regelung unwirksam, da die Strafe verschuldensunabh&amp;auml;ngig formuliert ist und keine Obergrenze von maximal 5% der Auftragssumme enth&amp;auml;lt. Der Betrag wurde zu Unrecht einbehalten.</description>
+  </component>
+    <component>
+    <id>choice_ckton5s0k003g266fxkhgx1o4</id>
+    <description lang="en-US">Als AGB-Regelung wirksam, da die Strafe verschuldensabh&amp;auml;ngig formuliert ist und eine Obergrenze von maximal 5% der Auftragssumme enth&amp;auml;lt. Der Betrag wurde zu Unrecht einbehalten.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
