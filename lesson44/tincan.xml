@@ -10,280 +10,280 @@
       <name lang="en-US">Quiz/quiz</name>
       <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
     </activity>
-            
-    <activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu0xrjm002w266j5fokkvk7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Eine wandangrenzenden Wange einer Holztreppe im Treppenhaus hat&lt;br&gt;eine H&amp;ouml;he von 30 cm.&lt;br&gt;Wie sind diese bei der Abrechnung der Wandfl&amp;auml;che zu ber&amp;uuml;cksichtigen?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_ckyu0xrjn002x266jgg0z4hvk</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_ckyu0xrjn002x266jgg0z4hvk</id>
-        <description lang="en-US">Unterbrechungen in einer zu bearbeitenden Fl&amp;auml;che mit einer Einzelbreite bis 30 cm sind zu &amp;uuml;bermessen.</description>
-      </component>
-            <component>
-        <id>choice_ckyu0xrjn002y266j60a9jvzo</id>
-        <description lang="en-US">Unterbrechungen in einer zu bearbeitenden Fl&amp;auml;che mit einer Einzelbreite bis 40 cm sind zu &amp;uuml;bermessen.</description>
-      </component>
-            <component>
-        <id>choice_ckyu0yhz2002z266jsqr92k3s</id>
-        <description lang="en-US">Unterbrechungen in einer zu bearbeitenden Fl&amp;auml;che sind zu &amp;uuml;bermessen.</description>
-      </component>
-            <component>
-        <id>choice_ckyu0ym8i0030266jxulgex22</id>
-        <description lang="en-US">Unterbrechungen in einer zu bearbeitenden Fl&amp;auml;che mit einer Einzelbreite bis 20 cm sind zu &amp;uuml;bermessen.</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu0yqqm0031266ji9yc0d7d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Einige Fenster&amp;ouml;ffnungen in der Fassade sind kleiner als 2,50 m&amp;sup2;. Mit der Umrahmung aus gelbem Sandstein hat die gesamte nicht zu beschichtende Fl&amp;auml;che je Fenster mehr als 2,50 m&amp;sup2;.&amp;nbsp;&lt;br&gt;Wie sind die Fenster&amp;ouml;ffnungen und die Umrahmungen bei der Abrechnung der Beschichtung der Putzfl&amp;auml;che zu ber&amp;uuml;cksichtigen?&lt;br&gt;&lt;br&gt;Welche Aussagen sind gem&amp;auml;&amp;szlig; DIN 18363 richtig? </name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_ckyu0yqqm0032266jay7zqzrl</correctResponsePattern>
-            <correctResponsePattern>choice_ckyu0yqqm0033266jddet5p9k</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_ckyu0yqqm0032266jay7zqzrl</id>
-        <description lang="en-US">Nach DIN 18363 werden Umrahmungen, falls sie behandelt werden nach dem L&amp;auml;ngenma&amp;szlig; abgerechnet. Alle Fenster&amp;ouml;ffnungen bis einschlie&amp;szlig;lich 2,50 m&amp;sup2; werden &amp;uuml;bermessen. </description>
-      </component>
-            <component>
-        <id>choice_ckyu0yqqm0033266jddet5p9k</id>
-        <description lang="en-US">Umrahmungen kleiner 30 cm sind zu &amp;uuml;bermessen. Hat die Umrahmung mehr als 30cm, sind Fenster&amp;ouml;ffnung und Umrahmung als Einheit zu sehen. Ein Abzug ist dann vorzunehmen, wenn die Fl&amp;auml;che zusammen mehr als 2,5 m&amp;sup2; betr&amp;auml;gt.</description>
-      </component>
-            <component>
-        <id>choice_ckyu10uya003a266jj08pbzkx</id>
-        <description lang="en-US">Nach DIN 18363 werden Umrahmungen falls sie behandelt werden nach dem Quadratmeter abgerechnet. Alle Fenster&amp;ouml;ffnungen bis einschlie&amp;szlig;lich 2 m&amp;sup2; werden &amp;uuml;bermessen.&amp;nbsp;</description>
-      </component>
-            <component>
-        <id>choice_ckyu11oao003r266jzx3qyjdh</id>
-        <description lang="en-US">Umrahmungen kleiner 40 cm sind zu &amp;uuml;bermessen. Hat die Umrahmung mehr als 40cm, sind Fenster&amp;ouml;ffnung und Umrahmung als Einheit zu sehen. Ein Abzug ist dann vorzunehmen, wenn die Fl&amp;auml;che zusammen mehr als 2,5 m&amp;sup2; betr&amp;auml;gt.</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu130hx006h266jeaw03is8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Der Boden in der Halle wird beschichtet. Die Grundfl&amp;auml;che je St&amp;uuml;tze betr&amp;auml;gt&lt;br&gt;0,60 m x 0,30 m. Wie sind diese Aussparungen beim Aufma&amp;szlig; f&amp;uuml;r die Bodenbeschichtung zu ber&amp;uuml;cksichtigen?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_ckyu130hx006i266jgdgqq15k</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_ckyu130hx006i266jgdgqq15k</id>
-        <description lang="en-US">Die Aussparungen sind gem&amp;auml;&amp;szlig; VOB DIN 18363 zu &amp;uuml;bermessen, da sie &amp;le; 0,5 m&amp;sup2; sind.</description>
-      </component>
-            <component>
-        <id>choice_ckyu130hx006j266j4z317sot</id>
-        <description lang="en-US">Die Aussparungen sind gem&amp;auml;&amp;szlig; VOB DIN 18363 zu &amp;uuml;bermessen, da sie &amp;le; 1 m&amp;sup2; sind.</description>
-      </component>
-            <component>
-        <id>choice_ckyu13qlr006k266j0xjc188c</id>
-        <description lang="en-US">Die Aussparungen sind gem&amp;auml;&amp;szlig; VOB DIN 18363 generell zu &amp;uuml;bermessen.</description>
-      </component>
-            <component>
-        <id>choice_ckyu1479q006q266jxjtbeorv</id>
-        <description lang="en-US">Die Aussparungen d&amp;uuml;rfen gem&amp;auml;&amp;szlig; VOB DIN 18363 nicht &amp;uuml;bermessen werden.</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu15b29006r266j26x0g6v7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">In den WCs eines Wohnhauses befinden sich rundum ein Fliesensockel von 9,5 cm H&amp;ouml;he.Wie wird der Fliesensockel beim Aufma&amp;szlig; der Wandbeschichtung ber&amp;uuml;cksichtigt?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_ckyu15b29006s266j8pja76zn</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_ckyu15b29006s266j8pja76zn</id>
-        <description lang="en-US">Nach DIN 18363 &amp;nbsp; d&amp;uuml;rfen Sockel bis zu einer H&amp;ouml;he von 10 cm &amp;uuml;bermessen werden.</description>
-      </component>
-            <component>
-        <id>choice_ckyu15b29006t266j0nnkicxe</id>
-        <description lang="en-US">Nach DIN 18363 &amp;nbsp; d&amp;uuml;rfen Sockel bis zu einer H&amp;ouml;he von 15 cm &amp;uuml;bermessen werden.</description>
-      </component>
-            <component>
-        <id>choice_ckyu162kz006u266joyzeu0n2</id>
-        <description lang="en-US">Nach DIN 18363 d&amp;uuml;rfen Sockel bis zu einer H&amp;ouml;he von 20 cm &amp;uuml;bermessen werden.</description>
-      </component>
-            <component>
-        <id>choice_ckyu16556006v266j9xllk021</id>
-        <description lang="en-US">&amp;nbsp;Nach DIN 18363 d&amp;uuml;rfen Sockel &amp;uuml;bermessen werden.</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu16evy006w266jcvmr8i6a" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Wie werden nach DIN 18363 zusammenh&amp;auml;ngende Aussparungen. Z.B &amp;Ouml;ffnung und Holzwandverkleidung beim Aufma&amp;szlig; berechnet?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_ckyu16evy006x266jpbxlkbtd</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_ckyu16evy006x266jpbxlkbtd</id>
-        <description lang="en-US">Jede Aussparung wird innerhalb einer zu beschichtenden Wandfl&amp;auml;che getrennt gerechnet.</description>
-      </component>
-            <component>
-        <id>choice_ckyu16evy006y266jkqa1fwox</id>
-        <description lang="en-US">&amp;Ouml;ffnungen und andere Aussparungen werden zusammengez&amp;auml;hlt.</description>
-      </component>
-            <component>
-        <id>choice_ckyu172zo006z266jgffdzhtm</id>
-        <description lang="en-US">&amp;Ouml;ffnungen und Holzaussparungen werden zusammengez&amp;auml;hlt.</description>
-      </component>
-            <component>
-        <id>choice_ckyu178pi0070266jcq0skpbx</id>
-        <description lang="en-US">&amp;Ouml;ffnungen und T&amp;uuml;ren werden zusammengez&amp;auml;hlt.</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu17orw0071266jq38ehegw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Wie werden Rohrgel&amp;auml;nder nach DIN 18363 abgerechnet?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_ckyu17orx0072266jx79i3zxa</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_ckyu17orx0072266jx79i3zxa</id>
-        <description lang="en-US">Rohrgel&amp;auml;nder werden nach L&amp;auml;nge der Rohre getrennt nach Dimension (Durchmesser) gerechnet.</description>
-      </component>
-            <component>
-        <id>choice_ckyu17orx0073266jbe6zg2aa</id>
-        <description lang="en-US">Rohrgel&amp;auml;nder werden immer nach Tabellen berechnet.</description>
-      </component>
-            <component>
-        <id>choice_ckyu18ciy0074266j6z3yr6il</id>
-        <description lang="en-US">Rohrgel&amp;auml;nder werden immer pauschal berechnet.</description>
-      </component>
-            <component>
-        <id>choice_ckyu18fyg0075266jc63lfd6y</id>
-        <description lang="en-US">Rohrgel&amp;auml;nder werden nach L&amp;auml;nge der Rohre getrennt nach Tabellen gerechnet</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu18lc30076266jz8j2y8na" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Wie erfolgt die Abrechnung von Fenstergitter, Scherengitter, Rollgitter, Roste, Z&amp;auml;une, Einfriedungen und Stabgel&amp;auml;nder.</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_ckyu18lc30078266jqrhd9qgu</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_ckyu18lc30077266jwvd0x239</id>
-        <description lang="en-US">Sie werden dreiseitig nach Fl&amp;auml;chenma&amp;szlig; gerechnet.</description>
-      </component>
-            <component>
-        <id>choice_ckyu18lc30078266jqrhd9qgu</id>
-        <description lang="en-US">Sie werden einseitig nach Fl&amp;auml;chenma&amp;szlig; gerechnet.</description>
-      </component>
-            <component>
-        <id>choice_ckyu19joq0079266j98a1oupq</id>
-        <description lang="en-US">&amp;nbsp;Sie werden beidseitig nach Fl&amp;auml;chenma&amp;szlig; gerechnet.</description>
-      </component>
-            <component>
-        <id>choice_ckyu19m32007a266jega5r7ip</id>
-        <description lang="en-US">&amp;nbsp;Sie werden immer pauschal nach Aufwand gerechnet.</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu19sdz007b266jui2sgi39" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Wie werden &amp;uuml;ber Eck reichende Aussparungen berechnet. Z.B. Fliesenspiegel, Fenster &amp;uuml;ber Eck.</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_ckyu19se0007c266j05wxkizx</id>
-        <description lang="en-US">Jede Wand endet dort wo sie von einer anderen Wand begrenzt wird. Die beiden Aussparungen werden also getrennt nach der 2,5 m&amp;sup2; Regel betrachtet.</description>
-      </component>
-            <component>
-        <id>choice_ckyu19se0007e266jvso6l1du</id>
-        <description lang="en-US">Jede Wand endet dort, wo sie von einer anderen Wand begrenzt wird. In diesem Spezialfall werden sie zusammengerechnet.</description>
-      </component>
-            <component>
-        <id>choice_ckyu19se0007f266j1ktgjpxt</id>
-        <description lang="en-US">Jede Wand endet dort, wo sie von einer anderen Wand begrenzt wird. In diesem Spezialfall werden sie immer pauschal abgezogen.</description>
-      </component>
-            <component>
-        <id>choice_ckyu19se0007d266jqtx1hs6q</id>
-        <description lang="en-US">Jede Wand endet dort, wo sie von einer anderen Wand begrenzt wird. In diesem Spezialfall bleiben &amp;Ouml;ffnungen unber&amp;uuml;cksichtigt.</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu1b0xo007n266jsuthuxjw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Wie werden Impr&amp;auml;gnierungen bei Fassaden abgerechnet?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_ckyu1b0xp007o266j6nlyqaj5</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_ckyu1b0xp007o266j6nlyqaj5</id>
-        <description lang="en-US">Impr&amp;auml;gnierungen werden nach verbrauchter Menge abgerechnet.</description>
-      </component>
-            <component>
-        <id>choice_ckyu1b0xp007p266ji2m9hkbt</id>
-        <description lang="en-US">Impr&amp;auml;gnierungen werden Quadratmeter und Tiefe abgerechnet.</description>
-      </component>
-            <component>
-        <id>choice_ckyu1bnt8007q266j9f31am1x</id>
-        <description lang="en-US">Impr&amp;auml;gnierungen werden nach Saugverm&amp;ouml;gen und Stunden abgerechnet.</description>
-      </component>
-            <component>
-        <id>choice_ckyu1brhp007r266j2hte7wu2</id>
-        <description lang="en-US">Impr&amp;auml;gnierungen werden nach gesch&amp;auml;tzter Menge abgerechnet</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu1bw58007s266jduuaed2i" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Wie werden Profile, Trapezprofile, Heizk&amp;ouml;rper, Wellbleche und dergleichen abgerechnet?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_ckyu1bw58007t266jdhn3q7ce</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_ckyu1bw58007t266jdhn3q7ce</id>
-        <description lang="en-US">&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+                                  
+<activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu0xrjm002w266j5fokkvk7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Eine wandangrenzenden Wange einer Holztreppe im Treppenhaus hat&lt;br&gt;eine H&amp;ouml;he von 30 cm.&lt;br&gt;Wie sind diese bei der Abrechnung der Wandfl&amp;auml;che zu ber&amp;uuml;cksichtigen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckyu0xrjn002x266jgg0z4hvk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckyu0xrjn002x266jgg0z4hvk</id>
+    <description lang="en-US">Unterbrechungen in einer zu bearbeitenden Fl&amp;auml;che mit einer Einzelbreite bis 30 cm sind zu &amp;uuml;bermessen.</description>
+  </component>
+    <component>
+    <id>choice_ckyu0xrjn002y266j60a9jvzo</id>
+    <description lang="en-US">Unterbrechungen in einer zu bearbeitenden Fl&amp;auml;che mit einer Einzelbreite bis 40 cm sind zu &amp;uuml;bermessen.</description>
+  </component>
+    <component>
+    <id>choice_ckyu0yhz2002z266jsqr92k3s</id>
+    <description lang="en-US">Unterbrechungen in einer zu bearbeitenden Fl&amp;auml;che sind zu &amp;uuml;bermessen.</description>
+  </component>
+    <component>
+    <id>choice_ckyu0ym8i0030266jxulgex22</id>
+    <description lang="en-US">Unterbrechungen in einer zu bearbeitenden Fl&amp;auml;che mit einer Einzelbreite bis 20 cm sind zu &amp;uuml;bermessen.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu0yqqm0031266ji9yc0d7d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Einige Fenster&amp;ouml;ffnungen in der Fassade sind kleiner als 2,50 m&amp;sup2;. Mit der Umrahmung aus gelbem Sandstein hat die gesamte nicht zu beschichtende Fl&amp;auml;che je Fenster mehr als 2,50 m&amp;sup2;.&amp;nbsp;&lt;br&gt;Wie sind die Fenster&amp;ouml;ffnungen und die Umrahmungen bei der Abrechnung der Beschichtung der Putzfl&amp;auml;che zu ber&amp;uuml;cksichtigen?&lt;br&gt;&lt;br&gt;Welche Aussagen sind gem&amp;auml;&amp;szlig; DIN 18363 richtig? </name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckyu0yqqm0032266jay7zqzrl</correctResponsePattern>
+    <correctResponsePattern>choice_ckyu0yqqm0033266jddet5p9k</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckyu0yqqm0032266jay7zqzrl</id>
+    <description lang="en-US">Nach DIN 18363 werden Umrahmungen, falls sie behandelt werden nach dem L&amp;auml;ngenma&amp;szlig; abgerechnet. Alle Fenster&amp;ouml;ffnungen bis einschlie&amp;szlig;lich 2,50 m&amp;sup2; werden &amp;uuml;bermessen. </description>
+  </component>
+    <component>
+    <id>choice_ckyu0yqqm0033266jddet5p9k</id>
+    <description lang="en-US">Umrahmungen kleiner 30 cm sind zu &amp;uuml;bermessen. Hat die Umrahmung mehr als 30cm, sind Fenster&amp;ouml;ffnung und Umrahmung als Einheit zu sehen. Ein Abzug ist dann vorzunehmen, wenn die Fl&amp;auml;che zusammen mehr als 2,5 m&amp;sup2; betr&amp;auml;gt.</description>
+  </component>
+    <component>
+    <id>choice_ckyu10uya003a266jj08pbzkx</id>
+    <description lang="en-US">Nach DIN 18363 werden Umrahmungen falls sie behandelt werden nach dem Quadratmeter abgerechnet. Alle Fenster&amp;ouml;ffnungen bis einschlie&amp;szlig;lich 2 m&amp;sup2; werden &amp;uuml;bermessen.&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_ckyu11oao003r266jzx3qyjdh</id>
+    <description lang="en-US">Umrahmungen kleiner 40 cm sind zu &amp;uuml;bermessen. Hat die Umrahmung mehr als 40cm, sind Fenster&amp;ouml;ffnung und Umrahmung als Einheit zu sehen. Ein Abzug ist dann vorzunehmen, wenn die Fl&amp;auml;che zusammen mehr als 2,5 m&amp;sup2; betr&amp;auml;gt.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu130hx006h266jeaw03is8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Der Boden in der Halle wird beschichtet. Die Grundfl&amp;auml;che je St&amp;uuml;tze betr&amp;auml;gt&lt;br&gt;0,60 m x 0,30 m. Wie sind diese Aussparungen beim Aufma&amp;szlig; f&amp;uuml;r die Bodenbeschichtung zu ber&amp;uuml;cksichtigen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckyu130hx006i266jgdgqq15k</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckyu130hx006i266jgdgqq15k</id>
+    <description lang="en-US">Die Aussparungen sind gem&amp;auml;&amp;szlig; VOB DIN 18363 zu &amp;uuml;bermessen, da sie &amp;le; 0,5 m&amp;sup2; sind.</description>
+  </component>
+    <component>
+    <id>choice_ckyu130hx006j266j4z317sot</id>
+    <description lang="en-US">Die Aussparungen sind gem&amp;auml;&amp;szlig; VOB DIN 18363 zu &amp;uuml;bermessen, da sie &amp;le; 1 m&amp;sup2; sind.</description>
+  </component>
+    <component>
+    <id>choice_ckyu13qlr006k266j0xjc188c</id>
+    <description lang="en-US">Die Aussparungen sind gem&amp;auml;&amp;szlig; VOB DIN 18363 generell zu &amp;uuml;bermessen.</description>
+  </component>
+    <component>
+    <id>choice_ckyu1479q006q266jxjtbeorv</id>
+    <description lang="en-US">Die Aussparungen d&amp;uuml;rfen gem&amp;auml;&amp;szlig; VOB DIN 18363 nicht &amp;uuml;bermessen werden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu15b29006r266j26x0g6v7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In den WCs eines Wohnhauses befinden sich rundum ein Fliesensockel von 9,5 cm H&amp;ouml;he.Wie wird der Fliesensockel beim Aufma&amp;szlig; der Wandbeschichtung ber&amp;uuml;cksichtigt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckyu15b29006s266j8pja76zn</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckyu15b29006s266j8pja76zn</id>
+    <description lang="en-US">Nach DIN 18363 &amp;nbsp; d&amp;uuml;rfen Sockel bis zu einer H&amp;ouml;he von 10 cm &amp;uuml;bermessen werden.</description>
+  </component>
+    <component>
+    <id>choice_ckyu15b29006t266j0nnkicxe</id>
+    <description lang="en-US">Nach DIN 18363 &amp;nbsp; d&amp;uuml;rfen Sockel bis zu einer H&amp;ouml;he von 15 cm &amp;uuml;bermessen werden.</description>
+  </component>
+    <component>
+    <id>choice_ckyu162kz006u266joyzeu0n2</id>
+    <description lang="en-US">Nach DIN 18363 d&amp;uuml;rfen Sockel bis zu einer H&amp;ouml;he von 20 cm &amp;uuml;bermessen werden.</description>
+  </component>
+    <component>
+    <id>choice_ckyu16556006v266j9xllk021</id>
+    <description lang="en-US">&amp;nbsp;Nach DIN 18363 d&amp;uuml;rfen Sockel &amp;uuml;bermessen werden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu16evy006w266jcvmr8i6a" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie werden nach DIN 18363 zusammenh&amp;auml;ngende Aussparungen. Z.B &amp;Ouml;ffnung und Holzwandverkleidung beim Aufma&amp;szlig; berechnet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckyu16evy006x266jpbxlkbtd</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckyu16evy006x266jpbxlkbtd</id>
+    <description lang="en-US">Jede Aussparung wird innerhalb einer zu beschichtenden Wandfl&amp;auml;che getrennt gerechnet.</description>
+  </component>
+    <component>
+    <id>choice_ckyu16evy006y266jkqa1fwox</id>
+    <description lang="en-US">&amp;Ouml;ffnungen und andere Aussparungen werden zusammengez&amp;auml;hlt.</description>
+  </component>
+    <component>
+    <id>choice_ckyu172zo006z266jgffdzhtm</id>
+    <description lang="en-US">&amp;Ouml;ffnungen und Holzaussparungen werden zusammengez&amp;auml;hlt.</description>
+  </component>
+    <component>
+    <id>choice_ckyu178pi0070266jcq0skpbx</id>
+    <description lang="en-US">&amp;Ouml;ffnungen und T&amp;uuml;ren werden zusammengez&amp;auml;hlt.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu17orw0071266jq38ehegw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie werden Rohrgel&amp;auml;nder nach DIN 18363 abgerechnet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckyu17orx0072266jx79i3zxa</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckyu17orx0072266jx79i3zxa</id>
+    <description lang="en-US">Rohrgel&amp;auml;nder werden nach L&amp;auml;nge der Rohre getrennt nach Dimension (Durchmesser) gerechnet.</description>
+  </component>
+    <component>
+    <id>choice_ckyu17orx0073266jbe6zg2aa</id>
+    <description lang="en-US">Rohrgel&amp;auml;nder werden immer nach Tabellen berechnet.</description>
+  </component>
+    <component>
+    <id>choice_ckyu18ciy0074266j6z3yr6il</id>
+    <description lang="en-US">Rohrgel&amp;auml;nder werden immer pauschal berechnet.</description>
+  </component>
+    <component>
+    <id>choice_ckyu18fyg0075266jc63lfd6y</id>
+    <description lang="en-US">Rohrgel&amp;auml;nder werden nach L&amp;auml;nge der Rohre getrennt nach Tabellen gerechnet</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu18lc30076266jz8j2y8na" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie erfolgt die Abrechnung von Fenstergitter, Scherengitter, Rollgitter, Roste, Z&amp;auml;une, Einfriedungen und Stabgel&amp;auml;nder.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckyu18lc30078266jqrhd9qgu</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckyu18lc30077266jwvd0x239</id>
+    <description lang="en-US">Sie werden dreiseitig nach Fl&amp;auml;chenma&amp;szlig; gerechnet.</description>
+  </component>
+    <component>
+    <id>choice_ckyu18lc30078266jqrhd9qgu</id>
+    <description lang="en-US">Sie werden einseitig nach Fl&amp;auml;chenma&amp;szlig; gerechnet.</description>
+  </component>
+    <component>
+    <id>choice_ckyu19joq0079266j98a1oupq</id>
+    <description lang="en-US">&amp;nbsp;Sie werden beidseitig nach Fl&amp;auml;chenma&amp;szlig; gerechnet.</description>
+  </component>
+    <component>
+    <id>choice_ckyu19m32007a266jega5r7ip</id>
+    <description lang="en-US">&amp;nbsp;Sie werden immer pauschal nach Aufwand gerechnet.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu19sdz007b266jui2sgi39" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie werden &amp;uuml;ber Eck reichende Aussparungen berechnet. Z.B. Fliesenspiegel, Fenster &amp;uuml;ber Eck.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckyu19se0007c266j05wxkizx</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckyu19se0007c266j05wxkizx</id>
+    <description lang="en-US">Jede Wand endet dort wo sie von einer anderen Wand begrenzt wird. Die beiden Aussparungen werden also getrennt nach der 2,5 m&amp;sup2; Regel betrachtet.</description>
+  </component>
+    <component>
+    <id>choice_ckyu19se0007e266jvso6l1du</id>
+    <description lang="en-US">Jede Wand endet dort, wo sie von einer anderen Wand begrenzt wird. In diesem Spezialfall werden sie zusammengerechnet.</description>
+  </component>
+    <component>
+    <id>choice_ckyu19se0007f266j1ktgjpxt</id>
+    <description lang="en-US">Jede Wand endet dort, wo sie von einer anderen Wand begrenzt wird. In diesem Spezialfall werden sie immer pauschal abgezogen.</description>
+  </component>
+    <component>
+    <id>choice_ckyu19se0007d266jqtx1hs6q</id>
+    <description lang="en-US">Jede Wand endet dort, wo sie von einer anderen Wand begrenzt wird. In diesem Spezialfall bleiben &amp;Ouml;ffnungen unber&amp;uuml;cksichtigt.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu1b0xo007n266jsuthuxjw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie werden Impr&amp;auml;gnierungen bei Fassaden abgerechnet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckyu1b0xp007o266j6nlyqaj5</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckyu1b0xp007o266j6nlyqaj5</id>
+    <description lang="en-US">Impr&amp;auml;gnierungen werden nach verbrauchter Menge abgerechnet.</description>
+  </component>
+    <component>
+    <id>choice_ckyu1b0xp007p266ji2m9hkbt</id>
+    <description lang="en-US">Impr&amp;auml;gnierungen werden Quadratmeter und Tiefe abgerechnet.</description>
+  </component>
+    <component>
+    <id>choice_ckyu1bnt8007q266j9f31am1x</id>
+    <description lang="en-US">Impr&amp;auml;gnierungen werden nach Saugverm&amp;ouml;gen und Stunden abgerechnet.</description>
+  </component>
+    <component>
+    <id>choice_ckyu1brhp007r266j2hte7wu2</id>
+    <description lang="en-US">Impr&amp;auml;gnierungen werden nach gesch&amp;auml;tzter Menge abgerechnet</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://oe9D6Cj-e0JVqG0koP06MiUAHrSA2AHy_rise/QnUJ9XfSBxwXEabNu1OOV-Ki5_3_YZOY/ckyu1bw58007s266jduuaed2i" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie werden Profile, Trapezprofile, Heizk&amp;ouml;rper, Wellbleche und dergleichen abgerechnet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_ckyu1bw58007t266jdhn3q7ce</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_ckyu1bw58007t266jdhn3q7ce</id>
+    <description lang="en-US">&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
  &lt;o:OfficeDocumentSettings&gt;
   &lt;o:AllowPNG/&gt;
  &lt;/o:OfficeDocumentSettings&gt;
 &lt;/xml&gt;&lt;![endif]--&gt;Sie werden nach abgewickelter Fl&amp;auml;che oder nach Tabellen, soweit vorhanden, abgerechnet.</description>
-      </component>
-            <component>
-        <id>choice_ckyu1bw58007u266j7wb38h4n</id>
-        <description lang="en-US">Sie werden nach gesch&amp;auml;tzter Fl&amp;auml;che oder nach Tabellen, soweit vorhanden, abgerechnet.</description>
-      </component>
-            <component>
-        <id>choice_ckyu1dngy007v266jgylr3i39</id>
-        <description lang="en-US">Sie werden immer nach Tabellen abgerechnet.</description>
-      </component>
-            <component>
-        <id>choice_ckyu1dv5c007w266j8533xh02</id>
-        <description lang="en-US">Sie werden immer nach verbrauchten Material und Stunden abgerechnet.</description>
-      </component>
-            </choices>
-          </activity>
-            </activities>
+  </component>
+    <component>
+    <id>choice_ckyu1bw58007u266j7wb38h4n</id>
+    <description lang="en-US">Sie werden nach gesch&amp;auml;tzter Fl&amp;auml;che oder nach Tabellen, soweit vorhanden, abgerechnet.</description>
+  </component>
+    <component>
+    <id>choice_ckyu1dngy007v266jgylr3i39</id>
+    <description lang="en-US">Sie werden immer nach Tabellen abgerechnet.</description>
+  </component>
+    <component>
+    <id>choice_ckyu1dv5c007w266j8533xh02</id>
+    <description lang="en-US">Sie werden immer nach verbrauchten Material und Stunden abgerechnet.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
 </tincan>
