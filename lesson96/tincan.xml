@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://-v1_6eQbVPjA3SmMFpD3XRelfbEuqROu_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Statik - Schneelast</name>
+      <description lang="en-US"></description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://-v1_6eQbVPjA3SmMFpD3XRelfbEuqROu_rise/puESD4kG88y4HffPGOXlhLKyoJfUYBw8" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Statik - Schneelast/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
