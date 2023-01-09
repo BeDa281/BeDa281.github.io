@@ -3,7 +3,6 @@
   // root.TinCan.DEBUG = true;
 
   var tincan;
-  var statementQueue = [];
   var connected = false;
 
   var getUUID = root.TinCan.Utils.getUUID;
@@ -23,8 +22,6 @@
       suspend: false,
     }
   }
-
-  var inFlight = false;
 
   var BOOKMARK = 'bookmark';
   var SUSPEND_DATA = 'suspend_data';
@@ -90,26 +87,9 @@
     }
   }
 
-  function queueStatement(stmt) {
-    if(inFlight) {
-      statementQueue.push(stmt);
-    } else {
-      sendStatement(stmt);
-    }
-  }
-
-  function popStatement() {
-    if(statementQueue.length) {
-      sendStatement(statementQueue.shift());
-    } else {
-      inFlight = false;
-    }
-  }
-
   function sendStatement(attribs) {
     if(connected) {
-      inFlight = true;
-      tincan.sendStatement(createStatement(attribs), popStatement);
+      tincan.sendStatement(createStatement(attribs));
     }
   }
 
@@ -157,7 +137,7 @@
   }
 
   function sendExperienced(lessonId) {
-    commitData({
+    sendStatement({
       id: lessonId,
       type: LESSON,
       verb: createVerb('experienced')
@@ -198,11 +178,7 @@
   }
 
   function commitFinishData(stmt) {
-    commitData(addFinishData(stmt));
-  }
-
-  function commitData(stmt) {
-    queueStatement(stmt);
+    sendStatement(addFinishData(stmt));
   }
 
   function getState(key, cb) {
@@ -411,7 +387,7 @@
     var response = buildResponse(data);
     var title = data.questionTitle;
 
-    commitData({
+    sendStatement({
       definition: definition,
       description: title,
       id: data.id + '/' + data.itemId + '_' + Date.now(),
