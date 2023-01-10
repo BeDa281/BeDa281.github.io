@@ -10,283 +10,282 @@
       <name lang="en-US">Quiz/quiz</name>
       <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
     </activity>
-            
-    <activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13d0gzy000a266fqjlbgofy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Warum ist die Wareneingangskontrolle so wichtig?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13d0gzy000b266frijotnts</correctResponsePattern>
-            <correctResponsePattern>choice_cl13d0gzy000c266f6iqaoxaq</correctResponsePattern>
-            <correctResponsePattern>choice_cl13d1676000d266frohxyc4h</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13d0gzy000b266frijotnts</id>
-        <description lang="en-US">Weil es eine Qualit&amp;auml;tssicherung f&amp;uuml;r den Kunden ist</description>
-      </component>
-            <component>
-        <id>choice_cl13d0gzy000c266f6iqaoxaq</id>
-        <description lang="en-US">Weil meine Produkte den richtigen Verwendbarkeitsnachweis haben m&amp;uuml;ssen</description>
-      </component>
-            <component>
-        <id>choice_cl13d1676000d266frohxyc4h</id>
-        <description lang="en-US">Weil falsche Mengen oder eventuelle Besch&amp;auml;digungen nur sofort reklamiert werden k&amp;ouml;nnen</description>
-      </component>
-            <component>
-        <id>choice_cl13d1bws000e266f4fqy75ap</id>
-        <description lang="en-US">Weil ab einem Warenwert von 10.000&amp;euro; es gesetzlich verpflichtend ist</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13d1nvd000o266flf261qmr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Wof&amp;uuml;r steht die Abk&amp;uuml;rzung DIBt?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13d1nvd000q266fzectgzww</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13d1nvd000r266fuae3sopq</id>
-        <description lang="en-US">Deutsche Industrie f&amp;uuml;r Bauprodukttechnologie</description>
-      </component>
-            <component>
-        <id>choice_cl13d1nvd000s266fqo8evgj9</id>
-        <description lang="en-US">Deutscher Informationsdienst f&amp;uuml;r Bautechniker</description>
-      </component>
-            <component>
-        <id>choice_cl13d1nvd000q266fzectgzww</id>
-        <description lang="en-US">Deutsches Institut f&amp;uuml;r Bautechnik</description>
-      </component>
-            <component>
-        <id>choice_cl13d49vf001r266fap7jsk4w</id>
-        <description lang="en-US">Deutsch-Internationaler Bund technischer Regeln</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13d4dnk001s266f22x2hbvs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Zu welcher Bauregelliste geh&amp;ouml;ren geregelte Bauprodukte?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13d4dnl001w266fsygkos4n</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13d4dnl001t266fsc3l67x4</id>
-        <description lang="en-US">Bauregelliste A Teil 2</description>
-      </component>
-            <component>
-        <id>choice_cl13d4dnl001v266fv52hvpr5</id>
-        <description lang="en-US">Bauregelliste B Teil 1</description>
-      </component>
-            <component>
-        <id>choice_cl13d4dnl001w266fsygkos4n</id>
-        <description lang="en-US">Bauregelliste A Teil 1</description>
-      </component>
-            <component>
-        <id>choice_cl13d4dnl001u266f98o4h1ok</id>
-        <description lang="en-US">Bauregelliste C</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13d59wc0031266fwnzefb7w" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Welche Aussage &amp;uuml;ber die CE Kennzeichnung ist falsch?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13d5nsu0034266fjlv58hyf</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13d59wc0032266fknpxr069</id>
-        <description lang="en-US">CE Kennzeichnung ist ein Hinweis, dass das Produkt allen EU weiten Anforderungen entspricht</description>
-      </component>
-            <component>
-        <id>choice_cl13d59wc0033266f0nt9zsm7</id>
-        <description lang="en-US">CE Kennzeichnung muss sichtbar, lesbar und unzerst&amp;ouml;rbar angebracht werden.</description>
-      </component>
-            <component>
-        <id>choice_cl13d5nsu0034266fjlv58hyf</id>
-        <description lang="en-US">Produkte mit CE Kennzeichnung d&amp;uuml;rfen nur in Deutschland verkauft werden.</description>
-      </component>
-            <component>
-        <id>choice_cl13d5rd90035266fitn5q2dn</id>
-        <description lang="en-US">CE Kennzeichnung ist Pflicht f&amp;uuml;r in der EU vermarkteten Produkte.</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13d6s5b0036266fqzbdb6s2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Welche Aussagen &amp;uuml;ber das &amp;Uuml; Zeichen sind richtig?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13d6s5b0037266f8a0xl7rk</correctResponsePattern>
-            <correctResponsePattern>choice_cl13d6s5b0038266fk5r2pkgg</correctResponsePattern>
-            <correctResponsePattern>choice_cl13d6s5b003a266fov1dsfdx</correctResponsePattern>
-            <correctResponsePattern>choice_cl13d6s5b0039266f22qsg1cq</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13d6s5b0037266f8a0xl7rk</id>
-        <description lang="en-US">&amp;Uuml; Zeichen hat nur in Deutschland G&amp;uuml;ltigkeit.</description>
-      </component>
-            <component>
-        <id>choice_cl13d6s5b0039266f22qsg1cq</id>
-        <description lang="en-US">Produkte mit &amp;Uuml; Zeichen sind in Deutschland frei handelbar.</description>
-      </component>
-            <component>
-        <id>choice_cl13d6s5b003a266fov1dsfdx</id>
-        <description lang="en-US">&amp;Uuml; Zeichen weist darauf hin, dass das Produkt aus einem &amp;uuml;berwachten Produktionsverfahren stammt.</description>
-      </component>
-            <component>
-        <id>choice_cl13d6s5b0038266fk5r2pkgg</id>
-        <description lang="en-US">&amp;Uuml; Zeichen ist ein G&amp;uuml;tezeichen f&amp;uuml;r Bauprodukte.</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13d7ve2004n266f78263ccj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Welche Folgen k&amp;ouml;nnen bei Unterlassung der Wareneingangskontrolle entstehen?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13d7ve2004o266fkdbbk5bv</correctResponsePattern>
-            <correctResponsePattern>choice_cl13d7ve2004p266fda4qutik</correctResponsePattern>
-            <correctResponsePattern>choice_cl13d7ve2004q266f6zsju2ai</correctResponsePattern>
-            <correctResponsePattern>choice_cl13d7ve2004r266fwuzoveyx</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13d7ve2004o266fkdbbk5bv</id>
-        <description lang="en-US">Reklamationsanspr&amp;uuml;che k&amp;ouml;nnen nicht geltend gemacht werden.</description>
-      </component>
-            <component>
-        <id>choice_cl13d7ve2004q266f6zsju2ai</id>
-        <description lang="en-US">Mengen und Qualit&amp;auml;t der Waren k&amp;ouml;nnen stark von dem was bestellt wurde abweichen.</description>
-      </component>
-            <component>
-        <id>choice_cl13d7ve2004r266fwuzoveyx</id>
-        <description lang="en-US">Qualit&amp;auml;tssicherung f&amp;uuml;r den Kunden ist nicht garantiert.</description>
-      </component>
-            <component>
-        <id>choice_cl13d7ve2004p266fda4qutik</id>
-        <description lang="en-US">Hohe Kosten f&amp;uuml;r den Betrieb, falls die Ware nicht gebrauchstauglich ist und neue Ware bestellt werden muss.</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13d9ke0006b266fn06pywm4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Welche Ma&amp;szlig;toleranz ist richtig bei KVH (bei Anlieferung)</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13d9ke0006f266fnvtsu94f</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13d9ke0006c266f2r85ftlx</id>
-        <description lang="en-US">Holzfeuchte von 20 % &amp;nbsp; +/- 3mm (Querschnitt bis 100mm) bzw. +/- 1,5mm (&amp;uuml;ber 100mm)</description>
-      </component>
-            <component>
-        <id>choice_cl13d9ke0006e266f71b4oxkk</id>
-        <description lang="en-US">Holzfeuchte von 15 +/- 3% &amp;nbsp; +/- 5mm (Querschnitt bis 100mm) &amp;nbsp; bzw. +/- 5,5mm (&amp;uuml;ber 100mm)</description>
-      </component>
-            <component>
-        <id>choice_cl13d9ke0006f266fnvtsu94f</id>
-        <description lang="en-US">Holzfeuchte von 15% +/- 3% &amp;nbsp; +/- 1mm (Querschnitt bis 100mm) bzw. +/- 1,5mm (&amp;uuml;ber 100mm)</description>
-      </component>
-            <component>
-        <id>choice_cl13d9ke0006d266f04h5x621</id>
-        <description lang="en-US">Holzfeuchte von 12% +/- 3% &amp;nbsp; +/- 1mm (Querschnitt biss 100mm) bzw. +/- 1,5mm (&amp;uuml;ber 100mm)</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13dar5a0081266fxd7g4y07" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Wie lange m&amp;uuml;ssen die Verwendbarkeitsnachweise f&amp;uuml;r Bauprodukte in den Unterlagen als eventuelle Beweisgrundlage aufgehoben werden bzw. zur Verf&amp;uuml;gung stehen?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13dbajp0084266fnf6e6y4c</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13dar5a0082266fk7lkuxl1</id>
-        <description lang="en-US">7 Jahre</description>
-      </component>
-            <component>
-        <id>choice_cl13dar5a0083266fmgd3nedl</id>
-        <description lang="en-US">12 Jahre</description>
-      </component>
-            <component>
-        <id>choice_cl13dbajp0084266fnf6e6y4c</id>
-        <description lang="en-US">10 Jahre</description>
-      </component>
-            <component>
-        <id>choice_cl13dbe200085266fc1rwdl0w</id>
-        <description lang="en-US">5 Jahre</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13dc418008l266fp895shkh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">In welcher Kategorie der 4 Altholzkategorien werden behandelte H&amp;ouml;lzer ohne halogenorganische Verbindungen eingeordnet?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13dc419008n266fy28168ve</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13dc419008m266fepd0ykcc</id>
-        <description lang="en-US">A I</description>
-      </component>
-            <component>
-        <id>choice_cl13dc419008n266fy28168ve</id>
-        <description lang="en-US">A II</description>
-      </component>
-            <component>
-        <id>choice_cl13dcgsl008o266fdolmhplt</id>
-        <description lang="en-US">A III</description>
-      </component>
-            <component>
-        <id>choice_cl13dcjs8008p266fer5fcfxe</id>
-        <description lang="en-US">A IV</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13dcua0008q266fix2l368c" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Gilt f&amp;uuml;r die Entsorgung von PCB behandeltem Holz ein gesetzliches Nachweisverfahren?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13dcua0008u266fkuu6n64w</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13dcua0008r266fvpos90x2</id>
-        <description lang="en-US">Nein, da ich nur belegen muss, wenn es kein PCB behandeltes Holz ist.</description>
-      </component>
-            <component>
-        <id>choice_cl13dcua0008t266f429rhsic</id>
-        <description lang="en-US">Ja, weil es sonst nicht in die Altholzkategorie III eingeordnet werden darf.</description>
-      </component>
-            <component>
-        <id>choice_cl13dcua0008u266fkuu6n64w</id>
-        <description lang="en-US">Ja f&amp;uuml;r Klasse PCB und A IV ist ein gesetzliches Nachweisverfahren notwendig.</description>
-      </component>
-            <component>
-        <id>choice_cl13dcua0008s266fm5ajluf8</id>
-        <description lang="en-US">Nein, weil die Annahmestelle f&amp;uuml;r Altholz vor Ort das Holz beurteilt.</description>
-      </component>
-            </choices>
-          </activity>
-            </activities>
+                                  
+<activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13d0gzy000a266fqjlbgofy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Warum ist die Wareneingangskontrolle so wichtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13d0gzy000b266frijotnts</correctResponsePattern>
+    <correctResponsePattern>choice_cl13d0gzy000c266f6iqaoxaq</correctResponsePattern>
+    <correctResponsePattern>choice_cl13d1676000d266frohxyc4h</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13d0gzy000b266frijotnts</id>
+    <description lang="en-US">Weil es eine Qualit&amp;auml;tssicherung f&amp;uuml;r den Kunden ist</description>
+  </component>
+    <component>
+    <id>choice_cl13d0gzy000c266f6iqaoxaq</id>
+    <description lang="en-US">Weil meine Produkte den richtigen Verwendbarkeitsnachweis haben m&amp;uuml;ssen</description>
+  </component>
+    <component>
+    <id>choice_cl13d1676000d266frohxyc4h</id>
+    <description lang="en-US">Weil falsche Mengen oder eventuelle Besch&amp;auml;digungen nur sofort reklamiert werden k&amp;ouml;nnen</description>
+  </component>
+    <component>
+    <id>choice_cl13d1bws000e266f4fqy75ap</id>
+    <description lang="en-US">Weil ab einem Warenwert von 10.000&amp;euro; es gesetzlich verpflichtend ist</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13d1nvd000o266flf261qmr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wof&amp;uuml;r steht die Abk&amp;uuml;rzung DIBt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13d1nvd000q266fzectgzww</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13d1nvd000r266fuae3sopq</id>
+    <description lang="en-US">Deutsche Industrie f&amp;uuml;r Bauprodukttechnologie</description>
+  </component>
+    <component>
+    <id>choice_cl13d1nvd000s266fqo8evgj9</id>
+    <description lang="en-US">Deutscher Informationsdienst f&amp;uuml;r Bautechniker</description>
+  </component>
+    <component>
+    <id>choice_cl13d1nvd000q266fzectgzww</id>
+    <description lang="en-US">Deutsches Institut f&amp;uuml;r Bautechnik</description>
+  </component>
+    <component>
+    <id>choice_cl13d49vf001r266fap7jsk4w</id>
+    <description lang="en-US">Deutsch-Internationaler Bund technischer Regeln</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13d4dnk001s266f22x2hbvs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Zu welcher Bauregelliste geh&amp;ouml;ren geregelte Bauprodukte?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13d4dnl001w266fsygkos4n</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13d4dnl001t266fsc3l67x4</id>
+    <description lang="en-US">Bauregelliste A Teil 2</description>
+  </component>
+    <component>
+    <id>choice_cl13d4dnl001v266fv52hvpr5</id>
+    <description lang="en-US">Bauregelliste B Teil 1</description>
+  </component>
+    <component>
+    <id>choice_cl13d4dnl001w266fsygkos4n</id>
+    <description lang="en-US">Bauregelliste A Teil 1</description>
+  </component>
+    <component>
+    <id>choice_cl13d4dnl001u266f98o4h1ok</id>
+    <description lang="en-US">Bauregelliste C</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13d59wc0031266fwnzefb7w" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussage &amp;uuml;ber die CE Kennzeichnung ist falsch?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13d5nsu0034266fjlv58hyf</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13d59wc0032266fknpxr069</id>
+    <description lang="en-US">CE Kennzeichnung ist ein Hinweis, dass das Produkt allen EU weiten Anforderungen entspricht</description>
+  </component>
+    <component>
+    <id>choice_cl13d59wc0033266f0nt9zsm7</id>
+    <description lang="en-US">CE Kennzeichnung muss sichtbar, lesbar und unzerst&amp;ouml;rbar angebracht werden.</description>
+  </component>
+    <component>
+    <id>choice_cl13d5nsu0034266fjlv58hyf</id>
+    <description lang="en-US">Produkte mit CE Kennzeichnung d&amp;uuml;rfen nur in Deutschland verkauft werden.</description>
+  </component>
+    <component>
+    <id>choice_cl13d5rd90035266fitn5q2dn</id>
+    <description lang="en-US">CE Kennzeichnung ist Pflicht f&amp;uuml;r in der EU vermarkteten Produkte.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13d6s5b0036266fqzbdb6s2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen &amp;uuml;ber das &amp;Uuml; Zeichen sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13d6s5b0038266fk5r2pkgg</correctResponsePattern>
+    <correctResponsePattern>choice_cl13d6s5b003a266fov1dsfdx</correctResponsePattern>
+    <correctResponsePattern>choice_cl13d6s5b0039266f22qsg1cq</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13d6s5b0037266f8a0xl7rk</id>
+    <description lang="en-US">&amp;Uuml; Zeichen hat nur in Deutschland G&amp;uuml;ltigkeit.</description>
+  </component>
+    <component>
+    <id>choice_cl13d6s5b0039266f22qsg1cq</id>
+    <description lang="en-US">Produkte mit &amp;Uuml; Zeichen sind in Deutschland frei handelbar.</description>
+  </component>
+    <component>
+    <id>choice_cl13d6s5b003a266fov1dsfdx</id>
+    <description lang="en-US">&amp;Uuml; Zeichen weist darauf hin, dass das Produkt aus einem &amp;uuml;berwachten Produktionsverfahren stammt.</description>
+  </component>
+    <component>
+    <id>choice_cl13d6s5b0038266fk5r2pkgg</id>
+    <description lang="en-US">&amp;Uuml; Zeichen ist ein G&amp;uuml;tezeichen f&amp;uuml;r Bauprodukte.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13d7ve2004n266f78263ccj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Folgen k&amp;ouml;nnen bei Unterlassung der Wareneingangskontrolle entstehen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13d7ve2004o266fkdbbk5bv</correctResponsePattern>
+    <correctResponsePattern>choice_cl13d7ve2004p266fda4qutik</correctResponsePattern>
+    <correctResponsePattern>choice_cl13d7ve2004q266f6zsju2ai</correctResponsePattern>
+    <correctResponsePattern>choice_cl13d7ve2004r266fwuzoveyx</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13d7ve2004o266fkdbbk5bv</id>
+    <description lang="en-US">Reklamationsanspr&amp;uuml;che k&amp;ouml;nnen nicht geltend gemacht werden.</description>
+  </component>
+    <component>
+    <id>choice_cl13d7ve2004q266f6zsju2ai</id>
+    <description lang="en-US">Mengen und Qualit&amp;auml;t der Waren k&amp;ouml;nnen stark von dem was bestellt wurde abweichen.</description>
+  </component>
+    <component>
+    <id>choice_cl13d7ve2004r266fwuzoveyx</id>
+    <description lang="en-US">Qualit&amp;auml;tssicherung f&amp;uuml;r den Kunden ist nicht garantiert.</description>
+  </component>
+    <component>
+    <id>choice_cl13d7ve2004p266fda4qutik</id>
+    <description lang="en-US">Hohe Kosten f&amp;uuml;r den Betrieb, falls die Ware nicht gebrauchstauglich ist und neue Ware bestellt werden muss.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13d9ke0006b266fn06pywm4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Ma&amp;szlig;toleranz ist richtig bei KVH (bei Anlieferung)</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13d9ke0006f266fnvtsu94f</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13d9ke0006c266f2r85ftlx</id>
+    <description lang="en-US">Holzfeuchte von 20 % &amp;nbsp; +/- 3mm (Querschnitt bis 100mm) bzw. +/- 1,5mm (&amp;uuml;ber 100mm)</description>
+  </component>
+    <component>
+    <id>choice_cl13d9ke0006e266f71b4oxkk</id>
+    <description lang="en-US">Holzfeuchte von 15 +/- 3% &amp;nbsp; +/- 5mm (Querschnitt bis 100mm) &amp;nbsp; bzw. +/- 5,5mm (&amp;uuml;ber 100mm)</description>
+  </component>
+    <component>
+    <id>choice_cl13d9ke0006f266fnvtsu94f</id>
+    <description lang="en-US">Holzfeuchte von 15% +/- 3% &amp;nbsp; +/- 1mm (Querschnitt bis 100mm) bzw. +/- 1,5mm (&amp;uuml;ber 100mm)</description>
+  </component>
+    <component>
+    <id>choice_cl13d9ke0006d266f04h5x621</id>
+    <description lang="en-US">Holzfeuchte von 12% +/- 3% &amp;nbsp; +/- 1mm (Querschnitt biss 100mm) bzw. +/- 1,5mm (&amp;uuml;ber 100mm)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13dar5a0081266fxd7g4y07" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie lange m&amp;uuml;ssen die Verwendbarkeitsnachweise f&amp;uuml;r Bauprodukte in den Unterlagen als eventuelle Beweisgrundlage aufgehoben werden bzw. zur Verf&amp;uuml;gung stehen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13dbajp0084266fnf6e6y4c</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13dar5a0082266fk7lkuxl1</id>
+    <description lang="en-US">7 Jahre</description>
+  </component>
+    <component>
+    <id>choice_cl13dar5a0083266fmgd3nedl</id>
+    <description lang="en-US">12 Jahre</description>
+  </component>
+    <component>
+    <id>choice_cl13dbajp0084266fnf6e6y4c</id>
+    <description lang="en-US">10 Jahre</description>
+  </component>
+    <component>
+    <id>choice_cl13dbe200085266fc1rwdl0w</id>
+    <description lang="en-US">5 Jahre</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13dc418008l266fp895shkh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In welcher Kategorie der 4 Altholzkategorien werden behandelte H&amp;ouml;lzer ohne halogenorganische Verbindungen eingeordnet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13dc419008n266fy28168ve</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13dc419008m266fepd0ykcc</id>
+    <description lang="en-US">A I</description>
+  </component>
+    <component>
+    <id>choice_cl13dc419008n266fy28168ve</id>
+    <description lang="en-US">A II</description>
+  </component>
+    <component>
+    <id>choice_cl13dcgsl008o266fdolmhplt</id>
+    <description lang="en-US">A III</description>
+  </component>
+    <component>
+    <id>choice_cl13dcjs8008p266fer5fcfxe</id>
+    <description lang="en-US">A IV</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2NAb0ZMw-QSDYsUnD9xN7TqKH0JVDf7T_rise/GLkyvTRGyZLdtFvfjBe4252aF7o_Ww1l/cl13dcua0008q266fix2l368c" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Gilt f&amp;uuml;r die Entsorgung von PCB behandeltem Holz ein gesetzliches Nachweisverfahren?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13dcua0008u266fkuu6n64w</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13dcua0008r266fvpos90x2</id>
+    <description lang="en-US">Nein, da ich nur belegen muss, wenn es kein PCB behandeltes Holz ist.</description>
+  </component>
+    <component>
+    <id>choice_cl13dcua0008t266f429rhsic</id>
+    <description lang="en-US">Ja, weil es sonst nicht in die Altholzkategorie III eingeordnet werden darf.</description>
+  </component>
+    <component>
+    <id>choice_cl13dcua0008u266fkuu6n64w</id>
+    <description lang="en-US">Ja f&amp;uuml;r Klasse PCB und A IV ist ein gesetzliches Nachweisverfahren notwendig.</description>
+  </component>
+    <component>
+    <id>choice_cl13dcua0008s266fm5ajluf8</id>
+    <description lang="en-US">Nein, weil die Annahmestelle f&amp;uuml;r Altholz vor Ort das Holz beurteilt.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
 </tincan>
