@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://yE1mawRa7AICsv8MBgJBC9Kzy5wD1vpg_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Trockenbau Allgemein - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://yE1mawRa7AICsv8MBgJBC9Kzy5wD1vpg_rise/vO86Aaqhzy_dKJzUXscHXSGM-CVizz9m" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://yE1mawRa7AICsv8MBgJBC9Kzy5wD1vpg_rise/vO86Aaqhzy_dKJzUXscHXSGM-CVizz9m/cldjz03on00022a6gm1uyu9ml" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Baustoffe werden bez&amp;uuml;glich ihres Brandverhaltens in so genannte Baustoffklassen eingeteilt. Auf der Grundlage welche Normen werde diese klassifiziert.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjz03on00032a6gh1elwf5q</correctResponsePattern>
+    <correctResponsePattern>choice_cldjz03on00052a6gqudpan0r</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjz03on00032a6gh1elwf5q</id>
+    <description lang="en-US">nach der deutschen Brandschutznorm DIN 4102</description>
+  </component>
+    <component>
+    <id>choice_cldjz03on00052a6gqudpan0r</id>
+    <description lang="en-US">europ&amp;auml;isch harmonisierte Norm DIN EN 13501</description>
+  </component>
+    <component>
+    <id>choice_cldjz03on00062a6gco4d6two</id>
+    <description lang="en-US">nach der DIN ADV 18299</description>
+  </component>
+    <component>
+    <id>choice_cldjz0slx001h2a6gar519c2f</id>
+    <description lang="en-US">Herstellerangaben</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yE1mawRa7AICsv8MBgJBC9Kzy5wD1vpg_rise/vO86Aaqhzy_dKJzUXscHXSGM-CVizz9m/cldjz149p00212a6gdzn476ga" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche technischen Regeln m&amp;uuml;ssen bei der Verwendung nichtbrennbare Baustoffe nach MVV TB Abschnitt A 2.1.2 beachtet werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjz149q00222a6gewszyp0b</correctResponsePattern>
+    <correctResponsePattern>choice_cldjz149q00232a6gg5uko5qf</correctResponsePattern>
+    <correctResponsePattern>choice_cldjz149q00242a6gjskp6mzs</correctResponsePattern>
+    <correctResponsePattern>choice_cldjz149q00252a6g8zdy4cnj</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjz149q00222a6gewszyp0b</id>
+    <description lang="en-US">keine oder eine begrenzt bleibende Entz&amp;uuml;ndung</description>
+  </component>
+    <component>
+    <id>choice_cldjz149q00242a6gjskp6mzs</id>
+    <description lang="en-US">geringstm&amp;ouml;gliche Rauchentwicklung</description>
+  </component>
+    <component>
+    <id>choice_cldjz149q00252a6g8zdy4cnj</id>
+    <description lang="en-US">kein fortschreitendes Glimmen und/oder Schwelen</description>
+  </component>
+    <component>
+    <id>choice_cldjz149q00232a6gg5uko5qf</id>
+    <description lang="en-US">brennen ohne Flamme</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yE1mawRa7AICsv8MBgJBC9Kzy5wD1vpg_rise/vO86Aaqhzy_dKJzUXscHXSGM-CVizz9m/cldjz2nei00472a6g6xwudw20" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche technischen Regeln m&amp;uuml;ssen bei der Verwendung nichtbrennbare Baustoffe nach MVV TB Abschnitt A 2.1.2 beachtet werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjz149q00222a6gewszyp0b</correctResponsePattern>
+    <correctResponsePattern>choice_cldjz149q00242a6gjskp6mzs</correctResponsePattern>
+    <correctResponsePattern>choice_cldjz149q00252a6g8zdy4cnj</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjz149q00222a6gewszyp0b</id>
+    <description lang="en-US">kein brennendes Abtropfen oder Abfallen auftreten</description>
+  </component>
+    <component>
+    <id>choice_cldjz149q00242a6gjskp6mzs</id>
+    <description lang="en-US">Formstabilit&amp;auml;t</description>
+  </component>
+    <component>
+    <id>choice_cldjz149q00252a6g8zdy4cnj</id>
+    <description lang="en-US">Schmelzpunkt von mindestens 1000 &amp;deg;C nach DIN 4102-17: 2017-12.</description>
+  </component>
+    <component>
+    <id>choice_cldjz149q00232a6gg5uko5qf</id>
+    <description lang="en-US">sofort selbstl&amp;ouml;schend</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yE1mawRa7AICsv8MBgJBC9Kzy5wD1vpg_rise/vO86Aaqhzy_dKJzUXscHXSGM-CVizz9m/cldjz4cge00612a6gwcknekxb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was beschreibt die Feuerwiderstandsdauer eines Bauteils?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjz4cge00622a6gjke2g25b</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjz4cge00622a6gjke2g25b</id>
+    <description lang="en-US">die Mindestdauer in Minuten, w&amp;auml;hrend der ein Bauteil nach genormten Pr&amp;uuml;fverfahren standh&amp;auml;lt</description>
+  </component>
+    <component>
+    <id>choice_cldjz4cge00632a6g66cro0kl</id>
+    <description lang="en-US">die Abwesenheit von Rauchentwicklung</description>
+  </component>
+    <component>
+    <id>choice_cldjz61zo00642a6gxef6sr8x</id>
+    <description lang="en-US">die Zeit die in einem genormten Pr&amp;uuml;fverfahren vergeht, bis sich das Bauteil verformt</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yE1mawRa7AICsv8MBgJBC9Kzy5wD1vpg_rise/vO86Aaqhzy_dKJzUXscHXSGM-CVizz9m/cldjz9ifr00652a6gvsawoh9s" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Raumabschlie&amp;szlig;ende Bauteile, die feuerbest&amp;auml;ndig sein m&amp;uuml;ssen, m&amp;uuml;ssen mindestens welche Anforderungen erf&amp;uuml;llen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjz9ifr00662a6g7hxt0bpu</correctResponsePattern>
+    <correctResponsePattern>choice_cldjz9ifr00672a6gtga37a8z</correctResponsePattern>
+    <correctResponsePattern>choice_cldjza30n00712a6ger57d99x</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjz9ifr00662a6g7hxt0bpu</id>
+    <description lang="en-US">Standsicherheit im Brandfall</description>
+  </component>
+    <component>
+    <id>choice_cldjz9ifr00672a6gtga37a8z</id>
+    <description lang="en-US">Widerstand gegen die Brandausbreitung</description>
+  </component>
+    <component>
+    <id>choice_cldjza30n00712a6ger57d99x</id>
+    <description lang="en-US">in Bauteilebene durchgehende Schicht aus nichtbrennbaren Baustoffen</description>
+  </component>
+    <component>
+    <id>choice_cldjzagsv007h2a6g9w911kva</id>
+    <description lang="en-US">Feuerwiderstandsklasse 3</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yE1mawRa7AICsv8MBgJBC9Kzy5wD1vpg_rise/vO86Aaqhzy_dKJzUXscHXSGM-CVizz9m/cldjzb15i008n2a6gahp9wuw3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Zu welchem Zeitpunkt der Anwendung von Bauprodukten/Bauarten muss ein g&amp;uuml;ltiger Ver-/Anwendbarkeitsnachweis vorliegen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjzb15i008o2a6g3c2jps0d</correctResponsePattern>
+    <correctResponsePattern>choice_cldjzb15i008q2a6ggn13ugm3</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjzb15i008o2a6g3c2jps0d</id>
+    <description lang="en-US">bauordnungsrechtlich - zum Zeitpunkt der Anwendung (des Einbaus)</description>
+  </component>
+    <component>
+    <id>choice_cldjzb15i008q2a6ggn13ugm3</id>
+    <description lang="en-US">privatrechtlich - zum Zeitpunkt der Abnahme (muss gesondert vereinbart werden)</description>
+  </component>
+    <component>
+    <id>choice_cldjzb15i008r2a6gpfwc2re4</id>
+    <description lang="en-US">Baugenehmigung</description>
+  </component>
+    <component>
+    <id>choice_cldjzb15i008p2a6gpgiab4e9</id>
+    <description lang="en-US">Ausf&amp;uuml;hrungsplanung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yE1mawRa7AICsv8MBgJBC9Kzy5wD1vpg_rise/vO86Aaqhzy_dKJzUXscHXSGM-CVizz9m/cldjzbvmy00ac2a6gy2mv4yr2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Benennen Sie die notwendigen Inhalte von &amp;Uuml;bereinstimmungserkl&amp;auml;rungen</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjzbvmy00ad2a6gdyd033dk</correctResponsePattern>
+    <correctResponsePattern>choice_cldjzbvmy00ae2a6g42645475</correctResponsePattern>
+    <correctResponsePattern>choice_cldjzbvmy00ag2a6gf0b00003</correctResponsePattern>
+    <correctResponsePattern>choice_cldjzbvmy00af2a6gzrvvjnox</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjzbvmy00ad2a6gdyd033dk</id>
+    <description lang="en-US">Angaben zur Firma und dem Bauvorhaben</description>
+  </component>
+    <component>
+    <id>choice_cldjzbvmy00af2a6gzrvvjnox</id>
+    <description lang="en-US">Zeit und Ort des Einbaus der nichtgeregelten Bauart</description>
+  </component>
+    <component>
+    <id>choice_cldjzbvmy00ag2a6gf0b00003</id>
+    <description lang="en-US">Einhaltung der Vorgaben des Anwendbarkeitsweises</description>
+  </component>
+    <component>
+    <id>choice_cldjzbvmy00ae2a6g42645475</id>
+    <description lang="en-US">Bauprodukte /-teile entsprechen dem Pr&amp;uuml;fzeugnis</description>
+  </component>
+    <component>
+    <id>choice_cldjzpikq00bf2a6gr1gnziyc</id>
+    <description lang="en-US">Erkl&amp;auml;rung zur Gew&amp;auml;hrleistung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yE1mawRa7AICsv8MBgJBC9Kzy5wD1vpg_rise/vO86Aaqhzy_dKJzUXscHXSGM-CVizz9m/cldjzprr400bn2a6g2guntzua" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wer und unter welchen Bedingungen darf eine &amp;bdquo;nichtwesentliche Abweichung&amp;ldquo; ausgestellt werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjzprr400bo2a6gb5nxr0ug</correctResponsePattern>
+    <correctResponsePattern>choice_cldjzprr400bq2a6gh9k066c0</correctResponsePattern>
+    <correctResponsePattern>choice_cldjzprr400br2a6gejje6d0z</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjzprr400bo2a6gb5nxr0ug</id>
+    <description lang="en-US">der Anwender ist f&amp;uuml;r die Feststellung einer nicht wesentlichen Abweichung bei einer Bauart zust&amp;auml;ndig</description>
+  </component>
+    <component>
+    <id>choice_cldjzprr400bq2a6gh9k066c0</id>
+    <description lang="en-US">nur der Inhaber des Anwendbarkeitsmachweises bzw. die autorisierte Pr&amp;uuml;fanstalt darf die nwA bewerten.</description>
+  </component>
+    <component>
+    <id>choice_cldjzprr400br2a6gejje6d0z</id>
+    <description lang="en-US">eine Abweichung von einer durch einen Anwendbarkeitsnachweis beschriebenen Konstruktion, die keinen so negativen Einfluss auf die Feuerwiderstandsf&amp;auml;higkeit der Konstruktion hat, dass sich die Feuerwiderstandsklasse der Konstruktion verschlechtert</description>
+  </component>
+    <component>
+    <id>choice_cldjzprr400bp2a6gz9ulkx78</id>
+    <description lang="en-US">Ein Sachverst&amp;auml;ndiger kann nwA erkl&amp;auml;ren</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

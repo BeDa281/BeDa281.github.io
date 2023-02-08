@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://GYqvGFkY7nKpyyKInokBAS73e7CoQ1y9_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Trockenbau Allgemein - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://GYqvGFkY7nKpyyKInokBAS73e7CoQ1y9_rise/3lbAxZfJN9gn299ZYxNAro6LLwFVxRTB" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://GYqvGFkY7nKpyyKInokBAS73e7CoQ1y9_rise/3lbAxZfJN9gn299ZYxNAro6LLwFVxRTB/cldjyhd1r00022a6hxz24qisz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Nennen Sie die wichtigsten Schutzziele, die mit dem Brandschutz zu erreichen sind.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjyhd1r00032a6hec5jo9gm</correctResponsePattern>
+    <correctResponsePattern>choice_cldjyhd1r00042a6hts7hnml2</correctResponsePattern>
+    <correctResponsePattern>choice_cldjyhd1r00062a6h48qywmux</correctResponsePattern>
+    <correctResponsePattern>choice_cldjyhd1r00052a6hpsr0bdp1</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjyhd1r00032a6hec5jo9gm</id>
+    <description lang="en-US">vor den Auswirkungen von Feuer und Rauch sch&amp;uuml;tzen</description>
+  </component>
+    <component>
+    <id>choice_cldjyhd1r00052a6hpsr0bdp1</id>
+    <description lang="en-US">Sicherheit f&amp;uuml;r Menschen und Tiere</description>
+  </component>
+    <component>
+    <id>choice_cldjyhd1r00062a6h48qywmux</id>
+    <description lang="en-US">wirksame L&amp;ouml;scharbeiten erm&amp;ouml;glichen</description>
+  </component>
+    <component>
+    <id>choice_cldjyhd1r00042a6hts7hnml2</id>
+    <description lang="en-US">Besondere Schutzziele, die laut Gef&amp;auml;hrdungsbeurteilung besondere Brandschutz Ma&amp;szlig;nahmen erfordern</description>
+  </component>
+    <component>
+    <id>choice_cldjyie66001f2a6hy5jh0he3</id>
+    <description lang="en-US">Baukosten sparen</description>
+  </component>
+    <component>
+    <id>choice_cldjyilnt00202a6htr0xj2za</id>
+    <description lang="en-US">Brandschutzordnung einhalten</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GYqvGFkY7nKpyyKInokBAS73e7CoQ1y9_rise/3lbAxZfJN9gn299ZYxNAro6LLwFVxRTB/cldjyiupc00272a6he7wcpu29" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In welchen Dokumenten sind die gesellschaftlich vereinbarten Schutzziele definiert?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjyiupc00282a6hmtuwpkyj</correctResponsePattern>
+    <correctResponsePattern>choice_cldjyiupc00292a6hmko8kad8</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjyiupc00282a6hmtuwpkyj</id>
+    <description lang="en-US">Musterbauordnung (&amp;sect;14 MBO)</description>
+  </component>
+    <component>
+    <id>choice_cldjyiupc00292a6hmko8kad8</id>
+    <description lang="en-US">Auf Musterbauordnung basierenden Landesbauordnungen&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cldjyk77a004f2a6hu8tq6y5a</id>
+    <description lang="en-US">B&amp;uuml;rgerliche Gesetzbuch (BGB)</description>
+  </component>
+    <component>
+    <id>choice_cldjykea3004r2a6hzhv51jla</id>
+    <description lang="en-US">Vergabe- und Vertragsausschuss f&amp;uuml;r Bauleistungen (VOB)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GYqvGFkY7nKpyyKInokBAS73e7CoQ1y9_rise/3lbAxZfJN9gn299ZYxNAro6LLwFVxRTB/cldjykr1800532a6hgb7720qk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was beinhaltet ein Bauprodukt gem&amp;auml;&amp;szlig; Artikel 2 Ziffer 1 in der Bauproduktenverordnung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjykr1800542a6hdewhpnmf</correctResponsePattern>
+    <correctResponsePattern>choice_cldjykr1800562a6hunmda1i3</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjykr1800542a6hdewhpnmf</id>
+    <description lang="en-US">Ein &amp;bdquo;Bauprodukt&amp;ldquo; als Produkt oder Bausatz, das bzw. der - hergestellt und in Verkehr gebracht wird, um dauerhaft in Bauwerke oder Teile davon eingebaut zu werden.</description>
+  </component>
+    <component>
+    <id>choice_cldjykr1800562a6hunmda1i3</id>
+    <description lang="en-US">Leistungen, die sich auf die Leistung des Bauwerks im Hinblick auf die Grundanforderungen an Bauwerke auswirken. </description>
+  </component>
+    <component>
+    <id>choice_cldjykr1800552a6h6v5f2pqo</id>
+    <description lang="en-US">alle Produkte die ein CE-Kennzeichen haben</description>
+  </component>
+    <component>
+    <id>choice_cldjynqfn008t2a6h1yqomsxd</id>
+    <description lang="en-US">von Expertenteam empfohlene Produkte</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GYqvGFkY7nKpyyKInokBAS73e7CoQ1y9_rise/3lbAxZfJN9gn299ZYxNAro6LLwFVxRTB/cldjyo9xs00902a6hxmkbdlfn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Grundanforderungen werden an Bauwerke gestellt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjyo9xt00912a6h54djgfc9</correctResponsePattern>
+    <correctResponsePattern>choice_cldjyo9xt00942a6hyqen055u</correctResponsePattern>
+    <correctResponsePattern>choice_cldjyo9xt00932a6hvwmkt6jy</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjyo9xt00912a6h54djgfc9</id>
+    <description lang="en-US">Mechanische Festigkeit und Standsicherheit</description>
+  </component>
+    <component>
+    <id>choice_cldjyo9xt00932a6hvwmkt6jy</id>
+    <description lang="en-US">Brandschutz</description>
+  </component>
+    <component>
+    <id>choice_cldjyo9xt00942a6hyqen055u</id>
+    <description lang="en-US">Hygiene, Gesundheit und Umweltschutz</description>
+  </component>
+    <component>
+    <id>choice_cldjyo9xt00922a6hi8vta7q8</id>
+    <description lang="en-US">&amp;Auml;sthetik</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GYqvGFkY7nKpyyKInokBAS73e7CoQ1y9_rise/3lbAxZfJN9gn299ZYxNAro6LLwFVxRTB/cldjyp4bc00aq2a6h88ua7cuk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Grundanforderungen werden an Bauwerke gestellt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjyo9xt00912a6h54djgfc9</correctResponsePattern>
+    <correctResponsePattern>choice_cldjyo9xt00942a6hyqen055u</correctResponsePattern>
+    <correctResponsePattern>choice_cldjyo9xt00932a6hvwmkt6jy</correctResponsePattern>
+    <correctResponsePattern>choice_cldjyo9xt00922a6hi8vta7q8</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjyo9xt00912a6h54djgfc9</id>
+    <description lang="en-US">Sicherheit und Barrierefreiheit bei der Nutzung</description>
+  </component>
+    <component>
+    <id>choice_cldjyo9xt00932a6hvwmkt6jy</id>
+    <description lang="en-US">Schallschutz</description>
+  </component>
+    <component>
+    <id>choice_cldjyo9xt00942a6hyqen055u</id>
+    <description lang="en-US">Energieeinsparung und W&amp;auml;rmeschutz</description>
+  </component>
+    <component>
+    <id>choice_cldjyo9xt00922a6hi8vta7q8</id>
+    <description lang="en-US">Nachhaltige Nutzung der nat&amp;uuml;rlichen Ressourcen</description>
+  </component>
+    <component>
+    <id>choice_cldjypqyj00bq2a6hbju0pc6z</id>
+    <description lang="en-US">Preisg&amp;uuml;nstige Errichtung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GYqvGFkY7nKpyyKInokBAS73e7CoQ1y9_rise/3lbAxZfJN9gn299ZYxNAro6LLwFVxRTB/cldjyqgxp00d22a6hs54hd87z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Gem&amp;auml;&amp;szlig; Artikel 2 Ziffer 2 bezeichnet die Bauproduktenverordnung einen &amp;bdquo;Bausatz&amp;ldquo; als ein Bauprodukt, das...</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjyqgxp00d32a6htc5ag3hg</correctResponsePattern>
+    <correctResponsePattern>choice_cldjyqgxp00d52a6hgcregv5j</correctResponsePattern>
+    <correctResponsePattern>choice_cldjyqgxp00d62a6hepl3nd3p</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjyqgxp00d32a6htc5ag3hg</id>
+    <description lang="en-US">von einem einzigen Hersteller kommt.</description>
+  </component>
+    <component>
+    <id>choice_cldjyqgxp00d52a6hgcregv5j</id>
+    <description lang="en-US">als Satz von mindestens zwei getrennten Komponenten, die zusammengef&amp;uuml;gt werden m&amp;uuml;ssen, um ins Bauwerk eingef&amp;uuml;gt zu werden.</description>
+  </component>
+    <component>
+    <id>choice_cldjyqgxp00d62a6hepl3nd3p</id>
+    <description lang="en-US">Gem&amp;auml;&amp;szlig; DIN 18340 Abschnitt 3.3.1 gelten f&amp;uuml;r Metall- und Mineralfaserdecken die DIN EN 13964.</description>
+  </component>
+    <component>
+    <id>choice_cldjyqgxp00d42a6hy186fb4x</id>
+    <description lang="en-US">frei ausgew&amp;auml;hlte und zusammengef&amp;uuml;gte Bauprodukte</description>
+  </component>
+    <component>
+    <id>choice_cldjyt16200fl2a6h5io379vo</id>
+    <description lang="en-US">Bauart nach DIN 4102-4</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GYqvGFkY7nKpyyKInokBAS73e7CoQ1y9_rise/3lbAxZfJN9gn299ZYxNAro6LLwFVxRTB/cldjytiya00g52a6h4637loda" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Bedeutung hat die Leistungserkl&amp;auml;rung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjytiya00g62a6hv83qqfjd</correctResponsePattern>
+    <correctResponsePattern>choice_cldjytiya00g72a6hi3q5bcuz</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjytiya00g62a6hv83qqfjd</id>
+    <description lang="en-US">gibt die Leistung von Bauprodukten in Bezug auf die Wesentlichen Merkmale dieser Produkte gem&amp;auml;&amp;szlig; den einschl&amp;auml;gigen harmonisierten technischen Spezifikationen an</description>
+  </component>
+    <component>
+    <id>choice_cldjytiya00g72a6hi3q5bcuz</id>
+    <description lang="en-US">Die Leistungserkl&amp;auml;rung ist Grundlage der CE-Kennzeichnung</description>
+  </component>
+    <component>
+    <id>choice_cldjyuapk00g92a6hd64ee85v</id>
+    <description lang="en-US">ist ausschlaggeben f&amp;uuml;r den Preis</description>
+  </component>
+    <component>
+    <id>choice_cldjyur5u00gt2a6h8l1hcd7m</id>
+    <description lang="en-US">gibt an was das Bauprodukt kann</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GYqvGFkY7nKpyyKInokBAS73e7CoQ1y9_rise/3lbAxZfJN9gn299ZYxNAro6LLwFVxRTB/cldjyv0st00h42a6hwwvpr7gz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Darf die &amp;Uuml;bergabe der Leistungserkl&amp;auml;rung in Papierform vom Abnehmer verlangt werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjyv0st00h52a6hr0q9gtf2</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjyv0st00h52a6hr0q9gtf2</id>
+    <description lang="en-US">Ja. Gem&amp;auml;&amp;szlig; Artikel 7 Absatz 2 der Bauproduktenverordnung ist die Zurverf&amp;uuml;gungstellung der Leistungserkl&amp;auml;rung in Papierform erforderlich, wenn der Abnehmer dies verlangt. Ansonsten gen&amp;uuml;gt eine elektronische &amp;Uuml;bermittlung.</description>
+  </component>
+    <component>
+    <id>choice_cldjyv0st00h72a6h7dpmdiq7</id>
+    <description lang="en-US">Nein, diese gibt es nur elektronisch beim Hersteller</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GYqvGFkY7nKpyyKInokBAS73e7CoQ1y9_rise/3lbAxZfJN9gn299ZYxNAro6LLwFVxRTB/cldjywmap00hu2a6he6mabj5f" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Darf ein Fensterbauer einem Bauelementeh&amp;auml;ndler ein Fenster ohne CE-Zeichen ausliefern?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjywmap00hv2a6hifz3p8nt</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjywmap00hv2a6hifz3p8nt</id>
+    <description lang="en-US">Nein, denn mit der Auslieferung bringt der Fensterbauer das Fenster in den Verkehr. Gem&amp;auml;&amp;szlig; Artikel 9 Absatz 3 der Bauproduktenverordnung muss die CE-Kennzeichnung vor dem Inverkehrbringen des Bauprodukts angebracht werden.</description>
+  </component>
+    <component>
+    <id>choice_cldjywmap00hx2a6h1e94ji5v</id>
+    <description lang="en-US">Ja, wenn der Anwender es verlangt und ein CE-Kennzeichung zu viel Zeit ben&amp;ouml;tigt.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://GYqvGFkY7nKpyyKInokBAS73e7CoQ1y9_rise/3lbAxZfJN9gn299ZYxNAro6LLwFVxRTB/cldjyy8bd00ic2a6hj8mdavq1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Kann man mit dem Bauherrn bei beiderseitigem Einverst&amp;auml;ndnis ein fehlendes CE-Zeichen vereinbaren?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjyy8be00id2a6hmzqlcdmk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjyy8be00id2a6hmzqlcdmk</id>
+    <description lang="en-US">Nein, jedenfalls nicht wirksam, da durch Vereinbarungen nicht gesetzliche Vorgaben bzw. Verbote umgangen werden d&amp;uuml;rfen.</description>
+  </component>
+    <component>
+    <id>choice_cldjyy8be00ie2a6hb3o535ks</id>
+    <description lang="en-US">Ja, nach vorheriger Absprache mit dem Bauherrn</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
