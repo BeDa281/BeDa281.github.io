@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://PTXTZ6pQFt4b4Ms4kLhSyNJaBkWkqLNH_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Brandschutz Trockenbau - Quiz 4</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://PTXTZ6pQFt4b4Ms4kLhSyNJaBkWkqLNH_rise/vr6B1cxUqpHFHKZNi-wCZnujekvAr3pP" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://PTXTZ6pQFt4b4Ms4kLhSyNJaBkWkqLNH_rise/vr6B1cxUqpHFHKZNi-wCZnujekvAr3pP/cldk1mpb500022a6gkv9v4y2t" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Eine St&amp;auml;nderwand in einem Versammlungsraum&lt;ul&gt;&lt;li&gt;Einbauh&amp;ouml;he 5,75 m&lt;/li&gt;&lt;li&gt;Unterkonstruktion - St&amp;auml;nder CW 75, a = 625 mm&lt;/li&gt;&lt;li&gt;D&amp;auml;mmung - 40 mm Hohlraumd&amp;auml;mpfung mit Glaswolle&lt;/li&gt;&lt;li&gt;Beplankung - 2 x 12,5 mm Gipskartonbauplatten je Seite&lt;/li&gt;&lt;li&gt;Anschlussfuge an Umfassungsfl&amp;auml;che mit Acrylatfugenkitt abgespritzt&lt;/li&gt;&lt;li&gt;CW-Anschlussprofil mit Dichtungsband an Umfassungskonstruktion abgedichtet&lt;/li&gt;&lt;/ul&gt;ist auf fachgerechte Planung und Ausf&amp;uuml;hrung zu beurteilen. Zus&amp;auml;tzliche Forderungen: erf. R&amp;#39; w = 52 dB, F 90AB&lt;br&gt;Erf&amp;uuml;llt diese Wand die Forderungen? </name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1mpb500042a6gwrtfeano</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1mpb500032a6gqm7xxe2y</id>
+    <description lang="en-US">Ja</description>
+  </component>
+    <component>
+    <id>choice_cldk1mpb500042a6gwrtfeano</id>
+    <description lang="en-US">Nein</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PTXTZ6pQFt4b4Ms4kLhSyNJaBkWkqLNH_rise/vr6B1cxUqpHFHKZNi-wCZnujekvAr3pP/cldk1oiax000i2a6grda5sebs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Eine St&amp;auml;nderwand in einem Versammlungsraum&lt;ul&gt;&lt;li&gt;Einbauh&amp;ouml;he 5,75 m&lt;/li&gt;&lt;li&gt;Unterkonstruktion - St&amp;auml;nder CW 75, a = 625 mm&lt;/li&gt;&lt;li&gt;D&amp;auml;mmung - 40 mm Hohlraumd&amp;auml;mpfung mit Glaswolle&lt;/li&gt;&lt;li&gt;Beplankung - 2 x 12,5 mm Gipskartonbauplatten je Seite&lt;/li&gt;&lt;li&gt;Anschlussfuge an Umfassungsfl&amp;auml;che mit Acrylatfugenkitt abgespritzt&lt;/li&gt;&lt;li&gt;CW-Anschlussprofil mit Dichtungsband an Umfassungskonstruktion abgedichtet&lt;/li&gt;&lt;/ul&gt;ist auf fachgerechte Planung und Ausf&amp;uuml;hrung zu beurteilen. Zus&amp;auml;tzliche Forderungen: erf. R&amp;#39; w = 52 dB, F 90AB&lt;br&gt;Welche konstruktiven Parameter m&amp;uuml;ssen ge&amp;auml;ndert werden, um Forderungen zu erf&amp;uuml;llen?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1mpb500042a6gwrtfeano</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1p53q00182a6gy2tvqwax</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1p1z300112a6gxdnk0ltb</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1mpb500032a6gqm7xxe2y</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1mpb500032a6gqm7xxe2y</id>
+    <description lang="en-US">St&amp;auml;nder CW 100</description>
+  </component>
+    <component>
+    <id>choice_cldk1mpb500042a6gwrtfeano</id>
+    <description lang="en-US">80 mm Hohlraumd&amp;auml;mpfung</description>
+  </component>
+    <component>
+    <id>choice_cldk1p1z300112a6gxdnk0ltb</id>
+    <description lang="en-US">2 x 12,5 mm GKF</description>
+  </component>
+    <component>
+    <id>choice_cldk1p53q00182a6gy2tvqwax</id>
+    <description lang="en-US">Anschlussfuge mit Gipsspachtel und Trennstreifen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PTXTZ6pQFt4b4Ms4kLhSyNJaBkWkqLNH_rise/vr6B1cxUqpHFHKZNi-wCZnujekvAr3pP/cldk1pb5c001m2a6gyzusv8v1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Eine St&amp;auml;nderwand in einem Versammlungsraum&lt;ul&gt;&lt;li&gt;Einbauh&amp;ouml;he 5,75 m&lt;/li&gt;&lt;li&gt;Unterkonstruktion - St&amp;auml;nder CW 75, a = 625 mm&lt;/li&gt;&lt;li&gt;D&amp;auml;mmung - 40 mm Hohlraumd&amp;auml;mpfung mit Glaswolle&lt;/li&gt;&lt;li&gt;Beplankung - 2 x 12,5 mm Gipskartonbauplatten je Seite&lt;/li&gt;&lt;li&gt;Anschlussfuge an Umfassungsfl&amp;auml;che mit Acrylatfugenkitt abgespritzt&lt;/li&gt;&lt;li&gt;CW-Anschlussprofil mit Dichtungsband an Umfassungskonstruktion abgedichtet&lt;/li&gt;&lt;/ul&gt;ist auf fachgerechte Planung und Ausf&amp;uuml;hrung zu beurteilen. Zus&amp;auml;tzliche Forderungen: erf. R&amp;#39; w = 52 dB, F 90AB&lt;br&gt;Welche Voraussetzungen werden an die flankierenden Bauteile gestellt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1mpb500032a6gqm7xxe2y</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1mpb500032a6gqm7xxe2y</id>
+    <description lang="en-US">massive Bauteile mit einer Fl&amp;auml;chenmasse &amp;ge; 300 kg/m2</description>
+  </component>
+    <component>
+    <id>choice_cldk1mpb500042a6gwrtfeano</id>
+    <description lang="en-US">Keine Voraussetzungen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PTXTZ6pQFt4b4Ms4kLhSyNJaBkWkqLNH_rise/vr6B1cxUqpHFHKZNi-wCZnujekvAr3pP/cldk1q7xg00242a6gojw3ecao" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Eine F 90 AB klassifizierte Trennwand durchdringen folgende Rohre/Kabel:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Wasserleitung (Kupfer), DN = 22 mm&lt;/li&gt;&lt;li&gt;Abwasserrohr (Kunststoff), DN = 100 mm&lt;/li&gt;&lt;li&gt;Kabelb&amp;uuml;ndel&lt;/li&gt;&lt;/ul&gt;Sind diese Durchdringungen zul&amp;auml;ssig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1q7xg00252a6gfpophg1d</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1q7xg00252a6gfpophg1d</id>
+    <description lang="en-US">Nein</description>
+  </component>
+    <component>
+    <id>choice_cldk1q7xg00262a6ghkxe085s</id>
+    <description lang="en-US">Ja</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PTXTZ6pQFt4b4Ms4kLhSyNJaBkWkqLNH_rise/vr6B1cxUqpHFHKZNi-wCZnujekvAr3pP/cldk1qyrn00272a6ggcf1396l" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Eine F 90 AB klassifizierte Trennwand durchdringen folgende Rohre/Kabel:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Wasserleitung (Kupfer), DN = 22 mm&lt;/li&gt;&lt;li&gt;Abwasserrohr (Kunststoff), DN = 100 mm&lt;/li&gt;&lt;li&gt;Kabelb&amp;uuml;ndel&lt;/li&gt;&lt;/ul&gt;Welche Ma&amp;szlig;nahmen sind ggf. erforderlich?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1q7xg00252a6gfpophg1d</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1s0pc003s2a6gtkdiiiqr</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1s9vq004b2a6ge3poupea</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1q7xg00252a6gfpophg1d</id>
+    <description lang="en-US">Wasserleitung: Durchf&amp;uuml;hrung mit nichtbrennbarer Rohrh&amp;uuml;lse, Zwischenraum mit Steinwolle schlie&amp;szlig;en (MLAR 4.2.3)</description>
+  </component>
+    <component>
+    <id>choice_cldk1q7xg00262a6ghkxe085s</id>
+    <description lang="en-US">Wasserleitung: Restverschluss Gipsspachtel</description>
+  </component>
+    <component>
+    <id>choice_cldk1s0pc003s2a6gtkdiiiqr</id>
+    <description lang="en-US">Abwasserrohr: nur mit zugelassener Rohrabschottung R 90 </description>
+  </component>
+    <component>
+    <id>choice_cldk1s9vq004b2a6ge3poupea</id>
+    <description lang="en-US">Kabelb&amp;uuml;ndel: nur mit zugelassenem Kabelschott S 90&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cldk1sm4p004x2a6go4dehmjz</id>
+    <description lang="en-US">Abwasserrohr: Einfachisolierung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PTXTZ6pQFt4b4Ms4kLhSyNJaBkWkqLNH_rise/vr6B1cxUqpHFHKZNi-wCZnujekvAr3pP/cldk1t4ae00672a6gfiuztzi1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was versteht man unter selbst&amp;auml;ndiger Brandschutzdecke?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1t4ae00682a6gugs8klpq</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1t4ae006a2a6ge15wpozt</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1t4ae006b2a6gtl6qugr1</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1t4ae00682a6gugs8klpq</id>
+    <description lang="en-US">Selbst&amp;auml;ndige Unterdecken sind eigenst&amp;auml;ndige Bauteile</description>
+  </component>
+    <component>
+    <id>choice_cldk1t4ae006a2a6ge15wpozt</id>
+    <description lang="en-US">Schutz des Deckenhohlraum gegen Brand aus dem darunterliegenden Raum</description>
+  </component>
+    <component>
+    <id>choice_cldk1t4ae006b2a6gtl6qugr1</id>
+    <description lang="en-US">Schutz des darunterliegenden Raum gegen einen Brand im Deckenhohlraum, Isolierung von Brandlasten</description>
+  </component>
+    <component>
+    <id>choice_cldk1t4ae00692a6g36z1sluk</id>
+    <description lang="en-US">Erf&amp;uuml;llen den Brandschutz in Verbindung mit der Rohdecke</description>
+  </component>
+    <component>
+    <id>choice_cldk1um6000802a6gjwez2gv3</id>
+    <description lang="en-US">Freitragen Unterdecke</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PTXTZ6pQFt4b4Ms4kLhSyNJaBkWkqLNH_rise/vr6B1cxUqpHFHKZNi-wCZnujekvAr3pP/cldk1v0js008d2a6g9hwll0an" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Warum sollte zwischen allen Arten von Kabeltrag- und Befestigungssystemen bzw. Rohrleitungen grunds&amp;auml;tzlich ein Mindestabstand von 50 mm zur selbstst&amp;auml;ndigen Unterdecke eingehalten werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1v0js008e2a6g3udummmv</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1v0js008g2a6g51fsexh5</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1v0js008e2a6g3udummmv</id>
+    <description lang="en-US">Die selbstst&amp;auml;ndige Unterdecke darf im Brandfall nicht zerst&amp;ouml;rt/belastet werden.</description>
+  </component>
+    <component>
+    <id>choice_cldk1v0js008g2a6g51fsexh5</id>
+    <description lang="en-US">Ergibt sich durch die bauaufsichtlichen Verwendbarkeitsnachweise ein gr&amp;ouml;&amp;szlig;erer Mindestabstand, so ist dieser einzuhalten bzw. enge Befestigungsabst&amp;auml;nde zu w&amp;auml;hlen.</description>
+  </component>
+    <component>
+    <id>choice_cldk1v0js008h2a6gwz5el798</id>
+    <description lang="en-US">Zur besseren Montage</description>
+  </component>
+    <component>
+    <id>choice_cldk1v0js008f2a6g5cwmp916</id>
+    <description lang="en-US">Weil in der DIN festgelegt</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PTXTZ6pQFt4b4Ms4kLhSyNJaBkWkqLNH_rise/vr6B1cxUqpHFHKZNi-wCZnujekvAr3pP/cldk1vw3w009y2a6gt95s4706" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welcher Anwendbarkeitsnachweis ist bei Anschluss einer selbst&amp;auml;ndigen Brandschutz-Unterdecke an eine klassifizierte St&amp;auml;nderwand der gleichen Feuerwiderstandsdauer zu erbringen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1vw3w009z2a6g376f5h87</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1vw3w009z2a6g376f5h87</id>
+    <description lang="en-US">Der Anschluss ist im abP der Unterdecke zu erbringen.</description>
+  </component>
+    <component>
+    <id>choice_cldk1vw3w00a12a6g0yg3euqx</id>
+    <description lang="en-US">Der Anschluss ist im abP der Wand zu erbringen.</description>
+  </component>
+    <component>
+    <id>choice_cldk1vw3x00a22a6g9yep7a96</id>
+    <description lang="en-US">Der Anschluss ist im abP der Unterdecke und der Wand zu erbringen.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PTXTZ6pQFt4b4Ms4kLhSyNJaBkWkqLNH_rise/vr6B1cxUqpHFHKZNi-wCZnujekvAr3pP/cldk1xys800bd2a6ghzva4x34" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Nachweise m&amp;uuml;ssen f&amp;uuml;r Revisions&amp;ouml;ffnungsverschl&amp;uuml;sse in Installationssch&amp;auml;chten erbracht werden?&lt;br&gt;Die Revisions&amp;ouml;ffnungsverschl&amp;uuml;sse m&amp;uuml;ssen das gleiche Schutzziel wir der Installationsschacht erf&amp;uuml;llen. Der Nachweis kann gef&amp;uuml;hrt werden...</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1xys800be2a6gu93hn4py</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1xys800bg2a6gdp702nwq</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1xys800be2a6gu93hn4py</id>
+    <description lang="en-US">mit einem abP gemeinsam gepr&amp;uuml;ft nach DIN 4102-11</description>
+  </component>
+    <component>
+    <id>choice_cldk1xys800bg2a6gdp702nwq</id>
+    <description lang="en-US">mit einer eigenst&amp;auml;ndigen aBG</description>
+  </component>
+    <component>
+    <id>choice_cldk1xys800bh2a6g4xi0sudp</id>
+    <description lang="en-US">mit einem abP gemeinsam gepr&amp;uuml;ft nach DIN 4102-2</description>
+  </component>
+    <component>
+    <id>choice_cldk1xys800bf2a6gjmaul2c1</id>
+    <description lang="en-US">braucht keinen Nachweis</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://2qYrEYlROdGVYGha_CgJfoyk7zIvIR6s_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Brandschutz Trockenbau - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://2qYrEYlROdGVYGha_CgJfoyk7zIvIR6s_rise/ehwyGMle4rejVRMstYXdCM4stboJaSEv" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://2qYrEYlROdGVYGha_CgJfoyk7zIvIR6s_rise/ehwyGMle4rejVRMstYXdCM4stboJaSEv/cldk0qm4m00022a6g61qrfj8s" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Eine Unterdecke bringt &amp;bdquo;allein&amp;quot; den Feuerwiderstand von unten.&lt;br&gt;Welche Forderungen muss die Rohdecke erf&amp;uuml;llen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk0qm4m00032a6gjjosaz9x</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk0qm4m00032a6gjjosaz9x</id>
+    <description lang="en-US">tragf&amp;auml;hig f&amp;uuml;r die Lastaufnahme der Unterdecke; M&amp;ouml;glichkeit der Befestigung der Abh&amp;auml;nger</description>
+  </component>
+    <component>
+    <id>choice_cldk0qm4m00042a6g54t2ba2m</id>
+    <description lang="en-US">gleiche Feuerwiderstand wie Unterdecke</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2qYrEYlROdGVYGha_CgJfoyk7zIvIR6s_rise/ehwyGMle4rejVRMstYXdCM4stboJaSEv/cldk0rbjl00052a6g3dupnqmr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Eine Unterdecke bringt &amp;bdquo;allein&amp;quot; den Feuerwiderstand von unten.&lt;br&gt;Mit welchen Befestigungsmitteln kann die Unterdecke an der Rohdecke befestigt werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk0qm4m00032a6gjjosaz9x</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk0qm4m00032a6gjjosaz9x</id>
+    <description lang="en-US">f&amp;uuml;r Unterdecken zugelassene Befestigungsmittel (allgemeine bauaufsichtliche Zulassung/Pr&amp;uuml;fzeichen/Zulassung im Einzelfall).</description>
+  </component>
+    <component>
+    <id>choice_cldk0qm4m00042a6g54t2ba2m</id>
+    <description lang="en-US">f&amp;uuml;r Unterdecken k&amp;ouml;nnen beliebige Befestigungsmittel verwendet werden, da dies einen zu vernachl&amp;auml;ssigenden Einfluss auf den Feuerwiderstand haben.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2qYrEYlROdGVYGha_CgJfoyk7zIvIR6s_rise/ehwyGMle4rejVRMstYXdCM4stboJaSEv/cldk0sok900062a6gbdh7qnzy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Eine Unterdecke bringt &amp;bdquo;allein&amp;quot; den Feuerwiderstand von unten.&lt;br&gt;M&amp;uuml;ssen brandschutztechnisch zugelassene D&amp;uuml;bel verwendet werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk0qm4m00032a6gjjosaz9x</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk0qm4m00032a6gjjosaz9x</id>
+    <description lang="en-US">Ja</description>
+  </component>
+    <component>
+    <id>choice_cldk0qm4m00042a6g54t2ba2m</id>
+    <description lang="en-US">Nein</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2qYrEYlROdGVYGha_CgJfoyk7zIvIR6s_rise/ehwyGMle4rejVRMstYXdCM4stboJaSEv/cldk0t7us00072a6gavb2vr75" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Im Deckenhohlraum Unterdecke &amp;ndash; Rohdecke liegen Elektrokabel.&lt;br&gt;Muss die Unterdecke nach dem Kriterium &amp;bdquo;Feuerbeanspruchung aus dem Hohlraum&amp;ldquo; ausgelegt werden (oder Grenzbedingungen)?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk0t7us00082a6gmmmon5cg</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk0t7us00082a6gmmmon5cg</id>
+    <description lang="en-US">nur wenn Brandlast im Zwischendeckenbereich (Kabelisolierung) 7 kW/m&amp;sup2; &amp;uuml;bersteigt</description>
+  </component>
+    <component>
+    <id>choice_cldk0t7us000a2a6glmgdxwxc</id>
+    <description lang="en-US">kein Kabel m&amp;ouml;glich</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2qYrEYlROdGVYGha_CgJfoyk7zIvIR6s_rise/ehwyGMle4rejVRMstYXdCM4stboJaSEv/cldk0u34j000s2a6glqlce03v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Im Deckenhohlraum Unterdecke &amp;ndash; Rohdecke liegen Elektrokabel.&lt;br&gt;Was f&amp;uuml;r Forderungen werden an die Rohdecke gestellt bei Feuerbeanspruchung aus dem Hohlraum?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk0t7us00082a6gmmmon5cg</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk0t7us00082a6gmmmon5cg</id>
+    <description lang="en-US">die dar&amp;uuml;berliegende Decke muss mindestens der gleichen F-Klasse angeh&amp;ouml;ren wie die Unterdecke</description>
+  </component>
+    <component>
+    <id>choice_cldk0t7us000a2a6glmgdxwxc</id>
+    <description lang="en-US">Rohdecke kann beliebig verwendet werden</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2qYrEYlROdGVYGha_CgJfoyk7zIvIR6s_rise/ehwyGMle4rejVRMstYXdCM4stboJaSEv/cldk0ux7w000t2a6gfbkqlulg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Im Deckenhohlraum Unterdecke &amp;ndash; Rohdecke liegen Elektrokabel.&lt;br&gt;Was ist bei der Wahl der Befestigungsmittel/Abh&amp;auml;nger zu beachten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk0t7us00082a6gmmmon5cg</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk0t7us00082a6gmmmon5cg</id>
+    <description lang="en-US">nur brandschutztechnisch zugelassene Befestigungsmittel / verwenden Abh&amp;auml;nger</description>
+  </component>
+    <component>
+    <id>choice_cldk0t7us000a2a6glmgdxwxc</id>
+    <description lang="en-US">keine brandschutztechnischen Anforderungen an Befestigungsmittel / &amp;nbsp;verwenden Abh&amp;auml;nger</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2qYrEYlROdGVYGha_CgJfoyk7zIvIR6s_rise/ehwyGMle4rejVRMstYXdCM4stboJaSEv/cldk0w5qu000u2a6gymwzqc1f" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei Geb&amp;auml;uden &amp;bdquo;&amp;ldquo; sind Decken &amp;bdquo;feuerbest&amp;auml;ndig&amp;ldquo; auszuf&amp;uuml;hren.&lt;br&gt;Wie ist die Definition &amp;bdquo;Geb&amp;auml;udeklasse 5&amp;ldquo;?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk0w5qu000v2a6gh8unadys</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk0w5qu000v2a6gh8unadys</id>
+    <description lang="en-US">Bauh&amp;ouml;he &amp;gt; 12 m bis 22 m</description>
+  </component>
+    <component>
+    <id>choice_cldk0w5qu000w2a6gxx6z4mmy</id>
+    <description lang="en-US">Bauh&amp;ouml;he &amp;gt; 7 m bis 22 m</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2qYrEYlROdGVYGha_CgJfoyk7zIvIR6s_rise/ehwyGMle4rejVRMstYXdCM4stboJaSEv/cldk0wyau000x2a6gg5u28lbn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei Geb&amp;auml;uden &amp;bdquo;&amp;ldquo; sind Decken &amp;bdquo;feuerbest&amp;auml;ndig&amp;ldquo; auszuf&amp;uuml;hren.&lt;br&gt;Wie lautet die Kurzbezeichnung f&amp;uuml;r den bauaufsichtlichen Begriff &amp;bdquo;feuerbest&amp;auml;ndig&amp;ldquo;?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk0w5qu000v2a6gh8unadys</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk0w5qu000v2a6gh8unadys</id>
+    <description lang="en-US">min F 90 AB&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cldk0w5qu000w2a6gxx6z4mmy</id>
+    <description lang="en-US">F 90 A</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2qYrEYlROdGVYGha_CgJfoyk7zIvIR6s_rise/ehwyGMle4rejVRMstYXdCM4stboJaSEv/cldk0xayl000y2a6ghhe1ifym" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei Geb&amp;auml;uden &amp;bdquo;&amp;ldquo; sind Decken &amp;bdquo;feuerbest&amp;auml;ndig&amp;ldquo; auszuf&amp;uuml;hren.&lt;br&gt;K&amp;ouml;nnen Holzbalkendecken auf &amp;bdquo;feuerbest&amp;auml;ndig&amp;ldquo; mit Unterdecken/Deckenbekleidungen aufger&amp;uuml;stet werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk0w5qu000v2a6gh8unadys</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk0w5qu000v2a6gh8unadys</id>
+    <description lang="en-US">nein, nur F 90 B (tragende Bauteile &amp;bdquo;brennbar&amp;quot;)</description>
+  </component>
+    <component>
+    <id>choice_cldk0w5qu000w2a6gxx6z4mmy</id>
+    <description lang="en-US">ja, mit F 90 BA </description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2qYrEYlROdGVYGha_CgJfoyk7zIvIR6s_rise/ehwyGMle4rejVRMstYXdCM4stboJaSEv/cldk0yclf000z2a6gq3vo63fc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Das Raum-in-Raum System ist ein in sich abgeschlossenes, freistehendes Raumsystem, das ohne Verbindung zu umliegenden Bauteilen auskommt. Welche Prinzipien liegen ihm zu Grunde? &amp;nbsp; &amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk0yclf00102a6gwgp8hrrd</correctResponsePattern>
+    <correctResponsePattern>choice_cldk0yclg00122a6gbd28wdqh</correctResponsePattern>
+    <correctResponsePattern>choice_cldk0yclg00132a6gfp0oo825</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk0yclf00102a6gwgp8hrrd</id>
+    <description lang="en-US">Tragwerk aus Metallprofilen</description>
+  </component>
+    <component>
+    <id>choice_cldk0yclg00122a6gbd28wdqh</id>
+    <description lang="en-US">Fl&amp;auml;chen werden aus den Gips-Platten gearbeitet</description>
+  </component>
+    <component>
+    <id>choice_cldk0yclg00132a6gfp0oo825</id>
+    <description lang="en-US">D&amp;auml;mmstoff, falls Schallschutz gew&amp;uuml;nscht</description>
+  </component>
+    <component>
+    <id>choice_cldk0yclg00112a6g6jwexsq2</id>
+    <description lang="en-US">Tragwerk aus Holzbalken und Stielen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://2qYrEYlROdGVYGha_CgJfoyk7zIvIR6s_rise/ehwyGMle4rejVRMstYXdCM4stboJaSEv/cldk0zqi5004a2a6gmioql2vh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Das Raum-in-Raum System ist ein in sich abgeschlossenes, freistehendes Raumsystem, das ohne Verbindung zu umliegenden Bauteilen auskommt. Welche Prinzipien liegen ihm zu Grunde? &amp;nbsp; &amp;nbsp; </name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk0yclf00102a6gwgp8hrrd</correctResponsePattern>
+    <correctResponsePattern>choice_cldk0yclg00122a6gbd28wdqh</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk0yclf00102a6gwgp8hrrd</id>
+    <description lang="en-US">OSB/Holwerkstoffplatten bei Begehbarkeit der Decke</description>
+  </component>
+    <component>
+    <id>choice_cldk0yclg00122a6gbd28wdqh</id>
+    <description lang="en-US">Brandschutz, Prinzip allseitig Schachtwand</description>
+  </component>
+    <component>
+    <id>choice_cldk0yclg00132a6gfp0oo825</id>
+    <description lang="en-US">Beplankung aus HWP</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

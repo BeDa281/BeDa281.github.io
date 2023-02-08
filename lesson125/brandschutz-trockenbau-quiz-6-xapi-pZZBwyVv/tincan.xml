@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://JVRxO4v_77D2OUlHadpjArF4lmSrRe6p_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Brandschutz Trockenbau - Quiz 6</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://JVRxO4v_77D2OUlHadpjArF4lmSrRe6p_rise/1Xr6xqqui-KUfx59Zo0QUUr554qfMKdO" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://JVRxO4v_77D2OUlHadpjArF4lmSrRe6p_rise/1Xr6xqqui-KUfx59Zo0QUUr554qfMKdO/cldk2qk8100022a6gq4telpeq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Worin unterscheiden sich F und G &amp;ndash; Verglasungen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk2qk8200032a6gdhqhjcg2</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2qk8200052a6gqe061db7</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk2qk8200032a6gdhqhjcg2</id>
+    <description lang="en-US">&amp;nbsp;F = raumabschlie&amp;szlig;end und temperaturdurchgangsbegrenzend (isolierend)</description>
+  </component>
+    <component>
+    <id>choice_cldk2qk8200052a6gqe061db7</id>
+    <description lang="en-US">G = nur raumabschlie&amp;szlig;end</description>
+  </component>
+    <component>
+    <id>choice_cldk2qk8200062a6gilvfy3an</id>
+    <description lang="en-US">F = durchsichtig</description>
+  </component>
+    <component>
+    <id>choice_cldk2qk8200042a6guiovegeb</id>
+    <description lang="en-US">G = raumabschlie&amp;szlig;ende und SSK 2 &amp;ge; 32 dB</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://JVRxO4v_77D2OUlHadpjArF4lmSrRe6p_rise/1Xr6xqqui-KUfx59Zo0QUUr554qfMKdO/cldk2t7bg005h2a6g887dqoet" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Nach welcher Feuerwiderstandsklassifizierung sind die feststehenden Seitenteile und Oberlichter von &amp;bdquo;Windfangelementen&amp;ldquo; in Treppenr&amp;auml;umen zu bemessen, wenn die Treppenraumw&amp;auml;nde feuerbest&amp;auml;ndig und die T&amp;uuml;ren zu notwendigen Fluren feuerhemmend, rauchdicht und selbstschlie&amp;szlig;end sein m&amp;uuml;ssen? </name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk2t7bh005i2a6gu3z9yyz0</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2t7bh005j2a6gpic50q7v</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2t7bh005k2a6ggifw0e8r</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk2t7bh005i2a6gu3z9yyz0</id>
+    <description lang="en-US">bis zu einer Breite von 2,50 m ist die gleiche Anforderung wie an die T&amp;uuml;r</description>
+  </component>
+    <component>
+    <id>choice_cldk2t7bh005k2a6ggifw0e8r</id>
+    <description lang="en-US">ab 2,50 m muss das/die Seitenteil(e) wie die Wand bemessen werden</description>
+  </component>
+    <component>
+    <id>choice_cldk2t7bh005j2a6gpic50q7v</id>
+    <description lang="en-US">die Oberlichter oberhalb der T&amp;uuml;r m&amp;uuml;ssen der T&amp;uuml;r zugeordnet werden</description>
+  </component>
+    <component>
+    <id>choice_cldk2ujqo007r2a6ghfflfjzl</id>
+    <description lang="en-US">wie die Wand bemessen</description>
+  </component>
+    <component>
+    <id>choice_cldk2upcr008i2a6gel6eq98a</id>
+    <description lang="en-US">wie die T&amp;uuml;r bemessen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://JVRxO4v_77D2OUlHadpjArF4lmSrRe6p_rise/1Xr6xqqui-KUfx59Zo0QUUr554qfMKdO/cldk2v5mv00982a6g40e5soez" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Einschr&amp;auml;nkungen sind beim Einbau von Steckdosen (Hohlwanddosen) in raumabschlie&amp;szlig;ende St&amp;auml;nderw&amp;auml;nde zu beachten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk2v5mv00992a6gmllhmj0y</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2v5mv009b2a6gju42opv4</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2v5mv009c2a6g9y9mqzsf</correctResponsePattern>
+    <correctResponsePattern>choice_cldk3qodx00as2a6go1qu22sc</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk2v5mv00992a6gmllhmj0y</id>
+    <description lang="en-US">Steck- und Schalterdosen d&amp;uuml;rfen nicht gegen&amp;uuml;berliegend eingebaut werden</description>
+  </component>
+    <component>
+    <id>choice_cldk2v5mv009b2a6gju42opv4</id>
+    <description lang="en-US">die brandschutztechnisch notwendigen D&amp;auml;mmschichten nach DIN 4102-4 (Schmelzpunkt &amp;gt; 1000&amp;deg;C) d&amp;uuml;rfen im Bereich der Hohlwanddose auf maximal 30 mm zusammengedr&amp;uuml;ckt werden</description>
+  </component>
+    <component>
+    <id>choice_cldk2v5mv009c2a6g9y9mqzsf</id>
+    <description lang="en-US">bei Verwendung von anderen bzw. ohne D&amp;auml;mmstoffen ohne sind die Hohlwanddosen mit Gipsbett oder Plattenstreifen allseitig zu umschlie&amp;szlig;en</description>
+  </component>
+    <component>
+    <id>choice_cldk2v5mv009a2a6g1f2tdehf</id>
+    <description lang="en-US">Hohlwanddosen sind nur mit aBG gestattet</description>
+  </component>
+    <component>
+    <id>choice_cldk3qodx00as2a6go1qu22sc</id>
+    <description lang="en-US">Abweichende L&amp;ouml;sungen sind mit aBG nachzuweisen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://JVRxO4v_77D2OUlHadpjArF4lmSrRe6p_rise/1Xr6xqqui-KUfx59Zo0QUUr554qfMKdO/cldk3r1p900b72a6gl55pvja1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Unter welchen Voraussetzungen ist der gegen&amp;uuml;berliegende Einbau von Hohlwanddosen neben T&amp;uuml;ren m&amp;ouml;glich?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk3r1p900b82a6gu9uo654g</correctResponsePattern>
+    <correctResponsePattern>choice_cldk3r1p900ba2a6gthgz6u66</correctResponsePattern>
+    <correctResponsePattern>choice_cldk3r1p900bb2a6g8nlqv4xj</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk3r1p900b82a6gu9uo654g</id>
+    <description lang="en-US">Der gegen&amp;uuml;berliegende Einbau ist aus Sicht der brandschutztechnischen Schutzziele bis ca. 25 cm neben der Zarge von T&amp;uuml;ren ohne Anforderungen an die Feuerwiderstandsdauer und RS-T&amp;uuml;ren m&amp;ouml;glich.</description>
+  </component>
+    <component>
+    <id>choice_cldk3r1p900ba2a6gthgz6u66</id>
+    <description lang="en-US">Der gegen&amp;uuml;berliegende Einbau ist nur dann m&amp;ouml;glich, wenn f&amp;uuml;r die Hohlwanddose f&amp;uuml;r die Einbausituation eine aBG vorliegt.</description>
+  </component>
+    <component>
+    <id>choice_cldk3r1p900bb2a6g8nlqv4xj</id>
+    <description lang="en-US">Der gegen&amp;uuml;berliegende Einbau ist m&amp;ouml;glich, wenn die Hohlwanddosen beidseitig in Beplankungsdicke eingehaust werden.</description>
+  </component>
+    <component>
+    <id>choice_cldk3r1p900b92a6g0k7901ww</id>
+    <description lang="en-US">Der gegen&amp;uuml;berliegende Einbau ist nicht m&amp;ouml;glich.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://JVRxO4v_77D2OUlHadpjArF4lmSrRe6p_rise/1Xr6xqqui-KUfx59Zo0QUUr554qfMKdO/cldk3uy5j00gc2a6gs5x443t7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist bei der F&amp;uuml;hrung von elektrischen Leitungen innerhalb von leichten Trenn-w&amp;auml;nden zu beachten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk3uy5j00gd2a6gt6blchgo</correctResponsePattern>
+    <correctResponsePattern>choice_cldk3uy5j00gf2a6g3gwgx4n2</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk3uy5j00gd2a6gt6blchgo</id>
+    <description lang="en-US">In C-Wandprofilen sind &amp;uuml;blicherweise werkseitige &amp;Ouml;ffnungen bzw. H-Stanzungen f&amp;uuml;r horizontale Leitungstrassen in H&amp;ouml;he der Installationszonen vorgesehen.</description>
+  </component>
+    <component>
+    <id>choice_cldk3uy5j00gf2a6g3gwgx4n2</id>
+    <description lang="en-US">Zus&amp;auml;tzlich zu den werkseitig gefertigten &amp;Ouml;ffnungen k&amp;ouml;nnen noch 2 Stegausschnitte (au&amp;szlig;er CW 50 &amp;ndash; nur 1) eingebracht werden. Abstand ist zu beachten.</description>
+  </component>
+    <component>
+    <id>choice_cldk3uy5j00gg2a6gi5x05noo</id>
+    <description lang="en-US">Einbau in jeder beliebigen H&amp;ouml;he und Anzahl m&amp;ouml;glich.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://JVRxO4v_77D2OUlHadpjArF4lmSrRe6p_rise/1Xr6xqqui-KUfx59Zo0QUUr554qfMKdO/cldk40y4z00ht2a6gi44m2c35" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Unter welchen Bedingungen k&amp;ouml;nnen Brandschutzklappen in raumabschlie&amp;szlig;ende Trennw&amp;auml;nde mit gleitenden Deckenanschluss der gleichen Feuerwiderstandsdauer eingebaut werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk40y4z00hu2a6glemgt59h</correctResponsePattern>
+    <correctResponsePattern>choice_cldk40y4z00hw2a6g7rq337hu</correctResponsePattern>
+    <correctResponsePattern>choice_cldk40y4z00hx2a6gz5rxnhph</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk40y4z00hu2a6glemgt59h</id>
+    <description lang="en-US">Der Einbau muss in dem Anwendbarkeitsnachweis der BSK (i.R. Leistungserkl&amp;auml;rung mit Dokumentation) geregelt sein.</description>
+  </component>
+    <component>
+    <id>choice_cldk40y4z00hw2a6g7rq337hu</id>
+    <description lang="en-US">Der Einbau erfolgt mit besonders entwickelten Einbaurahmen mit Anschlusskragen des Systemanbieters.</description>
+  </component>
+    <component>
+    <id>choice_cldk40y4z00hx2a6gz5rxnhph</id>
+    <description lang="en-US">An den Anschlusskragen k&amp;ouml;nnen die notwendigen Wandprofile angeschlossen werden.</description>
+  </component>
+    <component>
+    <id>choice_cldk40y4z00hv2a6go87mpdbg</id>
+    <description lang="en-US">Anschluss ausbilden wie bei Trennwand</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://JVRxO4v_77D2OUlHadpjArF4lmSrRe6p_rise/1Xr6xqqui-KUfx59Zo0QUUr554qfMKdO/cldk42vtg00jf2a6grdn4nhem" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist beim Einbau von Abschottungssystemen in Trockenbausysteme zu beachten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk42vtg00jg2a6gp383ddgj</correctResponsePattern>
+    <correctResponsePattern>choice_cldk42vtg00jh2a6gimdhxbvv</correctResponsePattern>
+    <correctResponsePattern>choice_cldk44ay000ke2a6gkw8wqs63</correctResponsePattern>
+    <correctResponsePattern>choice_cldk455g400lm2a6gzf5t6hzq</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk42vtg00jg2a6gp383ddgj</id>
+    <description lang="en-US">Der Einsatz hat generell nach den abZ/abP der Systemanbieter zu erfolgen.</description>
+  </component>
+    <component>
+    <id>choice_cldk42vtg00jh2a6gimdhxbvv</id>
+    <description lang="en-US">Ist Einbau in leichte Trennw&amp;auml;nde mit abP/aBG bzw. nur nach DIN 4102-4, Tab. 10.2 zul&amp;auml;ssig.</description>
+  </component>
+    <component>
+    <id>choice_cldk44ay000ke2a6gkw8wqs63</id>
+    <description lang="en-US">Ist der Einbau von Auswechslungen oder Verst&amp;auml;rkungen notwendig.</description>
+  </component>
+    <component>
+    <id>choice_cldk44ksa00kv2a6gh7tjtjcq</id>
+    <description lang="en-US">Muss im Anwendbarkeitsnachweis des Trockenbausystem geregelt sein.</description>
+  </component>
+    <component>
+    <id>choice_cldk455g400lm2a6gzf5t6hzq</id>
+    <description lang="en-US">Befestigung der Leitungsanlagen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://JVRxO4v_77D2OUlHadpjArF4lmSrRe6p_rise/1Xr6xqqui-KUfx59Zo0QUUr554qfMKdO/cldk45j9u00lz2a6gz72395hm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Kann man Abschottungen in Schachtw&amp;auml;nde in Trockenbauweise einsetzen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk45j9u00m02a6gjjfrhr8m</correctResponsePattern>
+    <correctResponsePattern>choice_cldk45j9u00m22a6gtiycpyrq</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk45j9u00m02a6gjjfrhr8m</id>
+    <description lang="en-US">Der Einbau muss im Anwendbarkeitsnachweis des Abschottungssystems nachgewiesen sein.</description>
+  </component>
+    <component>
+    <id>choice_cldk45j9u00m22a6gtiycpyrq</id>
+    <description lang="en-US">Die Einbauten m&amp;uuml;ssen im System gepr&amp;uuml;ft sein und die gleiche Feuerwiderstandsdauer wie die Schachtw&amp;auml;nde aufweisen.</description>
+  </component>
+    <component>
+    <id>choice_cldk45j9u00m32a6gbaag5qb5</id>
+    <description lang="en-US">Jede Abschottung mit Anwendbarkeitsnachweis kann eingebaut werden</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://JVRxO4v_77D2OUlHadpjArF4lmSrRe6p_rise/1Xr6xqqui-KUfx59Zo0QUUr554qfMKdO/cldk46zbh00nj2a6ge9bqqzbj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Kann man Abschottungen in Schachtw&amp;auml;nde in Trockenbauweise einsetzen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk45j9u00m02a6gjjfrhr8m</correctResponsePattern>
+    <correctResponsePattern>choice_cldk45j9u00m22a6gtiycpyrq</correctResponsePattern>
+    <correctResponsePattern>choice_cldk483wy00p52a6gk08dh56m</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk45j9u00m02a6gjjfrhr8m</id>
+    <description lang="en-US">Alternativ kann die Schachtwand im dem Einbaugefach auf eine beidseitige Beplankung nachger&amp;uuml;stet werden, wenn der Einbau in eine leichte Trennwand nach DIN 4102-4 oder abP im Anwendbarkeitsnachweis des Abschottungssystems geregelt ist. Die Nachr&amp;uuml;stung der Schachtwand muss im abP der Schachtwand geregelt sein.</description>
+  </component>
+    <component>
+    <id>choice_cldk45j9u00m22a6gtiycpyrq</id>
+    <description lang="en-US">Eine stabile Leitungsbefestigung muss beidseitig der Schachtwand montiert werden</description>
+  </component>
+    <component>
+    <id>choice_cldk45j9u00m32a6gbaag5qb5</id>
+    <description lang="en-US">Eine notwendige Applikationsbeschichtung kann abweichend nur raumseitig aufgebracht werden</description>
+  </component>
+    <component>
+    <id>choice_cldk483wy00p52a6gk08dh56m</id>
+    <description lang="en-US">Bei nur raumseitigen Einbau sind Vorkehrungen zu treffen, dass zulassungsgerecht (z.B. notwendige beidseitige Kabelbeschichtung) eingebaut werde kann</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://JVRxO4v_77D2OUlHadpjArF4lmSrRe6p_rise/1Xr6xqqui-KUfx59Zo0QUUr554qfMKdO/cldk48pqg00ph2a6gguwqw1ei" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was versteht man unter Feuerschutzabschl&amp;uuml;sse? Welche Bauarten gibt es?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk48pqg00pi2a6gwt5x4g12</correctResponsePattern>
+    <correctResponsePattern>choice_cldk48pqg00pj2a6g00g1kwl4</correctResponsePattern>
+    <correctResponsePattern>choice_cldk48pqg00pl2a6ghix53n2u</correctResponsePattern>
+    <correctResponsePattern>choice_cldk48pqg00pk2a6gslbleco1</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk48pqg00pi2a6gwt5x4g12</id>
+    <description lang="en-US">&amp;bdquo;FSA sind selbstschlie&amp;szlig;ende T&amp;uuml;ren und selbstschlie&amp;szlig;ende andere Abschl&amp;uuml;sse (z.B. Klappen, Rollladen, Tore), die dazu bestimmt sind, im eingebauten Zustand den Durchtritt eines Feuers durch &amp;Ouml;ffnungen in der Wand oder Decke zu verhindern&amp;ldquo; (DIN 4102-5, Abschnitt 5.1)</description>
+  </component>
+    <component>
+    <id>choice_cldk48pqg00pk2a6gslbleco1</id>
+    <description lang="en-US">Klappen unter 0,75 m Breite oder 1,75 m H&amp;ouml;he (nicht dauerhaft begehbar)</description>
+  </component>
+    <component>
+    <id>choice_cldk48pqg00pl2a6ghix53n2u</id>
+    <description lang="en-US">T&amp;uuml;ren &amp;uuml;ber 0,75 m bis 2,50 Breite und 1,75 bis 2,50 H&amp;ouml;he (dauerhaft begehbar)</description>
+  </component>
+    <component>
+    <id>choice_cldk48pqg00pj2a6g00g1kwl4</id>
+    <description lang="en-US">Tore &amp;uuml;ber 2,50 Breite oder2,50 H&amp;ouml;he (oder Fl&amp;auml;che mehr als 6,25 m2)</description>
+  </component>
+    <component>
+    <id>choice_cldk4bat700r62a6gntscp5le</id>
+    <description lang="en-US">Verschl&amp;uuml;sse von Revisions&amp;ouml;ffnungen sind Feuerschutzabschl&amp;uuml;sse</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

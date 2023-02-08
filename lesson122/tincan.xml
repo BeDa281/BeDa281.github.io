@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://mRku2LmeY0n09hlds4i76VdGxJZvIJuv_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Brandschutz Trockenbau - Quiz 3</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://mRku2LmeY0n09hlds4i76VdGxJZvIJuv_rise/JX6CIlopJSCgGmSZJRYdCrFJaQjdnav8" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://mRku2LmeY0n09hlds4i76VdGxJZvIJuv_rise/JX6CIlopJSCgGmSZJRYdCrFJaQjdnav8/cldk18fsy00022a6gkygkt157" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In einem Bauvorhaben wird eine nichtragende Systembrandwand in Trockenbauweise gefordert. Welchen Anwendbarkeitsnachweis w&amp;auml;hlen Sie auf?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk18fsz00032a6grprbri4v</correctResponsePattern>
+    <correctResponsePattern>choice_cldk18fsz00042a6gy4qvmi6y</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk18fsz00032a6grprbri4v</id>
+    <description lang="en-US">abP nach DIN 4102-3 ist f&amp;uuml;r tragende Brandw&amp;auml;nde F90</description>
+  </component>
+    <component>
+    <id>choice_cldk18fsz00042a6gy4qvmi6y</id>
+    <description lang="en-US">ETB nach DIN EN 13501-2 ist f&amp;uuml;r nicht tragende Brandw&amp;auml;nde EI 90-M</description>
+  </component>
+    <component>
+    <id>choice_cldk19eh4000j2a6gb3xkgxz8</id>
+    <description lang="en-US">aBG nach DIN 4102-3 ist f&amp;uuml;r tragende Brandw&amp;auml;nde F90</description>
+  </component>
+    <component>
+    <id>choice_cldk19jz0000u2a6g5g8mel9z</id>
+    <description lang="en-US">Anwendbarkeitsnachweis F 90-M</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://mRku2LmeY0n09hlds4i76VdGxJZvIJuv_rise/JX6CIlopJSCgGmSZJRYdCrFJaQjdnav8/cldk19v4u00152a6grzq8wzqv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Ver- / Anwendbarkeitsnachweise m&amp;uuml;ssen Sie bei der Erstellung einer &amp;bdquo;nichtgeregelten&amp;ldquo; Bauart (z.B. &amp;nbsp;Metall &amp;ndash; Einfachst&amp;auml;nderwand) auf der Baustelle bereithalten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk19v4u00162a6gg2ftrx2k</correctResponsePattern>
+    <correctResponsePattern>choice_cldk19v4u00182a6gexypa15m</correctResponsePattern>
+    <correctResponsePattern>choice_cldk19v4u00192a6g2qzvqcnq</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk19v4u00162a6gg2ftrx2k</id>
+    <description lang="en-US">den Verwendbarkeitsnachweise der verwendeten Bauprodukte in Form der Leistungserkl&amp;auml;rung</description>
+  </component>
+    <component>
+    <id>choice_cldk19v4u00182a6gexypa15m</id>
+    <description lang="en-US">den Anwendbarkeitsnachweise der Bauart in Form des allgemeinen bauaufsichtlichen Pr&amp;uuml;fzeugnisses bzw. allgemeine Bauartgenehmigung oder vorhabenbezogene Bauartgenehmigung</description>
+  </component>
+    <component>
+    <id>choice_cldk19v4u00192a6g2qzvqcnq</id>
+    <description lang="en-US">bei der Anwendung nach aBG den Schulungsnachweis (Unterweisung in die Bauart)</description>
+  </component>
+    <component>
+    <id>choice_cldk19v4u00172a6ggzvs7z4t</id>
+    <description lang="en-US">den Anwendbarkeitsnachweise der Bauart in Form der allgemeinen bauaufsichtlichen Zulassung</description>
+  </component>
+    <component>
+    <id>choice_cldk1b2qo002v2a6gbeswu1qk</id>
+    <description lang="en-US">den Anwendbarkeitsnachweise der Bauart in Form einer Zustimmung im Einzelfall</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://mRku2LmeY0n09hlds4i76VdGxJZvIJuv_rise/JX6CIlopJSCgGmSZJRYdCrFJaQjdnav8/cldk1bkbq003n2a6gkqs56zod" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was sind die Versagenskriterien f&amp;uuml;r nichttragende Trennw&amp;auml;nde unter Brandbeanspruchungen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1bkbr003o2a6g6mjcv8aq</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1bkbr003q2a6gb3s27r32</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1bkbr003r2a6gr9p38k44</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1bkbr003o2a6g6mjcv8aq</id>
+    <description lang="en-US">Verlust der Tragf&amp;auml;higkeit durch Zusammenbrechen</description>
+  </component>
+    <component>
+    <id>choice_cldk1bkbr003q2a6gb3s27r32</id>
+    <description lang="en-US">&amp;Uuml;berschreitung der Oberfl&amp;auml;chentemperatur der feuerabgewandten Seite</description>
+  </component>
+    <component>
+    <id>choice_cldk1bkbr003r2a6gr9p38k44</id>
+    <description lang="en-US">W&amp;auml;hrend der Branddauer sind Temperaturerh&amp;ouml;hungen im Mittel um nicht mehr als 140 K und max. nicht mehr als 180 K gegen&amp;uuml;ber der Ausgangstemperatur unzul&amp;auml;ssig.</description>
+  </component>
+    <component>
+    <id>choice_cldk1bkbr003p2a6g85o3btl3</id>
+    <description lang="en-US">Brandspuren an den Trennw&amp;auml;nden</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://mRku2LmeY0n09hlds4i76VdGxJZvIJuv_rise/JX6CIlopJSCgGmSZJRYdCrFJaQjdnav8/cldk1cz8f006x2a6gjz44hflg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was sind die Versagenskriterien f&amp;uuml;r nichttragende Trennw&amp;auml;nde unter Brandbeanspruchungen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1bkbr003o2a6g6mjcv8aq</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1bkbr003q2a6gb3s27r32</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1bkbr003r2a6gr9p38k44</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1bkbr003o2a6g6mjcv8aq</id>
+    <description lang="en-US">Verlust des Raumabschlusses</description>
+  </component>
+    <component>
+    <id>choice_cldk1bkbr003q2a6gb3s27r32</id>
+    <description lang="en-US">Verschraubung der Beplankung</description>
+  </component>
+    <component>
+    <id>choice_cldk1bkbr003r2a6gr9p38k44</id>
+    <description lang="en-US">Verformung der Wand</description>
+  </component>
+    <component>
+    <id>choice_cldk1bkbr003p2a6g85o3btl3</id>
+    <description lang="en-US">Zerst&amp;ouml;rung der Lichtk&amp;ouml;rper</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://mRku2LmeY0n09hlds4i76VdGxJZvIJuv_rise/JX6CIlopJSCgGmSZJRYdCrFJaQjdnav8/cldk1dxie008v2a6g9zoetq2e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was sind Kriterien, von denen prim&amp;auml;r die Feuerwiderstandsdauer eines Trockenbau Systems (z.B. nichttragende Einfachst&amp;auml;nderwand) abh&amp;auml;ngig ist.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1dxie008w2a6gl3wpanw3</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1dxie008x2a6g8mml4fb2</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1dxie008z2a6gis04x1j7</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1dxie008y2a6g0y9f28bk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1dxie008w2a6gl3wpanw3</id>
+    <description lang="en-US">Dicke und Art der Beplankung</description>
+  </component>
+    <component>
+    <id>choice_cldk1dxie008y2a6g0y9f28bk</id>
+    <description lang="en-US">Dicke und Art des D&amp;auml;mmstoffes</description>
+  </component>
+    <component>
+    <id>choice_cldk1dxie008z2a6gis04x1j7</id>
+    <description lang="en-US">Geometrische Abmessungen des Bauteiles</description>
+  </component>
+    <component>
+    <id>choice_cldk1dxie008x2a6g8mml4fb2</id>
+    <description lang="en-US">Anschluss an das tragende Bauteil</description>
+  </component>
+    <component>
+    <id>choice_cldk1f2ix00aj2a6grzccxw03</id>
+    <description lang="en-US">Verwendung brennbarer Anschlussdichtung</description>
+  </component>
+    <component>
+    <id>choice_cldk1f5w500ar2a6gjmox0cx0</id>
+    <description lang="en-US">Verschluss von Bauteil&amp;ouml;ffnungen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://mRku2LmeY0n09hlds4i76VdGxJZvIJuv_rise/JX6CIlopJSCgGmSZJRYdCrFJaQjdnav8/cldk1febt00ay2a6g893m9hv3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was m&amp;uuml;ssen Sie Bei der Anwendung von brennbaren Anschlussdichtungen beachten?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1febu00az2a6gnxtx8syi</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1febu00b12a6gs7mdexkh</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1febu00b22a6grth3wk15</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1febu00az2a6gnxtx8syi</id>
+    <description lang="en-US">die Dicke der Dichtungsstreifen &amp;le; 5 mm</description>
+  </component>
+    <component>
+    <id>choice_cldk1febu00b12a6gs7mdexkh</id>
+    <description lang="en-US">die Dichtungsstreifen durch Verspachtelung der Beplankung in ganzer Beplankungsdicke abgeschlossen oder von der Bekleidung ganz abgedeckt werden</description>
+  </component>
+    <component>
+    <id>choice_cldk1febu00b22a6grth3wk15</id>
+    <description lang="en-US">Ver&amp;auml;nderung der Klassifizierung in F .... &amp;ndash; AB</description>
+  </component>
+    <component>
+    <id>choice_cldk1febu00b02a6gzc0zgy6i</id>
+    <description lang="en-US">Anwendung nicht gestattet</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://mRku2LmeY0n09hlds4i76VdGxJZvIJuv_rise/JX6CIlopJSCgGmSZJRYdCrFJaQjdnav8/cldk1gvc500cj2a6gtt4jf1kj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Eine Vorsatzschale, ausgeschrieben mit Tragwerk, D&amp;auml;mmstoff und 2 x 12,5 mm Beplankung GKF, wird vom ausf&amp;uuml;hrenden Betrieb mit 1 x 25 mm Massivbauplatte ausgef&amp;uuml;hrt (anstelle 2 x 12,5 mm).&lt;br&gt;Ist diese &amp;Auml;nderung zul&amp;auml;ssig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1gvc500ck2a6gyw6hmjfl</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1gvc500ck2a6gyw6hmjfl</id>
+    <description lang="en-US">nein</description>
+  </component>
+    <component>
+    <id>choice_cldk1gvc500cm2a6g3rs1omxu</id>
+    <description lang="en-US">ja</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://mRku2LmeY0n09hlds4i76VdGxJZvIJuv_rise/JX6CIlopJSCgGmSZJRYdCrFJaQjdnav8/cldk1hl1o00e52a6grwajmun1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Eine Vorsatzschale, ausgeschrieben mit Tragwerk, D&amp;auml;mmstoff und 2 x 12,5 mm Beplankung GKF, wird vom ausf&amp;uuml;hrenden Betrieb mit 1 x 25 mm Massivbauplatte ausgef&amp;uuml;hrt (anstelle 2 x 12,5 mm).&lt;br&gt;Gibt es Auswirkungen auf Schallschutz, Brandschutz und W&amp;auml;rmeschutz?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1gvc500ck2a6gyw6hmjfl</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1gvc500ck2a6gyw6hmjfl</id>
+    <description lang="en-US">Schallschutz/Brandschutz: negativ</description>
+  </component>
+    <component>
+    <id>choice_cldk1gvc500cm2a6g3rs1omxu</id>
+    <description lang="en-US">Es gibt keine Auswirkungen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://mRku2LmeY0n09hlds4i76VdGxJZvIJuv_rise/JX6CIlopJSCgGmSZJRYdCrFJaQjdnav8/cldk1icy900e62a6gmpsjeix3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Anforderungen werden an Unterdecken nach MLAR gestellt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk1icy900e72a6gbpgk1w2n</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1icy900e92a6gcho3h2c4</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1jyj700hq2a6gnvfq5ce9</correctResponsePattern>
+    <correctResponsePattern>choice_cldk1k6pt00i42a6g20arlhk4</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk1icy900e72a6gbpgk1w2n</id>
+    <description lang="en-US">Unterdecken m&amp;uuml;ssen &amp;ndash; einschlie&amp;szlig;lich der Abschl&amp;uuml;sse von &amp;Ouml;ffnungen &amp;ndash; aus nichtbrennbaren Baustoffen bestehen und bei einer Brandbeanspruchung sowohl von oben als auch von unten in notwendigen Fluren mindestens feuerhemmend sein.</description>
+  </component>
+    <component>
+    <id>choice_cldk1icy900e92a6gcho3h2c4</id>
+    <description lang="en-US">in notwendigen Treppenr&amp;auml;umen und in R&amp;auml;umen zwischen notwendigen Treppenr&amp;auml;umen und Ausg&amp;auml;ngen ins Freie mindestens der notwendigen Feuerwiderstandsf&amp;auml;higkeit der Decken entsprechen.</description>
+  </component>
+    <component>
+    <id>choice_cldk1icy900ea2a6gkidtt4o1</id>
+    <description lang="en-US">K&amp;ouml;nnen nur in Verbindung mit Rohdecken installiert werden.</description>
+  </component>
+    <component>
+    <id>choice_cldk1jyj700hq2a6gnvfq5ce9</id>
+    <description lang="en-US">Die Anschl&amp;uuml;sse m&amp;uuml;ssen umlaufend dicht schlie&amp;szlig;en.</description>
+  </component>
+    <component>
+    <id>choice_cldk1k6pt00i42a6g20arlhk4</id>
+    <description lang="en-US">Die besonderen Anforderungen hinsichtlich der brandsicheren Befestigung der im Bereich zwischen den Geschossdecken und Unterdecken verlegten Leitungen sind zu beachten.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

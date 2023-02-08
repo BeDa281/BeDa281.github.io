@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://s3MbiXH4oZ0fAvvdq3nbwghROK-jqK2m_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Brandschutz Trockenbau - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://s3MbiXH4oZ0fAvvdq3nbwghROK-jqK2m_rise/UME5av7jhIU-eJoiCVT7PR9jMploPf3d" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://s3MbiXH4oZ0fAvvdq3nbwghROK-jqK2m_rise/UME5av7jhIU-eJoiCVT7PR9jMploPf3d/cldjzt22v00022a6gdk3rv2f0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Trockenbau Systeme k&amp;ouml;nnen f&amp;uuml;r Ma&amp;szlig;nahmen des vorbeugenden Brandschutzes eingesetzt werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjzt22v00032a6gg91aez7e</correctResponsePattern>
+    <correctResponsePattern>choice_cldjzt22v00042a6g0g45jq57</correctResponsePattern>
+    <correctResponsePattern>choice_cldjzt22v00052a6gr7z5ft5m</correctResponsePattern>
+    <correctResponsePattern>choice_cldjzt22v00062a6g25gt1444</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjzt22v00032a6gg91aez7e</id>
+    <description lang="en-US">das Errichten von Brandw&amp;auml;nden</description>
+  </component>
+    <component>
+    <id>choice_cldjzt22v00052a6gr7z5ft5m</id>
+    <description lang="en-US">das Errichten von feuerbest&amp;auml;ndigen, hochfeuerhemmenden oder feuerhemmenden Trenn- und Schachtw&amp;auml;nden</description>
+  </component>
+    <component>
+    <id>choice_cldjzt22v00062a6g25gt1444</id>
+    <description lang="en-US">das Herstellen von Deckenbekleidungen und Unterdecken</description>
+  </component>
+    <component>
+    <id>choice_cldjzt22v00042a6g0g45jq57</id>
+    <description lang="en-US">das Herstellen von Fertigteilestrichen, Trockenunterb&amp;ouml;den und Systemb&amp;ouml;den</description>
+  </component>
+    <component>
+    <id>choice_cldjzvr8q001k2a6gqqpmn4xl</id>
+    <description lang="en-US">Die Verdoppelung der Dicke bei Rehgipsw&amp;auml;nden</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://s3MbiXH4oZ0fAvvdq3nbwghROK-jqK2m_rise/UME5av7jhIU-eJoiCVT7PR9jMploPf3d/cldjzx6tq004v2a6gery7j48e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Trockenbau Systeme k&amp;ouml;nnen f&amp;uuml;r Ma&amp;szlig;nahmen des vorbeugenden Brandschutzes eingesetzt werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldjzx6tq004w2a6gz6zb01gw</correctResponsePattern>
+    <correctResponsePattern>choice_cldjzx6tq004x2a6gsew4gaxx</correctResponsePattern>
+    <correctResponsePattern>choice_cldjzx6tq004y2a6gxhmsjb1e</correctResponsePattern>
+    <correctResponsePattern>choice_cldjzx6tq004z2a6gfqsw4823</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldjzx6tq004w2a6gz6zb01gw</id>
+    <description lang="en-US">das Bekleiden von Tr&amp;auml;gern, St&amp;uuml;tzen und Verb&amp;auml;nden</description>
+  </component>
+    <component>
+    <id>choice_cldjzx6tq004y2a6gxhmsjb1e</id>
+    <description lang="en-US">das Herstellen von Installationskan&amp;auml;len und Kan&amp;auml;len mit Funktionserhalt</description>
+  </component>
+    <component>
+    <id>choice_cldjzx6tq004z2a6gfqsw4823</id>
+    <description lang="en-US">das Herstellen von Bekleidungen von vorhandenen L&amp;uuml;ftungs- und Klimakan&amp;auml;len</description>
+  </component>
+    <component>
+    <id>choice_cldjzx6tq004x2a6gsew4gaxx</id>
+    <description lang="en-US">das Errichten von Raum-in-Raum-Systeme (Fluchttunnel, Rettungswegbegrenzungen)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://s3MbiXH4oZ0fAvvdq3nbwghROK-jqK2m_rise/UME5av7jhIU-eJoiCVT7PR9jMploPf3d/cldk008lj007c2a6gnw05s566" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Worin unterscheidet sich die brandschutztechnische Bemessung tragender und aussteifender Stahlbauteile nach DIN bzw. Eurocode?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk008lj007d2a6gu15hgjuq</correctResponsePattern>
+    <correctResponsePattern>choice_cldk008lj007f2a6glf46dedu</correctResponsePattern>
+    <correctResponsePattern>choice_cldk008lj007g2a6gvp8ba8om</correctResponsePattern>
+    <correctResponsePattern>choice_cldk01euu008t2a6g0c58s1ds</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk008lj007d2a6gu15hgjuq</id>
+    <description lang="en-US">Bei der Berechnung der Tragf&amp;auml;higkeit von Bauteilen im Brandfall nach DIN spricht man von einer Hei&amp;szlig;bemessung.</description>
+  </component>
+    <component>
+    <id>choice_cldk008lj007f2a6glf46dedu</id>
+    <description lang="en-US">Tabellarischer Nachweis (U/A Verh&amp;auml;ltnis) der in der DIN 4102-4/22</description>
+  </component>
+    <component>
+    <id>choice_cldk008lj007g2a6gvp8ba8om</id>
+    <description lang="en-US">aus Brandversuchen, die auf Basis der Einheitstemperaturzeitkurve (ETK) stattfanden</description>
+  </component>
+    <component>
+    <id>choice_cldk008lj007e2a6gkfu72cim</id>
+    <description lang="en-US">mit DIN kann man unterschiedliche Versagenstemperaturen pr&amp;uuml;fen</description>
+  </component>
+    <component>
+    <id>choice_cldk01euu008t2a6g0c58s1ds</id>
+    <description lang="en-US">Brandschutznachweis (Profilfaktor) nach Eurocodes kann in drei gestaffelte Berechnungsverfahren f&amp;uuml;r den Lastfall Brand (Hei&amp;szlig;bemessung) gef&amp;uuml;hrt werden.&lt;br&gt;&lt;br&gt;&lt;ol style=&#34;margin-bottom:0cm;&#34;&gt;&lt;li style=&#39;margin:0cm;font-size:15px;font-family:&#34;Arial&#34;,sans-serif;&#39;&gt;Einzelbauteile anhand von Temperaturzeitkurven nach DIN EN 1365 gepr&amp;uuml;ft&lt;/li&gt;&lt;li style=&#39;margin:0cm;font-size:15px;font-family:&#34;Arial&#34;,sans-serif;&#39;&gt;Einzelbauteile in vereinfachten Bemessungsverfahren berechnet&lt;/li&gt;&lt;li style=&#39;margin:0cm;font-size:15px;font-family:&#34;Arial&#34;,sans-serif;&#39;&gt;Gesamttragwerke auf der Basis der m&amp;ouml;glichen realen Brandlast berechnet&lt;/li&gt;&lt;/ol&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://s3MbiXH4oZ0fAvvdq3nbwghROK-jqK2m_rise/UME5av7jhIU-eJoiCVT7PR9jMploPf3d/cldk02lnw00aw2a6ghwbub2f3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was versteht man unter dem &amp;bdquo;Kapselkriterium K260&amp;ldquo; bei hochfeuerhemmenden Bauart nach &amp;bdquo;Muster-Holzbau-Richtlinie&amp;ldquo;?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk02lnw00ax2a6gfphz4eh5</correctResponsePattern>
+    <correctResponsePattern>choice_cldk02lnw00ay2a6gsvtnf69d</correctResponsePattern>
+    <correctResponsePattern>choice_cldk02lnw00az2a6ganp9abxi</correctResponsePattern>
+    <correctResponsePattern>choice_cldk02lnw00b02a6gguuze9gj</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk02lnw00ax2a6gfphz4eh5</id>
+    <description lang="en-US">Es handelt sich um eine Brandschutz-Klassifizierung f&amp;uuml;r hochfeuerhemmende Bekleidungen, die in der DIN EN 13501 genauer definiert wird</description>
+  </component>
+    <component>
+    <id>choice_cldk02lnw00az2a6ganp9abxi</id>
+    <description lang="en-US">Bauteile, deren tragende und aussteifende Teile aus brennbaren Baustoffen bestehen und die allseitig eine brandschutztechnisch wirksame Bekleidung aus nichtbrennbaren Baustoffen (K =Kapselung) und D&amp;auml;mmstoffe aus nichtbrennbaren Baustoffen haben.</description>
+  </component>
+    <component>
+    <id>choice_cldk02lnw00b02a6gguuze9gj</id>
+    <description lang="en-US">Temperatur hinter der Brandschutzbekleidung muss im Durchschnitt stets unter 250 &amp;deg;C sowie an jeder beliebigen Stelle unter 270 &amp;deg;C bleiben.</description>
+  </component>
+    <component>
+    <id>choice_cldk02lnw00ay2a6gsvtnf69d</id>
+    <description lang="en-US">Feuerwiderstandsdauer min. 60 Minuten</description>
+  </component>
+    <component>
+    <id>choice_cldk03mo000cc2a6gbvpjxvaa</id>
+    <description lang="en-US">tragende und aussteifende Teile aus brennbaren Baustoffen F 60-B m&amp;ouml;glich</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://s3MbiXH4oZ0fAvvdq3nbwghROK-jqK2m_rise/UME5av7jhIU-eJoiCVT7PR9jMploPf3d/cldk03wjd00cr2a6g79r3yjey" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Typen von Brandbeanspruchung gibt es f&amp;uuml;r Unterdecken/Deckenbekleidung je nach Schutzziel? &amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk03wjd00cs2a6g6q26ch4g</correctResponsePattern>
+    <correctResponsePattern>choice_cldk03wjd00cu2a6gmwqean8c</correctResponsePattern>
+    <correctResponsePattern>choice_cldk03wjd00cv2a6gqvjttz55</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk03wjd00cs2a6g6q26ch4g</id>
+    <description lang="en-US">von unten</description>
+  </component>
+    <component>
+    <id>choice_cldk03wjd00cu2a6gmwqean8c</id>
+    <description lang="en-US">von oben aus dem Zwischendeckenbereich</description>
+  </component>
+    <component>
+    <id>choice_cldk03wjd00cv2a6gqvjttz55</id>
+    <description lang="en-US">von oben und/oder von unten aus dem Zwischendeckenbereich</description>
+  </component>
+    <component>
+    <id>choice_cldk03wjd00ct2a6g79jkz979</id>
+    <description lang="en-US">von vorne</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://s3MbiXH4oZ0fAvvdq3nbwghROK-jqK2m_rise/UME5av7jhIU-eJoiCVT7PR9jMploPf3d/cldk04ws900ez2a6guur6xaz6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Durch welche Ma&amp;szlig;nahmen kann die Feuerwiderstandklasse einer Bestandsdecke von oben erh&amp;ouml;ht werden?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk04ws900f02a6gfx97pmga</correctResponsePattern>
+    <correctResponsePattern>choice_cldk04ws900f32a6gw5f1vrdv</correctResponsePattern>
+    <correctResponsePattern>choice_cldk04ws900f22a6g5jf4h5kt</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk04ws900f02a6gfx97pmga</id>
+    <description lang="en-US">durch den Einbau eines schwimmenden Estrichs</description>
+  </component>
+    <component>
+    <id>choice_cldk04ws900f22a6g5jf4h5kt</id>
+    <description lang="en-US">Estriche nach DIN 4102-4 oder DIN EN 13162</description>
+  </component>
+    <component>
+    <id>choice_cldk04ws900f32a6gw5f1vrdv</id>
+    <description lang="en-US">Trockenestriche (Fertigteilestriche oder Trockenunterboden)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://s3MbiXH4oZ0fAvvdq3nbwghROK-jqK2m_rise/UME5av7jhIU-eJoiCVT7PR9jMploPf3d/cldk064rt00h12a6gtfosla5a" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Schutzziele erf&amp;uuml;llen D&amp;auml;cher aus Sicht des Brandschutzes?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk064rt00h22a6gornm24zf</correctResponsePattern>
+    <correctResponsePattern>choice_cldk064rt00h42a6gjgo16twd</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk064rt00h22a6gornm24zf</id>
+    <description lang="en-US">von innen nach au&amp;szlig;en, d.h. auf ein Nachbargeb&amp;auml;ude</description>
+  </component>
+    <component>
+    <id>choice_cldk064rt00h42a6gjgo16twd</id>
+    <description lang="en-US">von au&amp;szlig;en nach innen, d.h. von einen Nachbargeb&amp;auml;ude</description>
+  </component>
+    <component>
+    <id>choice_cldk064rt00h52a6gp73gkk4w</id>
+    <description lang="en-US">von unten nach oben, dh. innerhalb eines Geb&amp;auml;udes</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://s3MbiXH4oZ0fAvvdq3nbwghROK-jqK2m_rise/UME5av7jhIU-eJoiCVT7PR9jMploPf3d/cldk07m8800l32a6g0yh5r2ws" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Unter welchen Bedingungen werden feuerwiderstandsf&amp;auml;hige Trennw&amp;auml;nde im Dachgeschoss gefordert?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk07m8800l42a6gf3r3gbzn</correctResponsePattern>
+    <correctResponsePattern>choice_cldk07m8800l52a6gfjjyonmf</correctResponsePattern>
+    <correctResponsePattern>choice_cldk08ar000l62a6gtgacixww</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk07m8800l42a6gf3r3gbzn</id>
+    <description lang="en-US">zwischen Wohnungen</description>
+  </component>
+    <component>
+    <id>choice_cldk07m8800l52a6gfjjyonmf</id>
+    <description lang="en-US">zwischen nichtausgebauten, fremden Dachraum, in dem Aufenthaltsr&amp;auml;ume m&amp;ouml;glich sind</description>
+  </component>
+    <component>
+    <id>choice_cldk08ar000l62a6gtgacixww</id>
+    <description lang="en-US">sind bei Geb&amp;auml;uden mit mehr als zwei R&amp;auml;umen bis zur Rohdecke oder&lt;br&gt;bis unter die Dachhaut zu f&amp;uuml;hren</description>
+  </component>
+    <component>
+    <id>choice_cldk08lh900lg2a6gmu6o8yjx</id>
+    <description lang="en-US">Nutzung als Speicher, W&amp;auml;schetrocknung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://s3MbiXH4oZ0fAvvdq3nbwghROK-jqK2m_rise/UME5av7jhIU-eJoiCVT7PR9jMploPf3d/cldk095ot00ls2a6gmuc5vvvp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In einem Geb&amp;auml;ude Geb&amp;auml;udeklasse 3 wird ein Dachgeschoss mit 2 Wohnungen ausgebaut.&lt;br&gt;Sind Brandschutzforderungen f&amp;uuml;r Abseitenwand/Dachschr&amp;auml;ge/Kehlbalkendecke zu beachten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk095ot00lt2a6g6rrho41v</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk095ot00lt2a6g6rrho41v</id>
+    <description lang="en-US">nein, aber von Bauaufsichtsbeh&amp;ouml;rde k&amp;ouml;nnen besondere Forderungen gestellt werden&amp;nbsp;.</description>
+  </component>
+    <component>
+    <id>choice_cldk095ot00lu2a6gli7s7cvk</id>
+    <description lang="en-US">ja, Brandschutzforderungen m&amp;uuml;ssen entsprechend den Anforderungen umgesetzt werden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://s3MbiXH4oZ0fAvvdq3nbwghROK-jqK2m_rise/UME5av7jhIU-eJoiCVT7PR9jMploPf3d/cldk0adtx00lv2a6glgiotnnp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In einem Geb&amp;auml;ude Geb&amp;auml;udeklasse 3 wird ein Dachgeschoss mit 2 Wohnungen ausgebaut.&lt;br&gt;Welche Brandschutzforderungen werden an die Wohnungstrennwand gestellt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk095ot00lt2a6g6rrho41v</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk095ot00lt2a6g6rrho41v</id>
+    <description lang="en-US">F 30 B (feuerhemmend)</description>
+  </component>
+    <component>
+    <id>choice_cldk095ot00lu2a6gli7s7cvk</id>
+    <description lang="en-US">keine Anforderungen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://s3MbiXH4oZ0fAvvdq3nbwghROK-jqK2m_rise/UME5av7jhIU-eJoiCVT7PR9jMploPf3d/cldk0bjis00lw2a6grc3c9i20" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In einem Geb&amp;auml;ude Geb&amp;auml;udeklasse 3 wird ein Dachgeschoss mit 2 Wohnungen ausgebaut.&lt;br&gt;Wie ist die Wohnungstrennwand unter brandschutz- und schallschutztechnischen Aspekten an den Umfassungsbauteilen anzuschlie&amp;szlig;en?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk095ot00lt2a6g6rrho41v</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk095ot00lt2a6g6rrho41v</id>
+    <description lang="en-US">Einbau eines feuerhemmend bekleideten Anschlussbauteil (bspw. Stahltr&amp;auml;ger und -st&amp;uuml;tze), alternativ feuerhemmende Bekleidung der gesamten Dachschr&amp;auml;gen und Kehlbalken</description>
+  </component>
+    <component>
+    <id>choice_cldk095ot00lu2a6gli7s7cvk</id>
+    <description lang="en-US">direkter Anschluss an Kehlbalken / Sparren m&amp;ouml;glich</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://wMhcn4FVeVgTHbrXD4IxekW8qy9f2h5t_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Brandschutz Trockenbau - Quiz 7</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://wMhcn4FVeVgTHbrXD4IxekW8qy9f2h5t_rise/btXcnY5bIWr6fJVep-gBB4OypPZjVtE2" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://wMhcn4FVeVgTHbrXD4IxekW8qy9f2h5t_rise/btXcnY5bIWr6fJVep-gBB4OypPZjVtE2/cldkaezxh00022a6gdur2ydpq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was in dem Anwendbarkeitsnachweise eines Feuerschutzabschlusses geregelt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldkaezxh00032a6gtk51ce95</correctResponsePattern>
+    <correctResponsePattern>choice_cldkaezxh00042a6g3myf06zf</correctResponsePattern>
+    <correctResponsePattern>choice_cldkaezxi00052a6gslcztnig</correctResponsePattern>
+    <correctResponsePattern>choice_cldkaezxi00062a6gwi7t2gkn</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldkaezxh00032a6gtk51ce95</id>
+    <description lang="en-US">der Aufbau des statischen (z.B. Zarge) und des beweglichen Teils (z.B. T&amp;uuml;rblatt)</description>
+  </component>
+    <component>
+    <id>choice_cldkaezxi00052a6gslcztnig</id>
+    <description lang="en-US">die Wand, in der der FSA eingebaut werden darf</description>
+  </component>
+    <component>
+    <id>choice_cldkaezxi00062a6gwi7t2gkn</id>
+    <description lang="en-US">die Befestigung der Zarge an dieser Wand</description>
+  </component>
+    <component>
+    <id>choice_cldkaezxh00042a6g3myf06zf</id>
+    <description lang="en-US">die Ausf&amp;uuml;llung des Hohlraumes zwischen Zarge und Wand</description>
+  </component>
+    <component>
+    <id>choice_cldkag03a001p2a6g5vprn1dr</id>
+    <description lang="en-US">der Aufbau der Wand in den ein Feuerschutzabschluss eingebaut werden kann.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://wMhcn4FVeVgTHbrXD4IxekW8qy9f2h5t_rise/btXcnY5bIWr6fJVep-gBB4OypPZjVtE2/cldkagdkf00222a6gyup94u23" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wann gelten Feuerschutzabschl&amp;uuml;sse in bauaufsichtlicher Sicht als rauchdicht?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldkagdkf00232a6g9flydty5</correctResponsePattern>
+    <correctResponsePattern>choice_cldkagdkf00242a6gn63qgbdq</correctResponsePattern>
+    <correctResponsePattern>choice_cldkagdkf00262a6gevf6pvx9</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldkagdkf00232a6g9flydty5</id>
+    <description lang="en-US">Wenn die Anforderungen der DIN 18095 / EN 16034-3 (Rauchschutzt&amp;uuml;r mit Pr&amp;uuml;fung bzw. Bestandst&amp;uuml;ren) erf&amp;uuml;llt werden.</description>
+  </component>
+    <component>
+    <id>choice_cldkagdkf00262a6gevf6pvx9</id>
+    <description lang="en-US">Wenn der Zargenbereich der Fl&amp;uuml;gel mit einer mindestens dreiseitigen umlaufenden angeordneten dauerelastischen Dichtung in Verbindung mit einer Bodendichtung ausgef&amp;uuml;hrt wird. </description>
+  </component>
+    <component>
+    <id>choice_cldkagdkf00242a6gn63qgbdq</id>
+    <description lang="en-US">Wenn bei zweifl&amp;uuml;geligen FSA mit einen Mittelfalz und dauerelastischen Dichtung m&amp;ouml;glich ist. </description>
+  </component>
+    <component>
+    <id>choice_cldkai5lf005m2a6gavvnbib5</id>
+    <description lang="en-US">Wenn das T&amp;uuml;rblatt aus Metall besteht.</description>
+  </component>
+    <component>
+    <id>choice_cldkaie3800702a6gzxjilmvd</id>
+    <description lang="en-US">Wenn eine nach DIN 18096/EN 16044-7 Moosgummi Dichtung verwendet wird.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://wMhcn4FVeVgTHbrXD4IxekW8qy9f2h5t_rise/btXcnY5bIWr6fJVep-gBB4OypPZjVtE2/cldkajffu00ab2a6guspvlzlc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Nennen Sie Ursachen f&amp;uuml;r Sch&amp;auml;den bei Integration von Leitungen</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldkajffu00ac2a6gdytvg9km</correctResponsePattern>
+    <correctResponsePattern>choice_cldkajffu00af2a6gv22f05aa</correctResponsePattern>
+    <correctResponsePattern>choice_cldkajffu00ae2a6gp1oybct5</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldkajffu00ac2a6gdytvg9km</id>
+    <description lang="en-US">Hohe Brandlast im Wandhohlraum</description>
+  </component>
+    <component>
+    <id>choice_cldkajffu00ae2a6gp1oybct5</id>
+    <description lang="en-US">Unsachgem&amp;auml;&amp;szlig;er Einbau von Hohlwanddosen</description>
+  </component>
+    <component>
+    <id>choice_cldkajffu00af2a6gv22f05aa</id>
+    <description lang="en-US">Einschnitte in die Unterkonstruktion</description>
+  </component>
+    <component>
+    <id>choice_cldkajffu00ad2a6g96rs1zqc</id>
+    <description lang="en-US">Leitungen waagerecht verlegt</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://wMhcn4FVeVgTHbrXD4IxekW8qy9f2h5t_rise/btXcnY5bIWr6fJVep-gBB4OypPZjVtE2/cldkakjpi00bd2a6gsx6w5aka" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Nennen Sie Ursachen f&amp;uuml;r Sch&amp;auml;den im Raumabschluss</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldkakjpi00be2a6gbdm3tg7l</correctResponsePattern>
+    <correctResponsePattern>choice_cldkakjpi00bf2a6gpwt1ac75</correctResponsePattern>
+    <correctResponsePattern>choice_cldkakjpi00bg2a6gftmbjvdv</correctResponsePattern>
+    <correctResponsePattern>choice_cldkakjpi00bh2a6gfgik56fr</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldkakjpi00be2a6gbdm3tg7l</id>
+    <description lang="en-US">Durchbiegung auf Grund der Hitzeeinwirkung</description>
+  </component>
+    <component>
+    <id>choice_cldkakjpi00bg2a6gftmbjvdv</id>
+    <description lang="en-US">Unterschiedliche Feuerwiderstandf&amp;auml;higkeit der flankierenden Bauteile</description>
+  </component>
+    <component>
+    <id>choice_cldkakjpi00bh2a6gfgik56fr</id>
+    <description lang="en-US">Einsatz brennbarer Anschlussdichtungen</description>
+  </component>
+    <component>
+    <id>choice_cldkakjpi00bf2a6gpwt1ac75</id>
+    <description lang="en-US">Offene Anschlussfugen</description>
+  </component>
+    <component>
+    <id>choice_cldkal79b00ce2a6g4im1tkfl</id>
+    <description lang="en-US">Einbau von Abschottungen, Klappen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://wMhcn4FVeVgTHbrXD4IxekW8qy9f2h5t_rise/btXcnY5bIWr6fJVep-gBB4OypPZjVtE2/cldkalorm00cw2a6g5zlj4d80" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Ursachen gibt es f&amp;uuml;r Sch&amp;auml;den beim Einbau von Abschottungen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldkalorm00cx2a6gci7hy8da</correctResponsePattern>
+    <correctResponsePattern>choice_cldkalorm00cz2a6g9ey0tvz4</correctResponsePattern>
+    <correctResponsePattern>choice_cldkalorm00d02a6gc1mvfdbr</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldkalorm00cx2a6gci7hy8da</id>
+    <description lang="en-US">Unzureichendes Abtragen der Lasten an das tragende Bauteil</description>
+  </component>
+    <component>
+    <id>choice_cldkalorm00cz2a6g9ey0tvz4</id>
+    <description lang="en-US">Undichte Anschl&amp;uuml;sse</description>
+  </component>
+    <component>
+    <id>choice_cldkalorm00d02a6gc1mvfdbr</id>
+    <description lang="en-US">Gleitender Deckenanschluss</description>
+  </component>
+    <component>
+    <id>choice_cldkalorm00cy2a6gqdosqgbi</id>
+    <description lang="en-US">Neben Elektroleitungen werden auch Rohre durchgef&amp;uuml;hrt</description>
+  </component>
+    <component>
+    <id>choice_cldkan6b900ez2a6gczkdc6nh</id>
+    <description lang="en-US">Befestigung der Leitung vor der Abschottung mit Universalschellen aus Kunststoff</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://wMhcn4FVeVgTHbrXD4IxekW8qy9f2h5t_rise/btXcnY5bIWr6fJVep-gBB4OypPZjVtE2/cldkanhfh00fg2a6gptjnsl0w" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was verstehen sie unter ingenieurtechnischen Brandschutz?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldkanhfh00fh2a6g8tq0ceyp</correctResponsePattern>
+    <correctResponsePattern>choice_cldkanhfi00fj2a6gyqn2ysaw</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldkanhfh00fh2a6g8tq0ceyp</id>
+    <description lang="en-US">Damit k&amp;ouml;nnen einzelnen konkreten Brandschutzanforderungen der Bauordnung bzw. Verordnung oder Richtlinie f&amp;uuml;r den Sonderbau abweichende L&amp;ouml;sungen begr&amp;uuml;ndet werden. </description>
+  </component>
+    <component>
+    <id>choice_cldkanhfi00fj2a6gyqn2ysaw</id>
+    <description lang="en-US">Damit k&amp;ouml;nnen schutzzielorientierte leistungsbasierte Nachweise gef&amp;uuml;hrt werden.</description>
+  </component>
+    <component>
+    <id>choice_cldkanhfi00fk2a6gn6gaxhnj</id>
+    <description lang="en-US">Damit kann man auf den Anwendbarkeitsnachweise verzichten.</description>
+  </component>
+    <component>
+    <id>choice_cldkanhfi00fi2a6glq5xx4a5</id>
+    <description lang="en-US">Er kann als vollwertiger Ersatz f&amp;uuml;r die Brandschutzplanung verwendet werden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://wMhcn4FVeVgTHbrXD4IxekW8qy9f2h5t_rise/btXcnY5bIWr6fJVep-gBB4OypPZjVtE2/cldkapkb900m62a6gwc13neyz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie k&amp;ouml;nnen Sie Sonderkonstuktionen, die nicht in einem Anwendbarkeitsnachweis nachgewiesen sind, bemessen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldkapkb900m72a6gbagw258j</correctResponsePattern>
+    <correctResponsePattern>choice_cldkapkb900m82a6g092kw5go</correctResponsePattern>
+    <correctResponsePattern>choice_cldkapkb900m92a6ga3nq6nkx</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldkapkb900m72a6gbagw258j</id>
+    <description lang="en-US">auf der Grundlage von ingenieurtechnischen Brandschutzl&amp;ouml;sung</description>
+  </component>
+    <component>
+    <id>choice_cldkapkb900m92a6ga3nq6nkx</id>
+    <description lang="en-US">der Nachweis kann &amp;uuml;ber den &amp;sect; 85a, Absatz (1), Satz 3 MBO 2016 gef&amp;uuml;hrt werden</description>
+  </component>
+    <component>
+    <id>choice_cldkapkb900ma2a6glf4to85j</id>
+    <description lang="en-US">Dies ist generell nicht m&amp;ouml;glich</description>
+  </component>
+    <component>
+    <id>choice_cldkapkb900m82a6g092kw5go</id>
+    <description lang="en-US">auf Grundlage von vorhabenbezogene Bauartgenehmigung</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

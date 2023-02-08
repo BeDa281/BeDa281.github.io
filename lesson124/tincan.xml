@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://gjmAbL0dHYclgwAGTSl8Dz5-hpby9qva_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Brandschutz Trockenbau - Quiz 5</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://gjmAbL0dHYclgwAGTSl8Dz5-hpby9qva_rise/huS2faPExT54nc2HpaNbW11JUrD-SBun" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://gjmAbL0dHYclgwAGTSl8Dz5-hpby9qva_rise/huS2faPExT54nc2HpaNbW11JUrD-SBun/cldk25u7a00022a6gibw88zjk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Kann ein Feuerschutzabschluss T ... nach DIN 4102-5 als Revisions&amp;ouml;ffnungs-verschluss in einer Installationsschachtwand verwendet werden?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk25u7b00042a6g0u2kxdmj</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk25u7b00032a6gid2y9sdc</id>
+    <description lang="en-US">Ja</description>
+  </component>
+    <component>
+    <id>choice_cldk25u7b00042a6g0u2kxdmj</id>
+    <description lang="en-US">Nein</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gjmAbL0dHYclgwAGTSl8Dz5-hpby9qva_rise/huS2faPExT54nc2HpaNbW11JUrD-SBun/cldk2655u00052a6gunqai950" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ein Feuerschutzabschluss T ... nach DIN 4102-5 kann &lt;u&gt;nicht &lt;/u&gt;als Revisions&amp;ouml;ffnungs-verschluss in einer Installationsschachtwand verwendet werden&lt;br&gt;&lt;br&gt;Was sind die Gr&amp;uuml;nde?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk25u7b00032a6gid2y9sdc</correctResponsePattern>
+    <correctResponsePattern>choice_cldk25u7b00042a6g0u2kxdmj</correctResponsePattern>
+    <correctResponsePattern>choice_cldk27yq500102a6gvh31lgtu</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2a0c9004t2a6gngvra1qm</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk25u7b00032a6gid2y9sdc</id>
+    <description lang="en-US">In dem Anwendbarkeitsnachweis (i.R. abZ) ist die Einbausituation nicht vorgesehen.</description>
+  </component>
+    <component>
+    <id>choice_cldk25u7b00042a6g0u2kxdmj</id>
+    <description lang="en-US">Die Abschl&amp;uuml;sse m&amp;uuml;ssen mit einer umlaufenden Dichtung dicht schlie&amp;szlig;en.</description>
+  </component>
+    <component>
+    <id>choice_cldk27yq500102a6gvh31lgtu</id>
+    <description lang="en-US">Temperaturkriterien des 100 mm Randbereiches des T&amp;uuml;rblattes sowie Zarge mit &amp;nbsp;max. zul&amp;auml;ssiger Einzelwert der Zarge = 360K</description>
+  </component>
+    <component>
+    <id>choice_cldk2859z001d2a6gfh58qmha</id>
+    <description lang="en-US">Die Abschl&amp;uuml;sse m&amp;uuml;ssen nicht zwigend dicht schlie&amp;szlig;en</description>
+  </component>
+    <component>
+    <id>choice_cldk2a0c9004t2a6gngvra1qm</id>
+    <description lang="en-US">Ausf&amp;uuml;hrung grunds&amp;auml;tzlich mit Selbstschlie&amp;szlig;ung und Dr&amp;uuml;ckergarnitur</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gjmAbL0dHYclgwAGTSl8Dz5-hpby9qva_rise/huS2faPExT54nc2HpaNbW11JUrD-SBun/cldk2a8hj00572a6gn6wdwsl1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Definieren Sie den Geltungsbereich der MSysB&amp;ouml;R? Welche Arten von Systemb&amp;ouml;den kennen Sie?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk2a8hk00582a6gy49qgt7y</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2a8hk005a2a6gofj98275</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk2a8hk00582a6gy49qgt7y</id>
+    <description lang="en-US">gilt in notwendigen Treppenr&amp;auml;umen, R&amp;auml;umen zwischen notwendigen Treppenr&amp;auml;umen und Ausg&amp;auml;ngen ins Freie, notwendigen Fluren und anderen R&amp;auml;umen</description>
+  </component>
+    <component>
+    <id>choice_cldk2a8hk005a2a6gofj98275</id>
+    <description lang="en-US">Systemb&amp;ouml;den (Hohlb&amp;ouml;den oder Doppelb&amp;ouml;den) mit brandschutztechnischen Anforderungen, in deren Hohlr&amp;auml;umen Leitungen verlegt werden k&amp;ouml;nnen</description>
+  </component>
+    <component>
+    <id>choice_cldk2a8hk005b2a6gp0h1hqxj</id>
+    <description lang="en-US">Fertigteilestriche</description>
+  </component>
+    <component>
+    <id>choice_cldk2azwu006q2a6g421t5gfx</id>
+    <description lang="en-US">Trockenunterb&amp;ouml;den</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gjmAbL0dHYclgwAGTSl8Dz5-hpby9qva_rise/huS2faPExT54nc2HpaNbW11JUrD-SBun/cldk2b93z00712a6gf16xy5df" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche W&amp;auml;nde d&amp;uuml;rfen auf Systemb&amp;ouml;den aufgesetzt werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk2b93z00722a6gacgakxfm</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2b93z00742a6gu29unhjt</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk2b93z00722a6gacgakxfm</id>
+    <description lang="en-US">W&amp;auml;nde notwendiger Flure innerhalb von Nutzungseinheiten</description>
+  </component>
+    <component>
+    <id>choice_cldk2b93z00742a6gu29unhjt</id>
+    <description lang="en-US">W&amp;auml;nde, die gemeinsam mit dem Systemboden auf die erforderliche Feuerwiderstandsdauer gepr&amp;uuml;ft sind.</description>
+  </component>
+    <component>
+    <id>choice_cldk2b93z00752a6gfz1hft3d</id>
+    <description lang="en-US">Brandw&amp;auml;nde</description>
+  </component>
+    <component>
+    <id>choice_cldk2cnqm008t2a6g0x4f20j8</id>
+    <description lang="en-US">W&amp;auml;nde von Rettungswegen</description>
+  </component>
+    <component>
+    <id>choice_cldk2csyl00912a6gsf68nxb5</id>
+    <description lang="en-US">Wohnungstrennw&amp;auml;nde</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gjmAbL0dHYclgwAGTSl8Dz5-hpby9qva_rise/huS2faPExT54nc2HpaNbW11JUrD-SBun/cldk2czxp00992a6gtbaq8fa1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Nach Abschnitt 3.2.1 MLAR m&amp;uuml;ssen elektrische Leitungen...</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk2czxp009a2a6ggzm92bfr</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2czxp009c2a6g5b37tut0</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2edjv00cm2a6g0y73ijzm</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2g5uc00ga2a6g3lew1fws</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk2czxp009a2a6ggzm92bfr</id>
+    <description lang="en-US">einzeln oder nebeneinander angeordnet voll eingeputzt</description>
+  </component>
+    <component>
+    <id>choice_cldk2czxp009c2a6g5b37tut0</id>
+    <description lang="en-US">in Schlitzen von massiven Bauteilen, die mit min.15 mm dicken nichtbrennbaren Putztr&amp;auml;ger oder min.15 mm dicken Platten aus mineralischen Baustoffen verschlossen werden</description>
+  </component>
+    <component>
+    <id>choice_cldk2czxp009d2a6gjc9xqmq9</id>
+    <description lang="en-US">sie sind laut diesem Abschnitt generell nicht gestattet</description>
+  </component>
+    <component>
+    <id>choice_cldk2edjv00cm2a6g0y73ijzm</id>
+    <description lang="en-US">Innerhalb von mindestens feuerhemmenden W&amp;auml;nden in Leichtbauweise, jedoch nur Leitungen, die ausschlie&amp;szlig;lich der Versorgung der in und an der Wand befindlichen Betriebsmitteln dienen</description>
+  </component>
+    <component>
+    <id>choice_cldk2g5uc00ga2a6g3lew1fws</id>
+    <description lang="en-US">in Installationssch&amp;auml;chten und -kan&amp;auml;len, &amp;uuml;ber Unterdecken, in Unterflurkan&amp;auml;len oder in Systemb&amp;ouml;den verlegt sein. &lt;br&gt;&lt;br&gt;&lt;br&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gjmAbL0dHYclgwAGTSl8Dz5-hpby9qva_rise/huS2faPExT54nc2HpaNbW11JUrD-SBun/cldk2hh9g00j42a6ghwbnu4jy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Anforderungen werden nach MLAR an Installationssch&amp;auml;chte und -kan&amp;auml;le gestellt? Sie m&amp;uuml;ssen...</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk2hh9g00j52a6gz8rjef70</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2hh9g00j72a6gh7orac04</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk2hh9g00j52a6gz8rjef70</id>
+    <description lang="en-US">einschlie&amp;szlig;lich der Abschl&amp;uuml;sse von &amp;Ouml;ffnungen &amp;ndash; aus nichtbrennbaren Baustoffen bestehen</description>
+  </component>
+    <component>
+    <id>choice_cldk2hh9g00j72a6gh7orac04</id>
+    <description lang="en-US">eine Feuerwiderstandsf&amp;auml;higkeit haben, die der h&amp;ouml;chsten notwendigen Feuerwiderstandsf&amp;auml;higkeit der von ihnen durchdrungenen raumabschlie&amp;szlig;enden Bauteile entspricht</description>
+  </component>
+    <component>
+    <id>choice_cldk2hh9g00j82a6g9r5nzrx8</id>
+    <description lang="en-US">an der Durchdringung getrennt werden</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gjmAbL0dHYclgwAGTSl8Dz5-hpby9qva_rise/huS2faPExT54nc2HpaNbW11JUrD-SBun/cldk2jwt400ly2a6gwxfkrx1g" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Anforderungen werden nach MLAR an Installationssch&amp;auml;chte und -kan&amp;auml;le gestellt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk2hh9g00j52a6gz8rjef70</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2hh9g00j72a6gh7orac04</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2kval00mv2a6gwgwptvi0</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk2hh9g00j52a6gz8rjef70</id>
+    <description lang="en-US">Die Abschl&amp;uuml;sse m&amp;uuml;ssen umlaufenden Dichtung dicht schlie&amp;szlig;en.</description>
+  </component>
+    <component>
+    <id>choice_cldk2hh9g00j72a6gh7orac04</id>
+    <description lang="en-US">Die Befestigung der Installationssch&amp;auml;chte und &amp;ndash;kan&amp;auml;le ist mit nichtbrennbaren Befestigungsmitteln auszuf&amp;uuml;hren.</description>
+  </component>
+    <component>
+    <id>choice_cldk2kval00mv2a6gwgwptvi0</id>
+    <description lang="en-US">Abweichend von Abschnitt 3.5.1 gen&amp;uuml;gen in notwendigen Fluren Installationssch&amp;auml;chte, die keine Geschossdecken &amp;uuml;berbr&amp;uuml;cken und Installationskan&amp;auml;le (einschlie&amp;szlig;lich der Abschl&amp;uuml;sse von &amp;Ouml;ffnungen), die mindestens feuerhemmend sind und aus nichtbrennbaren Baustoffen bestehen.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gjmAbL0dHYclgwAGTSl8Dz5-hpby9qva_rise/huS2faPExT54nc2HpaNbW11JUrD-SBun/cldk2ldtd00nb2a6gvvewn5r9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist bei der Durchf&amp;uuml;hrung von Installationskan&amp;auml;len durch eine brandschutz-technische klassifizierten Trennw&amp;auml;nden zu beachten?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk2ldtd00nc2a6g3khcdxux</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2ldtd00nd2a6gmrrwslto</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2ldtd00nf2a6g830m3hxk</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2mgil00p12a6g64k2tc0l</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk2ldtd00nc2a6g3khcdxux</id>
+    <description lang="en-US">Die Trennwand muss mindestens die gleiche Feuerwiderstandsdauer wie der Installationskanal aufweisen.</description>
+  </component>
+    <component>
+    <id>choice_cldk2ldtd00ne2a6g7xgc9fog</id>
+    <description lang="en-US">Der L&amp;uuml;ftungskanal muss an der Trennwand befestigt werden.</description>
+  </component>
+    <component>
+    <id>choice_cldk2ldtd00nf2a6g830m3hxk</id>
+    <description lang="en-US">Im Bereich der Durchdringung ist im raumabschlie&amp;szlig;enden Bauteil eine Sollbruchstelle vorzusehen.</description>
+  </component>
+    <component>
+    <id>choice_cldk2ldtd00nd2a6gmrrwslto</id>
+    <description lang="en-US">Verbleibender Querschnitt der Rest&amp;ouml;ffnung ist vollfl&amp;auml;chig mit nichtbrennbarer Mineralwolle zu schlie&amp;szlig;en</description>
+  </component>
+    <component>
+    <id>choice_cldk2mgil00p12a6g64k2tc0l</id>
+    <description lang="en-US">bei leichten Trennw&amp;auml;nden ist die &amp;Ouml;ffnung mit einer umlaufenden Laibung in Beplankungsdicke anzuordnen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gjmAbL0dHYclgwAGTSl8Dz5-hpby9qva_rise/huS2faPExT54nc2HpaNbW11JUrD-SBun/cldk2mt0p00pe2a6g13e94an6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Anforderungen werden an Installationssch&amp;auml;chte und -kan&amp;auml;le f&amp;uuml;r Rohrleitungen (f&amp;uuml;r brennbare &amp;nbsp;oder &amp;nbsp;brandf&amp;ouml;rdernde Medien) gestellt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk2mt0p00pf2a6giwsq07ct</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2mt0p00ph2a6gtq9o2jiq</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2mt0p00pi2a6gnr1fxmbp</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk2mt0p00pf2a6giwsq07ct</id>
+    <description lang="en-US">Installationssch&amp;auml;chte und -kan&amp;auml;le f&amp;uuml;r Rohrleitungsanlagen (f&amp;uuml;r brennbare &amp;nbsp;oder &amp;nbsp;brandf&amp;ouml;rdernde Medien) sind mit nichtbrennbaren Baustoffen formbest&amp;auml;ndig und dicht zu verf&amp;uuml;llen oder m&amp;uuml;ssen abschnittsweise oder im Ganzen be- und entl&amp;uuml;ftet werden.</description>
+  </component>
+    <component>
+    <id>choice_cldk2mt0p00ph2a6gtq9o2jiq</id>
+    <description lang="en-US">Die Be- und Entl&amp;uuml;ftungs&amp;ouml;ffnungen m&amp;uuml;ssen mindestens 10 cm&amp;sup2; gro&amp;szlig; sein.</description>
+  </component>
+    <component>
+    <id>choice_cldk2mt0p00pi2a6gnr1fxmbp</id>
+    <description lang="en-US">Sie d&amp;uuml;rfen nicht in notwendigen Treppenr&amp;auml;umen und nicht in R&amp;auml;umen zwischen notwendigen Treppenr&amp;auml;umen und Ausg&amp;auml;ngen ins Freie angeordnet werden.</description>
+  </component>
+    <component>
+    <id>choice_cldk2mt0p00pg2a6ga3w69dhy</id>
+    <description lang="en-US">Die Be- und Entl&amp;uuml;ftungs&amp;ouml;ffnungen m&amp;uuml;ssen mindestens 2 cm&amp;sup2; gro&amp;szlig; sein.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gjmAbL0dHYclgwAGTSl8Dz5-hpby9qva_rise/huS2faPExT54nc2HpaNbW11JUrD-SBun/cldk2o5wl00r72a6go0cjaequ" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist bei der Abh&amp;auml;ngung von Leitungsanlagen (Installationskan&amp;auml;le, L&amp;uuml;ftungsleitungen) mit Stahl- Gewindestangen zu beachten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldk2o5wl00r82a6ghu9f0hif</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2o5wl00ra2a6guc058mas</correctResponsePattern>
+    <correctResponsePattern>choice_cldk2o5wl00rb2a6gfmjfbtwe</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldk2o5wl00r82a6ghu9f0hif</id>
+    <description lang="en-US">Die in DIN 4102-4:2016-05, Tabelle 11.1 angegebenen zul&amp;auml;ssigen Zugspannungen in senkrecht angeordneten Teilen d&amp;uuml;rfen nicht &amp;uuml;berschritten werden</description>
+  </component>
+    <component>
+    <id>choice_cldk2o5wl00ra2a6guc058mas</id>
+    <description lang="en-US">Zugspannung Ϭ (Sigma) = 9 N/mm2 &amp;nbsp; &amp;nbsp;FWD &amp;le; 60 Minuten</description>
+  </component>
+    <component>
+    <id>choice_cldk2o5wl00rb2a6gfmjfbtwe</id>
+    <description lang="en-US">Zugspannung Ϭ (Sigma) = 6 N/mm2 &amp;nbsp; &amp;nbsp;FWD &amp;le; 120</description>
+  </component>
+    <component>
+    <id>choice_cldk2o5wl00r92a6gytggwvxn</id>
+    <description lang="en-US">Gewindestangen sind brandschutztechnisch zu sch&amp;uuml;tzen</description>
+  </component>
+    <component>
+    <id>choice_cldk2per900sx2a6gdnpyhfee</id>
+    <description lang="en-US">Au&amp;szlig;er Tragf&amp;auml;higkeit Keine Anforderungen</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
