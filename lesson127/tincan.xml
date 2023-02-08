@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://RuIiUtckDrxFKYdMjVMo4WT0iHDnrby__rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Flachdach - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://RuIiUtckDrxFKYdMjVMo4WT0iHDnrby__rise/Zv3Ighu8yao2RGQBgJhXY7HjSZMfJDHS" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://RuIiUtckDrxFKYdMjVMo4WT0iHDnrby__rise/Zv3Ighu8yao2RGQBgJhXY7HjSZMfJDHS/cldlnx13500022a6h12dzapmy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Flachdachrichtlinie des Deutschen Dachdeckerhandwerks gilt bei Bauvorhaben als&amp;hellip;.?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldlnx13500052a6h38uv1719</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldlnx13500032a6hibiod2ye</id>
+    <description lang="en-US">gesetzliche Vorgabe (Verordnung, Gesetz)</description>
+  </component>
+    <component>
+    <id>choice_cldlnx13500052a6h38uv1719</id>
+    <description lang="en-US">allgemein anerkannte Regel der Technik</description>
+  </component>
+    <component>
+    <id>choice_cldlnx13500062a6hhjz79r0v</id>
+    <description lang="en-US">Empfehlung</description>
+  </component>
+    <component>
+    <id>choice_cldlnx13500042a6hfplzit9k</id>
+    <description lang="en-US">Infoblatt der &amp;ouml;ffentlichen Hand</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://RuIiUtckDrxFKYdMjVMo4WT0iHDnrby__rise/Zv3Ighu8yao2RGQBgJhXY7HjSZMfJDHS/cldlnxsc1000m2a6hn2jqblzx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was versteht man unter einem &amp;bdquo;nicht genutzten Flachdach&amp;ldquo;?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldlnxsc1000n2a6hum35cqoq</correctResponsePattern>
+    <correctResponsePattern>choice_cldlnxsc1000q2a6h2trkzqg3</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldlnxsc1000n2a6hum35cqoq</id>
+    <description lang="en-US">D&amp;auml;cher, die nur zum Zwecke der Pflege, Wartung und allg. Instandhaltung begangen werden</description>
+  </component>
+    <component>
+    <id>choice_cldlnxsc1000p2a6hhyrxsc4h</id>
+    <description lang="en-US">D&amp;auml;cher von nicht mehr genutzten Geb&amp;auml;uden (z.B. einer stillgelegten Halle)</description>
+  </component>
+    <component>
+    <id>choice_cldlnxsc1000q2a6h2trkzqg3</id>
+    <description lang="en-US">D&amp;auml;cher mit extensiver Begr&amp;uuml;nung</description>
+  </component>
+    <component>
+    <id>choice_cldlnxsc1000o2a6h0ze2ldo5</id>
+    <description lang="en-US">D&amp;auml;cher mit intensiver Begr&amp;uuml;nung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://RuIiUtckDrxFKYdMjVMo4WT0iHDnrby__rise/Zv3Ighu8yao2RGQBgJhXY7HjSZMfJDHS/cldlnymqw00232a6hlvptoilp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche D&amp;auml;cher geh&amp;ouml;ren zu den &amp;bdquo;genutzten D&amp;auml;chern&amp;ldquo;?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldlnymqx00242a6hb55edqgk</correctResponsePattern>
+    <correctResponsePattern>choice_cldlnymqx00252a6ha8ecoim9</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldlnymqx00242a6hb55edqgk</id>
+    <description lang="en-US">Begehbare Dachfl&amp;auml;chen, wie z.B. Dachterrassen, Balkone, Loggien, Laubeng&amp;auml;nge</description>
+  </component>
+    <component>
+    <id>choice_cldlnymqx00262a6hdqehfuw2</id>
+    <description lang="en-US">Nur ged&amp;auml;mmte Dachfl&amp;auml;chen</description>
+  </component>
+    <component>
+    <id>choice_cldlnymqx00272a6h2gn064xv</id>
+    <description lang="en-US">D&amp;auml;cher mit extensiver Begr&amp;uuml;nung</description>
+  </component>
+    <component>
+    <id>choice_cldlnymqx00252a6ha8ecoim9</id>
+    <description lang="en-US">D&amp;auml;cher mit intensiver Begr&amp;uuml;nung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://RuIiUtckDrxFKYdMjVMo4WT0iHDnrby__rise/Zv3Ighu8yao2RGQBgJhXY7HjSZMfJDHS/cldlnzffn003c2a6hvsqg5uva" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&amp;nbsp;Bitte vervollst&amp;auml;ndigen Sie den folgenden Satz: &amp;quot;Die Unterlage der Abdichtung...</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldlnzffn003g2a6hctkzdo91</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldlnzffn003d2a6hhmdsjv26</id>
+    <description lang="en-US">kann mit einem Gef&amp;auml;lle von 2 % geplant werden.</description>
+  </component>
+    <component>
+    <id>choice_cldlnzffn003f2a6hgp6dmjlf</id>
+    <description lang="en-US">sollte mit einem Gef&amp;auml;lle von 2 % geplant werden.</description>
+  </component>
+    <component>
+    <id>choice_cldlnzffn003g2a6hctkzdo91</id>
+    <description lang="en-US">soll mit einem Gef&amp;auml;lle von 2 % geplant werden.</description>
+  </component>
+    <component>
+    <id>choice_cldlnzffn003e2a6hgoltk2b9</id>
+    <description lang="en-US">muss mit einem Gef&amp;auml;lle von 2 % geplant werden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://RuIiUtckDrxFKYdMjVMo4WT0iHDnrby__rise/Zv3Ighu8yao2RGQBgJhXY7HjSZMfJDHS/cldlo0uci004l2a6hpmmq5iws" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ab welchem Gef&amp;auml;lle ist von einer Pf&amp;uuml;tzenfreiheit auszugehen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldlo18g3004o2a6hsox3hpxc</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldlo0uci004m2a6hz9yilxkq</id>
+    <description lang="en-US">Es ist immer von einer Pf&amp;uuml;tzenfreiheit auszugehen.</description>
+  </component>
+    <component>
+    <id>choice_cldlo0ucj004n2a6hssx0m309</id>
+    <description lang="en-US">Ab 2 %</description>
+  </component>
+    <component>
+    <id>choice_cldlo18g3004o2a6hsox3hpxc</id>
+    <description lang="en-US">Ab 5 %</description>
+  </component>
+    <component>
+    <id>choice_cldlo1bpq004p2a6h9btvbr5n</id>
+    <description lang="en-US">Es ist nie von einer Pf&amp;uuml;tzenfreiheit auszugehen.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://RuIiUtckDrxFKYdMjVMo4WT0iHDnrby__rise/Zv3Ighu8yao2RGQBgJhXY7HjSZMfJDHS/cldlo1g72004q2a6htm8b4zc7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der folgenden Abdichtungen ist f&amp;uuml;r die Verlegung auf D&amp;auml;mmungen (DAA) geeignet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldlo1g72004r2a6h4gu0vdnt</correctResponsePattern>
+    <correctResponsePattern>choice_cldlo1g72004s2a6h1k8kyvqd</correctResponsePattern>
+    <correctResponsePattern>choice_cldlo21s5005j2a6hjw48cpcd</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldlo1g72004r2a6h4gu0vdnt</id>
+    <description lang="en-US">PVC-P-Bahn</description>
+  </component>
+    <component>
+    <id>choice_cldlo1g72004s2a6h1k8kyvqd</id>
+    <description lang="en-US">Elastomer-Bitumenbahn</description>
+  </component>
+    <component>
+    <id>choice_cldlo1yue005b2a6hajl3snle</id>
+    <description lang="en-US">Fl&amp;uuml;ssigkunststoff aus PMMA</description>
+  </component>
+    <component>
+    <id>choice_cldlo21s5005j2a6hjw48cpcd</id>
+    <description lang="en-US">EPDM-Bahn</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://RuIiUtckDrxFKYdMjVMo4WT0iHDnrby__rise/Zv3Ighu8yao2RGQBgJhXY7HjSZMfJDHS/cldlo2c09005v2a6hud0ae0wo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist der Unterschied zwischen einem &amp;bdquo;Warmdach&amp;ldquo; und einem &amp;bdquo;Kaltdach&amp;ldquo;?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldlo2c09005z2a6hf89pvlat</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldlo2c09005w2a6hy1kcke9o</id>
+    <description lang="en-US">Bei n&amp;auml;chtlicher Ausk&amp;uuml;hlung (klarer Himmel) k&amp;uuml;hlt das Kaltdach eher ab als das Warmdach.</description>
+  </component>
+    <component>
+    <id>choice_cldlo2c09005y2a6henb1x3ff</id>
+    <description lang="en-US">Das Warmdach ist ged&amp;auml;mmt, das Kaltdach unged&amp;auml;mmt.</description>
+  </component>
+    <component>
+    <id>choice_cldlo2c09005z2a6hf89pvlat</id>
+    <description lang="en-US">Das Kaltdach ist bel&amp;uuml;ftet, das Warmdach unbel&amp;uuml;ftet.</description>
+  </component>
+    <component>
+    <id>choice_cldlo2c09005x2a6hvhsura9e</id>
+    <description lang="en-US">Das Warmdach besitzt eine thermisch aktivierte Unterkonstruktion.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://RuIiUtckDrxFKYdMjVMo4WT0iHDnrby__rise/Zv3Ighu8yao2RGQBgJhXY7HjSZMfJDHS/cldlo2wzu006g2a6h8g3iy5wn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welcher D&amp;auml;mmstoff ist f&amp;uuml;r ein &amp;bdquo;Umkehrdach&amp;ldquo; zugelassen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldlo2wzu006j2a6hq1qabwnh</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldlo2wzu006h2a6hlg5kcs4n</id>
+    <description lang="en-US">nur nicht brennbare D&amp;auml;mmstoffe</description>
+  </component>
+    <component>
+    <id>choice_cldlo2wzu006j2a6hq1qabwnh</id>
+    <description lang="en-US">nur extrudierte Polystyrol-Hartschaumplatten (XPS)</description>
+  </component>
+    <component>
+    <id>choice_cldlo2wzu006k2a6hefv786xb</id>
+    <description lang="en-US">alle Polystyrol-Hartschaumplatten (EPS und XPS)</description>
+  </component>
+    <component>
+    <id>choice_cldlo2wzu006i2a6hvk9uyf1i</id>
+    <description lang="en-US">Alle D&amp;auml;mmstoffe sind zugelassen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://RuIiUtckDrxFKYdMjVMo4WT0iHDnrby__rise/Zv3Ighu8yao2RGQBgJhXY7HjSZMfJDHS/cldlo3w0n006z2a6hvnmsw2kj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">9. &amp;nbsp; &amp;nbsp;Wie hoch ist eine Dampfbremse bzw. Dampfsperre an Anschl&amp;uuml;ssen hochzuf&amp;uuml;hren?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldlo3w0n00722a6hkqeaxctu</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldlo3w0n00702a6hmysd1hfj</id>
+    <description lang="en-US">Es reicht eine Verlegung in der Fl&amp;auml;che, ein Anschluss ist nicht notwendig.</description>
+  </component>
+    <component>
+    <id>choice_cldlo3w0n00722a6hkqeaxctu</id>
+    <description lang="en-US">bis Oberkante D&amp;auml;mmung</description>
+  </component>
+    <component>
+    <id>choice_cldlo3w0n00732a6hmqmolchd</id>
+    <description lang="en-US">15 cm &amp;uuml;ber Oberkante D&amp;auml;mmung</description>
+  </component>
+    <component>
+    <id>choice_cldlo3w0n00712a6h3z58ib91</id>
+    <description lang="en-US">bis Oberkante der Attika</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://RuIiUtckDrxFKYdMjVMo4WT0iHDnrby__rise/Zv3Ighu8yao2RGQBgJhXY7HjSZMfJDHS/cldlo4nf0007f2a6hxtx48vhq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Baustoffwerte werden f&amp;uuml;r die Ermittlung der asserdampfdiffusions&amp;auml;quivalenten Luftschichtdicke (sd-Wert) ben&amp;ouml;tigt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldlo4nf0007g2a6hzsgi1e3m</correctResponsePattern>
+    <correctResponsePattern>choice_cldlo4nf0007h2a6ha6feoeb1</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldlo4nf0007g2a6hzsgi1e3m</id>
+    <description lang="en-US">Schichtdicke d [m]</description>
+  </component>
+    <component>
+    <id>choice_cldlo4nf0007i2a6hketl3y5d</id>
+    <description lang="en-US">W&amp;auml;rmeleitf&amp;auml;higkeit &amp;lambda; [W/mK]</description>
+  </component>
+    <component>
+    <id>choice_cldlo4nf0007j2a6hiao5st0e</id>
+    <description lang="en-US">W&amp;auml;rmedurchgangswiderstand R [m&amp;sup2;K/W]</description>
+  </component>
+    <component>
+    <id>choice_cldlo4nf0007h2a6ha6feoeb1</id>
+    <description lang="en-US">Wasserdampf-Diffusionswiderstandszahl &amp;mu; [-]</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

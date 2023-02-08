@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://g1txZAOsQBOxvsXVI1qCZeuS5wF9fQ2Q_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Flachdach - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://g1txZAOsQBOxvsXVI1qCZeuS5wF9fQ2Q_rise/ofL1EI26_FikC1KTkl6QMfw95zquJ0d1" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://g1txZAOsQBOxvsXVI1qCZeuS5wF9fQ2Q_rise/ofL1EI26_FikC1KTkl6QMfw95zquJ0d1/cldlo5zqs00022a6gqbvhj2xk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Im W&amp;auml;rmeschutznachweis ist der U-Wert sowie die D&amp;auml;mmschichtdicke f&amp;uuml;r ein Flachdach mit Gef&amp;auml;lled&amp;auml;mmung angegeben. Was bedeutet hier die Angabe der D&amp;auml;mmschichtdicke?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldlo6grc00062a6g0p4wyd09</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldlo5zqs00032a6ge5w4prps</id>
+    <description lang="en-US">D&amp;auml;mmschichtdicke am Tiefpunkt</description>
+  </component>
+    <component>
+    <id>choice_cldlo5zqs00042a6g0cfzevfd</id>
+    <description lang="en-US">D&amp;auml;mmschichtdicke am Hochpunkt</description>
+  </component>
+    <component>
+    <id>choice_cldlo6dcv00052a6gadwn5208</id>
+    <description lang="en-US">Mittelwert der D&amp;auml;mmschichtdicke von Hoch- und Tiefpunkt</description>
+  </component>
+    <component>
+    <id>choice_cldlo6grc00062a6g0p4wyd09</id>
+    <description lang="en-US">Energetisch gemittelter Wert der keilf&amp;ouml;rmigen D&amp;auml;mmschichten</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://g1txZAOsQBOxvsXVI1qCZeuS5wF9fQ2Q_rise/ofL1EI26_FikC1KTkl6QMfw95zquJ0d1/cldlo6qsr00072a6gdq9quhl3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Baustoffwerte werden in Deutschland f&amp;uuml;r die Ermittlung des W&amp;auml;rmedurchgangskoeffizienten (U-Wert) ben&amp;ouml;tigt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldlo6qsr00082a6gfpe77u3d</correctResponsePattern>
+    <correctResponsePattern>choice_cldlo6qsr000b2a6gbdi2qzvv</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldlo6qsr00082a6gfpe77u3d</id>
+    <description lang="en-US">Schichtdicke d [m]</description>
+  </component>
+    <component>
+    <id>choice_cldlo6qsr000a2a6g2vm9k9xw</id>
+    <description lang="en-US">Nennwert der W&amp;auml;rmeleitf&amp;auml;higkeit &amp;lambda;D [W/mK]</description>
+  </component>
+    <component>
+    <id>choice_cldlo6qsr000b2a6gbdi2qzvv</id>
+    <description lang="en-US">Bemessungswert der W&amp;auml;rmeleitf&amp;auml;higkeit &amp;lambda;B [W/mK]</description>
+  </component>
+    <component>
+    <id>choice_cldlo6qsr00092a6gra4fzp4d</id>
+    <description lang="en-US">Wasserdampf-Diffusionswiderstandszahl &amp;mu; [-]</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://g1txZAOsQBOxvsXVI1qCZeuS5wF9fQ2Q_rise/ofL1EI26_FikC1KTkl6QMfw95zquJ0d1/cldlo7gp1001i2a6gp3scjt1z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche D&amp;auml;mmstoffe geh&amp;ouml;ren zur Gruppe der Mineralwolle?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldlo7gp1001j2a6gxuzhbkq0</correctResponsePattern>
+    <correctResponsePattern>choice_cldlo7gp1001k2a6gj3ng3bl7</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldlo7gp1001j2a6gxuzhbkq0</id>
+    <description lang="en-US">Glaswolle</description>
+  </component>
+    <component>
+    <id>choice_cldlo7gp1001l2a6ggs1ximez</id>
+    <description lang="en-US">Schaumglas</description>
+  </component>
+    <component>
+    <id>choice_cldlo7gp1001m2a6glydnb160</id>
+    <description lang="en-US">Mineralschaum</description>
+  </component>
+    <component>
+    <id>choice_cldlo7gp1001k2a6gj3ng3bl7</id>
+    <description lang="en-US">Steinwolle</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://g1txZAOsQBOxvsXVI1qCZeuS5wF9fQ2Q_rise/ofL1EI26_FikC1KTkl6QMfw95zquJ0d1/cldlo8az3002w2a6goslyjtzq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die Kriterien den D&amp;auml;mmstoffen zu?</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cldlo8az3002x2a6g3wd4e7x8[.]target_cldlo8az3002x2a6g3wd4e7x8</correctResponsePattern>
+    <correctResponsePattern>source_cldlo8az3002y2a6g1hn8n14b[.]target_cldlo8az3002y2a6g1hn8n14b</correctResponsePattern>
+    <correctResponsePattern>source_cldlo8az4002z2a6gqopmwk73[.]target_cldlo8az4002z2a6gqopmwk73</correctResponsePattern>
+    <correctResponsePattern>source_cldlo9fsq00302a6g4dytgp8q[.]target_cldlo9fsq00302a6g4dytgp8q</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cldlo8az3002x2a6g3wd4e7x8</id>
+    <description lang="en-US">Zulassung für Umkehrdächer></description>
+  </component>
+    <component>
+    <id>source_cldlo8az3002y2a6g1hn8n14b</id>
+    <description lang="en-US">nicht brennbar></description>
+  </component>
+    <component>
+    <id>source_cldlo8az4002z2a6gqopmwk73</id>
+    <description lang="en-US">Dämmstoff als Dampfsperre></description>
+  </component>
+    <component>
+    <id>source_cldlo9fsq00302a6g4dytgp8q</id>
+    <description lang="en-US">Höchste Wärmedämmeigenschaft></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cldlo8az3002x2a6g3wd4e7x8</id>
+        <description lang="en-US">XPS</description>
+      </component>
+          <component>
+        <id>target_cldlo8az3002y2a6g1hn8n14b</id>
+        <description lang="en-US">Mineralwolle</description>
+      </component>
+          <component>
+        <id>target_cldlo8az4002z2a6gqopmwk73</id>
+        <description lang="en-US">Schaumglas</description>
+      </component>
+          <component>
+        <id>target_cldlo9fsq00302a6g4dytgp8q</id>
+        <description lang="en-US">PUR/PIR</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://g1txZAOsQBOxvsXVI1qCZeuS5wF9fQ2Q_rise/ofL1EI26_FikC1KTkl6QMfw95zquJ0d1/cldloaokf00352a6gpmqknbi7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist die Mindesth&amp;ouml;he f&amp;uuml;r einen Abdichtungs&lt;u&gt;anschluss&lt;/u&gt; gem&amp;auml;&amp;szlig; Flachdachrichtlinie (Gef&amp;auml;lle &amp;le; 5&amp;deg;)?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldlob4ml003r2a6g7o3ggs2q</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldloaokf00362a6gvba45elh</id>
+    <description lang="en-US">5 cm</description>
+  </component>
+    <component>
+    <id>choice_cldloaokf00372a6gcwyybdl9</id>
+    <description lang="en-US">10 cm</description>
+  </component>
+    <component>
+    <id>choice_cldlob4ml003r2a6g7o3ggs2q</id>
+    <description lang="en-US">15 cm</description>
+  </component>
+    <component>
+    <id>choice_cldlob7pr00422a6g6vsi5k2m</id>
+    <description lang="en-US">20 cm</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://g1txZAOsQBOxvsXVI1qCZeuS5wF9fQ2Q_rise/ofL1EI26_FikC1KTkl6QMfw95zquJ0d1/cldlobqlm004f2a6gi4r1pyjq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist die Mindesth&amp;ouml;he f&amp;uuml;r einen Abdichtungs&lt;u&gt;abschluss&lt;/u&gt; gem&amp;auml;&amp;szlig; Flachdachrichtlinie (Gef&amp;auml;lle &amp;le; 5&amp;deg;)?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldloaokf00372a6gcwyybdl9</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldloaokf00362a6gvba45elh</id>
+    <description lang="en-US">5 cm</description>
+  </component>
+    <component>
+    <id>choice_cldloaokf00372a6gcwyybdl9</id>
+    <description lang="en-US">10 cm</description>
+  </component>
+    <component>
+    <id>choice_cldlob4ml003r2a6g7o3ggs2q</id>
+    <description lang="en-US">15 cm</description>
+  </component>
+    <component>
+    <id>choice_cldlob7pr00422a6g6vsi5k2m</id>
+    <description lang="en-US">20 cm</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://g1txZAOsQBOxvsXVI1qCZeuS5wF9fQ2Q_rise/ofL1EI26_FikC1KTkl6QMfw95zquJ0d1/cldlocn32004g2a6gn7jg5a78" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Von welchem Ausgangspunkt wird die Anschluss- bzw. Abschlussh&amp;ouml;he der Abdichtung bemessen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldloczm6004j2a6gadavy8rt</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldlocn33004h2a6g557gh572</id>
+    <description lang="en-US">ab Oberkante Unterkonstruktion / Dampfsperre</description>
+  </component>
+    <component>
+    <id>choice_cldlocn33004i2a6g5xyst2c4</id>
+    <description lang="en-US">ab Oberkante D&amp;auml;mmschicht</description>
+  </component>
+    <component>
+    <id>choice_cldloczm6004j2a6gadavy8rt</id>
+    <description lang="en-US">ab Oberkante Belagsschicht</description>
+  </component>
+    <component>
+    <id>choice_cldlod31a004k2a6gwnn7wr6x</id>
+    <description lang="en-US">ab Oberkante Notentw&amp;auml;sserung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://g1txZAOsQBOxvsXVI1qCZeuS5wF9fQ2Q_rise/ofL1EI26_FikC1KTkl6QMfw95zquJ0d1/cldlodf85004l2a6gmpq7v322" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei T&amp;uuml;rschwellen gelten die Regeln f&amp;uuml;r einen Abdichtungsanschluss. F&amp;uuml;r barrierefrei Schwellen sind zus&amp;auml;tzliche Ma&amp;szlig;nahmen zu treffen. Welche der nachfolgenden Ma&amp;szlig;nahmen sind Ma&amp;szlig;nahmen zur Verringerung des Risikos f&amp;uuml;r Wassereintritt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cldlodf85004m2a6gcasqh1zt</correctResponsePattern>
+    <correctResponsePattern>choice_cldlodf85004n2a6gxqk14jgh</correctResponsePattern>
+    <correctResponsePattern>choice_cldlodf85004o2a6g1gtqx90i</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cldlodf85004m2a6gcasqh1zt</id>
+    <description lang="en-US">Entw&amp;auml;sserungsrinne mit Gitterrost</description>
+  </component>
+    <component>
+    <id>choice_cldlodf85004o2a6g1gtqx90i</id>
+    <description lang="en-US">Vordach / &amp;Uuml;berdachung</description>
+  </component>
+    <component>
+    <id>choice_cldlodf85004p2a6gfng8ofdr</id>
+    <description lang="en-US">Schmutzfangmatte</description>
+  </component>
+    <component>
+    <id>choice_cldlodf85004n2a6gxqk14jgh</id>
+    <description lang="en-US">Gef&amp;auml;lle weg vom Geb&amp;auml;ude</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
