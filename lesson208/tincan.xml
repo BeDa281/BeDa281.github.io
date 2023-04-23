@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://IChAiJBBR1qlBj-Pg0neVIXa0Bd3OroX_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Wärmelehre - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://IChAiJBBR1qlBj-Pg0neVIXa0Bd3OroX_rise/qjkfobrDUKJTTUhkZeT4AnCpcVqz3scN" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://IChAiJBBR1qlBj-Pg0neVIXa0Bd3OroX_rise/qjkfobrDUKJTTUhkZeT4AnCpcVqz3scN/clgt76733000l2a6hj7vrbwoz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die passenden Begriffe in folgenden L&amp;uuml;ckentext:&lt;br&gt;&lt;br&gt;Um die (1) von Au&amp;szlig;enw&amp;auml;nden berechnen zu k&amp;ouml;nnen, addieren wir die (2) der (3) &amp;amp; die (4) der einzelnen (5).</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clgt76733000m2a6h12kdkk2v[.]target_clgt76733000m2a6h12kdkk2v</correctResponsePattern>
+    <correctResponsePattern>source_clgt76733000n2a6hslry7u6e[.]target_clgt76733000n2a6hslry7u6e</correctResponsePattern>
+    <correctResponsePattern>source_clgt76733000o2a6hsc4tosra[.]target_clgt76733000o2a6hsc4tosra</correctResponsePattern>
+    <correctResponsePattern>source_clgt78fpo000p2a6hqikgtpp9[.]target_clgt78fpo000p2a6hqikgtpp9</correctResponsePattern>
+    <correctResponsePattern>source_clgt78i00000q2a6hsy7tllcg[.]target_clgt78i00000q2a6hsy7tllcg</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clgt76733000m2a6h12kdkk2v</id>
+    <description lang="en-US">Wärmedurchgangswiderstände ></description>
+  </component>
+    <component>
+    <id>source_clgt76733000n2a6hslry7u6e</id>
+    <description lang="en-US">Wärmeübergangswiderstände ></description>
+  </component>
+    <component>
+    <id>source_clgt76733000o2a6hsc4tosra</id>
+    <description lang="en-US">Konvektionsschichten ></description>
+  </component>
+    <component>
+    <id>source_clgt78fpo000p2a6hqikgtpp9</id>
+    <description lang="en-US">Wärmedurchlasswiderstände ></description>
+  </component>
+    <component>
+    <id>source_clgt78i00000q2a6hsy7tllcg</id>
+    <description lang="en-US">Bauteilschichten></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clgt76733000m2a6h12kdkk2v</id>
+        <description lang="en-US">(1)</description>
+      </component>
+          <component>
+        <id>target_clgt76733000n2a6hslry7u6e</id>
+        <description lang="en-US">(2)</description>
+      </component>
+          <component>
+        <id>target_clgt76733000o2a6hsc4tosra</id>
+        <description lang="en-US">(3)</description>
+      </component>
+          <component>
+        <id>target_clgt78fpo000p2a6hqikgtpp9</id>
+        <description lang="en-US">(4)</description>
+      </component>
+          <component>
+        <id>target_clgt78i00000q2a6hsy7tllcg</id>
+        <description lang="en-US">(5)</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://IChAiJBBR1qlBj-Pg0neVIXa0Bd3OroX_rise/qjkfobrDUKJTTUhkZeT4AnCpcVqz3scN/clgt78xdl000r2a6hgy592sdn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie in die folgende Tabelle die entsprechenden Definition den korrekten Formelzeichen zu.</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clgt78xdm000s2a6h8vx1ttj1[.]target_clgt78xdm000s2a6h8vx1ttj1</correctResponsePattern>
+    <correctResponsePattern>source_clgt78xdm000t2a6htccre1h6[.]target_clgt78xdm000t2a6htccre1h6</correctResponsePattern>
+    <correctResponsePattern>source_clgt78xdm000u2a6hevsxb6at[.]target_clgt78xdm000u2a6hevsxb6at</correctResponsePattern>
+    <correctResponsePattern>source_clgt7aiv7000v2a6h3ti9ofd1[.]target_clgt7aiv7000v2a6h3ti9ofd1</correctResponsePattern>
+    <correctResponsePattern>source_clgt7alnh000w2a6h3kiefpye[.]target_clgt7alnh000w2a6h3kiefpye</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clgt78xdm000s2a6h8vx1ttj1</id>
+    <description lang="en-US">Wärmeleitfähigkeit></description>
+  </component>
+    <component>
+    <id>source_clgt78xdm000t2a6htccre1h6</id>
+    <description lang="en-US">Wärmedurchgangskoeffizient></description>
+  </component>
+    <component>
+    <id>source_clgt78xdm000u2a6hevsxb6at</id>
+    <description lang="en-US">Wärmeübergangswiderstand innen,
+horizontaler Wärmestrom></description>
+  </component>
+    <component>
+    <id>source_clgt7aiv7000v2a6h3ti9ofd1</id>
+    <description lang="en-US">Wärmeübergangswiderstand außen></description>
+  </component>
+    <component>
+    <id>source_clgt7alnh000w2a6h3kiefpye</id>
+    <description lang="en-US">Wärmedurchgangswiderstand eines Bauteils></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clgt78xdm000s2a6h8vx1ttj1</id>
+        <description lang="en-US">λ </description>
+      </component>
+          <component>
+        <id>target_clgt78xdm000t2a6htccre1h6</id>
+        <description lang="en-US">U</description>
+      </component>
+          <component>
+        <id>target_clgt78xdm000u2a6hevsxb6at</id>
+        <description lang="en-US">Rsi</description>
+      </component>
+          <component>
+        <id>target_clgt7aiv7000v2a6h3ti9ofd1</id>
+        <description lang="en-US">Rse</description>
+      </component>
+          <component>
+        <id>target_clgt7alnh000w2a6h3kiefpye</id>
+        <description lang="en-US">RT</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://IChAiJBBR1qlBj-Pg0neVIXa0Bd3OroX_rise/qjkfobrDUKJTTUhkZeT4AnCpcVqz3scN/clgt7d0is000x2a6h4z44stkc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie in die folgende Tabelle die entsprechenden Werte den richtigen Definitionen &amp;amp; Formelzeichen zu. </name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clgt7d0is000y2a6hj5s1nbxc[.]target_clgt7d0is000y2a6hj5s1nbxc</correctResponsePattern>
+    <correctResponsePattern>source_clgt7d0is000z2a6hy4p1r9ki[.]target_clgt7d0is000z2a6hy4p1r9ki</correctResponsePattern>
+    <correctResponsePattern>source_clgt7d0is00102a6h838qlzkn[.]target_clgt7d0is00102a6h838qlzkn</correctResponsePattern>
+    <correctResponsePattern>source_clgt7eq4s00112a6h6i9gba76[.]target_clgt7eq4s00112a6h6i9gba76</correctResponsePattern>
+    <correctResponsePattern>source_clgt7eva700122a6hnzenqxqe[.]target_clgt7eva700122a6hnzenqxqe</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clgt7d0is000y2a6hj5s1nbxc</id>
+    <description lang="en-US">W/(mK)></description>
+  </component>
+    <component>
+    <id>source_clgt7d0is000z2a6hy4p1r9ki</id>
+    <description lang="en-US">W/(m²K)></description>
+  </component>
+    <component>
+    <id>source_clgt7d0is00102a6h838qlzkn</id>
+    <description lang="en-US">0,13 m²K/W></description>
+  </component>
+    <component>
+    <id>source_clgt7eq4s00112a6h6i9gba76</id>
+    <description lang="en-US">0,04 m²K/W></description>
+  </component>
+    <component>
+    <id>source_clgt7eva700122a6hnzenqxqe</id>
+    <description lang="en-US">m²K/W></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clgt7d0is000y2a6hj5s1nbxc</id>
+        <description lang="en-US">Wärmeleitfähigkeit	λ </description>
+      </component>
+          <component>
+        <id>target_clgt7d0is000z2a6hy4p1r9ki</id>
+        <description lang="en-US">Wärmedurchgangskoeffizient	U</description>
+      </component>
+          <component>
+        <id>target_clgt7d0is00102a6h838qlzkn</id>
+        <description lang="en-US">Wärmeübergangswiderstand innen,
+horizontaler Wärmestrom	Rsi</description>
+      </component>
+          <component>
+        <id>target_clgt7eq4s00112a6h6i9gba76</id>
+        <description lang="en-US">Wärmeübergangswiderstand außen	Rse</description>
+      </component>
+          <component>
+        <id>target_clgt7eva700122a6hnzenqxqe</id>
+        <description lang="en-US">Wärmedurchgangswiderstand eines Bauteils	RT</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://IChAiJBBR1qlBj-Pg0neVIXa0Bd3OroX_rise/qjkfobrDUKJTTUhkZeT4AnCpcVqz3scN/clgt7fors00132a6hemkh7l2t" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie wird der U-Wert &amp;ndash; W&amp;auml;rmedurchgangskoeffizient definiert?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgt7fors00152a6h9zvj3317</correctResponsePattern>
+    <correctResponsePattern>choice_clgt7h464002c2a6hgpecqrvf</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgt7fors00142a6hht62kzoz</id>
+    <description lang="en-US">Je gr&amp;ouml;&amp;szlig;er der W&amp;auml;rmedurchgangskoeffizient, desto besser ist der W&amp;auml;rmeschutz des Bauteils.</description>
+  </component>
+    <component>
+    <id>choice_clgt7fors00152a6h9zvj3317</id>
+    <description lang="en-US">Ist der Kehrwert der Summe von W&amp;auml;rmedurchlasswiderst&amp;auml;nden der Bauteilschichten, W&amp;auml;rme&amp;uuml;bergangswiderst&amp;auml;nden innen &amp;amp; au&amp;szlig;en und W&amp;auml;rmedurchlasswiderst&amp;auml;nden von Luftschichten &amp;amp; unbeheizten R&amp;auml;umen.</description>
+  </component>
+    <component>
+    <id>choice_clgt7gylx001y2a6hfsdkiyfg</id>
+    <description lang="en-US">Ist die Summe von W&amp;auml;rmedurchlasswiderst&amp;auml;nden der Bauteilschichten, W&amp;auml;rme&amp;uuml;bergangswiderst&amp;auml;nden innen &amp;amp; au&amp;szlig;en und W&amp;auml;rmedurchlasswiderst&amp;auml;nden von Luftschichten &amp;amp; unbeheizten R&amp;auml;umen.</description>
+  </component>
+    <component>
+    <id>choice_clgt7h464002c2a6hgpecqrvf</id>
+    <description lang="en-US">Je kleiner der W&amp;auml;rmedurchgangskoeffizient, desto besser ist der W&amp;auml;rmeschutz des Bauteils.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IChAiJBBR1qlBj-Pg0neVIXa0Bd3OroX_rise/qjkfobrDUKJTTUhkZeT4AnCpcVqz3scN/clgt7hw8b002n2a6htxv50mki" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">W&amp;auml;rme... </name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgt7hw8b002q2a6hccyhpfn8</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgt7hw8b002o2a6hca1sa4ey</id>
+    <description lang="en-US">str&amp;ouml;mt immer mit einem Termperaturgef&amp;auml;lle von kalt nach warm bis eine Temperaturgleichheit besteht.</description>
+  </component>
+    <component>
+    <id>choice_clgt7hw8b002q2a6hccyhpfn8</id>
+    <description lang="en-US">Str&amp;ouml;mt immer mit einem Termperaturgef&amp;auml;lle von warm nach kalt bis eine Temperaturgleichheit besteht.</description>
+  </component>
+    <component>
+    <id>choice_clgt7hw8b002r2a6hnkao940u</id>
+    <description lang="en-US">Str&amp;ouml;mt gar nicht, eine Temperaturgleichheit ist deshalb nicht m&amp;ouml;glich.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IChAiJBBR1qlBj-Pg0neVIXa0Bd3OroX_rise/qjkfobrDUKJTTUhkZeT4AnCpcVqz3scN/clgt7jfi200572a6hvvqzxjoa" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie wird der &amp;lambda;-Wert &amp;ndash; W&amp;auml;rmeleitf&amp;auml;higkeit definiert?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgt7jfi200592a6ho8bdke0g</correctResponsePattern>
+    <correctResponsePattern>choice_clgt7kd6n006f2a6hi7xi09hs</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgt7jfi200582a6hpjzy1yqe</id>
+    <description lang="en-US">Je gr&amp;ouml;&amp;szlig;er der &amp;lambda;-Wert, desto besser ist der W&amp;auml;rmeschutz des Bauteils.</description>
+  </component>
+    <component>
+    <id>choice_clgt7jfi200592a6ho8bdke0g</id>
+    <description lang="en-US">Je kleiner der &amp;lambda;-Wert, desto besser ist der W&amp;auml;rmeschutz des Bauteils.</description>
+  </component>
+    <component>
+    <id>choice_clgt7k6fc00612a6h5yp933eg</id>
+    <description lang="en-US">Ist das Standardma&amp;szlig; f&amp;uuml;r die W&amp;auml;rmemenge, die in einer Minute durch ein bestimmtes Material mit 1m&amp;sup2; Fl&amp;auml;che und 10 cm Dicke bei einer Temperaturdifferenz von 1&amp;deg;C hindurchflie&amp;szlig;t.</description>
+  </component>
+    <component>
+    <id>choice_clgt7kd6n006f2a6hi7xi09hs</id>
+    <description lang="en-US">Ist das Standardma&amp;szlig; f&amp;uuml;r die W&amp;auml;rmemenge, die in einer Sekunde durch ein bestimmtes Material mit 1m&amp;sup2; Fl&amp;auml;che und 1m Dicke bei einer Temperaturdifferenz von 1 K hindurchflie&amp;szlig;t.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IChAiJBBR1qlBj-Pg0neVIXa0Bd3OroX_rise/qjkfobrDUKJTTUhkZeT4AnCpcVqz3scN/clgt7kpup006s2a6hjwvg5y9o" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen sind richtig zum Begriff &amp;bdquo;W&amp;auml;rmeleitung&amp;ldquo;?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgt7kpuq006u2a6hip7cwhag</correctResponsePattern>
+    <correctResponsePattern>choice_clgt7luec008d2a6hr9uo4ohp</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgt7kpuq006t2a6htwx57ia2</id>
+    <description lang="en-US">Wird auch Konvektion genannt</description>
+  </component>
+    <component>
+    <id>choice_clgt7kpuq006u2a6hip7cwhag</id>
+    <description lang="en-US">Erfolgt in festen K&amp;ouml;rpern</description>
+  </component>
+    <component>
+    <id>choice_clgt7lef900732a6hjg2gcqgp</id>
+    <description lang="en-US">Erfolgt in Gasen &amp;amp; Fl&amp;uuml;ssigkeiten</description>
+  </component>
+    <component>
+    <id>choice_clgt7logp007z2a6hrmgj0o8s</id>
+    <description lang="en-US">Regt auch den Stoff- oder Massentransport an</description>
+  </component>
+    <component>
+    <id>choice_clgt7luec008d2a6hr9uo4ohp</id>
+    <description lang="en-US">Ist Material-abh&amp;auml;ngig</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IChAiJBBR1qlBj-Pg0neVIXa0Bd3OroX_rise/qjkfobrDUKJTTUhkZeT4AnCpcVqz3scN/clgt7m1gq008s2a6hdpl68ns5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen sind richtig zum Begriff &amp;bdquo;W&amp;auml;rmestr&amp;ouml;mung&amp;ldquo;?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgt7m1gr008t2a6he1t4byws</correctResponsePattern>
+    <correctResponsePattern>choice_clgt7m1gr008u2a6ht5d09nkr</correctResponsePattern>
+    <correctResponsePattern>choice_clgt7mwhs009l2a6h9y6h333q</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgt7m1gr008t2a6he1t4byws</id>
+    <description lang="en-US">Wird auch Konvektion genannt</description>
+  </component>
+    <component>
+    <id>choice_clgt7m1gr008u2a6ht5d09nkr</id>
+    <description lang="en-US">Erfolgt in Gasen &amp;amp; Fl&amp;uuml;ssigkeiten</description>
+  </component>
+    <component>
+    <id>choice_clgt7mrwm009c2a6h50pwthea</id>
+    <description lang="en-US">Erfolgt in festen K&amp;ouml;rpern</description>
+  </component>
+    <component>
+    <id>choice_clgt7mwhs009l2a6h9y6h333q</id>
+    <description lang="en-US">Regt auch den Stoff- oder Massentransport an</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IChAiJBBR1qlBj-Pg0neVIXa0Bd3OroX_rise/qjkfobrDUKJTTUhkZeT4AnCpcVqz3scN/clgt7n5z1009z2a6h16yjk88k" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen sind richtig zum Begriff &amp;bdquo;W&amp;auml;rmestrahlung&amp;ldquo;?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgt7nvpg00ar2a6hil64044z</correctResponsePattern>
+    <correctResponsePattern>choice_clgt7n5z200a12a6hbnh9p1gj</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgt7n5z200a02a6hinrr1m5n</id>
+    <description lang="en-US">Wird auch Konvektion genannt</description>
+  </component>
+    <component>
+    <id>choice_clgt7n5z200a12a6hbnh9p1gj</id>
+    <description lang="en-US">Ist nur durch transparente Materialien m&amp;ouml;glich</description>
+  </component>
+    <component>
+    <id>choice_clgt7nrqc00ai2a6hadt4usy1</id>
+    <description lang="en-US">Funktioniert nicht durch Luft</description>
+  </component>
+    <component>
+    <id>choice_clgt7nvpg00ar2a6hil64044z</id>
+    <description lang="en-US">Kann auch durch Sonneneinstrahlung durch Glasfl&amp;auml;chen erfolgen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IChAiJBBR1qlBj-Pg0neVIXa0Bd3OroX_rise/qjkfobrDUKJTTUhkZeT4AnCpcVqz3scN/clgt7o90000b42a6horpe42oh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Berechnung zum Temperaturverlauf des folgenden Wandaufbaus ist richtig?&lt;br&gt;&lt;br&gt;Mauerwerk R=0,50; D&amp;auml;mmung R=1,50&lt;br&gt;Innentemperatur 18&amp;deg;C; Au&amp;szlig;entemperatur -15&amp;deg;C</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgt7o90000b62a6hghng0j0w</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgt7o90000b52a6hoq46l2cb</id>
+    <description lang="en-US">&amp;Delta;&amp;thetasym;= &amp;nbsp;-33K &amp;nbsp; &amp;nbsp;&amp;thetasym;0 = 16&amp;deg;C; &amp;thetasym;1 = 8,4&amp;deg;C; &amp;thetasym;2 = -14,41&amp;deg;C; &amp;thetasym;3 = &amp;nbsp;-15&amp;deg;C</description>
+  </component>
+    <component>
+    <id>choice_clgt7o90000b62a6hghng0j0w</id>
+    <description lang="en-US">&amp;Delta;&amp;thetasym;= &amp;nbsp;33K &amp;nbsp; &amp;nbsp;&amp;thetasym;0 = 16&amp;deg;C; &amp;thetasym;1 = 8,4&amp;deg;C; &amp;thetasym;2 = -14,41&amp;deg;C; &amp;thetasym;3 = &amp;nbsp;-15&amp;deg;C</description>
+  </component>
+    <component>
+    <id>choice_clgt7p1wm00b72a6h0rkwmq31</id>
+    <description lang="en-US">&amp;Delta;&amp;thetasym;= &amp;nbsp;33K &amp;nbsp; &amp;nbsp;&amp;thetasym;0 = 16&amp;deg;C; &amp;thetasym;1 = 6,4&amp;deg;C; &amp;thetasym;2 = -12,41&amp;deg;C; &amp;thetasym;3 = &amp;nbsp;-15&amp;deg;C</description>
+  </component>
+    <component>
+    <id>choice_clgt7pf1500b82a6hyvkw2dbh</id>
+    <description lang="en-US">&amp;Delta;&amp;thetasym;= &amp;nbsp;-33K &amp;nbsp; &amp;thetasym;0 = 16&amp;deg;C; &amp;thetasym;1 = 7,4&amp;deg;C; &amp;thetasym;2 = -13,41&amp;deg;C; &amp;thetasym;3 = &amp;nbsp;-15&amp;deg;C</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IChAiJBBR1qlBj-Pg0neVIXa0Bd3OroX_rise/qjkfobrDUKJTTUhkZeT4AnCpcVqz3scN/clgt7pvd100b92a6hw5v8ms48" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welchen Transmissionsw&amp;auml;rmeverlust hat folgender Wandaufbau?&lt;br&gt;A = 200m&amp;sup2;; U = 0,24 W/m&amp;sup2;K&lt;br&gt;Innentemperatur 18&amp;deg;C; Au&amp;szlig;entemperatur -15&amp;deg;C</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgt7pvd100bb2a6hlk8t420e</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgt7pvd100ba2a6hfnggy6zk</id>
+    <description lang="en-US">&amp;Phi;T = 1748 W</description>
+  </component>
+    <component>
+    <id>choice_clgt7pvd100bb2a6hlk8t420e</id>
+    <description lang="en-US">&amp;Phi;T = 1584 W</description>
+  </component>
+    <component>
+    <id>choice_clgt7rg3800bc2a6havny2u8i</id>
+    <description lang="en-US">&amp;Phi;T = 584 W</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
