@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://71p4ogFppeMlzD85LTW5fVdNVTJHKlh-_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Schadstoffsanierung - Quiz 3</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://71p4ogFppeMlzD85LTW5fVdNVTJHKlh-_rise/58UyqjfR-nPGneuQ4QH0INvGAcyLmRPz" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://71p4ogFppeMlzD85LTW5fVdNVTJHKlh-_rise/58UyqjfR-nPGneuQ4QH0INvGAcyLmRPz/clgzhlez3001c2a6hi0o4hk5c" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Nennen Sie 2 m&amp;ouml;gliche Ursachen f&amp;uuml;r die Salzausbl&amp;uuml;hungen an der Sockelfl&amp;auml;che des Anbaus.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgzhlez4001d2a6hnr6k9mvv</correctResponsePattern>
+    <correctResponsePattern>choice_clgzhlez4001f2a6hbwzgx4uu</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgzhlez4001d2a6hnr6k9mvv</id>
+    <description lang="en-US">mangelhafte / defekte Horizontalsperre</description>
+  </component>
+    <component>
+    <id>choice_clgzhlez4001f2a6hbwzgx4uu</id>
+    <description lang="en-US">mangelhafte / defekte Isolierung der Au&amp;szlig;enfl&amp;auml;chen im Erdbereich</description>
+  </component>
+    <component>
+    <id>choice_clgzhlez4001g2a6hcb2ylwjn</id>
+    <description lang="en-US">unfachgerechte Putzzusammensetzung</description>
+  </component>
+    <component>
+    <id>choice_clgzhlez4001e2a6h50h15isn</id>
+    <description lang="en-US">zu hohe Umweltbelatungen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://71p4ogFppeMlzD85LTW5fVdNVTJHKlh-_rise/58UyqjfR-nPGneuQ4QH0INvGAcyLmRPz/clgzhn44l002q2a6ha28ry2xq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welcher der hier angegebenen sind bausch&amp;auml;dliche Salze?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgzhn44m002r2a6hshur0yru</correctResponsePattern>
+    <correctResponsePattern>choice_clgzhn44m002t2a6h5xhul4h1</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgzhn44m002r2a6hshur0yru</id>
+    <description lang="en-US">Carbonate</description>
+  </component>
+    <component>
+    <id>choice_clgzhn44m002t2a6h5xhul4h1</id>
+    <description lang="en-US">Sulfide</description>
+  </component>
+    <component>
+    <id>choice_clgzhn44m002u2a6h4uvontxm</id>
+    <description lang="en-US">Meersalze</description>
+  </component>
+    <component>
+    <id>choice_clgzhn44m002s2a6hyejntu1m</id>
+    <description lang="en-US">Kohlenstoffe</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://71p4ogFppeMlzD85LTW5fVdNVTJHKlh-_rise/58UyqjfR-nPGneuQ4QH0INvGAcyLmRPz/clgzhogrz00672a6haw4whj61" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welcher der hier angegebenen sind bausch&amp;auml;dliche Salze?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgzhovvh006x2a6h6xr68l1z</correctResponsePattern>
+    <correctResponsePattern>choice_clgzhn44m002s2a6hyejntu1m</correctResponsePattern>
+    <correctResponsePattern>choice_clgzhn44m002u2a6h4uvontxm</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgzhn44m002u2a6h4uvontxm</id>
+    <description lang="en-US">Chloride</description>
+  </component>
+    <component>
+    <id>choice_clgzhn44m002s2a6hyejntu1m</id>
+    <description lang="en-US">Sulfate</description>
+  </component>
+    <component>
+    <id>choice_clgzhovvh006x2a6h6xr68l1z</id>
+    <description lang="en-US">Nitrate</description>
+  </component>
+    <component>
+    <id>choice_clgzhp53c007d2a6hoqxj68gh</id>
+    <description lang="en-US">Schwefels&amp;auml;ure</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://71p4ogFppeMlzD85LTW5fVdNVTJHKlh-_rise/58UyqjfR-nPGneuQ4QH0INvGAcyLmRPz/clgzhpdxp007k2a6hstikiv9t" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Beraten Sie den Kunden &amp;uuml;ber bautechnische M&amp;ouml;glichkeiten f&amp;uuml;r die dauerhafte Beseitigung der Ausbl&amp;uuml;hungen am Sockelputz (nach Ermittlung der Ursache f&amp;uuml;r die Salzausbl&amp;uuml;hungen).&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgzhpdxp007l2a6hty6u8pa5</correctResponsePattern>
+    <correctResponsePattern>choice_clgzhpdxp007n2a6h6syz2ghk</correctResponsePattern>
+    <correctResponsePattern>choice_clgzhpdxp007o2a6hgiwb56mt</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgzhpdxp007l2a6hty6u8pa5</id>
+    <description lang="en-US">Horizontalsperre einbauen/erneuern, z.B. W&amp;auml;nde durchs&amp;auml;gen, Edelstahlbleche einschieben</description>
+  </component>
+    <component>
+    <id>choice_clgzhpdxp007n2a6h6syz2ghk</id>
+    <description lang="en-US">Kellerau&amp;szlig;enwandfl&amp;auml;chen freilegen, Mauerwerksabdichtung anbringen/erneuern</description>
+  </component>
+    <component>
+    <id>choice_clgzhpdxp007o2a6hgiwb56mt</id>
+    <description lang="en-US">Bohrlochinjektionsverfahren</description>
+  </component>
+    <component>
+    <id>choice_clgzhpdxp007m2a6hjibibo6w</id>
+    <description lang="en-US">Sockelputz entfernen, Sanierputz aufbringen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://71p4ogFppeMlzD85LTW5fVdNVTJHKlh-_rise/58UyqjfR-nPGneuQ4QH0INvGAcyLmRPz/clgzhsi2l00922a6hst1as2uy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Beraten Sie den Kunden &amp;uuml;ber bautechnische M&amp;ouml;glichkeiten f&amp;uuml;r eine zeitlich begrenzte Vermeidung der Ausbl&amp;uuml;hungen am Sockelputz (nach Ermittlung der Ursache f&amp;uuml;r die Salzausbl&amp;uuml;hungen).</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgzhsi2l00942a6hzkf72uds</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgzhsi2l00932a6h1ef9wu2q</id>
+    <description lang="en-US">Horizontalsperre einbauen/erneuern, z.B. W&amp;auml;nde durchs&amp;auml;gen, Edelstahlbleche einschieben</description>
+  </component>
+    <component>
+    <id>choice_clgzhsi2l00952a6hpbm5gtx1</id>
+    <description lang="en-US">Kellerau&amp;szlig;enwandfl&amp;auml;chen freilegen, Mauerwerksabdichtung anbringen/erneuern</description>
+  </component>
+    <component>
+    <id>choice_clgzhsi2l00962a6h8t3i5q92</id>
+    <description lang="en-US">Bohrlochinjektionsverfahren</description>
+  </component>
+    <component>
+    <id>choice_clgzhsi2l00942a6hzkf72uds</id>
+    <description lang="en-US">Sockelputz entfernen, Sanierputz aufbringen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://71p4ogFppeMlzD85LTW5fVdNVTJHKlh-_rise/58UyqjfR-nPGneuQ4QH0INvGAcyLmRPz/clgzhtwe900bm2a6hoenhzvnm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Wandfl&amp;auml;chen einer Nordostfassade sind bis auf eine H&amp;ouml;he von ca. 2,70 m mit &amp;nbsp;&lt;br&gt;Wildem Wein (Parthenocissus quinquefolia) bewachsen. Womit haftet der Weinbewuchs an der Fassade? </name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgzhtwe900bn2a6hvey0dvdx</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgzhtwe900bn2a6hvey0dvdx</id>
+    <description lang="en-US">Haftscheiben (Saugn&amp;auml;pfchen/Saugf&amp;uuml;&amp;szlig;chen)</description>
+  </component>
+    <component>
+    <id>choice_clgzhtwe900bp2a6h400o3tif</id>
+    <description lang="en-US">Kleberartige Fl&amp;uuml;ssigkeit</description>
+  </component>
+    <component>
+    <id>choice_clgzhtwe900bq2a6hayxls5i1</id>
+    <description lang="en-US">Krallenartige Beinchen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://71p4ogFppeMlzD85LTW5fVdNVTJHKlh-_rise/58UyqjfR-nPGneuQ4QH0INvGAcyLmRPz/clgzhv5xp00d92a6hwyhrnc4s" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die Beseitigung des Weinbewuchses in die richtige Reihenfolge</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clgzhv5xp00da2a6hgsx1ut00[.]target_clgzhv5xp00da2a6hgsx1ut00</correctResponsePattern>
+    <correctResponsePattern>source_clgzhv5xp00db2a6hprhvdnnv[.]target_clgzhv5xp00db2a6hprhvdnnv</correctResponsePattern>
+    <correctResponsePattern>source_clgzhv5xp00dc2a6h24lyjc4u[.]target_clgzhv5xp00dc2a6h24lyjc4u</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clgzhv5xp00da2a6hgsx1ut00</id>
+    <description lang="en-US">Abreißen/abschneiden des Weinbewuchses></description>
+  </component>
+    <component>
+    <id>source_clgzhv5xp00db2a6hprhvdnnv</id>
+    <description lang="en-US">Abbürsten/abschaben der Haftscheiben (Saugnäpfchen/Saugfüßchen)></description>
+  </component>
+    <component>
+    <id>source_clgzhv5xp00dc2a6h24lyjc4u</id>
+    <description lang="en-US">Restanhaftungen mittels Gasflamme abbrennen (verkohlen) und Abbürsten></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clgzhv5xp00da2a6hgsx1ut00</id>
+        <description lang="en-US">Schritt 1</description>
+      </component>
+          <component>
+        <id>target_clgzhv5xp00db2a6hprhvdnnv</id>
+        <description lang="en-US">Schritt 2</description>
+      </component>
+          <component>
+        <id>target_clgzhv5xp00dc2a6h24lyjc4u</id>
+        <description lang="en-US">Schritt 3</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://71p4ogFppeMlzD85LTW5fVdNVTJHKlh-_rise/58UyqjfR-nPGneuQ4QH0INvGAcyLmRPz/clgzhwet600dd2a6hst18y643" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Erkl&amp;auml;ren Sie, welcher Mangel bei einer Neubeschichtung entstehen kann, wenn Restanhaftungen des Bewuchses auf der Fassade verbleiben.&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgzhwet800de2a6h48ko58tm</correctResponsePattern>
+    <correctResponsePattern>choice_clgzhwet800dg2a6hgilc6mx0</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgzhwet800de2a6h48ko58tm</id>
+    <description lang="en-US">Es kommt zum Durchbluten der in den Haftscheiben (Saugn&amp;auml;pfchen/Saugf&amp;uuml;&amp;szlig;chen) vorhandenen Farbstoffe durch die Neubeschichtung.</description>
+  </component>
+    <component>
+    <id>choice_clgzhwet800dg2a6hgilc6mx0</id>
+    <description lang="en-US">Mangelnde Haftung im Bereich der Haftscheiben</description>
+  </component>
+    <component>
+    <id>choice_clgzhwet800dh2a6hjg78eyp9</id>
+    <description lang="en-US">Es hat keine Auswirkungen auf die Neubeschichtung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://71p4ogFppeMlzD85LTW5fVdNVTJHKlh-_rise/58UyqjfR-nPGneuQ4QH0INvGAcyLmRPz/clgzhz4nh00ee2a6he9h9hrhs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In einem Wohnzimmer einer Mietwohnung wurden im vergangenen Herbst die Wandfl&amp;auml;chen vom Mieter selbst neu beschichtet. Der Fliesenfu&amp;szlig;boden wurde mit einem Teppichboden ausgelegt. Zur Haftung wurde eine Fixierunterlage (-gewebe) verlegt. Im Fr&amp;uuml;hjahr, bei Auszug des Mieters, zeigten sich erhebliche schwarzgraue Ablagerungen, insbesondere in den Wandecken und in den oberen Wandbereichen. Vom Vermieter erfahren Sie, dass sich auch auf den M&amp;ouml;beln solche Ablagerungen gebildet hatten. Handelt es sich bei diesem Schadensbild um Fogging-Effekt, Schwarzen Staub?&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgzhz4nh00eh2a6hmsvtd9y2</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgzhz4nh00ef2a6hrc07qfrr</id>
+    <description lang="en-US">Ja</description>
+  </component>
+    <component>
+    <id>choice_clgzhz4nh00eh2a6hmsvtd9y2</id>
+    <description lang="en-US">Nein</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://71p4ogFppeMlzD85LTW5fVdNVTJHKlh-_rise/58UyqjfR-nPGneuQ4QH0INvGAcyLmRPz/clgzhxwos00eb2a6hje6xy8ng" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Im Wohnzimmer der Mietwohnung wurden im vergangenen Herbst die Wandfl&amp;auml;chen vom Mieter selbst neu beschichtet. Der Fliesenfu&amp;szlig;boden wurde mit einem Teppichboden ausgelegt. Zur Haftung wurde eine Fixierunterlage (-gewebe) verlegt. Im Fr&amp;uuml;hjahr, bei Auszug des Mieters, zeigten sich erhebliche schwarzgraue Ablagerungen, insbesondere in den Wandecken und in den oberen Wandbereichen. Vom Vermieter erfahren Sie, dass sich auch auf den M&amp;ouml;beln solche Ablagerungen gebildet hatten.&lt;br&gt;Der Hausbesitzer m&amp;ouml;chte vor der anstehenden Renovierung wissen, ob die Ursache&lt;br&gt;eine f&amp;uuml;r die Gesundheit der Bewohner besteht.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clgzhxwos00ec2a6h7teyzee9</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clgzhxwos00ec2a6h7teyzee9</id>
+    <description lang="en-US">Es besteht keine unmittelbare Gesundheitsgef&amp;auml;hrdung</description>
+  </component>
+    <component>
+    <id>choice_clgzhxwos00ed2a6h1yjo1f8z</id>
+    <description lang="en-US">Es besteht unmittelbare Gesundheitsgef&amp;auml;hrdung</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

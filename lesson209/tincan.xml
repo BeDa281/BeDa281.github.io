@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://RAR10pS9Y6p9eS3z4VIGWbin3nrGOam2_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Untergründe - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://RAR10pS9Y6p9eS3z4VIGWbin3nrGOam2_rise/vfAeokuJgdNSRVKM74wCjkRDikyy8jXl" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://RAR10pS9Y6p9eS3z4VIGWbin3nrGOam2_rise/vfAeokuJgdNSRVKM74wCjkRDikyy8jXl/clf9hs4rz00022a6jbx7adjgi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Als naturgewachsener Werkstoff reagiert Holz auf...</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clf9hs4rz00032a6jfhojajxz</correctResponsePattern>
+    <correctResponsePattern>choice_clf9hs4rz00042a6jpuklbpjm</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clf9hs4rz00032a6jfhojajxz</id>
+    <description lang="en-US">Feuchtigkeitsschwankungen&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clf9hs4rz00042a6jpuklbpjm</id>
+    <description lang="en-US">Temperaturen&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clf9hwojo00052a6jgw9t0l5y</id>
+    <description lang="en-US">Thermometer</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://RAR10pS9Y6p9eS3z4VIGWbin3nrGOam2_rise/vfAeokuJgdNSRVKM74wCjkRDikyy8jXl/clf9hz3io000p2a6jso87yd85" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Der Baumstamm im Querschnitt. Ordnen Sie die entsprechenden Bezeichnungen zu.</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clf9hz3io000q2a6jetr8tdnw[.]target_clf9hz3io000q2a6jetr8tdnw</correctResponsePattern>
+    <correctResponsePattern>source_clf9hz3io000r2a6jrw57895u[.]target_clf9hz3io000r2a6jrw57895u</correctResponsePattern>
+    <correctResponsePattern>source_clf9hz3io000s2a6jpmyfjony[.]target_clf9hz3io000s2a6jpmyfjony</correctResponsePattern>
+    <correctResponsePattern>source_clf9i0tjf000t2a6jwh6lq5tq[.]target_clf9i0tjf000t2a6jwh6lq5tq</correctResponsePattern>
+    <correctResponsePattern>source_clf9i0wga000u2a6jrp8nshvl[.]target_clf9i0wga000u2a6jrp8nshvl</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clf9hz3io000q2a6jetr8tdnw</id>
+    <description lang="en-US">Mark, Zentrum eines Baumstammes></description>
+  </component>
+    <component>
+    <id>source_clf9hz3io000r2a6jrw57895u</id>
+    <description lang="en-US">Borke/Rinde, schützt den Baum vor Schädlingen></description>
+  </component>
+    <component>
+    <id>source_clf9hz3io000s2a6jpmyfjony</id>
+    <description lang="en-US">Bast, Transportschicht für Nährstoffe></description>
+  </component>
+    <component>
+    <id>source_clf9i0tjf000t2a6jwh6lq5tq</id>
+    <description lang="en-US">Kambium, Wachstumsschicht></description>
+  </component>
+    <component>
+    <id>source_clf9i0wga000u2a6jrp8nshvl</id>
+    <description lang="en-US">Kernholz, Splintholz></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clf9hz3io000q2a6jetr8tdnw</id>
+        <description lang="en-US">Bereich 1</description>
+      </component>
+          <component>
+        <id>target_clf9hz3io000r2a6jrw57895u</id>
+        <description lang="en-US">Bereich 2</description>
+      </component>
+          <component>
+        <id>target_clf9hz3io000s2a6jpmyfjony</id>
+        <description lang="en-US">Bereich 3</description>
+      </component>
+          <component>
+        <id>target_clf9i0tjf000t2a6jwh6lq5tq</id>
+        <description lang="en-US">Bereich 4</description>
+      </component>
+          <component>
+        <id>target_clf9i0wga000u2a6jrp8nshvl</id>
+        <description lang="en-US">Bereich 5</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://RAR10pS9Y6p9eS3z4VIGWbin3nrGOam2_rise/vfAeokuJgdNSRVKM74wCjkRDikyy8jXl/clf9iodwi00f62a6jtkwe3jgl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was bedeutet es, wenn Holz &amp;quot;schwindet&amp;quot;?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clf9iodwj00f82a6jo523wmwo</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clf9iodwj00f72a6j4vf8ax9z</id>
+    <description lang="en-US">Es l&amp;ouml;st sich auf</description>
+  </component>
+    <component>
+    <id>choice_clf9iodwj00f82a6jo523wmwo</id>
+    <description lang="en-US">Es verliert an Volumen</description>
+  </component>
+    <component>
+    <id>choice_clf9iow1000f92a6jhks554ae</id>
+    <description lang="en-US">Es gewinnt an Feuchtigkeit</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://RAR10pS9Y6p9eS3z4VIGWbin3nrGOam2_rise/vfAeokuJgdNSRVKM74wCjkRDikyy8jXl/clf9hy2cs000d2a6jbs52eb4u" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Jede Holzart hat andere Bestandteile. Unterschiede gibt es vor allem bei den Holz-Inhaltsstoffen. &amp;nbsp;Welche Bestandteile kennen Sie?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clf9hy2cs000e2a6jcw7rxvpj</correctResponsePattern>
+    <correctResponsePattern>choice_clf9hy2cs000f2a6jzxi9fk6g</correctResponsePattern>
+    <correctResponsePattern>choice_clf9i5qng003q2a6jmqeuarhx</correctResponsePattern>
+    <correctResponsePattern>choice_clf9hy2cs000g2a6jjjpru5pr</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clf9hy2cs000e2a6jcw7rxvpj</id>
+    <description lang="en-US">Harze</description>
+  </component>
+    <component>
+    <id>choice_clf9hy2cs000g2a6jjjpru5pr</id>
+    <description lang="en-US">&amp;Ouml;le, Farbstoffe, Gerbs&amp;auml;ure</description>
+  </component>
+    <component>
+    <id>choice_clf9hy2cs000h2a6jvb8n5ba9</id>
+    <description lang="en-US">Hyaluron</description>
+  </component>
+    <component>
+    <id>choice_clf9hy2cs000f2a6jzxi9fk6g</id>
+    <description lang="en-US">Linnin 20 - 40%</description>
+  </component>
+    <component>
+    <id>choice_clf9i5qng003q2a6jmqeuarhx</id>
+    <description lang="en-US">Zellulose 80 - 90&amp;amp;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://RAR10pS9Y6p9eS3z4VIGWbin3nrGOam2_rise/vfAeokuJgdNSRVKM74wCjkRDikyy8jXl/clf9i616b004l2a6jai5730k4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was f&amp;uuml;hrt zu einer Vergrauung von Holz?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clf9i616b004m2a6jnv45xcls</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clf9i616b004m2a6jnv45xcls</id>
+    <description lang="en-US">UV-Licht</description>
+  </component>
+    <component>
+    <id>choice_clf9i616b004o2a6juauiyog3</id>
+    <description lang="en-US">Wasser</description>
+  </component>
+    <component>
+    <id>choice_clf9i616b004p2a6j0vwdw7v6</id>
+    <description lang="en-US">Trocknung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://RAR10pS9Y6p9eS3z4VIGWbin3nrGOam2_rise/vfAeokuJgdNSRVKM74wCjkRDikyy8jXl/clf9i9jz9007s2a6j728t8857" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Vergrautes Holz ist nicht mehr... </name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clf9i616b004m2a6jnv45xcls</correctResponsePattern>
+    <correctResponsePattern>choice_clf9i616b004o2a6juauiyog3</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clf9i616b004m2a6jnv45xcls</id>
+    <description lang="en-US">druckfest</description>
+  </component>
+    <component>
+    <id>choice_clf9i616b004o2a6juauiyog3</id>
+    <description lang="en-US">tragf&amp;auml;hig</description>
+  </component>
+    <component>
+    <id>choice_clf9i616b004p2a6j0vwdw7v6</id>
+    <description lang="en-US">bearbeitbar</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://RAR10pS9Y6p9eS3z4VIGWbin3nrGOam2_rise/vfAeokuJgdNSRVKM74wCjkRDikyy8jXl/clf9icpw400aw2a6jidsa3gln" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Im S&amp;auml;gewerk werden die gef&amp;auml;llten B&amp;auml;ume zu Schnittholz verarbeitet. Ordnen Sie dem Foto die verschiedenen Bretterarten zu.</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clf9icpw500ax2a6jbeifb0xy[.]target_clf9icpw500ax2a6jbeifb0xy</correctResponsePattern>
+    <correctResponsePattern>source_clf9icpw500ay2a6jtff706sp[.]target_clf9icpw500ay2a6jtff706sp</correctResponsePattern>
+    <correctResponsePattern>source_clf9icpw500az2a6j1ezzf4aa[.]target_clf9icpw500az2a6j1ezzf4aa</correctResponsePattern>
+    <correctResponsePattern>source_clf9idxl900b12a6johs2whcd[.]target_clf9idxl900b12a6johs2whcd</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clf9icpw500ax2a6jbeifb0xy</id>
+    <description lang="en-US">Schwarten></description>
+  </component>
+    <component>
+    <id>source_clf9icpw500ay2a6jtff706sp</id>
+    <description lang="en-US">Lesiten></description>
+  </component>
+    <component>
+    <id>source_clf9icpw500az2a6j1ezzf4aa</id>
+    <description lang="en-US">Kanthölzer></description>
+  </component>
+    <component>
+    <id>source_clf9idxl900b12a6johs2whcd</id>
+    <description lang="en-US">Bohlen, Bretter></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clf9icpw500ax2a6jbeifb0xy</id>
+        <description lang="en-US">Bereich 1</description>
+      </component>
+          <component>
+        <id>target_clf9icpw500ay2a6jtff706sp</id>
+        <description lang="en-US">Bereich 2</description>
+      </component>
+          <component>
+        <id>target_clf9icpw500az2a6j1ezzf4aa</id>
+        <description lang="en-US">Bereich 3</description>
+      </component>
+          <component>
+        <id>target_clf9idxl900b12a6johs2whcd</id>
+        <description lang="en-US">Bereich 4</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://RAR10pS9Y6p9eS3z4VIGWbin3nrGOam2_rise/vfAeokuJgdNSRVKM74wCjkRDikyy8jXl/clf9ieq2o00b22a6juy7ltnb5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Aus Holz k&amp;ouml;nnen versschiedene Werkstoffe hergestellt werden. Ordnen Sie die Begriffe richtig zu. </name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clf9ieq2p00b32a6jsj7vklsq[.]target_clf9ieq2p00b32a6jsj7vklsq</correctResponsePattern>
+    <correctResponsePattern>source_clf9ieq2p00b42a6jijuoo5k0[.]target_clf9ieq2p00b42a6jijuoo5k0</correctResponsePattern>
+    <correctResponsePattern>source_clf9ieq2p00b52a6jlfd06q92[.]target_clf9ieq2p00b52a6jlfd06q92</correctResponsePattern>
+    <correctResponsePattern>source_clf9ij9nz00b62a6jtausvoz2[.]target_clf9ij9nz00b62a6jtausvoz2</correctResponsePattern>
+    <correctResponsePattern>source_clf9ijmds00b72a6jliy70ciy[.]target_clf9ijmds00b72a6jliy70ciy</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clf9ieq2p00b32a6jsj7vklsq</id>
+    <description lang="en-US">Vollholz-Werkstoff></description>
+  </component>
+    <component>
+    <id>source_clf9ieq2p00b42a6jijuoo5k0</id>
+    <description lang="en-US">Faser-Werkstoff></description>
+  </component>
+    <component>
+    <id>source_clf9ieq2p00b52a6jlfd06q92</id>
+    <description lang="en-US">Span-Werkstoff></description>
+  </component>
+    <component>
+    <id>source_clf9ij9nz00b62a6jtausvoz2</id>
+    <description lang="en-US">Verbund-Werkstoff></description>
+  </component>
+    <component>
+    <id>source_clf9ijmds00b72a6jliy70ciy</id>
+    <description lang="en-US">Furnier-Werkstoff></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clf9ieq2p00b32a6jsj7vklsq</id>
+        <description lang="en-US">– Massivholzplatten
+– Brettschichtholz (BSH)
+– Kreuzbalken
+– lamelliertes Holz
+– Brettstap</description>
+      </component>
+          <component>
+        <id>target_clf9ieq2p00b42a6jijuoo5k0</id>
+        <description lang="en-US">– mitteldichte Faser-platte (MDF)
+– poröse Faserplatte (SB)
+– harte Faserplatte (HB)</description>
+      </component>
+          <component>
+        <id>target_clf9ieq2p00b52a6jlfd06q92</id>
+        <description lang="en-US">– Spanplatte
+– Oriented Strand Board (OSB)
+– Spanstreifenholz (LSL)
+– Strangpressplatte</description>
+      </component>
+          <component>
+        <id>target_clf9ij9nz00b62a6jtausvoz2</id>
+        <description lang="en-US">– Tischlerplatte
+– Stäbchensperrholz
+– Parkett-Verbund-Platten
+– Sperrtüren</description>
+      </component>
+          <component>
+        <id>target_clf9ijmds00b72a6jliy70ciy</id>
+        <description lang="en-US">– Furnier-Schicht-Holz (LVL)
+– Sperrholz
+– Furnierstreifen-holz (Parallam)</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://RAR10pS9Y6p9eS3z4VIGWbin3nrGOam2_rise/vfAeokuJgdNSRVKM74wCjkRDikyy8jXl/clf9ik2in00b82a6jk7u1hi4v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei welcher Temperatur wird das Harz im Holz fl&amp;uuml;ssig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clf9ik2in00b92a6jjfq2ikkk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clf9ik2in00b92a6jjfq2ikkk</id>
+    <description lang="en-US">ca. 60&amp;deg;C</description>
+  </component>
+    <component>
+    <id>choice_clf9ik2in00bb2a6jdkbfvyr7</id>
+    <description lang="en-US">ca. 100&amp;deg;C</description>
+  </component>
+    <component>
+    <id>choice_clf9ik2in00bc2a6jzqee9ba8</id>
+    <description lang="en-US">ca. 150&amp;deg;C</description>
+  </component>
+    <component>
+    <id>choice_clf9ik2in00ba2a6j9raw0gbx</id>
+    <description lang="en-US">ca. 80&amp;deg;C</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://RAR10pS9Y6p9eS3z4VIGWbin3nrGOam2_rise/vfAeokuJgdNSRVKM74wCjkRDikyy8jXl/clf9il76100ey2a6jbb58foj9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was emfiehlt sich bei der Erstbearbeitung von Holz?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clf9il76100ez2a6ji4l4yig7</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clf9il76100ez2a6ji4l4yig7</id>
+    <description lang="en-US">Probeanstrich</description>
+  </component>
+    <component>
+    <id>choice_clf9il76100f02a6j18emnsdf</id>
+    <description lang="en-US">Wiederholungsanstrich</description>
+  </component>
+    <component>
+    <id>choice_clf9imhak00f12a6jqtt1i79m</id>
+    <description lang="en-US">Funierung</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

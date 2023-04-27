@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://EZhKrxYR61mDNh5gZjyMAebzcXXJ4W8F_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Untergründe - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://EZhKrxYR61mDNh5gZjyMAebzcXXJ4W8F_rise/faWq4FsR0W9i2sisV_63IKDnbKNfgKr_" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://EZhKrxYR61mDNh5gZjyMAebzcXXJ4W8F_rise/faWq4FsR0W9i2sisV_63IKDnbKNfgKr_/cl1d8q4i90003266gdvwx6yzn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was sind m&amp;ouml;gliche Ursachen f&amp;uuml;r Putzrisse in der Sockelfl&amp;auml;che eines Wohngeb&amp;auml;udes?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl1d8q4i90004266g0m94vi5a</correctResponsePattern>
+    <correctResponsePattern>choice_cl1d8q4i90005266g6vb426lo</correctResponsePattern>
+    <correctResponsePattern>choice_cl1d8r8f70006266g15sz6i4i</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl1d8q4i90004266g0m94vi5a</id>
+    <description lang="en-US">zu feiner gleichk&amp;ouml;rniger Sand in der letzten Putzlage</description>
+  </component>
+    <component>
+    <id>choice_cl1d8q4i90005266g6vb426lo</id>
+    <description lang="en-US">zu viele aufschl&amp;auml;mmbare Bestandteile im M&amp;ouml;rtelsand</description>
+  </component>
+    <component>
+    <id>choice_cl1d8r8f70006266g15sz6i4i</id>
+    <description lang="en-US">zu hohe Bindemittelanteile im Oberputz</description>
+  </component>
+    <component>
+    <id>choice_cl1d8rbpp0007266g7uuomkc3</id>
+    <description lang="en-US">Falscher Farbton</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://EZhKrxYR61mDNh5gZjyMAebzcXXJ4W8F_rise/faWq4FsR0W9i2sisV_63IKDnbKNfgKr_/cl1d8rgo1000i266gbpcto1ub" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was sind m&amp;ouml;gliche Ursachen f&amp;uuml;r Putzrisse in der Sockelfl&amp;auml;che eines Wohngeb&amp;auml;udes?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl1d8rgo1000j266g5m3zyfof</correctResponsePattern>
+    <correctResponsePattern>choice_cl1d8rgo1000l266g231xglzr</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl1d8rgo1000j266g5m3zyfof</id>
+    <description lang="en-US">zu starke Oberfl&amp;auml;chenbearbeitung</description>
+  </component>
+    <component>
+    <id>choice_cl1d8rgo1000l266g231xglzr</id>
+    <description lang="en-US">zu schneller Entzug des Anmachwassers</description>
+  </component>
+    <component>
+    <id>choice_cl1d8rgo1000m266gxy3j70s7</id>
+    <description lang="en-US">Ausbl&amp;uuml;hende Salze</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://EZhKrxYR61mDNh5gZjyMAebzcXXJ4W8F_rise/faWq4FsR0W9i2sisV_63IKDnbKNfgKr_/cl1d8si7t002a266goe65bzhf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Begr&amp;uuml;nden Sie, warum es bei glatten Putzen im Vergleich zu strukturierten Putzen h&amp;auml;ufiger zu Rissen in der Putzoberfl&amp;auml;che kommt?&lt;br&gt;&lt;br&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl1d8si7t002b266gle6w8bqd</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl1d8si7t002b266gle6w8bqd</id>
+    <description lang="en-US">Glatt abgeriebene Putze haben eine kleinere Oberfl&amp;auml;che als strukturierte Putze. Die Trocknungsspannung verteilt sich deshalb auf eine kleinere Fl&amp;auml;che.</description>
+  </component>
+    <component>
+    <id>choice_cl1d8si7t002c266gks94kia0</id>
+    <description lang="en-US">Glatt abgeriebene Putze haben eine Gr&amp;ouml;&amp;szlig;ere Oberfl&amp;auml;che als strukturierte Putze. Die Trocknungsspannung verteilt sich deshalb auf eine Gr&amp;ouml;&amp;szlig;ere Fl&amp;auml;che.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://EZhKrxYR61mDNh5gZjyMAebzcXXJ4W8F_rise/faWq4FsR0W9i2sisV_63IKDnbKNfgKr_/cl1d8y1yh002g266gahqnfx6k" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Altbeschichtung auf dem Flachstahlgel&amp;auml;nder einer Au&amp;szlig;entreppe bl&amp;auml;ttert weitgehend ab. Was k&amp;ouml;nnen die Ursachen sein?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl1d8y1yh002h266gdxy4xinc</correctResponsePattern>
+    <correctResponsePattern>choice_cl1d8y1yh002j266g1a9kb5uq</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl1d8y1yh002h266gdxy4xinc</id>
+    <description lang="en-US">unzureichende Vorbehandlung, keine ammoniakalische Netzmittelw&amp;auml;sche;&lt;br&gt;dadurch unzureichende Haftung der Beschichtung, die durch mechanische&lt;br&gt;Belastungen und thermische Spannungen zur Abl&amp;ouml;sung f&amp;uuml;hrt, Hinterfeuchtung&lt;br&gt;f&amp;ouml;rdert die Abl&amp;ouml;sung. </description>
+  </component>
+    <component>
+    <id>choice_cl1d8y1yh002j266g1a9kb5uq</id>
+    <description lang="en-US">ungeeigneter, d.h. &amp;ouml;lhaltiger Beschichtungsstoff; Fetts&amp;auml;uren aus der Beschichtung reagieren mit dem Zink, es kommt zur Bildung von Zinkseifen, der Beschichtungsstoff verspr&amp;ouml;det, es f&amp;uuml;hrt zur vollst&amp;auml;ndiger Enthaftung.</description>
+  </component>
+    <component>
+    <id>choice_cl1d8y1yh002k266g2ncddq4h</id>
+    <description lang="en-US">ungeeigneter Beschichtungsstoff auf 2-K EP Basis. Fetts&amp;auml;uren aus der Beschichtung reagieren mit dem Zink, es kommt zur Bildung von Zinkseifen, der Beschichtungsstoff verspr&amp;ouml;det, es f&amp;uuml;hrt zur vollst&amp;auml;ndiger Enthaftung.&lt;br&gt;&lt;br&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://EZhKrxYR61mDNh5gZjyMAebzcXXJ4W8F_rise/faWq4FsR0W9i2sisV_63IKDnbKNfgKr_/cl1d8zv660051266gxdwe1rnu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die vom Auftraggeber gew&amp;uuml;nschte Ausf&amp;uuml;hrung der Beschichtung einer Tragkonstruktion des Carports erfordert ein Gespr&amp;auml;ch zwischen Ihnen und dem Kunden, denn der Kunde w&amp;uuml;nscht den Farbton Eiche Hell. Trifft die folgende Aussage zu, in Bezug auf die Vorbereitung des Kundengespr&amp;auml;chs und Ihre Argumente f&amp;uuml;r oder gegen die gew&amp;uuml;nschte Ausf&amp;uuml;hrung zu?&lt;br&gt;Die gew&amp;uuml;nschte Ausf&amp;uuml;hrung in Lasur, Eiche hell, entspricht nicht dem Stand der Technik (BFS-Merkblatt 18). Der Kunde muss darauf hingewiesen und schriftlich Bedenken angemeldet werden.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl1d8zv660052266guxvmlfsn</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl1d8zv660052266guxvmlfsn</id>
+    <description lang="en-US">Ja</description>
+  </component>
+    <component>
+    <id>choice_cl1d8zv660053266gzncic1kk</id>
+    <description lang="en-US">Nein</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://EZhKrxYR61mDNh5gZjyMAebzcXXJ4W8F_rise/faWq4FsR0W9i2sisV_63IKDnbKNfgKr_/cl1d90xxz0054266g0gggy97v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Eine Wohnung im Obergeschoss war l&amp;auml;ngere Zeit nicht bewohnt. Die Deckenfl&amp;auml;chen sollen mit Gipsplatten (GKB) verkleidet werden. Bei welchen raumklimatischen Bedingungen sollten diese &lt;strong&gt;&lt;u&gt;nicht&amp;nbsp;&lt;/u&gt;&lt;/strong&gt;eingebaut und/oder verspachtelt werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl1d90xxz0055266gh7rrxxfj</correctResponsePattern>
+    <correctResponsePattern>choice_cl1d90xxz0058266g3tcdpplt</correctResponsePattern>
+    <correctResponsePattern>choice_cl1d90xxz0057266g4anc08un</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl1d90xxz0055266gh7rrxxfj</id>
+    <description lang="en-US">bei zu niedrigen Temperaturen</description>
+  </component>
+    <component>
+    <id>choice_cl1d90xxz0057266g4anc08un</id>
+    <description lang="en-US">bei zu hoher relativer Luftfeuchtigkeit (l&amp;auml;nger andauernde relative Luftfeuchtigkeit von mehr als 80 %)&lt;br&gt;&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cl1d90xxz0058266g3tcdpplt</id>
+    <description lang="en-US">bei zu feuchten Untergr&amp;uuml;nden</description>
+  </component>
+    <component>
+    <id>choice_cl1d90xxz0056266gpvmzregr</id>
+    <description lang="en-US">bei zu hohen Temperaturen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://EZhKrxYR61mDNh5gZjyMAebzcXXJ4W8F_rise/faWq4FsR0W9i2sisV_63IKDnbKNfgKr_/cl1d9256g0071266gbwmkyn4v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Eine Wohnung im Obergeschoss war l&amp;auml;ngere Zeit nicht bewohnt. Die Deckenfl&amp;auml;chen sollen mit Gipsplatten (GKB) verkleidet werden. Bei welchen raumklimatischen Bedingungen sollten diese &lt;strong&gt;&lt;u&gt;nicht&amp;nbsp;&lt;/u&gt;&lt;/strong&gt;eingebaut und/oder verspachtelt werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl1d9256g0072266gt5sf67wm</correctResponsePattern>
+    <correctResponsePattern>choice_cl1d9256g0074266gvns1a5ig</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl1d9256g0072266gt5sf67wm</id>
+    <description lang="en-US">bei zu erwartenden gr&amp;ouml;&amp;szlig;eren Feuchte- oder Temperatur&amp;auml;nderungen</description>
+  </component>
+    <component>
+    <id>choice_cl1d9256g0074266gvns1a5ig</id>
+    <description lang="en-US">f&amp;uuml;r die Verspachtelung darf die Raumtemperatur +10 C nicht unterschreiten</description>
+  </component>
+    <component>
+    <id>choice_cl1d9256g0075266gzypqqrk2</id>
+    <description lang="en-US">f&amp;uuml;r die Verspachtelung darf die Raumtemperatur +18 C nicht &amp;uuml;berschreiten</description>
+  </component>
+    <component>
+    <id>choice_cl1d9256g0073266gy20u2x5r</id>
+    <description lang="en-US">bei zu hoher relativer Luftfeuchtigkeit (l&amp;auml;nger andauernde relative Luftfeuchtigkeit von mehr als 60 %)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://EZhKrxYR61mDNh5gZjyMAebzcXXJ4W8F_rise/faWq4FsR0W9i2sisV_63IKDnbKNfgKr_/cl1d93l980094266gwng1om56" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Qualit&amp;auml;tsstufe (Q) gilt, wenn im Leistungsverzeichnis f&amp;uuml;r die Verarbeitung von Gipsplatten (GKB) keine Angaben &amp;uuml;ber die Oberfl&amp;auml;chenqualit&amp;auml;t gemacht werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl1d93l980096266g33xb3ezv</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl1d93l980095266gr14xzaid</id>
+    <description lang="en-US">Q1</description>
+  </component>
+    <component>
+    <id>choice_cl1d93l980096266g33xb3ezv</id>
+    <description lang="en-US">Q2</description>
+  </component>
+    <component>
+    <id>choice_cl1d93zkg0097266gundmk1a3</id>
+    <description lang="en-US">Q3</description>
+  </component>
+    <component>
+    <id>choice_cl1d942fy0098266g48tm870w</id>
+    <description lang="en-US">Q4</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://EZhKrxYR61mDNh5gZjyMAebzcXXJ4W8F_rise/faWq4FsR0W9i2sisV_63IKDnbKNfgKr_/cl1d94de00099266grc17wuvp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Trifft folgende Aussage f&amp;uuml;r die Verspachtelung der Gipsplatten (GKB) an den&lt;br&gt;Deckenfl&amp;auml;chen einer Mietwohnung (verlangte Qualit&amp;auml;tsstufe 3) zu?&lt;br&gt;Grund- und Standardverspachtelung (Q2) und breites Ausspachteln der Fugen, sowie scharfes Abziehen der restlichen Kartonoberfl&amp;auml;che zum Porenverschluss.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl1d94de0009a266gn3bn84ck</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl1d94de0009a266gn3bn84ck</id>
+    <description lang="en-US">Ja</description>
+  </component>
+    <component>
+    <id>choice_cl1d94de0009b266gsjnc6ve2</id>
+    <description lang="en-US">Nein</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://EZhKrxYR61mDNh5gZjyMAebzcXXJ4W8F_rise/faWq4FsR0W9i2sisV_63IKDnbKNfgKr_/cl1d976za00ck266gt4354zh7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wodurch kann das Aufbrennen von Kalkfarbe oder Gl&amp;auml;ttespachtel auf Kalkbasis auf neuen trockenen Putzen verhindert werden? &amp;nbsp; &amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl1d976zc00cl266g4zmxq9w6</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl1d976zc00cl266g4zmxq9w6</id>
+    <description lang="en-US">durch Vorn&amp;auml;ssen mit Wasser</description>
+  </component>
+    <component>
+    <id>choice_cl1d976zc00cn266gbfc8jvp4</id>
+    <description lang="en-US">durch einen Voranstrich mit Silikonharzfarbe</description>
+  </component>
+    <component>
+    <id>choice_cl1d976zc00co266glg8su4e8</id>
+    <description lang="en-US">Es muss kein voranstrich erfolgen, da Kalkbasierte Spachtelmasse verkieselt &amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
