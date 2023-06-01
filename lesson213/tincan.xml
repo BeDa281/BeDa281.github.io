@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://IZVuR-NVNb7kx_cANHnZiBttOC1WGqLT_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Arbeitsverfahren - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://IZVuR-NVNb7kx_cANHnZiBttOC1WGqLT_rise/X1kT2NdNKMr74o0p__xAh3Uln9xrmER9" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://IZVuR-NVNb7kx_cANHnZiBttOC1WGqLT_rise/X1kT2NdNKMr74o0p__xAh3Uln9xrmER9/clheyimi100022a6h2bt6w5b4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welches Schleifmittel eignet sich f&amp;uuml;r das Schleifen von Metall?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheyje0f00072a6hxnkk6py7</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheyimi100032a6hv0mfxs13</id>
+    <description lang="en-US">Sandpapier</description>
+  </component>
+    <component>
+    <id>choice_clheyimi100042a6hi0hm10ol</id>
+    <description lang="en-US">Schleifvlies</description>
+  </component>
+    <component>
+    <id>choice_clheyizve00052a6hav98blje</id>
+    <description lang="en-US">Schleifpapier</description>
+  </component>
+    <component>
+    <id>choice_clheyj4wz00062a6hpa2jfonj</id>
+    <description lang="en-US">Schleifpaste</description>
+  </component>
+    <component>
+    <id>choice_clheyje0f00072a6hxnkk6py7</id>
+    <description lang="en-US">Alles ist richtig</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IZVuR-NVNb7kx_cANHnZiBttOC1WGqLT_rise/X1kT2NdNKMr74o0p__xAh3Uln9xrmER9/clheyjr2i00082a6h2bjpi80o" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist der Unterschied zwischen einer &amp;Ouml;l- und einer Wasserlackierung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheyjr2j00092a6hac2d4ec5</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheyjr2j00092a6hac2d4ec5</id>
+    <description lang="en-US">Die Wasserlackierung ist schneller trocknend.</description>
+  </component>
+    <component>
+    <id>choice_clheyjr2j000a2a6h8pvi08yx</id>
+    <description lang="en-US">Die &amp;Ouml;llackierung hat eine h&amp;ouml;here Abriebfestigkeit.</description>
+  </component>
+    <component>
+    <id>choice_clheyk53m000b2a6higo3qf6u</id>
+    <description lang="en-US">Die Wasserlackierung hat eine bessere Farbdeckung.</description>
+  </component>
+    <component>
+    <id>choice_clheyk9te000c2a6hxo97o3tl</id>
+    <description lang="en-US">Die &amp;Ouml;llackierung hat einen h&amp;ouml;heren Glanzgrad.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IZVuR-NVNb7kx_cANHnZiBttOC1WGqLT_rise/X1kT2NdNKMr74o0p__xAh3Uln9xrmER9/clheykgnj000d2a6hx7vnj3w4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welches Werkzeug wird am besten zum Auftragen von Lack verwendet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheyksge000g2a6hoojrm0ab</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheykgnj000e2a6hsm50crlq</id>
+    <description lang="en-US">Pinsel</description>
+  </component>
+    <component>
+    <id>choice_clheykgnj000f2a6h07wkrdlo</id>
+    <description lang="en-US">Rolle</description>
+  </component>
+    <component>
+    <id>choice_clheyksge000g2a6hoojrm0ab</id>
+    <description lang="en-US">Spritzpistole</description>
+  </component>
+    <component>
+    <id>choice_clheykwzc000h2a6hydqd471a</id>
+    <description lang="en-US">Schwamm</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IZVuR-NVNb7kx_cANHnZiBttOC1WGqLT_rise/X1kT2NdNKMr74o0p__xAh3Uln9xrmER9/clheyl89k000i2a6h9lw15hlu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welches Verfahren wird verwendet, um eine raue Oberfl&amp;auml;che zu erzeugen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheylnkg000m2a6hiilj3myx</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheyl89l000j2a6hr62nhe2v</id>
+    <description lang="en-US">Spachteln</description>
+  </component>
+    <component>
+    <id>choice_clheyl89l000k2a6htdtv076u</id>
+    <description lang="en-US">Rollen</description>
+  </component>
+    <component>
+    <id>choice_clheyll40000l2a6h27w19cwp</id>
+    <description lang="en-US">Streichen</description>
+  </component>
+    <component>
+    <id>choice_clheylnkg000m2a6hiilj3myx</id>
+    <description lang="en-US">Schleifen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IZVuR-NVNb7kx_cANHnZiBttOC1WGqLT_rise/X1kT2NdNKMr74o0p__xAh3Uln9xrmER9/clheyluon000n2a6hdxfogacu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist der Zweck des Auftragens von Primer?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheyluon000p2a6h3t3baok2</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheyluon000o2a6h213k0uvp</id>
+    <description lang="en-US">Es sch&amp;uuml;tzt das Material vor Feuchtigkeit.</description>
+  </component>
+    <component>
+    <id>choice_clheyluon000p2a6h3t3baok2</id>
+    <description lang="en-US">Es verbessert die Haftung der Farbe auf der Oberfl&amp;auml;che.</description>
+  </component>
+    <component>
+    <id>choice_clheymbmp000q2a6h008nfuaf</id>
+    <description lang="en-US">Es gibt der Farbe eine bessere Farbdeckung.</description>
+  </component>
+    <component>
+    <id>choice_clheymfry000r2a6h3ka868zv</id>
+    <description lang="en-US">Es verhindert, dass Farbe abbl&amp;auml;ttert.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IZVuR-NVNb7kx_cANHnZiBttOC1WGqLT_rise/X1kT2NdNKMr74o0p__xAh3Uln9xrmER9/clheymhmk000s2a6hqzx44q83" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welches Verfahren wird am besten zum Auftragen von Farbe auf unebene Oberfl&amp;auml;chen verwendet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheymhmk000t2a6h8u0wymml</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheymhmk000t2a6h8u0wymml</id>
+    <description lang="en-US">Rollen</description>
+  </component>
+    <component>
+    <id>choice_clheymhmk000u2a6hp97rsek1</id>
+    <description lang="en-US">Streichen</description>
+  </component>
+    <component>
+    <id>choice_clheyn38t000v2a6hc5oli3ru</id>
+    <description lang="en-US">Spr&amp;uuml;hen</description>
+  </component>
+    <component>
+    <id>choice_clheyn4ig000w2a6h4yoj7wvd</id>
+    <description lang="en-US">Spachteln</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IZVuR-NVNb7kx_cANHnZiBttOC1WGqLT_rise/X1kT2NdNKMr74o0p__xAh3Uln9xrmER9/clheyn8xv000x2a6hhow3shrm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist der Zweck des Verd&amp;uuml;nnens von Farbe?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheyn8xw000y2a6h38ee4xsq</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheyn8xw000y2a6h38ee4xsq</id>
+    <description lang="en-US">Es erleichtert das Auftragen der Farbe.</description>
+  </component>
+    <component>
+    <id>choice_clheyn8xw000z2a6h81sd973q</id>
+    <description lang="en-US">Es erh&amp;ouml;ht die Farbintensit&amp;auml;t.</description>
+  </component>
+    <component>
+    <id>choice_clheynsc100102a6he03ldhpe</id>
+    <description lang="en-US">Es verbessert die Haftung der Farbe auf der Oberfl&amp;auml;che.</description>
+  </component>
+    <component>
+    <id>choice_clheynwh700112a6hy8umcvef</id>
+    <description lang="en-US">Es verl&amp;auml;ngert die Trocknungszeit der Farbe.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IZVuR-NVNb7kx_cANHnZiBttOC1WGqLT_rise/X1kT2NdNKMr74o0p__xAh3Uln9xrmER9/clheyo2px00122a6hgx4s7o4k" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welches Werkzeug wird am besten zum Vorreinigen von abbl&amp;auml;tternder Farbe verwendet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheyo2px00132a6hzmfelk5i</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheyo2px00132a6hzmfelk5i</id>
+    <description lang="en-US">Schaber</description>
+  </component>
+    <component>
+    <id>choice_clheyo2px00142a6hqj501b04</id>
+    <description lang="en-US">Spachtel</description>
+  </component>
+    <component>
+    <id>choice_clheyoocd00152a6hcvki30jr</id>
+    <description lang="en-US">Schleifpapier</description>
+  </component>
+    <component>
+    <id>choice_clheyor2v00162a6hm4bymxlb</id>
+    <description lang="en-US">Lappen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IZVuR-NVNb7kx_cANHnZiBttOC1WGqLT_rise/X1kT2NdNKMr74o0p__xAh3Uln9xrmER9/clheyp2dt00172a6hdhm7furn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Verfahren werden zum Lackieren von Metall verwendet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheyp2dt00182a6hfy7bbo56</correctResponsePattern>
+    <correctResponsePattern>choice_clheyp2dt00192a6h3lwyfnc5</correctResponsePattern>
+    <correctResponsePattern>choice_clheypowd001k2a6hobicmyzq</correctResponsePattern>
+    <correctResponsePattern>choice_clheyps7m001t2a6hfsakqfty</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheyp2dt00182a6hfy7bbo56</id>
+    <description lang="en-US">Galvanisieren</description>
+  </component>
+    <component>
+    <id>choice_clheyp2dt00192a6h3lwyfnc5</id>
+    <description lang="en-US">Rollen</description>
+  </component>
+    <component>
+    <id>choice_clheypowd001k2a6hobicmyzq</id>
+    <description lang="en-US">Streichen</description>
+  </component>
+    <component>
+    <id>choice_clheyps7m001t2a6hfsakqfty</id>
+    <description lang="en-US">Spritzen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://IZVuR-NVNb7kx_cANHnZiBttOC1WGqLT_rise/X1kT2NdNKMr74o0p__xAh3Uln9xrmER9/clheyq33g00262a6h0veamod4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist der Zweck des Abbeizens?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheyq33h00272a6h1g482nug</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheyq33h00272a6h1g482nug</id>
+    <description lang="en-US">Es entfernt alte Farbschichten.</description>
+  </component>
+    <component>
+    <id>choice_clheyq33h00282a6h5smd5hoh</id>
+    <description lang="en-US">Es verbessert die Haftung der neuen Farbe auf der Oberfl&amp;auml;che.</description>
+  </component>
+    <component>
+    <id>choice_clheyqj7f00292a6h7ptpek7b</id>
+    <description lang="en-US">Es sch&amp;uuml;tzt das Material vor Feuchtigkeit.</description>
+  </component>
+    <component>
+    <id>choice_clheyqpjy002a2a6h691kyyd9</id>
+    <description lang="en-US">Es verleiht der Oberfl&amp;auml;che einen gl&amp;auml;nzenden Glanz.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

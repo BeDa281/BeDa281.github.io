@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://Z7EwnNt7BYH1mtJWJnkJCaygIxBoIwaD_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Arbeitsverfahren - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://Z7EwnNt7BYH1mtJWJnkJCaygIxBoIwaD_rise/gAWiH8uMAgcrqg_EseolR7GDtxsnVL2K" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://Z7EwnNt7BYH1mtJWJnkJCaygIxBoIwaD_rise/gAWiH8uMAgcrqg_EseolR7GDtxsnVL2K/clheon7rt00022a6j8aad066d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welches Werkzeug wird am besten zum Schleifen von Holz verwendet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheon7rt00032a6jkmstgi76</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheon7rt00032a6jkmstgi76</id>
+    <description lang="en-US">Schwingschleifer</description>
+  </component>
+    <component>
+    <id>choice_clheon7rt00042a6jwiu3bww6</id>
+    <description lang="en-US">Exzenterschleifer</description>
+  </component>
+    <component>
+    <id>choice_clheonpr400052a6j2089erp3</id>
+    <description lang="en-US">Bandschleifer</description>
+  </component>
+    <component>
+    <id>choice_clheonsh900062a6jdl6olow0</id>
+    <description lang="en-US">Winkelschleifer</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z7EwnNt7BYH1mtJWJnkJCaygIxBoIwaD_rise/gAWiH8uMAgcrqg_EseolR7GDtxsnVL2K/clheonuim00072a6jnwtcem40" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist der Zweck einer Grundierung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheonuim00092a6jyhone3k8</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheonuim00082a6j5yu68syt</id>
+    <description lang="en-US">Sie sch&amp;uuml;tzt das Material vor Feuchtigkeit.</description>
+  </component>
+    <component>
+    <id>choice_clheonuim00092a6jyhone3k8</id>
+    <description lang="en-US">Sie verbessert die Haftung der Farbe auf der Oberfl&amp;auml;che.</description>
+  </component>
+    <component>
+    <id>choice_clheoohnv000a2a6j9aq77upx</id>
+    <description lang="en-US">Sie verhindert, dass Farbe abbl&amp;auml;ttert.</description>
+  </component>
+    <component>
+    <id>choice_clheool2s000b2a6jlzvhon03</id>
+    <description lang="en-US">Sie gibt der Farbe eine bessere Farbdeckung.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z7EwnNt7BYH1mtJWJnkJCaygIxBoIwaD_rise/gAWiH8uMAgcrqg_EseolR7GDtxsnVL2K/clheoongh000c2a6jnab7civb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welches L&amp;ouml;sungsmittel wird am h&amp;auml;ufigsten zum Verd&amp;uuml;nnen von Farbe verwendet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheoongh000d2a6jlebeq32e</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheoongh000d2a6jlebeq32e</id>
+    <description lang="en-US">Wasser</description>
+  </component>
+    <component>
+    <id>choice_clheoongh000e2a6j9isrmv9f</id>
+    <description lang="en-US">Terpentin</description>
+  </component>
+    <component>
+    <id>choice_clheop3yc000f2a6jefqadnlq</id>
+    <description lang="en-US">Benzin</description>
+  </component>
+    <component>
+    <id>choice_clheop6wz000g2a6jdbrba2vq</id>
+    <description lang="en-US">Essig</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z7EwnNt7BYH1mtJWJnkJCaygIxBoIwaD_rise/gAWiH8uMAgcrqg_EseolR7GDtxsnVL2K/clheop9j8000h2a6jfgv0dvz3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Art von Farbe trocknet am schnellsten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheop9j8000j2a6jr8v5x3x6</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheop9j8000i2a6jzljntj8a</id>
+    <description lang="en-US">&amp;Ouml;lfarbe</description>
+  </component>
+    <component>
+    <id>choice_clheop9j8000j2a6jr8v5x3x6</id>
+    <description lang="en-US">Acrylfarbe</description>
+  </component>
+    <component>
+    <id>choice_clheopqmc000k2a6je3vec85f</id>
+    <description lang="en-US">Lackfarbe</description>
+  </component>
+    <component>
+    <id>choice_clheoptgd000l2a6j2suzwofq</id>
+    <description lang="en-US">Emailfarbe</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z7EwnNt7BYH1mtJWJnkJCaygIxBoIwaD_rise/gAWiH8uMAgcrqg_EseolR7GDtxsnVL2K/clheopyso000m2a6j9qcchf0r" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welches Arbeitsverfahren wird verwendet, um eine glatte Oberfl&amp;auml;che zu erzeugen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheoqib1000q2a6j9u0u5f61</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheopyso000n2a6j36kpj080</id>
+    <description lang="en-US">Spr&amp;uuml;hen</description>
+  </component>
+    <component>
+    <id>choice_clheopyso000o2a6jgfrgpvzy</id>
+    <description lang="en-US">Rollen</description>
+  </component>
+    <component>
+    <id>choice_clheoqfwm000p2a6jqyz62y3h</id>
+    <description lang="en-US">Streichen</description>
+  </component>
+    <component>
+    <id>choice_clheoqib1000q2a6j9u0u5f61</id>
+    <description lang="en-US">Spachteln</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z7EwnNt7BYH1mtJWJnkJCaygIxBoIwaD_rise/gAWiH8uMAgcrqg_EseolR7GDtxsnVL2K/clheoqr86000r2a6j6jp3z5mx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist der Zweck des Abdeckens von M&amp;ouml;beln und B&amp;ouml;den w&amp;auml;hrend des Malprozesses?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheorcuu000v2a6j9yjwqq69</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheoqr86000s2a6j80286s7j</id>
+    <description lang="en-US">Sie sch&amp;uuml;tzen vor Farbspritzern.</description>
+  </component>
+    <component>
+    <id>choice_clheoqr86000t2a6japtwkh01</id>
+    <description lang="en-US">Sie verhindern, dass Farbe in die M&amp;ouml;bel und den Boden eindringt.</description>
+  </component>
+    <component>
+    <id>choice_clheor8xw000u2a6jgyaoecwt</id>
+    <description lang="en-US">Sie erleichtern das Reinigen nach dem Malprozess.</description>
+  </component>
+    <component>
+    <id>choice_clheorcuu000v2a6j9yjwqq69</id>
+    <description lang="en-US">Alle oben genannten.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z7EwnNt7BYH1mtJWJnkJCaygIxBoIwaD_rise/gAWiH8uMAgcrqg_EseolR7GDtxsnVL2K/clheorfli000w2a6jqsz0ers3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie kann eine Oberfl&amp;auml;che vor der Farbauftragung vorbereitet werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheos4ui00102a6jeg2n9vtw</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheorflj000x2a6j2cl02z3m</id>
+    <description lang="en-US">Entfernung von Schmutz und Staub</description>
+  </component>
+    <component>
+    <id>choice_clheorflj000y2a6jg1caqpke</id>
+    <description lang="en-US">Entfernung von Schimmel mit geeigneten Verfahren</description>
+  </component>
+    <component>
+    <id>choice_clheos1nm000z2a6j758qa5kg</id>
+    <description lang="en-US">Reparatur von Rissen und L&amp;ouml;chern</description>
+  </component>
+    <component>
+    <id>choice_clheos4ui00102a6jeg2n9vtw</id>
+    <description lang="en-US">Alle oben genannten</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z7EwnNt7BYH1mtJWJnkJCaygIxBoIwaD_rise/gAWiH8uMAgcrqg_EseolR7GDtxsnVL2K/clheosc2t00112a6je2aynfoc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist der Zweck des Abklebens?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheosc2t00132a6jrkuqma6f</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheosc2t00122a6j2477ffbl</id>
+    <description lang="en-US">Es hilft, saubere Kanten und Linien zu erzeugen.</description>
+  </component>
+    <component>
+    <id>choice_clheosc2t00132a6jrkuqma6f</id>
+    <description lang="en-US">Es sch&amp;uuml;tzt angrenzende Oberfl&amp;auml;chen vor Farbe.</description>
+  </component>
+    <component>
+    <id>choice_clheosqc100142a6jmyqujcbu</id>
+    <description lang="en-US">Es erleichtert das Entfernen von Farbe aus den Fensterrahmen.</description>
+  </component>
+    <component>
+    <id>choice_clheoste100152a6jynz2ighc</id>
+    <description lang="en-US">Es verhindert, dass Farbe in die Decke eindringt.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z7EwnNt7BYH1mtJWJnkJCaygIxBoIwaD_rise/gAWiH8uMAgcrqg_EseolR7GDtxsnVL2K/clheot01700192a6jnv8qv6ox" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Farbart eignet sich am besten f&amp;uuml;r die Lackierung von Holz im Innenbereich?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheot017001a2a6jhcx38fcw</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheot017001a2a6jhcx38fcw</id>
+    <description lang="en-US">Acryllack</description>
+  </component>
+    <component>
+    <id>choice_clheot017001b2a6jzn651thm</id>
+    <description lang="en-US">Emaillelack</description>
+  </component>
+    <component>
+    <id>choice_clheotdrj001c2a6jgk9wg6t2</id>
+    <description lang="en-US">Alkydlack</description>
+  </component>
+    <component>
+    <id>choice_clheoth04001d2a6j6h0hybff</id>
+    <description lang="en-US">&amp;Ouml;llack</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z7EwnNt7BYH1mtJWJnkJCaygIxBoIwaD_rise/gAWiH8uMAgcrqg_EseolR7GDtxsnVL2K/clheqvu5o001e2a6jnds7eu12" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist der Zweck der Versiegelung einer Oberfl&amp;auml;che?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clheqwfrw001i2a6jfbr0f5bi</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clheqvu5o001f2a6jno0etwcg</id>
+    <description lang="en-US">Es verhindert, dass Wasser in das Material eindringt.</description>
+  </component>
+    <component>
+    <id>choice_clheqvu5o001g2a6jypxiv9fj</id>
+    <description lang="en-US">Es erh&amp;ouml;ht die Best&amp;auml;ndigkeit gegen Abnutzung und Kratzer.</description>
+  </component>
+    <component>
+    <id>choice_clheqwbdm001h2a6j05scddel</id>
+    <description lang="en-US">Eine Versiegelung sch&amp;uuml;tzt Oberfl&amp;auml;chen vor Besch&amp;auml;digungen und Verschlei&amp;szlig;</description>
+  </component>
+    <component>
+    <id>choice_clheqwfrw001i2a6jfbr0f5bi</id>
+    <description lang="en-US">Alle oben genannten.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
