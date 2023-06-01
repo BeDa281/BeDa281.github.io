@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://gEQMuU4f_U2sWSIRcIQq5TN_qhoxT8Ya_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Treppenbau- Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://gEQMuU4f_U2sWSIRcIQq5TN_qhoxT8Ya_rise/BBeVT5ZQSEdZqeaiKrjUaNjPLsEA4rWp" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://gEQMuU4f_U2sWSIRcIQq5TN_qhoxT8Ya_rise/BBeVT5ZQSEdZqeaiKrjUaNjPLsEA4rWp/clh6fgopz000x2a6id4a2b82x" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Mindestreppengel&amp;auml;nderh&amp;ouml;he &amp;nbsp;schreibt die DIN 18 065 &amp;nbsp;bis 12 m Absturzh&amp;ouml;he in Wohngeb&amp;auml;uden bzw. in allen Geb&amp;auml;uden vor, &amp;nbsp;die nicht Arbeitsst&amp;auml;tten sind?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clh6fgopz000y2a6im878rqkg</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clh6fgopz000y2a6im878rqkg</id>
+    <description lang="en-US">90 cm Oberkante Handlauf, senkrecht ab Unterschneidungsvorderkante der Stufe gemessen.</description>
+  </component>
+    <component>
+    <id>choice_clh6fgopz00102a6i46ltjizk</id>
+    <description lang="en-US">90 cm Oberkante Handlauf, im rechten Winkel zur Wangenoberkante gemessen</description>
+  </component>
+    <component>
+    <id>choice_clh6fgopz00112a6iicgzt414</id>
+    <description lang="en-US">90 cm Oberkante Handlauf, senkrecht ab Mitte der Stufe gemessen</description>
+  </component>
+    <component>
+    <id>choice_clh6fgopz000z2a6ipps6qu2b</id>
+    <description lang="en-US">100 cm Oberkante Handlauf, senkrecht ab Mitte der Stufe gemessen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gEQMuU4f_U2sWSIRcIQq5TN_qhoxT8Ya_rise/BBeVT5ZQSEdZqeaiKrjUaNjPLsEA4rWp/clh6fk2qg001p2a6iofeysni2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie gross &amp;nbsp;muss die nutzbare Treppenlaufbreite bei Treppen, die zu Aufenthaltsr&amp;auml;umen f&amp;uuml;hren mindestens sein?( in Wohngeb&amp;auml;uden mit nicht mehr als 2 Wohnungen und Maisonette- Wohnungen in Geb&amp;auml;uden)</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clh6fk2qg001q2a6i7plio7iq</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clh6fk2qg001q2a6i7plio7iq</id>
+    <description lang="en-US">80 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fk2qg001r2a6ix6vd2w7t</id>
+    <description lang="en-US">90 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fkp0300232a6iv2qv5xb7</id>
+    <description lang="en-US">100 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fks0900242a6iiq5ugllb</id>
+    <description lang="en-US">120 cm</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gEQMuU4f_U2sWSIRcIQq5TN_qhoxT8Ya_rise/BBeVT5ZQSEdZqeaiKrjUaNjPLsEA4rWp/clh6fky0100252a6izs61cayq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Nach wievielen Steigungen muss sp&amp;auml;testens ein Ruhepodest eingebaut werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clh6fl9wh00282a6ihn6lftdm</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clh6fky0100262a6ilkmalc25</id>
+    <description lang="en-US">15 Stufen</description>
+  </component>
+    <component>
+    <id>choice_clh6fky0100272a6ihv1jyrw6</id>
+    <description lang="en-US">17 Stufen</description>
+  </component>
+    <component>
+    <id>choice_clh6fl9wh00282a6ihn6lftdm</id>
+    <description lang="en-US">18 Stufen</description>
+  </component>
+    <component>
+    <id>choice_clh6flc3y00292a6ith78g5w7</id>
+    <description lang="en-US">20 Stufen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gEQMuU4f_U2sWSIRcIQq5TN_qhoxT8Ya_rise/BBeVT5ZQSEdZqeaiKrjUaNjPLsEA4rWp/clh6flnap002a2a6ingbd3k4m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie dick m&amp;uuml;ssen Trittstufen aus Massivholz mindestens bemessen sein, ohne das ein statischer Einzelnachweis erforderlich wird?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clh6fm0rm002d2a6itie773wy</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clh6flnaq002b2a6icpm579ax</id>
+    <description lang="en-US">45 mm</description>
+  </component>
+    <component>
+    <id>choice_clh6flnaq002c2a6ieulnn77g</id>
+    <description lang="en-US">42 mm</description>
+  </component>
+    <component>
+    <id>choice_clh6fm0rm002d2a6itie773wy</id>
+    <description lang="en-US">50 mm</description>
+  </component>
+    <component>
+    <id>choice_clh6fm394002e2a6iq0mdj469</id>
+    <description lang="en-US">55 mm</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gEQMuU4f_U2sWSIRcIQq5TN_qhoxT8Ya_rise/BBeVT5ZQSEdZqeaiKrjUaNjPLsEA4rWp/clh6fmav6002f2a6ikpf9vj5u" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie gross d&amp;uuml;rfen die Unterschneidung der Stufen an offenen &amp;nbsp;Treppen bemessen sein?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clh6fmxrz00392a6ia6e6ykov</correctResponsePattern>
+    <correctResponsePattern>choice_clh6fmuec00302a6ige1hl301</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clh6fmav6002g2a6ijukh5ae4</id>
+    <description lang="en-US">2 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fmav6002h2a6iug9zldtw</id>
+    <description lang="en-US">2,5 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fmuec00302a6ige1hl301</id>
+    <description lang="en-US">mindestens 3 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fmxrz00392a6ia6e6ykov</id>
+    <description lang="en-US">4 cm</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gEQMuU4f_U2sWSIRcIQq5TN_qhoxT8Ya_rise/BBeVT5ZQSEdZqeaiKrjUaNjPLsEA4rWp/clh6fn3fn003n2a6imqzptc34" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">D&amp;uuml;rfen sie als zuk&amp;uuml;nftiger Zimmerermeister Spindeltreppen planen, herstellen und einbauen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clh6fn3fn003o2a6ij4ngjww3</correctResponsePattern>
+    <correctResponsePattern>choice_clh6fn3fn003r2a6igqmk0sz4</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clh6fn3fn003o2a6ij4ngjww3</id>
+    <description lang="en-US">Ja, solange eine &amp;nbsp;allgemeine bauaufsichtliche Zulassung vorliegt</description>
+  </component>
+    <component>
+    <id>choice_clh6fn3fn003q2a6inf3178xx</id>
+    <description lang="en-US">Ja, solange alle Vorschriften der DIN 18065 und der DIN 68800 erf&amp;uuml;llt sind</description>
+  </component>
+    <component>
+    <id>choice_clh6fn3fn003r2a6igqmk0sz4</id>
+    <description lang="en-US">Ja, solange eine Zustimmung im Einzelfall &amp;nbsp;vorliegt</description>
+  </component>
+    <component>
+    <id>choice_clh6fn3fn003p2a6ix07m3x4i</id>
+    <description lang="en-US">Ja, solange alle Vorschriften der Landesbauordnung erf&amp;uuml;llt sind</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gEQMuU4f_U2sWSIRcIQq5TN_qhoxT8Ya_rise/BBeVT5ZQSEdZqeaiKrjUaNjPLsEA4rWp/clh6fnxfw00512a6iodop4njn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie breit muss der Auftritt ohne Unterschneidung bei Treppen, die zu Aufenthaltsr&amp;auml;umen f&amp;uuml;hren ( in Wohngeb&amp;auml;uden mit nicht mehr als 2 Wohnungen sowie Maisonettewohnungen in Geb&amp;auml;uden) mindestens sein?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clh6fnxfw00532a6in38y0i3s</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clh6fnxfw00522a6i8s8if6s1</id>
+    <description lang="en-US">22 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fnxfw00532a6in38y0i3s</id>
+    <description lang="en-US">23 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fodo3005s2a6imy0d2k8v</id>
+    <description lang="en-US">24 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fogl700642a6iaqtt80c8</id>
+    <description lang="en-US">25 cm</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gEQMuU4f_U2sWSIRcIQq5TN_qhoxT8Ya_rise/BBeVT5ZQSEdZqeaiKrjUaNjPLsEA4rWp/clh6fong4006e2a6if46m4e50" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie hoch darf die Steigungsh&amp;ouml;he bei Treppen,die zu Aufenthaltsr&amp;auml;umen f&amp;uuml;hren &amp;nbsp;(in Wohngeb&amp;auml;uden mit nicht mehr als 2 Wohnungen sowie Maisonettewohnungen in Geb&amp;auml;uden) maximal sein?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clh6fong4006g2a6iua70bgbl</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clh6fong4006f2a6i6ik1j226</id>
+    <description lang="en-US">19 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fong4006g2a6iua70bgbl</id>
+    <description lang="en-US">20 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6foykl006h2a6iivsux027</id>
+    <description lang="en-US">21 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fp1j3006i2a6ij9soekkg</id>
+    <description lang="en-US">21.5 cm</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gEQMuU4f_U2sWSIRcIQq5TN_qhoxT8Ya_rise/BBeVT5ZQSEdZqeaiKrjUaNjPLsEA4rWp/clh6fp6xy006j2a6i35m57px1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie gross muss die lichte Durchhangsh&amp;ouml;he von zwischen den Vorderkanten der Stufenunterschneidungen sowie der Unterkante der Geschossdecke mindestens sein?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clh6fp6xy006l2a6iuffeoyni</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clh6fp6xy006k2a6ilxc4k2p7</id>
+    <description lang="en-US">mindestens Raumh&amp;ouml;he des Erdgeschosses &amp;ndash; 0.5 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fp6xy006l2a6iuffeoyni</id>
+    <description lang="en-US">200 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fpkk3006m2a6ijo8n6b6f</id>
+    <description lang="en-US">202 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fpog4006n2a6itn9q7csb</id>
+    <description lang="en-US">205 cm</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gEQMuU4f_U2sWSIRcIQq5TN_qhoxT8Ya_rise/BBeVT5ZQSEdZqeaiKrjUaNjPLsEA4rWp/clh6fpvm7006o2a6ig5rc2uwf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie gross darf der Abstand von vertikalen Gel&amp;auml;nderst&amp;auml;ben an Treppengel&amp;auml;ndern maximal sein?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clh6fq9us006r2a6ihri9rcvy</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clh6fpvm7006p2a6izsvwidrl</id>
+    <description lang="en-US">Achse Stab &amp;ndash; Achse Stab 12 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fpvm7006q2a6ip9ssqcoa</id>
+    <description lang="en-US">abh&amp;auml;ngig von der Dicke, max. 10 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fq9us006r2a6ihri9rcvy</id>
+    <description lang="en-US">Lichtes Mass 12 cm</description>
+  </component>
+    <component>
+    <id>choice_clh6fqdp5006s2a6i4w2k668e</id>
+    <description lang="en-US">15 cm, durch Probew&amp;uuml;rfel mit Kantenl&amp;auml;nge 15 x 15 cm zu pr&amp;uuml;fen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://gEQMuU4f_U2sWSIRcIQq5TN_qhoxT8Ya_rise/BBeVT5ZQSEdZqeaiKrjUaNjPLsEA4rWp/clh6fqkv1006t2a6i0vav39h1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Mit welchen Oberfl&amp;auml;chenbehandlungen m&amp;uuml;ssen Treppenstufen behandelt werden, falls lackiert oder ge&amp;ouml;lt wird?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clh6fqkv1006x2a6iakl8dpv1</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clh6fqkv1006u2a6iy6xp3t0o</id>
+    <description lang="en-US">Grunds&amp;auml;tzlich k&amp;ouml;nnen alle Bohnerwachse und Lein&amp;ouml;le verwendet werden</description>
+  </component>
+    <component>
+    <id>choice_clh6fqkv1006w2a6isd50dssj</id>
+    <description lang="en-US">Spezielle &amp;Ouml;l- Wachskombinationen oder Lacke mit Zulassung f&amp;uuml;r den Treppenbau</description>
+  </component>
+    <component>
+    <id>choice_clh6fqkv1006x2a6iakl8dpv1</id>
+    <description lang="en-US">Mit zugelassenen Polyurethanlacken</description>
+  </component>
+    <component>
+    <id>choice_clh6fqkv1006v2a6ih1m3aeyy</id>
+    <description lang="en-US">Alle Wasserlacke k&amp;ouml;nnen ohne allgemeines bauaufsichtliches Pr&amp;uuml;fzeugnis verwendet werden.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
