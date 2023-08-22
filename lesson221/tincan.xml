@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://86iNyeN8leGfl1xa0FiJ8PYw3cYT3-HR_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Baurecht - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://86iNyeN8leGfl1xa0FiJ8PYw3cYT3-HR_rise/dkqA4Yb0m1Sf40e5Odrhl2GjBC4ZTWYy" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://86iNyeN8leGfl1xa0FiJ8PYw3cYT3-HR_rise/dkqA4Yb0m1Sf40e5Odrhl2GjBC4ZTWYy/cllm2926u00022a6nbyh0yfuy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen sind richtig zum Thema Bauordnung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm2926u00032a6nrzr4zer6</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2926u00042a6nk1nrgh1i</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm2926u00032a6nrzr4zer6</id>
+    <description lang="en-US">In Deutschland gibt es eine Musterbauordnung</description>
+  </component>
+    <component>
+    <id>choice_cllm2926u00042a6nk1nrgh1i</id>
+    <description lang="en-US">Jedes Bundesland hat eine Landesbauordnung in Anlehnung an die Musterbauordnung</description>
+  </component>
+    <component>
+    <id>choice_cllm29l90000q2a6nh2zopxso</id>
+    <description lang="en-US">Jedes Bundesland hat eine Musterbauordnung</description>
+  </component>
+    <component>
+    <id>choice_cllm29pf4000y2a6nc2axjx9y</id>
+    <description lang="en-US">In Deutschland gibt es eine einheitliche Bauordnung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://86iNyeN8leGfl1xa0FiJ8PYw3cYT3-HR_rise/dkqA4Yb0m1Sf40e5Odrhl2GjBC4ZTWYy/cllm29vx600182a6nej7ia2fe" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In welchem Umfang gilt die jeweilige Landesbauordnung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm29vx600192a6n90s9orfj</correctResponsePattern>
+    <correctResponsePattern>choice_cllm29vx6001b2a6nulqylnnq</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm29vx600192a6n90s9orfj</id>
+    <description lang="en-US">Die Landesbauordnung gilt f&amp;uuml;r bauliche Anlagen</description>
+  </component>
+    <component>
+    <id>choice_cllm29vx6001b2a6nulqylnnq</id>
+    <description lang="en-US">Die Landesbauordnung gilt f&amp;uuml;r Bauprodukte</description>
+  </component>
+    <component>
+    <id>choice_cllm29vx6001c2a6nsz24ltv3</id>
+    <description lang="en-US">Die Landesbauordnung gilt f&amp;uuml;r den Stra&amp;szlig;enbau</description>
+  </component>
+    <component>
+    <id>choice_cllm29vx6001a2a6n43ebl3xg</id>
+    <description lang="en-US">Die Landesbauordnung gilt f&amp;uuml;r Bergbau und Seefahrt</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://86iNyeN8leGfl1xa0FiJ8PYw3cYT3-HR_rise/dkqA4Yb0m1Sf40e5Odrhl2GjBC4ZTWYy/cllm2an9s002c2a6nz4pyansm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie werden Bauliche Anlagen definiert?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm2an9s002d2a6nz9flpma0</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2an9s002e2a6nhk7fe1qp</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2an9s002g2a6n5ujqcv5r</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2an9s002f2a6nbev429gk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm2an9s002d2a6nz9flpma0</id>
+    <description lang="en-US">Bauliche Anlagen sind mit dem Erdboden verbunden</description>
+  </component>
+    <component>
+    <id>choice_cllm2an9s002f2a6nbev429gk</id>
+    <description lang="en-US">Wenn die Anlage durch eigene Schwere auf dem Boden ruht</description>
+  </component>
+    <component>
+    <id>choice_cllm2an9s002g2a6n5ujqcv5r</id>
+    <description lang="en-US">Bauliche Anlagen sind aus Bauprodukten hergestellt</description>
+  </component>
+    <component>
+    <id>choice_cllm2an9s002e2a6nhk7fe1qp</id>
+    <description lang="en-US">Freizeit- und Vergn&amp;uuml;gungsparks gelten als Bauliche Anlagen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://86iNyeN8leGfl1xa0FiJ8PYw3cYT3-HR_rise/dkqA4Yb0m1Sf40e5Odrhl2GjBC4ZTWYy/cllm2c1ux00442a6n3ktdk435" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bestimmen Sie die Geb&amp;auml;udeklassen durch Zurodnung</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cllm2c1ux00452a6n5odrcjwg[.]target_cllm2c1ux00452a6n5odrcjwg</correctResponsePattern>
+    <correctResponsePattern>source_cllm2c1ux00462a6nb8kmk7qx[.]target_cllm2c1ux00462a6nb8kmk7qx</correctResponsePattern>
+    <correctResponsePattern>source_cllm2c1ux00472a6n71y9s88a[.]target_cllm2c1ux00472a6n71y9s88a</correctResponsePattern>
+    <correctResponsePattern>source_cllm2ck9a00482a6nhlk9v33q[.]target_cllm2ck9a00482a6nhlk9v33q</correctResponsePattern>
+    <correctResponsePattern>source_cllm2cmz500492a6nz45zk7vj[.]target_cllm2cmz500492a6nz45zk7vj</correctResponsePattern>
+    <correctResponsePattern>source_cllm2crks004a2a6nd2boml9v[.]target_cllm2crks004a2a6nd2boml9v</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cllm2c1ux00452a6n5odrcjwg</id>
+    <description lang="en-US">Freistehend, bis zu 7 m Höhe, nicht mehr als 400 m²></description>
+  </component>
+    <component>
+    <id>source_cllm2c1ux00462a6nb8kmk7qx</id>
+    <description lang="en-US">bis zu 7 m Höhe, nicht mehr als 400 m²></description>
+  </component>
+    <component>
+    <id>source_cllm2c1ux00472a6n71y9s88a</id>
+    <description lang="en-US">Sonstige Gebäude bis zu 7 m Höhe ></description>
+  </component>
+    <component>
+    <id>source_cllm2ck9a00482a6nhlk9v33q</id>
+    <description lang="en-US">Gebäude bis zu 13 m Höhe ></description>
+  </component>
+    <component>
+    <id>source_cllm2cmz500492a6nz45zk7vj</id>
+    <description lang="en-US">Sonstige Gebäude ></description>
+  </component>
+    <component>
+    <id>source_cllm2crks004a2a6nd2boml9v</id>
+    <description lang="en-US">Freistehende Land- und forstwirtschaftliche Gebäude></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cllm2c1ux00452a6n5odrcjwg</id>
+        <description lang="en-US">Gebäudeklasse 1a</description>
+      </component>
+          <component>
+        <id>target_cllm2c1ux00462a6nb8kmk7qx</id>
+        <description lang="en-US">Gebäudeklasse 2</description>
+      </component>
+          <component>
+        <id>target_cllm2c1ux00472a6n71y9s88a</id>
+        <description lang="en-US">Gebäudeklasse 3</description>
+      </component>
+          <component>
+        <id>target_cllm2ck9a00482a6nhlk9v33q</id>
+        <description lang="en-US">Gebäudeklasse 4</description>
+      </component>
+          <component>
+        <id>target_cllm2cmz500492a6nz45zk7vj</id>
+        <description lang="en-US">Gebäudeklasse 5</description>
+      </component>
+          <component>
+        <id>target_cllm2crks004a2a6nd2boml9v</id>
+        <description lang="en-US">Gebäudeklasse 1b</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://86iNyeN8leGfl1xa0FiJ8PYw3cYT3-HR_rise/dkqA4Yb0m1Sf40e5Odrhl2GjBC4ZTWYy/cllm2dnwl004b2a6n449znoge" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Geb&amp;auml;ude z&amp;auml;hlen zu den Sonderbauten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm2dnwl004c2a6nfmrzjocs</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2dnwl004d2a6ntjqvtyrl</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2dnwl004e2a6nl1n1vvnx</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2dnwl004f2a6nqegx9wnb</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2e95h005c2a6nzp17w7yu</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2ecjc005j2a6ni6lfqmfu</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm2dnwl004c2a6nfmrzjocs</id>
+    <description lang="en-US">Hochh&amp;auml;user von mehr als 22 m</description>
+  </component>
+    <component>
+    <id>choice_cllm2dnwl004e2a6nl1n1vvnx</id>
+    <description lang="en-US">Verkaufsst&amp;auml;tten mit mehr als 800 m&amp;sup2; Grundfl&amp;auml;che</description>
+  </component>
+    <component>
+    <id>choice_cllm2dnwl004f2a6nqegx9wnb</id>
+    <description lang="en-US">B&amp;uuml;rogeb&amp;auml;ude mit Einzelfl&amp;auml;chen &amp;uuml;ber 400 m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cllm2dnwl004d2a6ntjqvtyrl</id>
+    <description lang="en-US">Versammlungsst&amp;auml;tten</description>
+  </component>
+    <component>
+    <id>choice_cllm2e95h005c2a6nzp17w7yu</id>
+    <description lang="en-US">Krankenh&amp;auml;user</description>
+  </component>
+    <component>
+    <id>choice_cllm2ecjc005j2a6ni6lfqmfu</id>
+    <description lang="en-US">Fliegende Bauten</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://86iNyeN8leGfl1xa0FiJ8PYw3cYT3-HR_rise/dkqA4Yb0m1Sf40e5Odrhl2GjBC4ZTWYy/cllm2ewb2006o2a6nheskey7k" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Weshalb werden Abstandsfl&amp;auml;chen von Geb&amp;auml;uden gefordert?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm2ewb3006p2a6n1ggfxksf</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2ewb3006r2a6nr4cmqisc</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm2ewb3006p2a6n1ggfxksf</id>
+    <description lang="en-US">Geringere Verschattung auf dem Nachbarsgrundst&amp;uuml;ck</description>
+  </component>
+    <component>
+    <id>choice_cllm2ewb3006r2a6nr4cmqisc</id>
+    <description lang="en-US">Brand&amp;uuml;berschlag soll verhindert werden</description>
+  </component>
+    <component>
+    <id>choice_cllm2ewb3006s2a6nasttx7yl</id>
+    <description lang="en-US">L&amp;auml;rmschutz gegen&amp;uuml;ber dem Nachbargeb&amp;auml;ude</description>
+  </component>
+    <component>
+    <id>choice_cllm2ewb3006q2a6nrnhoaxfq</id>
+    <description lang="en-US">Lockere Bauweise in einer Siedlung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://86iNyeN8leGfl1xa0FiJ8PYw3cYT3-HR_rise/dkqA4Yb0m1Sf40e5Odrhl2GjBC4ZTWYy/cllm2fkad007u2a6nr2ygmvju" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist bei der Einrichtung von Baustellen zu beachten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm2fkad007v2a6nusizkqeu</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2fkad007w2a6n0w4fv9hx</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2fkad007y2a6no7hf5x3k</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2fkad007x2a6ne3wrs5zm</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm2fkad007v2a6nusizkqeu</id>
+    <description lang="en-US">Bauliche Anlagen sollen ordnungsgem&amp;auml;&amp;szlig; errichtet werden k&amp;ouml;nnen</description>
+  </component>
+    <component>
+    <id>choice_cllm2fkad007x2a6ne3wrs5zm</id>
+    <description lang="en-US">Bauliche Anlagen sollen ordnungsgem&amp;auml;&amp;szlig; ge&amp;auml;ndert werden k&amp;ouml;nnen</description>
+  </component>
+    <component>
+    <id>choice_cllm2fkad007y2a6no7hf5x3k</id>
+    <description lang="en-US">Bauliche Anlagen sollen ordnungsgem&amp;auml;&amp;szlig; beseitigt werden k&amp;ouml;nnen</description>
+  </component>
+    <component>
+    <id>choice_cllm2fkad007w2a6n0w4fv9hx</id>
+    <description lang="en-US">Von Baustellen sollen keine Gefahren ausgehen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://86iNyeN8leGfl1xa0FiJ8PYw3cYT3-HR_rise/dkqA4Yb0m1Sf40e5Odrhl2GjBC4ZTWYy/cllm2gfx900922a6nx9lkm0a8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bringen Sie die Begriffe in die richtige Reihenfolge laut &amp;sect;14 MBO?</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cllm2gfx900932a6n1rcnkj8h[.]target_cllm2gfx900932a6n1rcnkj8h</correctResponsePattern>
+    <correctResponsePattern>source_cllm2gfx900942a6nxezcve8d[.]target_cllm2gfx900942a6nxezcve8d</correctResponsePattern>
+    <correctResponsePattern>source_cllm2gfx900952a6nrw3jic67[.]target_cllm2gfx900952a6nrw3jic67</correctResponsePattern>
+    <correctResponsePattern>source_cllm2gux700962a6ni9niufnx[.]target_cllm2gux700962a6ni9niufnx</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cllm2gfx900932a6n1rcnkj8h</id>
+    <description lang="en-US">anzuordnen></description>
+  </component>
+    <component>
+    <id>source_cllm2gfx900942a6nxezcve8d</id>
+    <description lang="en-US">zu errichten></description>
+  </component>
+    <component>
+    <id>source_cllm2gfx900952a6nrw3jic67</id>
+    <description lang="en-US">zu ändern></description>
+  </component>
+    <component>
+    <id>source_cllm2gux700962a6ni9niufnx</id>
+    <description lang="en-US">Instand zu halten></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cllm2gfx900932a6n1rcnkj8h</id>
+        <description lang="en-US">1</description>
+      </component>
+          <component>
+        <id>target_cllm2gfx900942a6nxezcve8d</id>
+        <description lang="en-US">2</description>
+      </component>
+          <component>
+        <id>target_cllm2gfx900952a6nrw3jic67</id>
+        <description lang="en-US">3</description>
+      </component>
+          <component>
+        <id>target_cllm2gux700962a6ni9niufnx</id>
+        <description lang="en-US">4</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://86iNyeN8leGfl1xa0FiJ8PYw3cYT3-HR_rise/dkqA4Yb0m1Sf40e5Odrhl2GjBC4ZTWYy/cllm2hdus00972a6nfipjnoxf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In welcher Reihenfolge stehen die Aspekte des Brandschutzes laut &amp;sect;14 MBO?</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cllm2hdus00982a6n2qioi99m[.]target_cllm2hdus00982a6n2qioi99m</correctResponsePattern>
+    <correctResponsePattern>source_cllm2hdus00992a6n09b09rfa[.]target_cllm2hdus00992a6n09b09rfa</correctResponsePattern>
+    <correctResponsePattern>source_cllm2hdus009a2a6nmcl688sa[.]target_cllm2hdus009a2a6nmcl688sa</correctResponsePattern>
+    <correctResponsePattern>source_cllm2hnqp009b2a6nsh59oqk3[.]target_cllm2hnqp009b2a6nsh59oqk3</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cllm2hdus00982a6n2qioi99m</id>
+    <description lang="en-US">Vorbeugung der Entstehung eines Brandes></description>
+  </component>
+    <component>
+    <id>source_cllm2hdus00992a6n09b09rfa</id>
+    <description lang="en-US">Vorbeugung Ausbreitung von Feuer und Rauch></description>
+  </component>
+    <component>
+    <id>source_cllm2hdus009a2a6nmcl688sa</id>
+    <description lang="en-US">Rettung von Mensch und Tieren></description>
+  </component>
+    <component>
+    <id>source_cllm2hnqp009b2a6nsh59oqk3</id>
+    <description lang="en-US">Wirksame Löscharbeiten></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cllm2hdus00982a6n2qioi99m</id>
+        <description lang="en-US">1</description>
+      </component>
+          <component>
+        <id>target_cllm2hdus00992a6n09b09rfa</id>
+        <description lang="en-US">2</description>
+      </component>
+          <component>
+        <id>target_cllm2hdus009a2a6nmcl688sa</id>
+        <description lang="en-US">3</description>
+      </component>
+          <component>
+        <id>target_cllm2hnqp009b2a6nsh59oqk3</id>
+        <description lang="en-US">4</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://86iNyeN8leGfl1xa0FiJ8PYw3cYT3-HR_rise/dkqA4Yb0m1Sf40e5Odrhl2GjBC4ZTWYy/cllm2ild6009c2a6neso27ykp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche weiteren Anforderungen werden an Geb&amp;auml;ude gestellt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm2ild6009d2a6nw9xfttab</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2ild6009f2a6ni51idak6</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm2ild6009d2a6nw9xfttab</id>
+    <description lang="en-US">Geb&amp;auml;ude m&amp;uuml;ssen einen W&amp;auml;rmeschutz haben</description>
+  </component>
+    <component>
+    <id>choice_cllm2ild6009f2a6ni51idak6</id>
+    <description lang="en-US">Geb&amp;auml;ude m&amp;uuml;ssen einen Schallschutz haben</description>
+  </component>
+    <component>
+    <id>choice_cllm2ild6009g2a6nv3dq2wel</id>
+    <description lang="en-US">Ersch&amp;uuml;tterungen aus Erdbeben m&amp;uuml;ssen vermieden werden</description>
+  </component>
+    <component>
+    <id>choice_cllm2ild6009e2a6na9d1ht2g</id>
+    <description lang="en-US">Regionale Baustiele m&amp;uuml;ssen &amp;uuml;bernommen werden</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

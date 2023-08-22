@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://Pg-scfCAG_5fs2Jxx45UQLoiyzRcEshC_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Baurecht - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://Pg-scfCAG_5fs2Jxx45UQLoiyzRcEshC_rise/QuXfEyR4sgGdoT_VPc7X-ZjVCMeC9CYi" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://Pg-scfCAG_5fs2Jxx45UQLoiyzRcEshC_rise/QuXfEyR4sgGdoT_VPc7X-ZjVCMeC9CYi/cllm2rqb400192a6nq82frbt5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Kriterien m&amp;uuml;ssen Bauprodukte erf&amp;uuml;llen (verschiedene M&amp;ouml;glichkeiten)?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm2rqb4001a2a6nwjy28zcn</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2rqb4001c2a6nzy2vy6er</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2rqb4001d2a6njpiw2dbi</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm2rqb4001a2a6nwjy28zcn</id>
+    <description lang="en-US">Allgemeine Bauaufsichtliche Zulassung</description>
+  </component>
+    <component>
+    <id>choice_cllm2rqb4001c2a6nzy2vy6er</id>
+    <description lang="en-US">Allgemeines bauaufsichtliches Pr&amp;uuml;fzeugnis</description>
+  </component>
+    <component>
+    <id>choice_cllm2rqb4001d2a6njpiw2dbi</id>
+    <description lang="en-US">Nachweis der Verwendbarkeit im Einzelfall</description>
+  </component>
+    <component>
+    <id>choice_cllm2rqb4001b2a6n8eu62j5p</id>
+    <description lang="en-US">Pauschalverwendbarkeitsnachweis</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Pg-scfCAG_5fs2Jxx45UQLoiyzRcEshC_rise/QuXfEyR4sgGdoT_VPc7X-ZjVCMeC9CYi/cllm2siij002l2a6nbop1fm7l" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie werden Baustoffe nach den Anforderungen an ihr Brandverhalten unterschieden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm2siik002m2a6nmb2sv55p</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2siik002p2a6npgqmtwr9</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2siik002o2a6nbko1x3sy</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm2siik002m2a6nmb2sv55p</id>
+    <description lang="en-US">nichtbrennbar</description>
+  </component>
+    <component>
+    <id>choice_cllm2siik002o2a6nbko1x3sy</id>
+    <description lang="en-US">schwerentflammbar</description>
+  </component>
+    <component>
+    <id>choice_cllm2siik002p2a6npgqmtwr9</id>
+    <description lang="en-US">normalentflammbar</description>
+  </component>
+    <component>
+    <id>choice_cllm2siik002n2a6n5bufmsys</id>
+    <description lang="en-US">feuerbest&amp;auml;ndig</description>
+  </component>
+    <component>
+    <id>choice_cllm2t6iv003x2a6na2e6de4j</id>
+    <description lang="en-US">hochfeuerhemmend</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Pg-scfCAG_5fs2Jxx45UQLoiyzRcEshC_rise/QuXfEyR4sgGdoT_VPc7X-ZjVCMeC9CYi/cllm2tl0d004h2a6n9sujg56y" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die Feuerwiderstandsf&amp;auml;higkeit von Baustoffen entsprechend der Geb&amp;auml;udeklassen zu</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cllm2tl0e004i2a6nwqv7bk9m[.]target_cllm2tl0e004i2a6nwqv7bk9m</correctResponsePattern>
+    <correctResponsePattern>source_cllm2tl0e004j2a6ny7yhmxi7[.]target_cllm2tl0e004j2a6ny7yhmxi7</correctResponsePattern>
+    <correctResponsePattern>source_cllm2tl0e004k2a6n9qzgjicl[.]target_cllm2tl0e004k2a6n9qzgjicl</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cllm2tl0e004i2a6nwqv7bk9m</id>
+    <description lang="en-US">feuerhemmend></description>
+  </component>
+    <component>
+    <id>source_cllm2tl0e004j2a6ny7yhmxi7</id>
+    <description lang="en-US">hochfeuerhemmend></description>
+  </component>
+    <component>
+    <id>source_cllm2tl0e004k2a6n9qzgjicl</id>
+    <description lang="en-US">feuerbeständig></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cllm2tl0e004i2a6nwqv7bk9m</id>
+        <description lang="en-US">Gebäudeklassen 2 und 3</description>
+      </component>
+          <component>
+        <id>target_cllm2tl0e004j2a6ny7yhmxi7</id>
+        <description lang="en-US">Gebäudeklasse 4</description>
+      </component>
+          <component>
+        <id>target_cllm2tl0e004k2a6n9qzgjicl</id>
+        <description lang="en-US">Gebäudeklasse 5</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://Pg-scfCAG_5fs2Jxx45UQLoiyzRcEshC_rise/QuXfEyR4sgGdoT_VPc7X-ZjVCMeC9CYi/cllm2uk0j004l2a6njzl0f6z0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie lautet die Definition von Trennw&amp;auml;nden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm2uk0k004m2a6nsmllcnmr</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm2uk0k004m2a6nsmllcnmr</id>
+    <description lang="en-US">Raumabschlie&amp;szlig;endes Bauteil innerhalb von Geschossen</description>
+  </component>
+    <component>
+    <id>choice_cllm2uk0k004o2a6n29bsxoe0</id>
+    <description lang="en-US">Geb&amp;auml;udeabschlusswand</description>
+  </component>
+    <component>
+    <id>choice_cllm2uk0k004p2a6n80o4xtio</id>
+    <description lang="en-US">Rauabschlie&amp;szlig;endes Bauteil &amp;uuml;ber mehrere Geschosse</description>
+  </component>
+    <component>
+    <id>choice_cllm2uk0k004n2a6nkqa9plyx</id>
+    <description lang="en-US">Wohnungstrennwand zum Treppenhaus hin</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Pg-scfCAG_5fs2Jxx45UQLoiyzRcEshC_rise/QuXfEyR4sgGdoT_VPc7X-ZjVCMeC9CYi/cllm2voga00632a6n314vc7ii" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Unter welchen Umst&amp;auml;nden sind Brandw&amp;auml;nde erforderlich?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm2vogb00642a6nmg9mbstq</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2vogb00672a6n4qzhwhn8</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2vogb00662a6nv7u7tar2</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm2vogb00642a6nmg9mbstq</id>
+    <description lang="en-US">Als Geb&amp;auml;udeabschlusswand</description>
+  </component>
+    <component>
+    <id>choice_cllm2vogb00662a6nv7u7tar2</id>
+    <description lang="en-US">Zur Unterteilung von Geb&amp;auml;uden in Brandabschnitte</description>
+  </component>
+    <component>
+    <id>choice_cllm2vogb00672a6n4qzhwhn8</id>
+    <description lang="en-US">Zur Unterteilung von landwirtschaftlich genutzten Geb&amp;auml;uden und dem Wohnhaus</description>
+  </component>
+    <component>
+    <id>choice_cllm2vogb00652a6nsmbnuoc6</id>
+    <description lang="en-US">Geb&amp;auml;ude ohne Aufenthaltsr&amp;auml;ume und ohne Feuerst&amp;auml;tten bis 50 m&amp;sup3; Rauminhalt</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Pg-scfCAG_5fs2Jxx45UQLoiyzRcEshC_rise/QuXfEyR4sgGdoT_VPc7X-ZjVCMeC9CYi/cllm2wr5i007j2a6n7bygqohu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was verstehen Sie unter dem Begriff &amp;bdquo;harte Bedachung&amp;ldquo;?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm2wr5j007k2a6ngd2k026y</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm2wr5j007k2a6ngd2k026y</id>
+    <description lang="en-US">Widerstandf&amp;auml;higkeit gegen Brandbeanspruchung von au&amp;szlig;en</description>
+  </component>
+    <component>
+    <id>choice_cllm2wr5j007l2a6ns1n01n3l</id>
+    <description lang="en-US">Bedachungsmaterial mit mehr als 0,35 kN/m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_cllm2x8si007m2a6n7nooqjqm</id>
+    <description lang="en-US">Biegefestes Material zur Dacheindeckung</description>
+  </component>
+    <component>
+    <id>choice_cllm2xdo9007n2a6nl8v6a5o8</id>
+    <description lang="en-US">Trittfeste W&amp;auml;rmed&amp;auml;mmung als Aufdachd&amp;auml;mmung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Pg-scfCAG_5fs2Jxx45UQLoiyzRcEshC_rise/QuXfEyR4sgGdoT_VPc7X-ZjVCMeC9CYi/cllm2xk8u007o2a6nkrvsbuix" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie viele Rettungswege in Nutzungseinheiten mit mindestens einem Aufenthaltsraum sind notwendig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm2xk8u007p2a6nq5472el5</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm2xk8u007p2a6nq5472el5</id>
+    <description lang="en-US">In jedem Geschoss mindestens einer</description>
+  </component>
+    <component>
+    <id>choice_cllm2xk8u007q2a6n4oo80udt</id>
+    <description lang="en-US">In jedem Geschoss mindestens zwei</description>
+  </component>
+    <component>
+    <id>choice_cllm2ya1x007r2a6nkmvo9nww</id>
+    <description lang="en-US">Ab mehr als 4 Aufenthaltsr&amp;auml;ume mindestens zwei</description>
+  </component>
+    <component>
+    <id>choice_cllm2ydkc007s2a6nwt9xd73g</id>
+    <description lang="en-US">F&amp;uuml;r jede Nutzungseinheit mindestens einer</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Pg-scfCAG_5fs2Jxx45UQLoiyzRcEshC_rise/QuXfEyR4sgGdoT_VPc7X-ZjVCMeC9CYi/cllm2ytc4007t2a6nsnci6ze8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wer ist f&amp;uuml;r die Einhaltung der &amp;ouml;ffentlich-rechtlichen Vorschriften am Bau verantwortlich?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm2ytc4007u2a6n727gcr03</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2ytc4007w2a6nec01xf0d</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2ytc4007x2a6ncaofiavn</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm2ytc4007u2a6n727gcr03</id>
+    <description lang="en-US">Der Bauherr</description>
+  </component>
+    <component>
+    <id>choice_cllm2ytc4007w2a6nec01xf0d</id>
+    <description lang="en-US">Im Rahmen ihres Wirkungskreises die ausf&amp;uuml;hrenden Unternehmen&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cllm2ytc4007x2a6ncaofiavn</id>
+    <description lang="en-US">Der Entwurfsverfasser im Rahmen seiner Planung</description>
+  </component>
+    <component>
+    <id>choice_cllm2ytc4007v2a6ncecxl604</id>
+    <description lang="en-US">Die Baufortschrittsbeh&amp;ouml;rde</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Pg-scfCAG_5fs2Jxx45UQLoiyzRcEshC_rise/QuXfEyR4sgGdoT_VPc7X-ZjVCMeC9CYi/cllm2zkn6009m2a6nqzjmspxi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche M&amp;ouml;glichkeiten f&amp;uuml;r die Baugenehmigung kennen Sie?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm2zkn6009n2a6n8tvuu6bz</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2zkn6009o2a6niqe8t6ad</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2zkn6009q2a6nklfg90eh</correctResponsePattern>
+    <correctResponsePattern>choice_cllm2zkn6009p2a6nm3qzszt6</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm2zkn6009n2a6n8tvuu6bz</id>
+    <description lang="en-US">Verfahrensfreie Bauvorhaben</description>
+  </component>
+    <component>
+    <id>choice_cllm2zkn6009p2a6nm3qzszt6</id>
+    <description lang="en-US">Genehmigungsfreistellung</description>
+  </component>
+    <component>
+    <id>choice_cllm2zkn6009q2a6nklfg90eh</id>
+    <description lang="en-US">Vereinfachtes Genehmigungsverfahren</description>
+  </component>
+    <component>
+    <id>choice_cllm2zkn6009o2a6niqe8t6ad</id>
+    <description lang="en-US">Baugenehmigungsverfahren</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Pg-scfCAG_5fs2Jxx45UQLoiyzRcEshC_rise/QuXfEyR4sgGdoT_VPc7X-ZjVCMeC9CYi/cllm30dmu00bg2a6nw9rmg06m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie werden Bauten bezeichnet, die daf&amp;uuml;r bestimmt sind, an verschiedenen Orten wiederholt aufgestellt und zerlegt zu werden. (Bierzelte, B&amp;uuml;hnen, &amp;hellip;)</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllm30dmu00bh2a6njskopfq5</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllm30dmu00bh2a6njskopfq5</id>
+    <description lang="en-US">Fliegende Bauten</description>
+  </component>
+    <component>
+    <id>choice_cllm30dmu00bi2a6n5332u94y</id>
+    <description lang="en-US">Wanderbauten</description>
+  </component>
+    <component>
+    <id>choice_cllm31cxh00bj2a6ngr5qx4g4</id>
+    <description lang="en-US">Bauten f&amp;uuml;r ortsver&amp;auml;ndernde Verwenungen</description>
+  </component>
+    <component>
+    <id>choice_cllm31fl300bk2a6nvi0j07bb</id>
+    <description lang="en-US">Schaustellerbauten</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
