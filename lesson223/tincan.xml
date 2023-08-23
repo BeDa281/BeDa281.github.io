@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://ybKdhw8HLL_mdSC1F0h8Um63ykIfsLzg_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Berechnung des Entwässerungssystems</name>
+      <description lang="en-US">In diesem Kurs von Herrn Karl geht es um die Grunldagen zur Berechnung des Entw&amp;auml;sserungssystems. Bitte sehen Sie sich die 3 Videos an und beantworten Sie im Anschluss die Fragen. Viel Erfolg!</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://ybKdhw8HLL_mdSC1F0h8Um63ykIfsLzg_rise/IKXwsypma99kx2No8ROrRNtadJdnhWrO" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Berechnung des Entwässerungssystems - Teil 1/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ybKdhw8HLL_mdSC1F0h8Um63ykIfsLzg_rise/SLx1s0es8AxMOA-h2dKOFh9nIjc7NlGD" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Berechnung des Entwässerungssystems - Teil 2/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ybKdhw8HLL_mdSC1F0h8Um63ykIfsLzg_rise/izx3WWmzLxsEk0wh37Ii7i2SSZ_oVe8C" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Berechnung des Entwässerungssystems - Teil 3/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
