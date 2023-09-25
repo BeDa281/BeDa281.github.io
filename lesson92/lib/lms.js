@@ -3,6 +3,7 @@
   // root.TinCan.DEBUG = true;
 
   var tincan;
+  var statementQueue = [];
   var connected = false;
 
   var getUUID = root.TinCan.Utils.getUUID;
@@ -22,6 +23,13 @@
       suspend: false,
     }
   }
+
+  var inFlight    = false;
+  var isDraining  = false;
+
+  // Needed to account for various LRS providers,
+  // when draining queued statements
+  var DRAIN_DELAY = 600; // (ms)
 
   var BOOKMARK = 'bookmark';
   var SUSPEND_DATA = 'suspend_data';
@@ -73,6 +81,18 @@
     };
   }
 
+  // For unloading we need to hold the main thread
+  // but still send async statements to LRS in a
+  // spaced out manner. (600ms is recommended by Rustici)
+  function holdThread() {
+    var start = Date.now();
+    var now = start;
+
+    while(now - start < DRAIN_DELAY) {
+      now = Date.now();
+    }
+  }
+
   function closeContent() {
     if(root.top === root) {
       root.close();
@@ -87,10 +107,44 @@
     }
   }
 
+  function queueStatement(stmt) {
+    if(inFlight) {
+      statementQueue.push(stmt);
+    } else {
+      sendStatement(stmt);
+    }
+  }
+
+  function popStatement() {
+    if(statementQueue.length && !isDraining) {
+      sendStatement(statementQueue.shift());
+    } else {
+      inFlight = false;
+    }
+  }
+
+  function drainQueue() {
+    isDraining = true;
+
+    if(!statementQueue.length) {
+      return null;
+    }
+
+    statementQueue.forEach(sendStatementDelayed);
+
+    return null;
+  }
+
   function sendStatement(attribs) {
     if(connected) {
-      tincan.sendStatement(createStatement(attribs));
+      inFlight = true;
+      tincan.sendStatement(createStatement(attribs), popStatement);
     }
+  }
+
+  function sendStatementDelayed(attribs) {
+    sendStatement(attribs);
+    holdThread();
   }
 
   function createStatement(stmt) {
@@ -137,7 +191,7 @@
   }
 
   function sendExperienced(lessonId) {
-    sendStatement({
+    commitData({
       id: lessonId,
       type: LESSON,
       verb: createVerb('experienced')
@@ -178,7 +232,11 @@
   }
 
   function commitFinishData(stmt) {
-    sendStatement(addFinishData(stmt));
+    commitData(addFinishData(stmt));
+  }
+
+  function commitData(stmt) {
+    queueStatement(stmt);
   }
 
   function getState(key, cb) {
@@ -387,7 +445,7 @@
     var response = buildResponse(data);
     var title = data.questionTitle;
 
-    sendStatement({
+    commitData({
       definition: definition,
       description: title,
       id: data.id + '/' + data.itemId + '_' + Date.now(),
@@ -402,6 +460,7 @@
   }
 
   function ConcedeControl() {
+    drainQueue();
     root.removeEventListener('beforeunload', ConcedeControl);
     closeContent();
   }
@@ -447,10 +506,7 @@
   }
 
   function loadBundle() {
-    var script = document.createElement('script');
-    script.setAttribute('src', 'lib/main.bundle.js');
-    document.head.appendChild(script);
-
+    __loadEntry()
     sendAttempted();
   }
 
