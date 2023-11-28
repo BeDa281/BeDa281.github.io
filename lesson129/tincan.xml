@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://qHKHp8tv7wWsg8SiZgRS4g-T5w213GbI_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Wärmedämmverbundsystem (WDVS) - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://qHKHp8tv7wWsg8SiZgRS4g-T5w213GbI_rise/2A_j8fzCR1o6J6Owb1PH0Cb6CJ61kaaV" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://qHKHp8tv7wWsg8SiZgRS4g-T5w213GbI_rise/2A_j8fzCR1o6J6Owb1PH0Cb6CJ61kaaV/clpipeyfy00022a6lvnotjr09" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Ausf&amp;uuml;hrungsfehler sind hier erkennbar?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clpipeyfy00032a6l1zsyrmtj</correctResponsePattern>
+    <correctResponsePattern>choice_clpipeyfz00042a6ll710i22o</correctResponsePattern>
+    <correctResponsePattern>choice_clpipkldt00082a6l42m3edkn</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clpipeyfy00032a6l1zsyrmtj</id>
+    <description lang="en-US">Gef&amp;auml;lle l&amp;auml;uft zum Geb&amp;auml;ude hin</description>
+  </component>
+    <component>
+    <id>choice_clpipeyfz00042a6ll710i22o</id>
+    <description lang="en-US">&amp;nbsp;Sockeld&amp;auml;mmplatten falsch gelagert</description>
+  </component>
+    <component>
+    <id>choice_clpipkcfz00062a6laxal9f0d</id>
+    <description lang="en-US">Sockeld&amp;auml;mmplatte l&amp;auml;uft in das Erdreich</description>
+  </component>
+    <component>
+    <id>choice_clpipkgp700072a6lnf6esqk4</id>
+    <description lang="en-US">&amp;nbsp;keine Noppenbahn</description>
+  </component>
+    <component>
+    <id>choice_clpipkldt00082a6l42m3edkn</id>
+    <description lang="en-US">r&amp;uuml;ckspringender Sockel</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qHKHp8tv7wWsg8SiZgRS4g-T5w213GbI_rise/2A_j8fzCR1o6J6Owb1PH0Cb6CJ61kaaV/clpipkynt000k2a6la9wteo7j" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Massnahmen tragen zum Feuchteschutz im Spritzwasserbereich bei Fassadenverspr&amp;uuml;ngen bei?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clpipm9zf003f2a6lo74085qa</correctResponsePattern>
+    <correctResponsePattern>choice_clpipkynt000o2a6l7pn5noay</correctResponsePattern>
+    <correctResponsePattern>choice_clpipkynt000n2a6l4hsjyk9n</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clpipkynt000l2a6lbgokichm</id>
+    <description lang="en-US">Mineralische Unterputze</description>
+  </component>
+    <component>
+    <id>choice_clpipkynt000n2a6l4hsjyk9n</id>
+    <description lang="en-US">Sockeld&amp;auml;mmplatte</description>
+  </component>
+    <component>
+    <id>choice_clpipkynt000o2a6l7pn5noay</id>
+    <description lang="en-US">Vordach</description>
+  </component>
+    <component>
+    <id>choice_clpipkynt000m2a6lw3e7czmu</id>
+    <description lang="en-US">Mineralwolle D&amp;auml;mmplatten</description>
+  </component>
+    <component>
+    <id>choice_clpipm9zf003f2a6lo74085qa</id>
+    <description lang="en-US">Organische Spachtelmasse</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qHKHp8tv7wWsg8SiZgRS4g-T5w213GbI_rise/2A_j8fzCR1o6J6Owb1PH0Cb6CJ61kaaV/clpipnt0e004d2a6lpuwh4tbj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen hinsichtlich der Rohdichte von Baustoffen sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clpipnt0f004e2a6lyxdym45m</correctResponsePattern>
+    <correctResponsePattern>choice_clpipnt0f004f2a6lzr341k4h</correctResponsePattern>
+    <correctResponsePattern>choice_clpipnt0f004g2a6lb5mlxwcg</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clpipnt0f004e2a6lyxdym45m</id>
+    <description lang="en-US">Niedrige Dichte -&amp;gt; gute D&amp;auml;mmeigenschaften</description>
+  </component>
+    <component>
+    <id>choice_clpipnt0f004g2a6lb5mlxwcg</id>
+    <description lang="en-US">Hohe Dichte -&amp;gt; hohe W&amp;auml;rmespeicherf&amp;auml;higkeit</description>
+  </component>
+    <component>
+    <id>choice_clpipnt0f004h2a6l8pjwcalo</id>
+    <description lang="en-US">Niedrige Dichte -&amp;gt; guter Schallschutz</description>
+  </component>
+    <component>
+    <id>choice_clpipnt0f004f2a6lzr341k4h</id>
+    <description lang="en-US">Hohe Dichte -&amp;gt; hohe Druckfestigkeit</description>
+  </component>
+    <component>
+    <id>choice_clpippe6z00622a6luprmupys</id>
+    <description lang="en-US">Hohe Dichte -&amp;gt; gute D&amp;auml;mmeigenschaften</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qHKHp8tv7wWsg8SiZgRS4g-T5w213GbI_rise/2A_j8fzCR1o6J6Owb1PH0Cb6CJ61kaaV/clpipppkf006j2a6lx2c0ux55" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Berechnen Sie die L&amp;auml;ngen&amp;auml;nderung einer Aluminiumfensterbank&lt;br&gt;&lt;br&gt;L&amp;auml;nge L = 3,0 m&lt;br&gt;aT = 24 x 10-6 [1/K]&lt;br&gt;Winter &amp;ndash; 20&amp;deg; C&lt;br&gt;Sommer + 60&amp;deg; C</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clpipppkf006l2a6lreok9wjq</correctResponsePattern>
+    <correctResponsePattern>choice_clpipppkf006m2a6lhkp8485e</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clpipppkf006k2a6l8wxtfqhy</id>
+    <description lang="en-US">12,4 cm</description>
+  </component>
+    <component>
+    <id>choice_clpipppkf006m2a6lhkp8485e</id>
+    <description lang="en-US">5,80 mm</description>
+  </component>
+    <component>
+    <id>choice_clpipppkf006n2a6l7ixwhoxc</id>
+    <description lang="en-US">2,40 cm</description>
+  </component>
+    <component>
+    <id>choice_clpipppkf006l2a6lreok9wjq</id>
+    <description lang="en-US">0,58 cm</description>
+  </component>
+    <component>
+    <id>choice_clpiprary00a02a6lnrdl1pzh</id>
+    <description lang="en-US">12,4 mm</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qHKHp8tv7wWsg8SiZgRS4g-T5w213GbI_rise/2A_j8fzCR1o6J6Owb1PH0Cb6CJ61kaaV/clpiprmq400ae2a6lzfhiow70" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen zum nachfolgenden Diagramm sind korrekt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clpiprmq400ah2a6lx2awz3xo</correctResponsePattern>
+    <correctResponsePattern>choice_clpiprmq400ai2a6lxtgmmhjf</correctResponsePattern>
+    <correctResponsePattern>choice_clpipsgpg00ca2a6lqi6w0oz2</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clpiprmq400af2a6l4275cvti</id>
+    <description lang="en-US">Mit steigender Dicke des D&amp;auml;mmstoffes steigt der U-Wert</description>
+  </component>
+    <component>
+    <id>choice_clpiprmq400ah2a6lx2awz3xo</id>
+    <description lang="en-US">Die ersten cm der D&amp;auml;mmstoffdicke reduzieren die W&amp;auml;rmeverluste am Effektivsten &amp;nbsp; &amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clpiprmq400ai2a6lxtgmmhjf</id>
+    <description lang="en-US">Je gr&amp;ouml;&amp;szlig;er der U-Wert, desto geringer ist die D&amp;auml;mmstoffdicke</description>
+  </component>
+    <component>
+    <id>choice_clpiprmq400ag2a6lds7455cs</id>
+    <description lang="en-US">Bei einer D&amp;auml;mmstoffdicke von 12 cm wird ein U-Wert von 0,60 W/m&amp;sup2;K erreicht &amp;nbsp; &amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clpipsgpg00ca2a6lqi6w0oz2</id>
+    <description lang="en-US">Der U-Wert ist von der D&amp;auml;mmstoffdicke abh&amp;auml;ngig</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qHKHp8tv7wWsg8SiZgRS4g-T5w213GbI_rise/2A_j8fzCR1o6J6Owb1PH0Cb6CJ61kaaV/clpipso6q00cs2a6l518zn3ye" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen zum Sd - Wert sind korrekt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clpipso6q00ct2a6l5bfaieoe</correctResponsePattern>
+    <correctResponsePattern>choice_clpipso6q00cu2a6lqipx7s6q</correctResponsePattern>
+    <correctResponsePattern>choice_clpipso6q00cw2a6lq0bx1pas</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clpipso6q00ct2a6l5bfaieoe</id>
+    <description lang="en-US">sd = &amp;micro; &amp;nbsp;x &amp;nbsp;t &amp;nbsp; [ m ]</description>
+  </component>
+    <component>
+    <id>choice_clpipso6q00cv2a6la7digpf6</id>
+    <description lang="en-US">Je h&amp;ouml;her der Sd Wert desto geringer ist der Wasserdampfdiffusionswiderstand</description>
+  </component>
+    <component>
+    <id>choice_clpipso6q00cw2a6lq0bx1pas</id>
+    <description lang="en-US">Der Sd - Wert von Sd = 1 m entspricht einer 1 m dicken Luftschicht</description>
+  </component>
+    <component>
+    <id>choice_clpipso6q00cu2a6lqipx7s6q</id>
+    <description lang="en-US">Je dicker der Baustoff desto h&amp;ouml;her ist der Sd-Wert</description>
+  </component>
+    <component>
+    <id>choice_clpiptoe500em2a6lfp13bxp7</id>
+    <description lang="en-US">Die Diffusionsdichte eines Wandaufbaus sollte nach aussen immer ansteigen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qHKHp8tv7wWsg8SiZgRS4g-T5w213GbI_rise/2A_j8fzCR1o6J6Owb1PH0Cb6CJ61kaaV/clpipu2lr00f22a6lqdg3w0hw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Temperatur in einem Raum mit einer relativen Luftfeuchtigkeit von 90% sinkt von 20&amp;deg;C auf 8&amp;deg; C ab.&lt;br&gt;Berechnen Sie die ausfallende Tauwassermenge.&lt;br&gt;&lt;br&gt;In der nachfolgenden &amp;Uuml;bersicht ist die Wassermenge in g / m&amp;sup3; Luft in Abh&amp;auml;ngigkeit der Luftfeuchtikeit und Temperatur angegeben    .</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clpipu2lr00f42a6lqegsc5fb</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clpipu2lr00f32a6lp50d6m9w</id>
+    <description lang="en-US">15.56 g</description>
+  </component>
+    <component>
+    <id>choice_clpipu2lr00f52a6llinw39ax</id>
+    <description lang="en-US">8,28 g</description>
+  </component>
+    <component>
+    <id>choice_clpipu2lr00f62a6layrqa6dp</id>
+    <description lang="en-US">7,45 g</description>
+  </component>
+    <component>
+    <id>choice_clpipu2lr00f42a6lqegsc5fb</id>
+    <description lang="en-US">7,28 g</description>
+  </component>
+    <component>
+    <id>choice_clpipvmam00hl2a6l5rvenl87</id>
+    <description lang="en-US">8,11 g</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qHKHp8tv7wWsg8SiZgRS4g-T5w213GbI_rise/2A_j8fzCR1o6J6Owb1PH0Cb6CJ61kaaV/clpipvufr00hm2a6lxffrv0pu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was sind die Ursachen f&amp;uuml;r die sogenannten Schneckenspuren? Wie k&amp;ouml;nnen Sie vermieden werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clpipvufr00ho2a6l0z314kyp</correctResponsePattern>
+    <correctResponsePattern>choice_clpipwris00hx2a6llbz1mhoc</correctResponsePattern>
+    <correctResponsePattern>choice_clpipwy5y00ie2a6l1ps8ohss</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clpipvufr00hn2a6l6jgwozo9</id>
+    <description lang="en-US">Angetrocknete Schleimspuren von Nacktschnecken, die bei feuchter Witterung an der Fassade empor kriechen.&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clpipvufr00ho2a6l0z314kyp</id>
+    <description lang="en-US">Emulgatorauswaschungen durch Feuchteieinwirkungen (z.B.: Tau, Nebel oder Regen) in der Trocknungsphase.</description>
+  </component>
+    <component>
+    <id>choice_clpipwris00hx2a6llbz1mhoc</id>
+    <description lang="en-US">Mindestens abplanen der obersten Ger&amp;uuml;stlage in der feuchten Jahreszeiten</description>
+  </component>
+    <component>
+    <id>choice_clpipwy5y00ie2a6l1ps8ohss</id>
+    <description lang="en-US">Die Fassade muss ausreichend durchgetrocknet sein und vor Feuchtigkeit (z.B.: Tau, Nebel oder Regen) gesch&amp;uuml;tzt werden. &amp;nbsp; &amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qHKHp8tv7wWsg8SiZgRS4g-T5w213GbI_rise/2A_j8fzCR1o6J6Owb1PH0Cb6CJ61kaaV/clpipx61100ir2a6l5ozptfxa" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Nennen Sie Ursachen f&amp;uuml;r Rissbildung bei WDVS</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clpipx61200is2a6lwq0j27kc</correctResponsePattern>
+    <correctResponsePattern>choice_clpipy0i400kw2a6lxfjedrbl</correctResponsePattern>
+    <correctResponsePattern>choice_clpipxvhy00kg2a6l6zufaxu7</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clpipx61200is2a6lwq0j27kc</id>
+    <description lang="en-US">Plattenschwund</description>
+  </component>
+    <component>
+    <id>choice_clpipx61200iu2a6l6d7s9fq8</id>
+    <description lang="en-US">Randverklebung</description>
+  </component>
+    <component>
+    <id>choice_clpipx61200iv2a6lh3w1n3c4</id>
+    <description lang="en-US">Gewebe&amp;uuml;berlappung</description>
+  </component>
+    <component>
+    <id>choice_clpipx61200it2a6lm0ww7fwz</id>
+    <description lang="en-US">Gleichm&amp;auml;&amp;szlig;ig aufgetragene Unterputzdicken</description>
+  </component>
+    <component>
+    <id>choice_clpipxvhy00kg2a6l6zufaxu7</id>
+    <description lang="en-US">Mit M&amp;ouml;rtel gef&amp;uuml;llte Fugen</description>
+  </component>
+    <component>
+    <id>choice_clpipy0i400kw2a6lxfjedrbl</id>
+    <description lang="en-US">Offene Fugen zwischen den D&amp;auml;mmplatten</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
