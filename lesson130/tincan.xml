@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://Z_Pu2V9C_fRwoVKFqlPqZfhw2TCqTN6-_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Werk- und Hilfsstoffe - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://Z_Pu2V9C_fRwoVKFqlPqZfhw2TCqTN6-_rise/UVurVJkDpwStjPk9eTY75pyzB8WgaEux" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://Z_Pu2V9C_fRwoVKFqlPqZfhw2TCqTN6-_rise/UVurVJkDpwStjPk9eTY75pyzB8WgaEux/cllp5fcf5000w2a6m9k0k4s1f" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welcher Werkstoff wird am h&amp;auml;ufigsten zur Herstellung von Farben und Lacken verwendet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllp5ivtb00102a6m8dmurchi</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllp5fcf5000x2a6m8ursqw7d</id>
+    <description lang="en-US">Holz</description>
+  </component>
+    <component>
+    <id>choice_cllp5fcf5000y2a6ml1y25414</id>
+    <description lang="en-US">Metall</description>
+  </component>
+    <component>
+    <id>choice_cllp5irls000z2a6msyzoap9k</id>
+    <description lang="en-US">Kunststoff</description>
+  </component>
+    <component>
+    <id>choice_cllp5ivtb00102a6m8dmurchi</id>
+    <description lang="en-US">Pigmente</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z_Pu2V9C_fRwoVKFqlPqZfhw2TCqTN6-_rise/UVurVJkDpwStjPk9eTY75pyzB8WgaEux/cllp5iywh00112a6mm5pnulq7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&amp;nbsp; &amp;nbsp; Welcher Hilfsstoff wird verwendet, um die Trocknungszeit von Lacken zu beschleunigen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllp5iywh00132a6mdsed2n34</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllp5iywh00122a6mjpnma8cm</id>
+    <description lang="en-US">Verd&amp;uuml;nner</description>
+  </component>
+    <component>
+    <id>choice_cllp5iywh00132a6mdsed2n34</id>
+    <description lang="en-US">H&amp;auml;rter</description>
+  </component>
+    <component>
+    <id>choice_cllp5jcub00142a6m6uuiuxpx</id>
+    <description lang="en-US">F&amp;uuml;llstoff</description>
+  </component>
+    <component>
+    <id>choice_cllp5jhyi00152a6mpzpnyfl3</id>
+    <description lang="en-US">Pigment</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z_Pu2V9C_fRwoVKFqlPqZfhw2TCqTN6-_rise/UVurVJkDpwStjPk9eTY75pyzB8WgaEux/cllp5jlnu00162a6mnx7sy5q7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welcher Werkstoff wird am besten zum Abdecken von Oberfl&amp;auml;chen verwendet, die nicht gestrichen werden sollen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllp5jzck00192a6mi93l77zp</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllp5jlnu00172a6mip7rm9sq</id>
+    <description lang="en-US">Folie</description>
+  </component>
+    <component>
+    <id>choice_cllp5jlnu00182a6mh3sxlrf8</id>
+    <description lang="en-US">Papier</description>
+  </component>
+    <component>
+    <id>choice_cllp5jzck00192a6mi93l77zp</id>
+    <description lang="en-US">Kreppband</description>
+  </component>
+    <component>
+    <id>choice_cllp5k21s001a2a6mg3hurowc</id>
+    <description lang="en-US">Plastikt&amp;uuml;ten</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z_Pu2V9C_fRwoVKFqlPqZfhw2TCqTN6-_rise/UVurVJkDpwStjPk9eTY75pyzB8WgaEux/cllp5k5gs001b2a6mrpquspxs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welches Bindemittel wird am h&amp;auml;ufigsten zur Herstellung von Lacken verwendet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllp5k5gs001d2a6msj3w7xkr</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllp5k5gs001c2a6m48vl5955</id>
+    <description lang="en-US">Wasser</description>
+  </component>
+    <component>
+    <id>choice_cllp5k5gs001d2a6msj3w7xkr</id>
+    <description lang="en-US">Alkydharz</description>
+  </component>
+    <component>
+    <id>choice_cllp5kxs4001e2a6mf9xdh22b</id>
+    <description lang="en-US">Acryl</description>
+  </component>
+    <component>
+    <id>choice_cllp5l16r001f2a6mn66e1ovm</id>
+    <description lang="en-US">L&amp;ouml;sungsmittel</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z_Pu2V9C_fRwoVKFqlPqZfhw2TCqTN6-_rise/UVurVJkDpwStjPk9eTY75pyzB8WgaEux/cllp5l8b0001g2a6m27jc9b6f" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&amp;nbsp; &amp;nbsp;Welcher Hilfsstoff wird verwendet, um Farben und Lacke dicker zu machen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllp5lgxe001j2a6mjp5tcdbg</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllp5l8b1001h2a6mi9fa3e9g</id>
+    <description lang="en-US">Verd&amp;uuml;nner</description>
+  </component>
+    <component>
+    <id>choice_cllp5l8b1001i2a6mzews0atw</id>
+    <description lang="en-US">H&amp;auml;rter</description>
+  </component>
+    <component>
+    <id>choice_cllp5lgxe001j2a6mjp5tcdbg</id>
+    <description lang="en-US">F&amp;uuml;llstoff</description>
+  </component>
+    <component>
+    <id>choice_cllp5lkr7001k2a6m8xk5txz6</id>
+    <description lang="en-US">Pigment</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z_Pu2V9C_fRwoVKFqlPqZfhw2TCqTN6-_rise/UVurVJkDpwStjPk9eTY75pyzB8WgaEux/cllp5lopx001l2a6msgiay5l7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welcher Werkstoff wird am h&amp;auml;ufigsten zur Herstellung von Pinseln verwendet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllp5lopy001m2a6m05gy3y47</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllp5lopy001m2a6m05gy3y47</id>
+    <description lang="en-US">Holz</description>
+  </component>
+    <component>
+    <id>choice_cllp5lopy001n2a6mwse7xa3l</id>
+    <description lang="en-US">Metall</description>
+  </component>
+    <component>
+    <id>choice_cllp5m8cn001o2a6m9dfzbuxn</id>
+    <description lang="en-US">Kunststoff </description>
+  </component>
+    <component>
+    <id>choice_cllp5mbf8001p2a6mtgmfxpi7</id>
+    <description lang="en-US">Pigmente</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z_Pu2V9C_fRwoVKFqlPqZfhw2TCqTN6-_rise/UVurVJkDpwStjPk9eTY75pyzB8WgaEux/cllp5mia3001q2a6m6xuxompt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welches Bindemittel wird am besten zum Auftragen von Farben auf mineralischen saugf&amp;auml;higen Oberfl&amp;auml;chen verwendet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllp5mia3001r2a6mz0ghzhv3</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllp5mia3001r2a6mz0ghzhv3</id>
+    <description lang="en-US">Wasser</description>
+  </component>
+    <component>
+    <id>choice_cllp5mia3001s2a6ma5jl3xof</id>
+    <description lang="en-US">&amp;Ouml;l</description>
+  </component>
+    <component>
+    <id>choice_cllp5mvb1001t2a6mbnbspy9z</id>
+    <description lang="en-US">Acryl</description>
+  </component>
+    <component>
+    <id>choice_cllp5mx7i001u2a6m9mt2lwod</id>
+    <description lang="en-US">Terpentin</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z_Pu2V9C_fRwoVKFqlPqZfhw2TCqTN6-_rise/UVurVJkDpwStjPk9eTY75pyzB8WgaEux/cllp5nfrm001v2a6m6fgrc3co" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welcher Hilfsstoff wird verwendet, um die Haftung von Farben und Lacken auf glatten Oberfl&amp;auml;chen zu verbessern?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllp5nspb001y2a6mqyfo2x9o</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllp5nfrm001w2a6mvutegnmz</id>
+    <description lang="en-US">Verd&amp;uuml;nner</description>
+  </component>
+    <component>
+    <id>choice_cllp5nfrm001x2a6m8mwegann</id>
+    <description lang="en-US">H&amp;auml;rter</description>
+  </component>
+    <component>
+    <id>choice_cllp5nspb001y2a6mqyfo2x9o</id>
+    <description lang="en-US">Haftvermittler</description>
+  </component>
+    <component>
+    <id>choice_cllp5nyps001z2a6mhvmpz377</id>
+    <description lang="en-US">Pigment</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z_Pu2V9C_fRwoVKFqlPqZfhw2TCqTN6-_rise/UVurVJkDpwStjPk9eTY75pyzB8WgaEux/cllp5o1z600202a6mz5z94jq2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welcher Werkstoff wird am H&amp;auml;ufigsten zum Schleifen von lackierten Oberfl&amp;auml;chen verwendet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllp5o1z700212a6miulycqt5</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllp5o1z700212a6miulycqt5</id>
+    <description lang="en-US">Schleifpapier</description>
+  </component>
+    <component>
+    <id>choice_cllp5o1z700222a6mzu9wxkq8</id>
+    <description lang="en-US">Schleifvlies</description>
+  </component>
+    <component>
+    <id>choice_cllp5oi3v00232a6m59ivuq84</id>
+    <description lang="en-US">Schleifpaste</description>
+  </component>
+    <component>
+    <id>choice_cllp5ols100242a6ms3c8l26v</id>
+    <description lang="en-US">Schleifstein</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://Z_Pu2V9C_fRwoVKFqlPqZfhw2TCqTN6-_rise/UVurVJkDpwStjPk9eTY75pyzB8WgaEux/cllp5oqhd00252a6meu40bv03" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welches Bindemittel wird zum Auftragen von Farben auf Metall verwendet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cllp5pe3l00292a6mb8m7afpv</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cllp5oqhd00262a6mkj2f229z</id>
+    <description lang="en-US">Wasser</description>
+  </component>
+    <component>
+    <id>choice_cllp5oqhd00272a6mhwvn8mn4</id>
+    <description lang="en-US">&amp;Ouml;l</description>
+  </component>
+    <component>
+    <id>choice_cllp5p9fx00282a6mbsbrp95z</id>
+    <description lang="en-US">Acryl</description>
+  </component>
+    <component>
+    <id>choice_cllp5pe3l00292a6mb8m7afpv</id>
+    <description lang="en-US">Epoxidharz</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
