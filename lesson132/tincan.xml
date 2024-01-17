@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://cOuS2oZBmD5_L4rBdo0EwSNsbpFcv1Pw_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Schimmel - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://cOuS2oZBmD5_L4rBdo0EwSNsbpFcv1Pw_rise/9gR_jMzIjrQKTv0V9wtE7kJ319gR_m2t" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://cOuS2oZBmD5_L4rBdo0EwSNsbpFcv1Pw_rise/9gR_jMzIjrQKTv0V9wtE7kJ319gR_m2t/clrhsmbxj000k2a6kb6x69hvv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Ursachen k&amp;ouml;nnen zur Schimmelbildung f&amp;uuml;hren?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhsmbxk000l2a6kmstby298</correctResponsePattern>
+    <correctResponsePattern>choice_clrhsmbxk000m2a6kwhi4x1kw</correctResponsePattern>
+    <correctResponsePattern>choice_clrhsmbxk000o2a6ko4be01g9</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhsmbxk000l2a6kmstby298</id>
+    <description lang="en-US">L&amp;uuml;ftungsverhalten</description>
+  </component>
+    <component>
+    <id>choice_clrhsmbxk000n2a6ky3ajuhj0</id>
+    <description lang="en-US">hoher W&amp;auml;rmedurchlasswiderstand</description>
+  </component>
+    <component>
+    <id>choice_clrhsmbxk000o2a6ko4be01g9</id>
+    <description lang="en-US">geringer W&amp;auml;rmedurchlasswiderstand</description>
+  </component>
+    <component>
+    <id>choice_clrhsmbxk000m2a6kwhi4x1kw</id>
+    <description lang="en-US">geometrische W&amp;auml;rmebr&amp;uuml;cke</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://cOuS2oZBmD5_L4rBdo0EwSNsbpFcv1Pw_rise/9gR_jMzIjrQKTv0V9wtE7kJ319gR_m2t/clrhsn8n1001v2a6kz4cbyln2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Bedingungen beg&amp;uuml;nstigen das Schimmelwachstum?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhsn8n1001w2a6kjrk5mjn7</correctResponsePattern>
+    <correctResponsePattern>choice_clrhsn8n1001z2a6kwuyppi2e</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhsn8n1001w2a6kjrk5mjn7</id>
+    <description lang="en-US">Bauteilfeuchte 55-95 %</description>
+  </component>
+    <component>
+    <id>choice_clrhsn8n1001y2a6k2qe2epmz</id>
+    <description lang="en-US">Bauteilfeuchte spielt eine untergeordnete Rolle</description>
+  </component>
+    <component>
+    <id>choice_clrhsn8n1001z2a6kwuyppi2e</id>
+    <description lang="en-US">organische Bestandteile im Untergrund</description>
+  </component>
+    <component>
+    <id>choice_clrhsn8n1001x2a6kaahvrcvt</id>
+    <description lang="en-US">alkalische Oberfl&amp;auml;che</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://cOuS2oZBmD5_L4rBdo0EwSNsbpFcv1Pw_rise/9gR_jMzIjrQKTv0V9wtE7kJ319gR_m2t/clrhsoa60003h2a6kz8028u4c" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ab welcher Befallgr&amp;ouml;&amp;szlig;e ist die Sanierung durch ein Fachunternehmen durchzuf&amp;uuml;hren?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhsoa60003l2a6k4hm0w429</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhsoa60003i2a6ko5jfhcak</id>
+    <description lang="en-US">bis 0,2 cm&amp;sup2; &amp;nbsp;(geringer Befall)</description>
+  </component>
+    <component>
+    <id>choice_clrhsoa60003k2a6k5sip2f04</id>
+    <description lang="en-US">bis 0,5 m&amp;sup2; (mittlerer Befall)</description>
+  </component>
+    <component>
+    <id>choice_clrhsoa60003l2a6k4hm0w429</id>
+    <description lang="en-US">ab 0,5 m&amp;sup2;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://cOuS2oZBmD5_L4rBdo0EwSNsbpFcv1Pw_rise/9gR_jMzIjrQKTv0V9wtE7kJ319gR_m2t/clrhsprzj004g2a6krkp1swpr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Untergrundvorbereitungen sind f&amp;uuml;r eine Schimmelsanierung ab mittlerem Befall erforderlich?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhsprzj004h2a6k6amzycdr</correctResponsePattern>
+    <correctResponsePattern>choice_clrhsprzj004k2a6khnwaa7or</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhsprzj004h2a6k6amzycdr</id>
+    <description lang="en-US">Entfernen der kontaminierten Fl&amp;auml;chen</description>
+  </component>
+    <component>
+    <id>choice_clrhsprzj004j2a6kci4ydcg5</id>
+    <description lang="en-US">Behandlung mit Schimmelstop ist v&amp;ouml;llig ausreichend</description>
+  </component>
+    <component>
+    <id>choice_clrhsprzj004k2a6khnwaa7or</id>
+    <description lang="en-US">vor dem Entfernen sollte ein Sporenbinder eingesetzt werden (Arbeitsschutz)</description>
+  </component>
+    <component>
+    <id>choice_clrhsprzj004i2a6kub4y00i5</id>
+    <description lang="en-US">nach Reinigung beschichten mit einem alkalischen Anstrich</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://cOuS2oZBmD5_L4rBdo0EwSNsbpFcv1Pw_rise/9gR_jMzIjrQKTv0V9wtE7kJ319gR_m2t/clrhsqs1200602a6k528992n7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Durch welche Ma&amp;szlig;nahmen kann man einer Schimmelbildung vorbeugen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhsqs1200612a6kewm24zww</correctResponsePattern>
+    <correctResponsePattern>choice_clrhsqs1200642a6kmdbdcknw</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhsqs1200612a6kewm24zww</id>
+    <description lang="en-US">Applikation eines Innend&amp;auml;mmsystems</description>
+  </component>
+    <component>
+    <id>choice_clrhsqs1200632a6ku8de0lq3</id>
+    <description lang="en-US">Beschichten der Wandfl&amp;auml;chen mit einer diffusionshemmenden Beschichtung</description>
+  </component>
+    <component>
+    <id>choice_clrhsqs1200642a6kmdbdcknw</id>
+    <description lang="en-US">Beschichtung mit Silikatfarben</description>
+  </component>
+    <component>
+    <id>choice_clrhsqs1200622a6kk7xocy21</id>
+    <description lang="en-US">Innend&amp;auml;mmung mit Styropor</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://cOuS2oZBmD5_L4rBdo0EwSNsbpFcv1Pw_rise/9gR_jMzIjrQKTv0V9wtE7kJ319gR_m2t/clrhsrugm00822a6kh8iveojl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Untergr&amp;uuml;nde sind f&amp;uuml;r eine Innend&amp;auml;mmplattenverklebung optimal geeignet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhsrugm00842a6kbul7ubzn</correctResponsePattern>
+    <correctResponsePattern>choice_clrhsrugm00862a6ku0wu3qt8</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhsrugm00832a6k9x2mcrh5</id>
+    <description lang="en-US">mineralische Untergr&amp;uuml;nde mit Dispersionfarbenanstrich</description>
+  </component>
+    <component>
+    <id>choice_clrhsrugm00852a6kirp5nxmi</id>
+    <description lang="en-US">mineralische Untergr&amp;uuml;nde (inkl. Gips)</description>
+  </component>
+    <component>
+    <id>choice_clrhsrugm00862a6ku0wu3qt8</id>
+    <description lang="en-US">mineralische und massive Bauteile</description>
+  </component>
+    <component>
+    <id>choice_clrhsrugm00842a6kbul7ubzn</id>
+    <description lang="en-US">hydrophobe Sanierputze</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

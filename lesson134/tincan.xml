@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://eX2igSSZKmDPycfV23XlQIYxLm6Xz78c_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Bodenbeschichtung - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://eX2igSSZKmDPycfV23XlQIYxLm6Xz78c_rise/IQgHuDOUE90w69eQkDkbe80ruxaUtIhm" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://eX2igSSZKmDPycfV23XlQIYxLm6Xz78c_rise/IQgHuDOUE90w69eQkDkbe80ruxaUtIhm/clrhtaa7f00022a6ka56v7pvf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche m&amp;ouml;glichen Abk&amp;uuml;rzungen f&amp;uuml;r Untergr&amp;uuml;nde gibt es nach DIN 13813?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtakno00052a6k4tclvb2v</correctResponsePattern>
+    <correctResponsePattern>choice_clrhtan1d00062a6khlthnnfl</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtaa7f00032a6k0dhunutd</id>
+    <description lang="en-US">ZE</description>
+  </component>
+    <component>
+    <id>choice_clrhtaa7f00042a6k5hjj4anu</id>
+    <description lang="en-US">ATV</description>
+  </component>
+    <component>
+    <id>choice_clrhtakno00052a6k4tclvb2v</id>
+    <description lang="en-US">AS</description>
+  </component>
+    <component>
+    <id>choice_clrhtan1d00062a6khlthnnfl</id>
+    <description lang="en-US">CT</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://eX2igSSZKmDPycfV23XlQIYxLm6Xz78c_rise/IQgHuDOUE90w69eQkDkbe80ruxaUtIhm/clrhtb0oc000j2a6kghtzuzlz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Ausgleichsfeuchte sollte ein Calziumsulfatestrich vor dem Beschichten aufweisen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtbgtd000n2a6kqfii888o</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtb0od000k2a6k3rkt1y14</id>
+    <description lang="en-US">&amp;lt; 4 %</description>
+  </component>
+    <component>
+    <id>choice_clrhtb0od000l2a6kmd70eq7k</id>
+    <description lang="en-US">&amp;gt; 5%</description>
+  </component>
+    <component>
+    <id>choice_clrhtbczf000m2a6ku1h1bzus</id>
+    <description lang="en-US">&amp;gt; 0,5 %</description>
+  </component>
+    <component>
+    <id>choice_clrhtbgtd000n2a6kqfii888o</id>
+    <description lang="en-US">&amp;lt; 0,5 %</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://eX2igSSZKmDPycfV23XlQIYxLm6Xz78c_rise/IQgHuDOUE90w69eQkDkbe80ruxaUtIhm/clrhtbooq000o2a6kogvyveof" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie l&amp;auml;sst sich vor Ort ein schwimmender Estrich erkennen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtbooq000q2a6k5tntp16f</correctResponsePattern>
+    <correctResponsePattern>choice_clrhtbooq000r2a6k4czywbap</correctResponsePattern>
+    <correctResponsePattern>choice_clrhtbooq000s2a6kg8rwyp1a</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtbooq000p2a6k35e00r8y</id>
+    <description lang="en-US">Der Boden bewegt sich beim Betreten von alleine.</description>
+  </component>
+    <component>
+    <id>choice_clrhtbooq000r2a6k4czywbap</id>
+    <description lang="en-US">Zwischen Boden und Wand ist z.B. ein D&amp;auml;mmstreifen zu erkennen.</description>
+  </component>
+    <component>
+    <id>choice_clrhtbooq000s2a6kg8rwyp1a</id>
+    <description lang="en-US">Durch Einsicht in die Baupl&amp;auml;ne bzw. Befragung.</description>
+  </component>
+    <component>
+    <id>choice_clrhtbooq000q2a6k5tntp16f</id>
+    <description lang="en-US">Durch kr&amp;auml;ftiges Stampfen auf den Boden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://eX2igSSZKmDPycfV23XlQIYxLm6Xz78c_rise/IQgHuDOUE90w69eQkDkbe80ruxaUtIhm/clrhtcs2w001z2a6kju945q3v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Untergrundvorbehandlung empfehlen Sie f&amp;uuml;r einen Zementestrich?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtcs2w00202a6kv7ltokaw</correctResponsePattern>
+    <correctResponsePattern>choice_clrhtcs2w00222a6k95bzvrrc</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtcs2w00202a6kv7ltokaw</id>
+    <description lang="en-US">Schleifen mittels Tellerschleifmaschine (Korundsteinbest&amp;uuml;ckung)</description>
+  </component>
+    <component>
+    <id>choice_clrhtcs2w00222a6k95bzvrrc</id>
+    <description lang="en-US">Kugelstrahlen</description>
+  </component>
+    <component>
+    <id>choice_clrhtcs2w00232a6ku7c1rsz3</id>
+    <description lang="en-US">Sandstrahlen</description>
+  </component>
+    <component>
+    <id>choice_clrhtcs2w00212a6kytsqyq6i</id>
+    <description lang="en-US">wischen und trocknen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://eX2igSSZKmDPycfV23XlQIYxLm6Xz78c_rise/IQgHuDOUE90w69eQkDkbe80ruxaUtIhm/clrhtduo0003i2a6k05ozeuu9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wof&amp;uuml;r steht der Begriff &amp;bdquo;WDD&amp;ldquo;?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtduo0003m2a6khmbkgcik</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtduo0003j2a6k50banywv</id>
+    <description lang="en-US">w&amp;auml;ssrige Dampfdiffusion</description>
+  </component>
+    <component>
+    <id>choice_clrhtduo0003l2a6k1eq5m8bd</id>
+    <description lang="en-US">Wasser diffusionsdurchl&amp;auml;ssig</description>
+  </component>
+    <component>
+    <id>choice_clrhtduo0003m2a6khmbkgcik</id>
+    <description lang="en-US">wasserdampfdiffusionsf&amp;auml;hig</description>
+  </component>
+    <component>
+    <id>choice_clrhtduo0003k2a6kyw6hsmxf</id>
+    <description lang="en-US">Wand &amp;ndash; Decke - Dach</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://eX2igSSZKmDPycfV23XlQIYxLm6Xz78c_rise/IQgHuDOUE90w69eQkDkbe80ruxaUtIhm/clrhtej4e004b2a6k1qys0atf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Pr&amp;uuml;fmethode f&amp;uuml;r die Restfeuchtebestimmung wird vor Gericht anerkannt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtej4e004f2a6k6du9627w</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtej4e004c2a6kn8vyzx8c</id>
+    <description lang="en-US">Darr Methode</description>
+  </component>
+    <component>
+    <id>choice_clrhtej4e004e2a6kphkzqrxy</id>
+    <description lang="en-US">Folientest</description>
+  </component>
+    <component>
+    <id>choice_clrhtej4e004f2a6k6du9627w</id>
+    <description lang="en-US">CM Methode</description>
+  </component>
+    <component>
+    <id>choice_clrhtej4e004d2a6k0zojt3bb</id>
+    <description lang="en-US">Blaupapier-Abzug</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://eX2igSSZKmDPycfV23XlQIYxLm6Xz78c_rise/IQgHuDOUE90w69eQkDkbe80ruxaUtIhm/clrhtfi1s005u2a6kfynxm0bb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei einem ermittelten Taupunkt von 12,6 &amp;deg;C muss der zu beschichtende Untergrund&lt;br&gt;wie viel Grad aufweisen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtfi1s005v2a6k8b2rpfm6</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtfi1s005v2a6k8b2rpfm6</id>
+    <description lang="en-US">mind. 15,6 &amp;deg;C</description>
+  </component>
+    <component>
+    <id>choice_clrhtfi1s005x2a6ks5zv83z3</id>
+    <description lang="en-US">max. 15,6 &amp;deg;C</description>
+  </component>
+    <component>
+    <id>choice_clrhtfi1s005y2a6kc0h1civ5</id>
+    <description lang="en-US">mind. 9,6 &amp;deg;C</description>
+  </component>
+    <component>
+    <id>choice_clrhtfi1s005w2a6ktfx0b0h2</id>
+    <description lang="en-US">ebenso 12,6 &amp;deg;C</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

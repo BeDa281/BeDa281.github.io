@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://_pLR7vsWJIcI4Z7TvvJQJJbE_viozPi3_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Bodenbeschichtung - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://_pLR7vsWJIcI4Z7TvvJQJJbE_viozPi3_rise/uWhM9GflrgEhLxQytJcK_GGlqjeni3E9" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://_pLR7vsWJIcI4Z7TvvJQJJbE_viozPi3_rise/uWhM9GflrgEhLxQytJcK_GGlqjeni3E9/clrhtho5t000h2a6kkx5tjz8o" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Rutschfestigkeitsklassen gibt es?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtho5t000i2a6kiqd8cg0m</correctResponsePattern>
+    <correctResponsePattern>choice_clrhtho5t000j2a6kdz8v8995</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtho5t000i2a6kiqd8cg0m</id>
+    <description lang="en-US">R 10</description>
+  </component>
+    <component>
+    <id>choice_clrhtho5t000j2a6kdz8v8995</id>
+    <description lang="en-US">&amp;nbsp;R 13</description>
+  </component>
+    <component>
+    <id>choice_clrhti64l000k2a6kdfpyi6xw</id>
+    <description lang="en-US">&amp;nbsp;R 14</description>
+  </component>
+    <component>
+    <id>choice_clrhtibdv000l2a6k69gel9lh</id>
+    <description lang="en-US">RFK 1-3</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://_pLR7vsWJIcI4Z7TvvJQJJbE_viozPi3_rise/uWhM9GflrgEhLxQytJcK_GGlqjeni3E9/clrhtiobq000u2a6k86hf5gcv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wof&amp;uuml;r steht das &amp;bdquo;V&amp;ldquo; bei der Begrifflichkeit R12 V4?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtiz0o000x2a6kswlt5h1p</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtiobq000v2a6kd3jqians</id>
+    <description lang="en-US">Verdr&amp;auml;ngungsrahmen</description>
+  </component>
+    <component>
+    <id>choice_clrhtiobq000w2a6k7ghprt9p</id>
+    <description lang="en-US">Verz&amp;ouml;gerungsraum</description>
+  </component>
+    <component>
+    <id>choice_clrhtiz0o000x2a6kswlt5h1p</id>
+    <description lang="en-US">Verdr&amp;auml;ngungsraum</description>
+  </component>
+    <component>
+    <id>choice_clrhtj6u500132a6k49w0652c</id>
+    <description lang="en-US">Ver&amp;auml;nderung im Feuchtebereich</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://_pLR7vsWJIcI4Z7TvvJQJJbE_viozPi3_rise/uWhM9GflrgEhLxQytJcK_GGlqjeni3E9/clrhtjdlu00142a6kt5qr61u5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Auf welche Besonderheiten sollte man beim &amp;Uuml;berbeschichten von Fliesen im Innenbereich achten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtjdlu00152a6kwjks5jyo</correctResponsePattern>
+    <correctResponsePattern>choice_clrhtjdlu00162a6krv8wnzf0</correctResponsePattern>
+    <correctResponsePattern>choice_clrhtkaiz002p2a6kbya2w6ox</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtjdlu00152a6kwjks5jyo</id>
+    <description lang="en-US">Hohllagen + Fehlstellen</description>
+  </component>
+    <component>
+    <id>choice_clrhtjdlu00162a6krv8wnzf0</id>
+    <description lang="en-US">Feuchtigkeit im Untergrund</description>
+  </component>
+    <component>
+    <id>choice_clrhtk0dg001y2a6kpkt0cjkb</id>
+    <description lang="en-US">Historischer Wert der vorhandenen Fliesen</description>
+  </component>
+    <component>
+    <id>choice_clrhtkaiz002p2a6kbya2w6ox</id>
+    <description lang="en-US">alte Reinigungsr&amp;uuml;ckst&amp;auml;nde</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://_pLR7vsWJIcI4Z7TvvJQJJbE_viozPi3_rise/uWhM9GflrgEhLxQytJcK_GGlqjeni3E9/clrhtkpzd003d2a6kmxqi4ug7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei einem &amp;bdquo;d&amp;uuml;nnen Versiegelungssystem&amp;ldquo; (0,15-0,30 mm) weisen Sie den Bauherren auf folgende Gegebenheiten hin:</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtkpzd003e2a6kapu64nvm</correctResponsePattern>
+    <correctResponsePattern>choice_clrhtkpzd003h2a6kh2u2sgmk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtkpzd003e2a6kapu64nvm</id>
+    <description lang="en-US">Poren und Unebenheiten k&amp;ouml;nnen sichtbar bleiben</description>
+  </component>
+    <component>
+    <id>choice_clrhtkpzd003g2a6kr61tthht</id>
+    <description lang="en-US">mechanisch stark belastbar &amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clrhtkpzd003h2a6kh2u2sgmk</id>
+    <description lang="en-US">lediglich ein staubbindender Anstrich &amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clrhtkpzd003f2a6ks5f6cvwt</id>
+    <description lang="en-US">Raumh&amp;ouml;henver&amp;auml;nderung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://_pLR7vsWJIcI4Z7TvvJQJJbE_viozPi3_rise/uWhM9GflrgEhLxQytJcK_GGlqjeni3E9/clrhtlij4004s2a6ke0b124cs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Zahnleiste empfehlen Sie f&amp;uuml;r eine Verlaufsbeschichtung bei einem Verbrauch von 2,50-3,00 kg/m&amp;sup2;?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtlij4004t2a6kl0d8fr65</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtlij4004t2a6kl0d8fr65</id>
+    <description lang="en-US">55 er</description>
+  </component>
+    <component>
+    <id>choice_clrhtlij4004v2a6kf644295r</id>
+    <description lang="en-US">7 er</description>
+  </component>
+    <component>
+    <id>choice_clrhtlij4004w2a6k1s1ipozp</id>
+    <description lang="en-US">22 er</description>
+  </component>
+    <component>
+    <id>choice_clrhtlij4004u2a6keqmgcelo</id>
+    <description lang="en-US">8 - 10 er</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://_pLR7vsWJIcI4Z7TvvJQJJbE_viozPi3_rise/uWhM9GflrgEhLxQytJcK_GGlqjeni3E9/clrhtmflf005i2a6kvrh50s48" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Auf welche Verarbeitungsbedingungen sollte zwingend bei Kunstharzbeschichtungen geachtet werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtmflf005j2a6k0y4ttpic</correctResponsePattern>
+    <correctResponsePattern>choice_clrhtmflf005l2a6kq1ltes0u</correctResponsePattern>
+    <correctResponsePattern>choice_clrhtmflg005m2a6kyrlfd94i</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtmflf005j2a6k0y4ttpic</id>
+    <description lang="en-US">Luftfeuchtigkeit</description>
+  </component>
+    <component>
+    <id>choice_clrhtmflf005l2a6kq1ltes0u</id>
+    <description lang="en-US">Bodentemperatur</description>
+  </component>
+    <component>
+    <id>choice_clrhtmflg005m2a6kyrlfd94i</id>
+    <description lang="en-US">Taupunkt</description>
+  </component>
+    <component>
+    <id>choice_clrhtmflf005k2a6kpbwzry7t</id>
+    <description lang="en-US">unmittelbar vor dem Wochenende</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://_pLR7vsWJIcI4Z7TvvJQJJbE_viozPi3_rise/uWhM9GflrgEhLxQytJcK_GGlqjeni3E9/clrhtnt0j00842a6k8pcqcpgr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Industrielle PUR/EP-Beschichtungen sind in der Regel&amp;hellip;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtnt0j00852a6kwt9tp214</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtnt0j00852a6kwt9tp214</id>
+    <description lang="en-US">nicht UV-stabil</description>
+  </component>
+    <component>
+    <id>choice_clrhtnt0j00862a6kxlyxru6o</id>
+    <description lang="en-US">UV-stabil</description>
+  </component>
+    <component>
+    <id>choice_clrhto93e00872a6kzmhi8mjp</id>
+    <description lang="en-US">V2A-stabil</description>
+  </component>
+    <component>
+    <id>choice_clrhtoeie00882a6k1ma2tyny</id>
+    <description lang="en-US">brandbest&amp;auml;ndig</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

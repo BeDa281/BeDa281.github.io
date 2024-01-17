@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://89Sbl6zzyuWBWIxJyax21c-ZY5IZJBxH_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Bauwerksabdichtung- Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://89Sbl6zzyuWBWIxJyax21c-ZY5IZJBxH_rise/6K-H8YsBLtxnEFBYOPJcDZxTkvQ4JcTc" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://89Sbl6zzyuWBWIxJyax21c-ZY5IZJBxH_rise/6K-H8YsBLtxnEFBYOPJcDZxTkvQ4JcTc/clrhu1zfj000k2a6k7385d4ip" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Ma&amp;szlig;nahmen sind bei Innenabdichtungen nach WTA-Merkblatt 4-6 Nachtr&amp;auml;gliches Abdichten erdber&amp;uuml;hrter Bauteile unter anderem zu beachten? &amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhu1zfj000n2a6kehwsswka</correctResponsePattern>
+    <correctResponsePattern>choice_clrhu1zfj000o2a6kq5ldztcc</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhu1zfj000l2a6k6dw541gl</id>
+    <description lang="en-US">Abdichtungsebene der Wandfl&amp;auml;chen mindestens 15 cm auf die Bodenplatte f&amp;uuml;hren.</description>
+  </component>
+    <component>
+    <id>choice_clrhu1zfj000n2a6kehwsswka</id>
+    <description lang="en-US">Nut an Mauersperrbahnen einschneiden und sp&amp;auml;ter mit wasserundurchl&amp;auml;ssigem M&amp;ouml;rtel schlie&amp;szlig;en. &amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clrhu1zfj000o2a6kq5ldztcc</id>
+    <description lang="en-US">Nut am Wand-Sohlenanschluss einstemmen, sp&amp;auml;ter mit wasserundurchl&amp;auml;ssigem M&amp;ouml;rtel verschlie&amp;szlig;en.</description>
+  </component>
+    <component>
+    <id>choice_clrhu1zfj000m2a6k1p7674tp</id>
+    <description lang="en-US">Anordnung nachtr&amp;auml;glicher Horizontalsperren unter Gel&amp;auml;ndeniveau des Au&amp;szlig;enbereichs.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://89Sbl6zzyuWBWIxJyax21c-ZY5IZJBxH_rise/6K-H8YsBLtxnEFBYOPJcDZxTkvQ4JcTc/clrhu34qy002u2a6kc1vbmqwf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche klimatischen Bedingungen sollten beim Verarbeiten von flexiblen, polymermodifizierten Dickbeschichtungen ber&amp;uuml;cksichtigt werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhu34qy002v2a6knwz6ebxg</correctResponsePattern>
+    <correctResponsePattern>choice_clrhu34qy002x2a6kc46l7bmf</correctResponsePattern>
+    <correctResponsePattern>choice_clrhu34qy002y2a6kx0l9t6q4</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhu34qy002v2a6knwz6ebxg</id>
+    <description lang="en-US">Umgebungs- und Untergrundtemperatur: mind. +5 &amp;deg;C bis max. +30 &amp;deg;C.</description>
+  </component>
+    <component>
+    <id>choice_clrhu34qy002x2a6kc46l7bmf</id>
+    <description lang="en-US">Niedrige Temperaturen verl&amp;auml;ngern, hohe Temperaturen verk&amp;uuml;rzen die Verarbeitungs- und Erh&amp;auml;rtungszeit.</description>
+  </component>
+    <component>
+    <id>choice_clrhu34qy002y2a6kx0l9t6q4</id>
+    <description lang="en-US">Die Untergrundtemperatur muss w&amp;auml;hrend Applikation und Aush&amp;auml;rtung mind. +3 &amp;deg;C &amp;uuml;ber der Taupunkttemperatur liegen.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://89Sbl6zzyuWBWIxJyax21c-ZY5IZJBxH_rise/6K-H8YsBLtxnEFBYOPJcDZxTkvQ4JcTc/clrhu4flc004u2a6kuhdv9jv9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Instandsetzung nachtr&amp;auml;glicher, erdber&amp;uuml;hrter Au&amp;szlig;enabdichtung (Altbitumen) mit flexiblen, polymermodifizierten Dickbeschichtungen: Welche Ma&amp;szlig;nahmen sind bei der Untergrundvorbehandlung zu beachten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhu4fld004w2a6kemxju1b2</correctResponsePattern>
+    <correctResponsePattern>choice_clrhu4fld004x2a6kbg609fgo</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhu4fld004v2a6kdy37e1rk</id>
+    <description lang="en-US">Im Bereich des Wand-Bodenanschlusses ist eine Altbeschichtung von der Stirnseite der Bodenplatte bis ca. 15 cm &amp;uuml;ber dem Wand-Bodenanschluss zu entfernen.</description>
+  </component>
+    <component>
+    <id>choice_clrhu4fld004x2a6kbg609fgo</id>
+    <description lang="en-US">Im Bereich des Wand-Bodenanschlusses ist eine Altbeschichtung inkl. einer evtl. vorhandenen Dichtungskehle von der Stirnseite der Bodenplatte bis ca. 30 cm &amp;uuml;ber dem Wand-Bodenanschluss zu entfernen.</description>
+  </component>
+    <component>
+    <id>choice_clrhu4fld004y2a6kjnhom2ju</id>
+    <description lang="en-US">Im System mit einer Altbeschichtung verwendete Materialien an Fugen, Durchdringungen, &amp;Uuml;berg&amp;auml;ngen, An- und Abschl&amp;uuml;ssen (Fugenb&amp;auml;nder, Dichtmanschetten, Profile usw.) m&amp;uuml;ssen nicht entfernt werden.</description>
+  </component>
+    <component>
+    <id>choice_clrhu4fld004w2a6kemxju1b2</id>
+    <description lang="en-US">Der Untergrund ist zu reinigen. Unebenheiten sowie Fehlstellen sind mit geeignetem Material fachgerecht auszubessern.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://89Sbl6zzyuWBWIxJyax21c-ZY5IZJBxH_rise/6K-H8YsBLtxnEFBYOPJcDZxTkvQ4JcTc/clrhu5fll006f2a6k924sx9l0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist unter dem Begriff Zwischenabdichtung zu verstehen? Welche Antworten sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhu5fll006h2a6knevfggqt</correctResponsePattern>
+    <correctResponsePattern>choice_clrhu5zqd007f2a6k2gqa07j6</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhu5fll006g2a6kcawb6brq</id>
+    <description lang="en-US">Zwischenabdichtungen sind grunds&amp;auml;tzlich vor dem Auftrag riss&amp;uuml;berbr&amp;uuml;ckender Abdichtungen aus PMBC oder FPD durchzuf&amp;uuml;hren.</description>
+  </component>
+    <component>
+    <id>choice_clrhu5fll006h2a6knevfggqt</id>
+    <description lang="en-US">Zwischenabdichtungen sind bei stark durchfeuchteten Untergr&amp;uuml;nden vor dem Auftrag riss&amp;uuml;berbr&amp;uuml;ckender Abdichtungen aus PMBC oder FPD durchzuf&amp;uuml;hren</description>
+  </component>
+    <component>
+    <id>choice_clrhu5v1600752a6ksjj5nucg</id>
+    <description lang="en-US">Zwischenabdichtungen sind aus demselben Material herzustellen.</description>
+  </component>
+    <component>
+    <id>choice_clrhu5zqd007f2a6k2gqa07j6</id>
+    <description lang="en-US">Zwischenabdichtungen sind mit starrer, nicht riss&amp;uuml;berbr&amp;uuml;ckender, mineralischer Dichtungsschl&amp;auml;mme (MDS) oder mit wasserundurchl&amp;auml;ssigen Werktrockenm&amp;ouml;rtelsystemen auszuf&amp;uuml;hren.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://89Sbl6zzyuWBWIxJyax21c-ZY5IZJBxH_rise/6K-H8YsBLtxnEFBYOPJcDZxTkvQ4JcTc/clrhu6b08007w2a6kd1sldf20" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Abdichtung bei niveaugleichen Schwellen. Welche Aussage ist falsch?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhu700q00802a6kvwipily6</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhu6b08007x2a6kv7l1hsrq</id>
+    <description lang="en-US">&amp;Uuml;berg&amp;auml;nge mit einer Schwellenh&amp;ouml;he von &amp;le; 15 cm sind in Bezug auf die Abdichtung als Sonderkonstruktion zu planen.</description>
+  </component>
+    <component>
+    <id>choice_clrhu6b08007y2a6k2w14th2a</id>
+    <description lang="en-US">Abschl&amp;uuml;sse an bodentiefen Fenstern oder T&amp;uuml;ren ohne oder mit geringer Aufkantung sind durch zus&amp;auml;tzliche Ma&amp;szlig;nahmen, z. B. durch ausreichend gro&amp;szlig;e Vord&amp;auml;cher, Fassadenr&amp;uuml;ckspr&amp;uuml;nge und/oder unmittelbar entw&amp;auml;sserten Rinnen mit Gitterrosten, vor starker Wassereinwirkung zu sch&amp;uuml;tzen.</description>
+  </component>
+    <component>
+    <id>choice_clrhu6r1w007z2a6kcji99bbx</id>
+    <description lang="en-US">Die Abdichtungsschicht ist an Fenster- und anderen Einbauelementen auch hinter Rollladenschienen und Deckleisten durchzuf&amp;uuml;hren.</description>
+  </component>
+    <component>
+    <id>choice_clrhu700q00802a6kvwipily6</id>
+    <description lang="en-US">Barrierefreie, niveaugleiche &amp;Uuml;berg&amp;auml;nge oder &amp;Uuml;berg&amp;auml;nge mit einer zul&amp;auml;ssigen Schwellenh&amp;ouml;he von &amp;le; 0,02 m k&amp;ouml;nnen normgerecht geplant und ausgef&amp;uuml;hrt werden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://89Sbl6zzyuWBWIxJyax21c-ZY5IZJBxH_rise/6K-H8YsBLtxnEFBYOPJcDZxTkvQ4JcTc/clrhu7clb00812a6kh3n8dy30" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Anschluss der erdber&amp;uuml;hrten Abdichtung aus FPD an eine Bodenplatte aus WU-Betonkonstruktion bei W2.1-E. Welche Aussage ist falsch?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhu7clb00842a6kicjii0yf</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhu7clb00822a6k7z7dvtyi</id>
+    <description lang="en-US">F&amp;uuml;r diesen speziellen Anwendungsbereich muss die FPD &amp;uuml;ber ein allgemeines bauaufsichtliches Pr&amp;uuml;fzeugnis gem&amp;auml;&amp;szlig; PG-FBB Teil 1 mit entsprechenden Vorgaben zur Ausf&amp;uuml;hrung verf&amp;uuml;gen.</description>
+  </component>
+    <component>
+    <id>choice_clrhu7clb00842a6kicjii0yf</id>
+    <description lang="en-US">Die Dokumentation zu Untergrundvorbehandlungen und Arbeitsschritten ist grunds&amp;auml;tzlich nicht erforderlich.</description>
+  </component>
+    <component>
+    <id>choice_clrhu7clb00852a6kealkbgii</id>
+    <description lang="en-US">Die Stirnseite und der ggf. vorhandene Vorsprung der Bodenplatte sind mechanisch abtragend vorzubehandeln. Zementleimschichten sind zu entfernen.</description>
+  </component>
+    <component>
+    <id>choice_clrhu7clb00832a6ksscltgsz</id>
+    <description lang="en-US">Die FPD ist nach Angaben des Pr&amp;uuml;fzeugnisses mindestens 15 cm breit auf die Stirnseite zu f&amp;uuml;hren.&amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

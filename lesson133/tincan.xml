@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://pMtd_gKQUyaASs-P9-9lASpjgAV_uxCU_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Schimmel - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://pMtd_gKQUyaASs-P9-9lASpjgAV_uxCU_rise/h7WiRW-Tb0Zr1uwKgqKnkbJS9pee6JsA" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://pMtd_gKQUyaASs-P9-9lASpjgAV_uxCU_rise/h7WiRW-Tb0Zr1uwKgqKnkbJS9pee6JsA/clrhst0kl008t2a6kpvbd3wmn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Punkte sind bei der Verklebung einer Innend&amp;auml;mmplatte zu beachten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhst0km008u2a6kvfcfvto3</correctResponsePattern>
+    <correctResponsePattern>choice_clrhst0km008x2a6kr4h1nsja</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhst0km008u2a6kvfcfvto3</id>
+    <description lang="en-US">Ziel der Plattenverklebung ist eine geschlossene und ebene Oberfl&amp;auml;che</description>
+  </component>
+    <component>
+    <id>choice_clrhst0km008w2a6ktq1kuov3</id>
+    <description lang="en-US">die Verklebung im Punkt-Wulstverfahren ist vollkommend ausreichend &amp;nbsp; &amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clrhst0km008x2a6kr4h1nsja</id>
+    <description lang="en-US">eine vollfl&amp;auml;chige Verklebung ist zwingend erforderlich</description>
+  </component>
+    <component>
+    <id>choice_clrhst0km008v2a6kr28i9n7t</id>
+    <description lang="en-US">Gr&amp;ouml;&amp;szlig;ere Fugen zwischen den Platten k&amp;ouml;nnen mit Kleber geschlossen werden</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://pMtd_gKQUyaASs-P9-9lASpjgAV_uxCU_rise/h7WiRW-Tb0Zr1uwKgqKnkbJS9pee6JsA/clrhstogd009u2a6kprq3y1b9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Anforderungen muss die Au&amp;szlig;enfassade f&amp;uuml;r eine Innend&amp;auml;mmma&amp;szlig;nahme erf&amp;uuml;llen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhstogd009x2a6k6uh9w25g</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhstogd009v2a6k79y1d80o</id>
+    <description lang="en-US">Die Au&amp;szlig;enwand muss mindesten 50 cm dick sein</description>
+  </component>
+    <component>
+    <id>choice_clrhstogd009x2a6k6uh9w25g</id>
+    <description lang="en-US">Die Fassade sollte schlagregendicht sein</description>
+  </component>
+    <component>
+    <id>choice_clrhstogd009y2a6kj9wtwn86</id>
+    <description lang="en-US">Die Beschaffenheit der Fassade braucht nicht weiter beachtet werden</description>
+  </component>
+    <component>
+    <id>choice_clrhstogd009w2a6kqbv7rzvw</id>
+    <description lang="en-US">Es k&amp;ouml;nnen nur S&amp;uuml;d- und Westseite ausgef&amp;uuml;hrt werden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://pMtd_gKQUyaASs-P9-9lASpjgAV_uxCU_rise/h7WiRW-Tb0Zr1uwKgqKnkbJS9pee6JsA/clrhsuqgr00al2a6ko4hok8hq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei welchen Untergr&amp;uuml;nden ist eine Behandlung mit einem Schimmel- Entferner ausreichend?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhsuqgs00am2a6kvenp2igc</correctResponsePattern>
+    <correctResponsePattern>choice_clrhsuqgs00ao2a6k36sq3q16</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhsuqgs00am2a6kvenp2igc</id>
+    <description lang="en-US">Fliesen und andere keramische Bel&amp;auml;ge</description>
+  </component>
+    <component>
+    <id>choice_clrhsuqgs00ao2a6k36sq3q16</id>
+    <description lang="en-US">andere nichtsaugende Untergr&amp;uuml;nde, z.B. &amp;nbsp;Kunststofffensterrahmen, Glas, Metallt&amp;uuml;ren</description>
+  </component>
+    <component>
+    <id>choice_clrhsuqgs00ap2a6kgttn6i4t</id>
+    <description lang="en-US">mineralische Putzsysteme</description>
+  </component>
+    <component>
+    <id>choice_clrhsuqgs00an2a6kmxgyarf6</id>
+    <description lang="en-US">kunstharzgebundene Putzsysteme</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://pMtd_gKQUyaASs-P9-9lASpjgAV_uxCU_rise/h7WiRW-Tb0Zr1uwKgqKnkbJS9pee6JsA/clrhsvmtd00c12a6kkn9sd92r" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Besonderheiten sind bei einem Fachwerkgeb&amp;auml;ude f&amp;uuml;r eine Innend&amp;auml;mmma&amp;szlig;nahme im Remmers-System zu beachten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhsvmtd00c42a6konqoagva</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhsvmtd00c22a6k7eo9uke1</id>
+    <description lang="en-US">keine&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clrhsvmtd00c42a6konqoagva</id>
+    <description lang="en-US">Das Fachwerk muss mit Putztr&amp;auml;ger entkoppelt werden</description>
+  </component>
+    <component>
+    <id>choice_clrhsvmtd00c52a6kd60jthrc</id>
+    <description lang="en-US">je dicker die D&amp;auml;mmung umso besser</description>
+  </component>
+    <component>
+    <id>choice_clrhsvmtd00c32a6k3yt5mdxg</id>
+    <description lang="en-US">Das Fachwerk muss aus Eichenholz sein</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://pMtd_gKQUyaASs-P9-9lASpjgAV_uxCU_rise/h7WiRW-Tb0Zr1uwKgqKnkbJS9pee6JsA/clrhswduw00cq2a6k2mwgev05" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie ist der Anschluss an Fenster und Holzbalken/ Deckenbalken bei Innend&amp;auml;mmung auszuf&amp;uuml;hren?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhsxbw800dn2a6kxpw0s642</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhswdux00cr2a6kxtw7x218</id>
+    <description lang="en-US">Mit einem systemzugelassenen Pistolenschaum</description>
+  </component>
+    <component>
+    <id>choice_clrhswdux00cs2a6k47dvuud1</id>
+    <description lang="en-US">Es sind keine speziellen Ma&amp;szlig;nahmen erforderlich</description>
+  </component>
+    <component>
+    <id>choice_clrhsx2st00d72a6kpj2kkzsj</id>
+    <description lang="en-US">Es ist ein Kellenschnitt im Anschlussbereich herzustellen.</description>
+  </component>
+    <component>
+    <id>choice_clrhsxbw800dn2a6kxpw0s642</id>
+    <description lang="en-US">Ein vom Systemhersteller geliefertes luftdichtes Kompriband ist einzubauen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://pMtd_gKQUyaASs-P9-9lASpjgAV_uxCU_rise/h7WiRW-Tb0Zr1uwKgqKnkbJS9pee6JsA/clrhsxlmw00e02a6knu5mhgai" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In einem Badezimmer wurden die Au&amp;szlig;enw&amp;auml;nde mit einem kapillaraktiven D&amp;auml;mmsystem bekleidet. Anschlie&amp;szlig;end sollen Teilfl&amp;auml;chen mit Fliesen belegt werden. Wie gro&amp;szlig; d&amp;uuml;rfen diese Fl&amp;auml;chen maximal sein?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhsxlmw00e32a6k7mvpnl64</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhsxlmw00e12a6kes7r9fyx</id>
+    <description lang="en-US">Maximal 2 m&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_clrhsxlmw00e32a6k7mvpnl64</id>
+    <description lang="en-US">Die Fl&amp;auml;chen sollten so klein wie m&amp;ouml;glich gehalten werden</description>
+  </component>
+    <component>
+    <id>choice_clrhsxlmw00e42a6kz3mtw51t</id>
+    <description lang="en-US">Es gibt keine Gr&amp;ouml;&amp;szlig;enbeschr&amp;auml;nkungen</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

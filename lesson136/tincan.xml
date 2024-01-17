@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://id6AXOW82zWHyZQVYgDiyFtA5cIGIXDk_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Bauwerksabdichtung- Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://id6AXOW82zWHyZQVYgDiyFtA5cIGIXDk_rise/BMQl9iWBGNoTspUUnJXlNLjfY8piyarC" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://id6AXOW82zWHyZQVYgDiyFtA5cIGIXDk_rise/BMQl9iWBGNoTspUUnJXlNLjfY8piyarC/clrhtpw6h000o2a6kgs3u4ka3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche allgemeinen Anforderungen an den Untergrund sind vor dem Auftrag von Bauwerksabdichtungen zu beachten? Abzudichtende Untergr&amp;uuml;nde m&amp;uuml;ssen:</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtpw6h000p2a6kgrlz55i6</correctResponsePattern>
+    <correctResponsePattern>choice_clrhtpw6h000q2a6kjk5mv4hf</correctResponsePattern>
+    <correctResponsePattern>choice_clrhtqihq00202a6k2b4iyp4w</correctResponsePattern>
+    <correctResponsePattern>choice_clrhtqon0002k2a6kisywfkfv</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtpw6h000p2a6kgrlz55i6</id>
+    <description lang="en-US">frostfrei sein</description>
+  </component>
+    <component>
+    <id>choice_clrhtpw6h000q2a6kjk5mv4hf</id>
+    <description lang="en-US">fest sein</description>
+  </component>
+    <component>
+    <id>choice_clrhtqgil001g2a6kri1uhkvl</id>
+    <description lang="en-US">grundiert sein</description>
+  </component>
+    <component>
+    <id>choice_clrhtqihq00202a6k2b4iyp4w</id>
+    <description lang="en-US">eben sein</description>
+  </component>
+    <component>
+    <id>choice_clrhtqon0002k2a6kisywfkfv</id>
+    <description lang="en-US">frei von sch&amp;auml;digenden Verunreinigungen sein</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://id6AXOW82zWHyZQVYgDiyFtA5cIGIXDk_rise/BMQl9iWBGNoTspUUnJXlNLjfY8piyarC/clrhtrj8p00332a6kpgvnism4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Wassereinwirkungsklassen werden nach DIN 18533 unterschieden?</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clrhtrj8p00342a6kvrs2sppq[.]target_clrhtrj8p00342a6kvrs2sppq</correctResponsePattern>
+    <correctResponsePattern>source_clrhtrj8p00352a6k6136dzqq[.]target_clrhtrj8p00352a6k6136dzqq</correctResponsePattern>
+    <correctResponsePattern>source_clrhtrj8p00362a6kiyzyx8a6[.]target_clrhtrj8p00362a6kiyzyx8a6</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clrhtrj8p00342a6kvrs2sppq</id>
+    <description lang="en-US">W1.1-E></description>
+  </component>
+    <component>
+    <id>source_clrhtrj8p00352a6k6136dzqq</id>
+    <description lang="en-US">W1.2-E></description>
+  </component>
+    <component>
+    <id>source_clrhtrj8p00362a6kiyzyx8a6</id>
+    <description lang="en-US">W2.1-E></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clrhtrj8p00342a6kvrs2sppq</id>
+        <description lang="en-US">Bodenfeuchte und drückendes Wasser bei Bodenplatten und erdberührten Wänden</description>
+      </component>
+          <component>
+        <id>target_clrhtrj8p00352a6k6136dzqq</id>
+        <description lang="en-US">Bodenfeuchte und nichtdrückendes Wasser bei Bodenplatten und erdberührten Wänden mit Dränu</description>
+      </component>
+          <component>
+        <id>target_clrhtrj8p00362a6kiyzyx8a6</id>
+        <description lang="en-US">Mäßige Einwirkung von drückendem Wasser ≤ 3 m Eintauchtiefe</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://id6AXOW82zWHyZQVYgDiyFtA5cIGIXDk_rise/BMQl9iWBGNoTspUUnJXlNLjfY8piyarC/clrhtsayh00372a6koblv1tcb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Wassereinwirkungsklassen werden nach DIN 18533 unterschieden?</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clrhtrj8p00342a6kvrs2sppq[.]target_clrhtrj8p00342a6kvrs2sppq</correctResponsePattern>
+    <correctResponsePattern>source_clrhtrj8p00352a6k6136dzqq[.]target_clrhtrj8p00352a6k6136dzqq</correctResponsePattern>
+    <correctResponsePattern>source_clrhtrj8p00362a6kiyzyx8a6[.]target_clrhtrj8p00362a6kiyzyx8a6</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clrhtrj8p00342a6kvrs2sppq</id>
+    <description lang="en-US">W2.2-E></description>
+  </component>
+    <component>
+    <id>source_clrhtrj8p00352a6k6136dzqq</id>
+    <description lang="en-US">W3-E></description>
+  </component>
+    <component>
+    <id>source_clrhtrj8p00362a6kiyzyx8a6</id>
+    <description lang="en-US">W4-E></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clrhtrj8p00342a6kvrs2sppq</id>
+        <description lang="en-US">Hohe Einwirkung von drückendem Wasser &gt; 3 m Eintauchtiefe</description>
+      </component>
+          <component>
+        <id>target_clrhtrj8p00352a6k6136dzqq</id>
+        <description lang="en-US">Nicht drückendes Wasser auf erdüberschütteten Decken</description>
+      </component>
+          <component>
+        <id>target_clrhtrj8p00362a6kiyzyx8a6</id>
+        <description lang="en-US">Spritzwasser und Bodenfeuchte am Wandsockel sowie Kapillarwasser in und unter Wänden</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://id6AXOW82zWHyZQVYgDiyFtA5cIGIXDk_rise/BMQl9iWBGNoTspUUnJXlNLjfY8piyarC/clrhttg6700382a6k9n6hec24" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussage ist in Bezug zur Schichtdickenkontrolle beim Auftrag fl&amp;uuml;ssig zu verarbeitender Abdichtungsstoffe korrekt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhttg6800392a6k8szwik9a</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhttg6800392a6k8szwik9a</id>
+    <description lang="en-US">Je Ausf&amp;uuml;hrungsobjekt bzw. je 100 m&amp;sup2; sind mind. 20 Messungen durchzuf&amp;uuml;hren</description>
+  </component>
+    <component>
+    <id>choice_clrhttg68003a2a6krwr7y7i9</id>
+    <description lang="en-US">Einzuhaltende Mindestschichtdicke darf an max. 5 Stellen unterschritten werden</description>
+  </component>
+    <component>
+    <id>choice_clrhttw6f003b2a6kkmin8yxo</id>
+    <description lang="en-US">Die Schichtdickenkontrolle ist im durchtrockneten Zustand auszuf&amp;uuml;hren.</description>
+  </component>
+    <component>
+    <id>choice_clrhtu68z003c2a6k7gbggsu7</id>
+    <description lang="en-US">Bei waagerechtem Boden entf&amp;auml;llt f&amp;uuml;r fl&amp;uuml;ssige Abdichtung die Kontrolle</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://id6AXOW82zWHyZQVYgDiyFtA5cIGIXDk_rise/BMQl9iWBGNoTspUUnJXlNLjfY8piyarC/clrhtuipu003d2a6kyef7mv3d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Schutz der Abdichtung. Welche Aussagen sind korrekt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtuipu003e2a6k9dijc6vl</correctResponsePattern>
+    <correctResponsePattern>choice_clrhtuipu003f2a6khrvr3ai9</correctResponsePattern>
+    <correctResponsePattern>choice_clrhtv53w00482a6kc977p48o</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtuipu003e2a6k9dijc6vl</id>
+    <description lang="en-US">Schutzschichten d&amp;uuml;rfen erst nach vollst&amp;auml;ndiger Durchtrocknung der Abdichtung aufgebracht werden. &amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clrhtuipu003f2a6khrvr3ai9</id>
+    <description lang="en-US">Bei Einbau einer Abdichtung darf die Schutzschicht nicht besch&amp;auml;digt werden.</description>
+  </component>
+    <component>
+    <id>choice_clrhtv19r00402a6khh4mekda</id>
+    <description lang="en-US">Werden Perimeterd&amp;auml;mmplatten als Schutzschicht eingesetzt, sind diese bei W2.1-E im Punkt-Wulstverfahren mit der Abdichtungsschicht zu verkleben.</description>
+  </component>
+    <component>
+    <id>choice_clrhtv53w00482a6kc977p48o</id>
+    <description lang="en-US">Punkt- und Linienlasten sowie sonstige Einwirkungen, die die Funktionst&amp;uuml;chtigkeit der Abdichtung durch Eindr&amp;uuml;ckung beeintr&amp;auml;chtigen, sind zu vermeiden. &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://id6AXOW82zWHyZQVYgDiyFtA5cIGIXDk_rise/BMQl9iWBGNoTspUUnJXlNLjfY8piyarC/clrhtwvzu006a2a6kptduer0d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist bei Abdichtungen am Wandsockel in Verbindung mit WDVS zu beachten? Welche Aussagen sind korrekt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtwvzu006b2a6k3kk0tx07</correctResponsePattern>
+    <correctResponsePattern>choice_clrhu0o3w00932a6kzjv9crrq</correctResponsePattern>
+    <correctResponsePattern>choice_clrhu0klr008t2a6kztv4adzl</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtwvzu006b2a6k3kk0tx07</id>
+    <description lang="en-US">Im Sockelbereich muss der Untergrund so geplant sein, dass die Abdichtung bis 30 cm &amp;uuml;ber Oberkante Gel&amp;auml;nde gef&amp;uuml;hrt werden kann, um ausreichende Anpassungsm&amp;ouml;glichkeiten der Gel&amp;auml;ndeoberfl&amp;auml;che sicherzustellen.</description>
+  </component>
+    <component>
+    <id>choice_clrhtwvzu006c2a6kbyju0sq0</id>
+    <description lang="en-US">Im Endzustand sollte dieser Wert das Ma&amp;szlig; von 10 cm nicht unterschreiten. &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clrhu0klr008t2a6kztv4adzl</id>
+    <description lang="en-US">Bei einem WDVS ist die Abdichtung hinter der D&amp;auml;mmung auf dem Wanduntergrund 30 cm (15 cm im Endzustand) hochzuf&amp;uuml;hren.</description>
+  </component>
+    <component>
+    <id>choice_clrhu0o3w00932a6kzjv9crrq</id>
+    <description lang="en-US">Im Sockelbereich sind geeignete D&amp;auml;mmstoffe (Perimeterd&amp;auml;mmung) einzusetzen und ein f&amp;uuml;r Spritzwasserbelastung geeigneter Putz zu verwenden. Der untere Rand des Putzes ist zus&amp;auml;tzlich mit MDS &amp;ge; 5 cm &amp;uuml;ber OK Gel&amp;auml;nde abzudichten, damit der Putz kein Kapillarwasser aufnehmen kann.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://id6AXOW82zWHyZQVYgDiyFtA5cIGIXDk_rise/BMQl9iWBGNoTspUUnJXlNLjfY8piyarC/clrhtvof3004l2a6k70f60ovh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Nachtr&amp;auml;gliche Horizontalsperren im Injektionsverfahren. Welche Aussage ist falsch?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrhtvof4004p2a6k9dd0ce9p</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrhtvof4004m2a6kui3chd1u</id>
+    <description lang="en-US">Die kapillarsperrende Funktion einer Horizontalsperre kann objektspezifisch z.B. durch ein ausreichend kapillarsperrendes Bauteil (z.B. Betondecke, Betonbodenplatte) &amp;uuml;bernommen werden.</description>
+  </component>
+    <component>
+    <id>choice_clrhtvof4004o2a6kqf194yty</id>
+    <description lang="en-US">Nachtr&amp;auml;gliche Horizontalsperren bei der Wasserbeanspruchung Bodenfeuchte und nichtstauendes Sickerwasser werden in der Regel durch Mauerwerksinjektionen gegen kapillare Feuchte gem. WTA-Merkblatt 4-10 &amp;bdquo;Injektionsverfahren mit zertifizierten Injektionsstoffen gegen kapillaren Feuchtetransport&amp;ldquo; hergestellt. In gleicher Weise sind auch &amp;bdquo;Nachtr&amp;auml;gliche mechanische Horizontalsperren&amp;ldquo; &amp;nbsp;bei dieser Wasserbeanspruchung einsetzbar.</description>
+  </component>
+    <component>
+    <id>choice_clrhtvof4004p2a6k9dd0ce9p</id>
+    <description lang="en-US">Liegt die Wasserbeanspruchung aufstauendes Sickerwasser bzw. dr&amp;uuml;ckendes Wasser vor, sind objektspezifische Sonderl&amp;ouml;sungen zu planen und auszuf&amp;uuml;hren. In diesem Fall kommen ausschlie&amp;szlig;lich nachtr&amp;auml;gliche mechanische Horizontalsperren zum Einsatz.</description>
+  </component>
+    <component>
+    <id>choice_clrhtvof4004n2a6kw7bw46ma</id>
+    <description lang="en-US">Ziel der WTA-Injektionsverfahren ist es, den Feuchtetransport so weit herabzusetzen, dass das Mauerwerk oberhalb der Injektionszone eine Ausgleichsfeuchte erreicht.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
