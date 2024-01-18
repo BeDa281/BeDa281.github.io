@@ -16,7 +16,6 @@
   <description lang="en-US"></description>
   <interactionType>choice</interactionType>
   <correctResponsePatterns>
-    <correctResponsePattern>choice_clrix4do3000q2a6limahges3</correctResponsePattern>
     <correctResponsePattern>choice_clrix4do3000s2a6l48c390lz</correctResponsePattern>
     </correctResponsePatterns>
     <choices>
@@ -101,16 +100,8 @@
     </correctResponsePatterns>
     <choices>
     <component>
-    <id>choice_clrix7bud005n2a6lgca00uco</id>
-    <description lang="en-US">Es sind keine Abplatzungen hinnehmbar Brauner Kellerschwamm</description>
-  </component>
-    <component>
-    <id>choice_clrix7bud005o2a6lfpn5x8j0</id>
-    <description lang="en-US">Es sind keine Schrammen hinnehmbar Wei&amp;szlig;er Porenschwamm</description>
-  </component>
-    <component>
     <id>choice_clrix7w79005p2a6lu5b48wo2</id>
-    <description lang="en-US">Es sind keine Scheuerstellenhinnehmbar</description>
+    <description lang="en-US">Es sind keine Scheuerstellen hinnehmbar</description>
   </component>
     <component>
     <id>choice_clrix803k005q2a6lq0vsquzf</id>
