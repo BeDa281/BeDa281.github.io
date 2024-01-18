@@ -471,10 +471,7 @@
   }
 
   function loadBundle() {
-    var script = document.createElement('script');
-    script.setAttribute('src', 'lib/main.bundle.js');
-    document.head.appendChild(script);
-
+    __loadEntry()
     sendAttempted();
   }
 
