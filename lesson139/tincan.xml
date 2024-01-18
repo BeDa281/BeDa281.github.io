@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://DI4vuKd8RcrkF9hKfMW4ramy74I-2bFj_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ziegel / Dachsteine - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://DI4vuKd8RcrkF9hKfMW4ramy74I-2bFj_rise/JlGaPe8xzEkItu7yICbkFnnm7_4os6qW" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://DI4vuKd8RcrkF9hKfMW4ramy74I-2bFj_rise/JlGaPe8xzEkItu7yICbkFnnm7_4os6qW/clrixga3n000u2a6lxzwqmhgw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei eingebundenen Biberkehlen (Dreifachdeckung) muss die vierte Kehlschicht die erste Kehlschicht noch um mindestens &amp;hellip;. &amp;uuml;berdecken</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrixga3n000w2a6l7vgdzh32</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrixga3n000v2a6leigu6tn1</id>
+    <description lang="en-US">2 cm</description>
+  </component>
+    <component>
+    <id>choice_clrixga3n000w2a6l7vgdzh32</id>
+    <description lang="en-US">1 cm</description>
+  </component>
+    <component>
+    <id>choice_clrixgwrh000x2a6lgtf34j3u</id>
+    <description lang="en-US">4 cm</description>
+  </component>
+    <component>
+    <id>choice_clrixgzwz000y2a6lqs2d5g7s</id>
+    <description lang="en-US">&amp;nbsp;6 cm</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://DI4vuKd8RcrkF9hKfMW4ramy74I-2bFj_rise/JlGaPe8xzEkItu7yICbkFnnm7_4os6qW/clrixh63j000z2a6liimtf059" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Werden eingebundene Biberkehlen trocken gedeckt, dann sind alle Kehlbiber, mit Ausnahme der Ausspitzer, mit Draht zu befestigen. Welchen Korrosionsschutz m&amp;uuml;ssen Sie einhalten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrixh63j00112a6lup18837g</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrixh63j00102a6lxouyssl1</id>
+    <description lang="en-US">korrosionsgesch&amp;uuml;tzt</description>
+  </component>
+    <component>
+    <id>choice_clrixh63j00112a6lup18837g</id>
+    <description lang="en-US">korrosionsbest&amp;auml;ndig</description>
+  </component>
+    <component>
+    <id>choice_clrixhwwd00122a6lvkhqyjzu</id>
+    <description lang="en-US">kein besonderer Korrosionsschutz erforderlich</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://DI4vuKd8RcrkF9hKfMW4ramy74I-2bFj_rise/JlGaPe8xzEkItu7yICbkFnnm7_4os6qW/clrixi56b00132a6l26612djs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Am First entspricht die &amp;Uuml;berdeckung mindestens der Fl&amp;auml;chendeckung. Bei profilierten Dachziegeln und Dachsteinen sind anformbare Werkstoffe unter aufgelegten Abschl&amp;uuml;ssen einzubauen. &amp;nbsp;Wieviel mm muss die &amp;Uuml;berdeckung mindestens betragen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrixi56c00152a6lcjsl63rl</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrixi56b00142a6lwf9tw0d9</id>
+    <description lang="en-US">Eine &amp;Uuml;berdeckung muss mindestens 120 mm betragen</description>
+  </component>
+    <component>
+    <id>choice_clrixi56c00152a6lcjsl63rl</id>
+    <description lang="en-US">Eine &amp;Uuml;berdeckung muss mindestens 100 mm betragen</description>
+  </component>
+    <component>
+    <id>choice_clrixikpr00162a6llqp4ikbs</id>
+    <description lang="en-US">Eine &amp;Uuml;berdeckung analog der Fl&amp;auml;chendeckung ist ausk&amp;ouml;mmlich</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://DI4vuKd8RcrkF9hKfMW4ramy74I-2bFj_rise/JlGaPe8xzEkItu7yICbkFnnm7_4os6qW/clrixipy700172a6lwq0uymh5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Dacheinbauteile oder Dachsystemteile wie Schneefangeinrichtungen, Laufanlagen, Sicherheitsdachhaken, Befestigungseinrichtungen f&amp;uuml;r Solaranlagen etc. sind regensicher in die Dachdeckung einzubauen. Sie m&amp;uuml;ssen f&amp;uuml;r den jeweiligen Verwendungszweck geeignet sein und den technischen Vorschriften entsprechend eingebaut werden. Einbauteile d&amp;uuml;rfen unter Belastung die Dachdeckung nicht besch&amp;auml;digen, andernfalls sind geeignete lastverteilende Unterlagen zus&amp;auml;tzlich einzubauen. Systemgerechte Einbauteile oder Formteile, welche die Dacheindeckung nicht durchdringen, k&amp;ouml;nnen zur Regensicherheit beitragen.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrixipy7001a2a6l90ytryse</correctResponsePattern>
+    <correctResponsePattern>choice_clrixipy7001b2a6l1pmq1h5z</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrixipy700182a6lrnx6guc2</id>
+    <description lang="en-US">Nichts weiter, nur das Dach muss &amp;bdquo;Dicht&amp;ldquo; bleiben</description>
+  </component>
+    <component>
+    <id>choice_clrixipy7001a2a6l90ytryse</id>
+    <description lang="en-US">Unfallverh&amp;uuml;tungsvorschriften sind zu beachten</description>
+  </component>
+    <component>
+    <id>choice_clrixipy7001b2a6l1pmq1h5z</id>
+    <description lang="en-US">Baurechtliche Vorschriften sind einzuhalten</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://DI4vuKd8RcrkF9hKfMW4ramy74I-2bFj_rise/JlGaPe8xzEkItu7yICbkFnnm7_4os6qW/clrixjo6c002l2a6l9lqakgu5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei der Arbeitsvorbereitung besch&amp;auml;ftigen Sie sich mit dem Thema Sturmsicherung der Dachziegel. Wie viele Windzonen kenne Sie?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrixjo6c002n2a6lk8ovf3ci</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrixjo6c002m2a6lbr5bhij9</id>
+    <description lang="en-US">3 Windzonen</description>
+  </component>
+    <component>
+    <id>choice_clrixjo6c002n2a6lk8ovf3ci</id>
+    <description lang="en-US">4 Windzonen</description>
+  </component>
+    <component>
+    <id>choice_clrixkftp002s2a6lzp57p9qh</id>
+    <description lang="en-US">5 Windzonen</description>
+  </component>
+    <component>
+    <id>choice_clrixkgth002t2a6l529c0lpb</id>
+    <description lang="en-US">6 Windzonen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://DI4vuKd8RcrkF9hKfMW4ramy74I-2bFj_rise/JlGaPe8xzEkItu7yICbkFnnm7_4os6qW/clrixkyi5002u2a6lvi7mykfz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei der Arbeitsvorbereitung besch&amp;auml;ftigen Sie sich mit dem Thema Sturmsicherung der Dachziegel. Welche Parameter ben&amp;ouml;tigen Sie um die Windsogberechnung zu erstellen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrixkyi6002x2a6lys4zq9sl</correctResponsePattern>
+    <correctResponsePattern>choice_clrixkyi6002y2a6lknsg2gtn</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrixkyi6002v2a6lr284jvjh</id>
+    <description lang="en-US">Art der Deckung, Geb&amp;auml;udetiefe, Dachneigung, Deckunterlage</description>
+  </component>
+    <component>
+    <id>choice_clrixkyi6002x2a6lys4zq9sl</id>
+    <description lang="en-US">Art der Deckung, Geb&amp;auml;udeh&amp;ouml;he, Dachneigung, Deckunterlage</description>
+  </component>
+    <component>
+    <id>choice_clrixkyi6002y2a6lknsg2gtn</id>
+    <description lang="en-US">Windzone, Dachneigung, Deckunterlage, Klammergruppe</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://DI4vuKd8RcrkF9hKfMW4ramy74I-2bFj_rise/JlGaPe8xzEkItu7yICbkFnnm7_4os6qW/clrixlqt800412a6lb5pqwlns" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei der Arbeitsvorbereitung besch&amp;auml;ftigen Sie sich mit dem Thema Sturmsicherung der Dachziegel. In wie viele Bereiche teilen Sie Ihr Dach eine, um eine Windsogberechnung zu erstellen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrixmb9300452a6lhi355jj1</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrixlqt800422a6leoehwdvy</id>
+    <description lang="en-US">1 Bereich</description>
+  </component>
+    <component>
+    <id>choice_clrixlqt800432a6lb6kqshea</id>
+    <description lang="en-US">2 Bereiche</description>
+  </component>
+    <component>
+    <id>choice_clrixm8rn00442a6lwupgtgjv</id>
+    <description lang="en-US">3 Bereiche</description>
+  </component>
+    <component>
+    <id>choice_clrixmb9300452a6lhi355jj1</id>
+    <description lang="en-US">4 Bereiche</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://DI4vuKd8RcrkF9hKfMW4ramy74I-2bFj_rise/JlGaPe8xzEkItu7yICbkFnnm7_4os6qW/clrixnsal004v2a6l4kfcnr07" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Deckung des Grates erfolgt mit Firstziegeln/-steinen, Gratziegeln/-steinen oder als Sonderkonstruktion. Die Ausf&amp;uuml;hrung der Grateindeckung kann erfolgen als Trockengrat oder M&amp;ouml;rtelgrat. Welche Art der Schrauben m&amp;uuml;ssen Sie mindestens w&amp;auml;hlen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrixoqhb004z2a6lbs5boh8v</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrixnsal004w2a6l1rg6hjjh</id>
+    <description lang="en-US">Korrosionsgesch&amp;uuml;tzt, Durchmesser 4,0mm mit Eindringtiefe in Nadelholz 20mm</description>
+  </component>
+    <component>
+    <id>choice_clrixnsal004x2a6l9mycxfg9</id>
+    <description lang="en-US">Korrosionsbest&amp;auml;ndig, Durchmesser 4,0mm mit Eindringtiefe in Nadelholz 24mm</description>
+  </component>
+    <component>
+    <id>choice_clrixonq7004y2a6lqsbx2931</id>
+    <description lang="en-US">Korrosionsgesch&amp;uuml;tzt, Durchmesser 4,5mm mit Eindringtiefe in Nadelholz 24mm</description>
+  </component>
+    <component>
+    <id>choice_clrixoqhb004z2a6lbs5boh8v</id>
+    <description lang="en-US">Korrosionsbest&amp;auml;ndig, Durchmesser 4,5mm mit Eindringtiefe in Nadelholz 24mm</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://DI4vuKd8RcrkF9hKfMW4ramy74I-2bFj_rise/JlGaPe8xzEkItu7yICbkFnnm7_4os6qW/clrixmk1200462a6l4mkvbtfh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Thema Regeldachneigung: Welche Angaben sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrixmk1300472a6lzsgu1kao</correctResponsePattern>
+    <correctResponsePattern>choice_clrixnafu004a2a6lauovr9s0</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrixmk1300472a6lzsgu1kao</id>
+    <description lang="en-US">Flachdachziegel 22&amp;deg;</description>
+  </component>
+    <component>
+    <id>choice_clrixmk1300482a6lrqxj0xqh</id>
+    <description lang="en-US">Glattziegel 30&amp;deg;</description>
+  </component>
+    <component>
+    <id>choice_clrixn7gm00492a6l43s0bof7</id>
+    <description lang="en-US">Hohlpfanne 28&amp;deg;</description>
+  </component>
+    <component>
+    <id>choice_clrixnafu004a2a6lauovr9s0</id>
+    <description lang="en-US">Biberschwanz Doppeldeckung 30&amp;deg;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://DI4vuKd8RcrkF9hKfMW4ramy74I-2bFj_rise/JlGaPe8xzEkItu7yICbkFnnm7_4os6qW/clrixp7yu005a2a6lhstmhg7a" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei der Biber-Doppeldeckung liegt auf jeder Traglatte eine Biberreihe. Die Biber &amp;uuml;berdecken sich so, dass die dritte Deckreihe die erste um die H&amp;ouml;hen&amp;uuml;berdeckung &amp;uuml;berdeckt. Die Biber werden mit geringem Seitenabstand (Fugen) verlegt, um Sch&amp;auml;den durch Bewegungen zu vermeiden. Die Deckung erfolgt regelm&amp;auml;&amp;szlig;ig im Halbverband, wobei zur Anarbeitung an Details und bei Sonderdachfl&amp;auml;chen der Viertelverband nicht unterschritten werden, darf. First- und Traufgebinde werden mit Firstanschluss- und Traufbibern gedeckt, sofern sie nicht als Kronengebinde ausgef&amp;uuml;hrt werden.: Ist diese Angaben richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrixp7yu005b2a6lx1x5mwt0</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrixp7yu005b2a6lx1x5mwt0</id>
+    <description lang="en-US">Ja</description>
+  </component>
+    <component>
+    <id>choice_clrixp7yu005c2a6lpr5phmt8</id>
+    <description lang="en-US">Nein</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

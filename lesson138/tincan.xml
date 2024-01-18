@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://XEgEWIOtu9NMv92zmfqAb4qstaK19lC8_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Ziegel / Dachsteine - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://XEgEWIOtu9NMv92zmfqAb4qstaK19lC8_rise/tX6ip8WWBkfTkpyhoP-iIElCWRYHvDu7" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://XEgEWIOtu9NMv92zmfqAb4qstaK19lC8_rise/tX6ip8WWBkfTkpyhoP-iIElCWRYHvDu7/clrix4do3000p2a6lhfbnmf1w" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Analog des Deutschen Dachdeckerhandwerks m&amp;uuml;ssen N&amp;auml;gel, Schrauben, Schraubn&amp;auml;gel und Klammern zur Befestigung von Dach- und Formziegeln bzw. Dach- und Formsteinen mindestens &amp;hellip;&amp;hellip;.. sein.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrix4do3000q2a6limahges3</correctResponsePattern>
+    <correctResponsePattern>choice_clrix4do3000s2a6l48c390lz</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrix4do3000q2a6limahges3</id>
+    <description lang="en-US">korrosionsbest&amp;auml;ndig</description>
+  </component>
+    <component>
+    <id>choice_clrix4do3000s2a6l48c390lz</id>
+    <description lang="en-US">korrosionsgesch&amp;uuml;tzt</description>
+  </component>
+    <component>
+    <id>choice_clrix4do3000t2a6ll0s7qwp4</id>
+    <description lang="en-US">kein besonderer Schutz erforderlich</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://XEgEWIOtu9NMv92zmfqAb4qstaK19lC8_rise/tX6ip8WWBkfTkpyhoP-iIElCWRYHvDu7/clrix58p800222a6l17rwtpgp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Dachziegel sind Deckstoffe aus welchem Material?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrix58p800232a6lpbizwi1q</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrix58p800232a6lpbizwi1q</id>
+    <description lang="en-US">Ton</description>
+  </component>
+    <component>
+    <id>choice_clrix58p800252a6la3aodcni</id>
+    <description lang="en-US">Beton</description>
+  </component>
+    <component>
+    <id>choice_clrix58p800262a6lvrhdh17b</id>
+    <description lang="en-US">Metall</description>
+  </component>
+    <component>
+    <id>choice_clrix58p800242a6lsvid6wbw</id>
+    <description lang="en-US">Kunststoff</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://XEgEWIOtu9NMv92zmfqAb4qstaK19lC8_rise/tX6ip8WWBkfTkpyhoP-iIElCWRYHvDu7/clrix676z004c2a6l6q7w6z12" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Farbe von Dachziegeln wird durch die tonigen Massen, die Engobe oder die Glasur bestimmt. Eine gleichbleibende und gleichm&amp;auml;&amp;szlig;ige Farbgestaltung, z. B. analog zur RAL-Farbkarte, ist naturgem&amp;auml;&amp;szlig; nicht m&amp;ouml;glich. Welche Farben ergeben sich je nach Art der Herstellung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrix676z004d2a6loy7hol0e</correctResponsePattern>
+    <correctResponsePattern>choice_clrix676z004e2a6lyfdpxkw5</correctResponsePattern>
+    <correctResponsePattern>choice_clrix676z004g2a6ld640e44v</correctResponsePattern>
+    <correctResponsePattern>choice_clrix676z004f2a6l4cfk2mqr</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrix676z004d2a6loy7hol0e</id>
+    <description lang="en-US">Naturfarben</description>
+  </component>
+    <component>
+    <id>choice_clrix676z004f2a6l4cfk2mqr</id>
+    <description lang="en-US">Durchgef&amp;auml;rbte Farben</description>
+  </component>
+    <component>
+    <id>choice_clrix676z004g2a6ld640e44v</id>
+    <description lang="en-US">engobiert</description>
+  </component>
+    <component>
+    <id>choice_clrix676z004e2a6lyfdpxkw5</id>
+    <description lang="en-US">glasiert</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://XEgEWIOtu9NMv92zmfqAb4qstaK19lC8_rise/tX6ip8WWBkfTkpyhoP-iIElCWRYHvDu7/clrix7buc005m2a6l4ja9nnud" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Sie haben eine Lieferung von Dachziegeln erhalten. Bei der Verarbeitung haben Sie geringf&amp;uuml;gige Abplatzungen an den Dachziegeln festgestellt. &amp;nbsp;Sie &amp;uuml;berpr&amp;uuml;fen diese und kommen zum folgenden Entschluss.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrix803k005q2a6lq0vsquzf</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrix7bud005n2a6lgca00uco</id>
+    <description lang="en-US">Es sind keine Abplatzungen hinnehmbar Brauner Kellerschwamm</description>
+  </component>
+    <component>
+    <id>choice_clrix7bud005o2a6lfpn5x8j0</id>
+    <description lang="en-US">Es sind keine Schrammen hinnehmbar Wei&amp;szlig;er Porenschwamm</description>
+  </component>
+    <component>
+    <id>choice_clrix7w79005p2a6lu5b48wo2</id>
+    <description lang="en-US">Es sind keine Scheuerstellenhinnehmbar</description>
+  </component>
+    <component>
+    <id>choice_clrix803k005q2a6lq0vsquzf</id>
+    <description lang="en-US">Es sind kleine Abplatzungen, schrammen und Scheuerstellen hinnehmbar</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://XEgEWIOtu9NMv92zmfqAb4qstaK19lC8_rise/tX6ip8WWBkfTkpyhoP-iIElCWRYHvDu7/clrix8amq005r2a6lfy941xxk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche g&amp;auml;ngigen Ma&amp;szlig;e von Biberschwanzziegel kennen Sie?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrix8amr005t2a6lxh0ll663</correctResponsePattern>
+    <correctResponsePattern>choice_clrix8amr005u2a6lej7lww45</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrix8amr005s2a6lzni72u80</id>
+    <description lang="en-US">16x36cm</description>
+  </component>
+    <component>
+    <id>choice_clrix8amr005u2a6lej7lww45</id>
+    <description lang="en-US">18x38cm</description>
+  </component>
+    <component>
+    <id>choice_clrix8amr005v2a6lmjj0njny</id>
+    <description lang="en-US">15,5x36cm</description>
+  </component>
+    <component>
+    <id>choice_clrix8amr005t2a6lxh0ll663</id>
+    <description lang="en-US">15,5x38cm</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://XEgEWIOtu9NMv92zmfqAb4qstaK19lC8_rise/tX6ip8WWBkfTkpyhoP-iIElCWRYHvDu7/clrixa4rg007m2a6lmwcqhlgx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Vorderkante der Dachdeckung ist so festzulegen, dass die Entw&amp;auml;sserung in die Rinne sichergestellt ist. Bei hoch h&amp;auml;ngenden Rinnen soll die Deckung nicht mehr als &amp;hellip;&amp;hellip;. der Rinnenbreite, waagerecht gemessen, in die Dachrinne ragen.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrixa4rg007p2a6li7hr7x5t</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrixa4rg007n2a6l9ytgn5yd</id>
+    <description lang="en-US">1/2</description>
+  </component>
+    <component>
+    <id>choice_clrixa4rg007p2a6li7hr7x5t</id>
+    <description lang="en-US">1/3</description>
+  </component>
+    <component>
+    <id>choice_clrixa4rg007q2a6leh1dwfyf</id>
+    <description lang="en-US">1/5</description>
+  </component>
+    <component>
+    <id>choice_clrixa4rg007o2a6lgmltgzvn</id>
+    <description lang="en-US">1/10</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://XEgEWIOtu9NMv92zmfqAb4qstaK19lC8_rise/tX6ip8WWBkfTkpyhoP-iIElCWRYHvDu7/clrixbahi009e2a6llptqunkd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Alle Dachziegel/-steine an Ortgangkanten, au&amp;szlig;er der Deckschicht bei der Kronendeckung, sind an der Unterkonstruktion im &amp;Uuml;berdeckungsbereich zu befestigen. Die Forderung ist erf&amp;uuml;llt, wenn jeder Dachziegel/-stein am Ortgang mit mindestens einer Holzschraube, &amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;. befestigt wird.&lt;br&gt;&lt;br&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrixbahj009g2a6l9d684vva</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrixbahj009f2a6l5pm6dfyp</id>
+    <description lang="en-US">Durchmesser 4,0 mm, bei einer Einschraubtiefe von 30 mm in Nadelholz</description>
+  </component>
+    <component>
+    <id>choice_clrixbahj009g2a6l9d684vva</id>
+    <description lang="en-US">Durchmesser 4,5 mm, bei einer Einschraubtiefe von 24 mm in Nadelholz &amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clrixbyvi009h2a6ljrpyz8wa</id>
+    <description lang="en-US">Durchmesser 4,5 mm, bei einer Einschraubtiefe von 30 mm in Nadelholz</description>
+  </component>
+    <component>
+    <id>choice_clrixc30e009i2a6lv8g399zn</id>
+    <description lang="en-US">Durchmesser 4,0 mm, bei einer Einschraubtiefe von 24 mm in Nadelholz</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://XEgEWIOtu9NMv92zmfqAb4qstaK19lC8_rise/tX6ip8WWBkfTkpyhoP-iIElCWRYHvDu7/clrixccjj009j2a6lz5qafvry" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Der First wird mit Firstziegeln/-steinen oder als Sonderkonstruktion gedeckt. Die Firstdeckung kann erfolgen als Trockenfirst oder M&amp;ouml;rtelfirst. Bei konischem Firstziegel sind untereinander mit einer &amp;Uuml;berdeckung unter Ber&amp;uuml;cksichtigung der Wetterrichtung zu decken. Wie viel ca. muss die &amp;Uuml;berdeckung mindestens betragen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrixccjk009l2a6lh39djq8n</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrixccjj009k2a6l3lrbgd2z</id>
+    <description lang="en-US">4,5 cm</description>
+  </component>
+    <component>
+    <id>choice_clrixccjk009l2a6lh39djq8n</id>
+    <description lang="en-US">4,0 cm</description>
+  </component>
+    <component>
+    <id>choice_clrixcx51009m2a6lmax5whve</id>
+    <description lang="en-US">5,0 cm</description>
+  </component>
+    <component>
+    <id>choice_clrixd0kr009n2a6l1ul95cp9</id>
+    <description lang="en-US">3,5 cm</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://XEgEWIOtu9NMv92zmfqAb4qstaK19lC8_rise/tX6ip8WWBkfTkpyhoP-iIElCWRYHvDu7/clrixd9sr009o2a6lkkqwr9qr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Der Abstand der obersten Traglatte auf der Konterlatten- oder Sparrenebene zum Firstscheitelpunkt ist abh&amp;auml;ngig von der &amp;hellip;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrixdw1400ak2a6loffx7y1b</correctResponsePattern>
+    <correctResponsePattern>choice_clrixdt7j00a92a6l92ztssdz</correctResponsePattern>
+    <correctResponsePattern>choice_clrixd9sr009q2a6lthyoh5dm</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrixd9sr009p2a6lqcjmbazo</id>
+    <description lang="en-US">Konterlattendicke</description>
+  </component>
+    <component>
+    <id>choice_clrixd9sr009q2a6lthyoh5dm</id>
+    <description lang="en-US">Traglattendicke&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clrixdt7j00a92a6l92ztssdz</id>
+    <description lang="en-US">Dachneigung</description>
+  </component>
+    <component>
+    <id>choice_clrixdw1400ak2a6loffx7y1b</id>
+    <description lang="en-US">Form des Dachziegels</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://XEgEWIOtu9NMv92zmfqAb4qstaK19lC8_rise/tX6ip8WWBkfTkpyhoP-iIElCWRYHvDu7/clrixe7sr00az2a6lg5rd1ycj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">F&amp;uuml;r eine regensichere Kehldeckung sind entsprechende Kehlsparren-Neigungsgrenzen einzuhalten. Welche Neigungsgrenzen sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrixe7sr00b12a6ls0dpofk0</correctResponsePattern>
+    <correctResponsePattern>choice_clrixe7sr00b32a6l4frv8630</correctResponsePattern>
+    <correctResponsePattern>choice_clrixe7sr00b22a6ln1w05esa</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrixe7sr00b02a6l2y33heji</id>
+    <description lang="en-US">Eingebundene Nockenkehle = Kehlsparrenneigung &amp;gt;30&amp;deg;</description>
+  </component>
+    <component>
+    <id>choice_clrixe7sr00b22a6ln1w05esa</id>
+    <description lang="en-US">Eingebundene Biberkehle = Kehlsparrenneigung &amp;gt; 25&amp;deg;</description>
+  </component>
+    <component>
+    <id>choice_clrixe7sr00b32a6l4frv8630</id>
+    <description lang="en-US">Eingebundene Nockenkehle = Kehlsparrenneigung &amp;gt; 25&amp;deg;</description>
+  </component>
+    <component>
+    <id>choice_clrixe7sr00b12a6ls0dpofk0</id>
+    <description lang="en-US">&amp;Uuml;berdeckte Formziegelkehle = Kehlsparrenneigung &amp;gt; 35&amp;deg;</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
