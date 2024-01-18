@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://yJNAIo8wZ4ij4kq0EFTEOX7z-5fBOIvg_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Zusatzmaßnahmen - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://yJNAIo8wZ4ij4kq0EFTEOX7z-5fBOIvg_rise/LitMiYHq30gAd_7ZP1D2N40S2K80QP2w" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://yJNAIo8wZ4ij4kq0EFTEOX7z-5fBOIvg_rise/LitMiYHq30gAd_7ZP1D2N40S2K80QP2w/clrj6jxm8000q2a6kar3yujlx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Besondere klimatische Verh&amp;auml;ltnisse, erfordern eine individuelle Bewertung und ggf. h&amp;ouml;here Einstufung unsere Zusatzma&amp;szlig;nahme. Was k&amp;ouml;nnen Gr&amp;uuml;nde f&amp;uuml;r eine erh&amp;ouml;hte Einstufung der Zusatzma&amp;szlig;nahem sein?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrj6jxm9000r2a6k1ozeubxj</correctResponsePattern>
+    <correctResponsePattern>choice_clrj6jxm9000s2a6k5u6qa8ux</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrj6jxm9000r2a6k1ozeubxj</id>
+    <description lang="en-US">Exponierte Lage&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clrj6jxm9000s2a6k5u6qa8ux</id>
+    <description lang="en-US">Auf- oder Inndachsysteme&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clrj6kfbt00112a6kwo3d0pbm</id>
+    <description lang="en-US">besonders gro&amp;szlig;e Dachziegel&amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yJNAIo8wZ4ij4kq0EFTEOX7z-5fBOIvg_rise/LitMiYHq30gAd_7ZP1D2N40S2K80QP2w/clrj6kjf8001a2a6k2v49z7cq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&amp;Uuml;ber Unterd&amp;auml;chern, Unterdeckungen, Unterspannungen ist der Einbau von Konterlatten oder anderen geeigneten Abstandshaltern von mindestens 24 mm Dicke notwendig. Der hierdurch sichergestellte Abstand zwischen der zus&amp;auml;tzlichen Ma&amp;szlig;nahme und der Dachdeckung dient</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrj6kjf8001b2a6kkc5umax2</correctResponsePattern>
+    <correctResponsePattern>choice_clrj6kjf8001d2a6kwlyu1xug</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrj6kjf8001b2a6kkc5umax2</id>
+    <description lang="en-US">der sicheren Ableitung durch die Deckung eingedrungener Feuchtigkeit</description>
+  </component>
+    <component>
+    <id>choice_clrj6kjf8001d2a6kwlyu1xug</id>
+    <description lang="en-US">der sicheren Ableitung abtropfenden Tauwassers von der Unterseite der Deckwerkstoffe</description>
+  </component>
+    <component>
+    <id>choice_clrj6kjf8001e2a6k28vahq9b</id>
+    <description lang="en-US">zur &amp;Uuml;berl&amp;uuml;ftung der Deckung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yJNAIo8wZ4ij4kq0EFTEOX7z-5fBOIvg_rise/LitMiYHq30gAd_7ZP1D2N40S2K80QP2w/clrj6llje002p2a6kppyfch18" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">F&amp;uuml;r den Raum zwischen der zus&amp;auml;tzlichen Ma&amp;szlig;nahme und der Dachdeckung haben sich Zu- und Abluft&amp;ouml;ffnungen im Trauf- und Firstbereich bew&amp;auml;hrt. Die in der DIN&amp;hellip;. &amp;nbsp;geforderten L&amp;uuml;ftungsquerschnitte f&amp;uuml;r bel&amp;uuml;ftete D&amp;auml;cher gelten f&amp;uuml;r diesen Raum zwar nicht, haben sich aber in der Praxis bew&amp;auml;hrt und werden empfohlen. Welche DIN ist hier gemeint?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrj6lljf002q2a6kyqj9slcb</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrj6lljf002q2a6kyqj9slcb</id>
+    <description lang="en-US">DIN 4108</description>
+  </component>
+    <component>
+    <id>choice_clrj6lljf002r2a6kmunwtqms</id>
+    <description lang="en-US">DIN 68800</description>
+  </component>
+    <component>
+    <id>choice_clrj6mzy2002s2a6k0vf3vhr6</id>
+    <description lang="en-US">DIN 1996</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yJNAIo8wZ4ij4kq0EFTEOX7z-5fBOIvg_rise/LitMiYHq30gAd_7ZP1D2N40S2K80QP2w/clrj6p5oo002t2a6k3hq457s0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wo ist festgelegt, welche Einstufung (Klasse) mindestens notwendig ist.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrj6p5oo002u2a6kcfpqco5c</correctResponsePattern>
+    <correctResponsePattern>choice_clrj6p5oo002v2a6k7lbmo01d</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrj6p5oo002u2a6kcfpqco5c</id>
+    <description lang="en-US">Fachregeln des Deutschen Dachdeckerhandwerks</description>
+  </component>
+    <component>
+    <id>choice_clrj6p5oo002v2a6k7lbmo01d</id>
+    <description lang="en-US">Merkblatt W&amp;auml;rmeschutz bei Dach und Wand</description>
+  </component>
+    <component>
+    <id>choice_clrj6pqlf00342a6k10g7se7l</id>
+    <description lang="en-US">Herstellerangaben</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yJNAIo8wZ4ij4kq0EFTEOX7z-5fBOIvg_rise/LitMiYHq30gAd_7ZP1D2N40S2K80QP2w/clrj6q30z003g2a6ko84teen4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei einer Unterschreitung der Regeldachneigung um mehr als &amp;hellip;&amp;deg; sind mindestens regensichere Unterd&amp;auml;cher anzuordnen.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrj6q30z003i2a6ks6frndmv</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrj6q30z003h2a6kisfibwea</id>
+    <description lang="en-US">6 &amp;deg;</description>
+  </component>
+    <component>
+    <id>choice_clrj6q30z003i2a6ks6frndmv</id>
+    <description lang="en-US">8&amp;deg;</description>
+  </component>
+    <component>
+    <id>choice_clrj6qtep003j2a6k260ov89y</id>
+    <description lang="en-US">10&amp;deg;</description>
+  </component>
+    <component>
+    <id>choice_clrj6qwei003k2a6kiyohyz5c</id>
+    <description lang="en-US">4&amp;deg;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yJNAIo8wZ4ij4kq0EFTEOX7z-5fBOIvg_rise/LitMiYHq30gAd_7ZP1D2N40S2K80QP2w/clrj6re05003p2a6k3oy8u2w9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">L&amp;uuml;ftungs&amp;ouml;ffnungen sind mindestens regensicher auszuf&amp;uuml;hren. Der Eintrieb von Flugschnee und Regen durch L&amp;uuml;ftungs&amp;ouml;ffnungen ist bei bel&amp;uuml;fteten Systemen nicht zu vermeiden.&lt;br&gt;Ist diese Aussage Richtig oder Falsch?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrj6re05003r2a6krii6ngz6</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrj6re05003q2a6k027rb45a</id>
+    <description lang="en-US">Falsch</description>
+  </component>
+    <component>
+    <id>choice_clrj6re05003r2a6krii6ngz6</id>
+    <description lang="en-US">Richtig</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yJNAIo8wZ4ij4kq0EFTEOX7z-5fBOIvg_rise/LitMiYHq30gAd_7ZP1D2N40S2K80QP2w/clrj6rtx2003s2a6k3vt4kiit" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wasserdichte Unterd&amp;auml;cher sind anzuordnen, wenn die Regeldachneigung um mehr als 8&amp;deg; unterschritten wird und mindestens &amp;hellip;.. weitere erh&amp;ouml;hte Anforderungen gegeben sind.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrj6rtx2003u2a6kamwyanwr</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrj6rtx2003t2a6k6hqj7a0i</id>
+    <description lang="en-US">4</description>
+  </component>
+    <component>
+    <id>choice_clrj6rtx2003u2a6kamwyanwr</id>
+    <description lang="en-US">2</description>
+  </component>
+    <component>
+    <id>choice_clrj6s4i0003v2a6kcm97lrpo</id>
+    <description lang="en-US">3</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yJNAIo8wZ4ij4kq0EFTEOX7z-5fBOIvg_rise/LitMiYHq30gAd_7ZP1D2N40S2K80QP2w/clrj6sdh3003w2a6kkey2auhg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Einbauteile k&amp;ouml;nnen eine erh&amp;ouml;hte konstruktive Anforderung an die Dachdeckung darstellen und entsprechende Zusatzma&amp;szlig;nahmen erfordern. Was k&amp;ouml;nnte damit gemeint sein?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrj6sdh4003x2a6kfkyi0p7f</correctResponsePattern>
+    <correctResponsePattern>choice_clrj6sdh4003z2a6kjnyzqpwn</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrj6sdh4003x2a6kfkyi0p7f</id>
+    <description lang="en-US">Dachfenster</description>
+  </component>
+    <component>
+    <id>choice_clrj6sdh4003z2a6kjnyzqpwn</id>
+    <description lang="en-US">Antennenanlage</description>
+  </component>
+    <component>
+    <id>choice_clrj6sdh400402a6ks594wd5u</id>
+    <description lang="en-US">Firstschmuck</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yJNAIo8wZ4ij4kq0EFTEOX7z-5fBOIvg_rise/LitMiYHq30gAd_7ZP1D2N40S2K80QP2w/clrj6uffn005s2a6kp5it6xlx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Einstufung der Zusatzma&amp;szlig;nahme.&lt;br&gt;Verschwei&amp;szlig;te oder verklebte Unterdeckung bedeutet:</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrj6uffn005t2a6k0msj4ycj</correctResponsePattern>
+    <correctResponsePattern>choice_clrj6uffn005v2a6klsdp0g40</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrj6uffn005t2a6k0msj4ycj</id>
+    <description lang="en-US">Konterlatteneinbindung erfolgt unter der Konterlatte</description>
+  </component>
+    <component>
+    <id>choice_clrj6uffn005v2a6klsdp0g40</id>
+    <description lang="en-US">Naht und Sto&amp;szlig;ausbildung ist verschwei&amp;szlig;t oder verklebt</description>
+  </component>
+    <component>
+    <id>choice_clrj6uffn005w2a6kfj4vme7u</id>
+    <description lang="en-US">Konterlatteneinbindung erfolgt &amp;uuml;ber der Konterlatte</description>
+  </component>
+    <component>
+    <id>choice_clrj6uffn005u2a6kgbl0b8i2</id>
+    <description lang="en-US">Naht und Sto&amp;szlig;ausbildung ist lose &amp;uuml;berlappt &amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://yJNAIo8wZ4ij4kq0EFTEOX7z-5fBOIvg_rise/LitMiYHq30gAd_7ZP1D2N40S2K80QP2w/clrj6vicq00752a6kdekr2ptc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Einstufung der Zusatzma&amp;szlig;nahme&lt;br&gt;nahtgesicherte Unterspannung bedeutet:</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clrj6vicq00792a6k0te7dwit</correctResponsePattern>
+    <correctResponsePattern>choice_clrj6vicq00782a6kusbekbxk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clrj6vicq00762a6kpulf7h2r</id>
+    <description lang="en-US">Unterdeckplatte mit Zubeh&amp;ouml;r</description>
+  </component>
+    <component>
+    <id>choice_clrj6vicq00782a6kusbekbxk</id>
+    <description lang="en-US">Gespannte oder frei h&amp;auml;ngende Unterspannbahn</description>
+  </component>
+    <component>
+    <id>choice_clrj6vicq00792a6k0te7dwit</id>
+    <description lang="en-US">Konterlatteneinbindung erfolgt unter der Konterlatte</description>
+  </component>
+    <component>
+    <id>choice_clrj6vicq00772a6kvhvajz9e</id>
+    <description lang="en-US">Konterlatteneinbindung erfolgt &amp;uuml;ber der Konterlatte</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
