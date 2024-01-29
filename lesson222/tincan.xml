@@ -74,7 +74,7 @@
   </activity>
                               
 <activity id="http://Pg-scfCAG_5fs2Jxx45UQLoiyzRcEshC_rise/QuXfEyR4sgGdoT_VPc7X-ZjVCMeC9CYi/cllm2tl0d004h2a6n9sujg56y" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-  <name lang="en-US">Ordnen Sie die Feuerwiderstandsf&amp;auml;higkeit von Baustoffen entsprechend der Geb&amp;auml;udeklassen zu</name>
+  <name lang="en-US">Ordnen Sie die Feuerwiderstandsf&amp;auml;higkeit von Bauteilen entsprechend der Geb&amp;auml;udeklassen zu</name>
   <description lang="en-US"></description>
   <interactionType>matching</interactionType>
   <correctResponsePatterns>

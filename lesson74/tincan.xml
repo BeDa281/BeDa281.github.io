@@ -10,292 +10,292 @@
       <name lang="en-US">Quiz/quiz</name>
       <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
     </activity>
-            
-    <activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13fzjhc000d266f1l711c5q" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Was hat sich durch das GEG ge&amp;auml;ndert?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13fzjhc000e266f78m51u51</correctResponsePattern>
-            <correctResponsePattern>choice_cl13fzjhc000f266f2ikf2qpm</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13fzjhc000e266f78m51u51</id>
-        <description lang="en-US">Die energetischen Mindestanforderungen an Neubauten sind etwas geringer als in der zuvor geltenden EnEV</description>
-      </component>
-            <component>
-        <id>choice_cl13fzjhc000g266fslmvvftq</id>
-        <description lang="en-US">Die energetischen Mindestanforderungen an Neubauten sind etwas h&amp;ouml;her als in der zuvor geltenden EnEV.</description>
-      </component>
-            <component>
-        <id>choice_cl13fzjhc000h266fl5qox16m</id>
-        <description lang="en-US">Der U-Wert f&amp;uuml;r eine Au&amp;szlig;enwand hat sich von 0,24 auf 0,20 ge&amp;auml;ndert.</description>
-      </component>
-            <component>
-        <id>choice_cl13fzjhc000f266f2ikf2qpm</id>
-        <description lang="en-US">Energieberatung ist verpflichtend.</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13g06of001j266f6jhrybcv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Was besagt die Innovationsklausel im GEG?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13g06og001k266fc8xptbp7</correctResponsePattern>
-            <correctResponsePattern>choice_cl13g0lnj0024266fnovcrmee</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13g06og001k266fc8xptbp7</id>
-        <description lang="en-US">Der Energiebedarf bei Neubauten darf den 0,75-fachen Wert des Referenzgeb&amp;auml;udes nicht &amp;uuml;berschreiten.</description>
-      </component>
-            <component>
-        <id>choice_cl13g06og001l266fckulrdbr</id>
-        <description lang="en-US">Der Energiebedarf bei Sanierung darf den 1,4-fachen Wert des Referenzgeb&amp;auml;udes nicht unterschreiten.</description>
-      </component>
-            <component>
-        <id>choice_cl13g0lnj0024266fnovcrmee</id>
-        <description lang="en-US">Der Energiebedarf bei Sanierung darf den 1,4-fachen Wert des Referenzgeb&amp;auml;udes nicht &amp;uuml;berschreiten.</description>
-      </component>
-            <component>
-        <id>choice_cl13g0ox5002b266f8dkt0xjw</id>
-        <description lang="en-US">Der Energiebedarf bei Neubauten darf den 0,75-fachen Wert des Referenzgeb&amp;auml;udes nicht unterschreiten.</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13g0xw1002r266f7idlu5to" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Welche Kriterien f&amp;uuml;r eine Niedrigstenergiegeb&amp;auml;ude sind richtig?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13g0xw1002s266fvhldl7si</correctResponsePattern>
-            <correctResponsePattern>choice_cl13g1b12003g266f4lp9hxb4</correctResponsePattern>
-            <correctResponsePattern>choice_cl13g1e5h003p266fsrpwwde1</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13g0xw1002s266fvhldl7si</id>
-        <description lang="en-US">Kompakte Bauweise&amp;nbsp;</description>
-      </component>
-            <component>
-        <id>choice_cl13g0xw1002t266fn63brk3i</id>
-        <description lang="en-US">Ausrichtung nach Westen</description>
-      </component>
-            <component>
-        <id>choice_cl13g1b12003g266f4lp9hxb4</id>
-        <description lang="en-US">Ausreichende D&amp;auml;mmung und Luftdichtheit</description>
-      </component>
-            <component>
-        <id>choice_cl13g1e5h003p266fsrpwwde1</id>
-        <description lang="en-US">Verst&amp;auml;rkter Einsatz von erneuerbaren Energien</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13g1one0040266fz2inqviy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Thomas Nachbar schimpft &amp;uuml;ber das neue GEG. Er hat ein Bestandsgeb&amp;auml;ude und f&amp;uuml;rchtet heftige neue Auflagen, die er jetzt erf&amp;uuml;llen muss. Sind seine Bef&amp;uuml;rchtungen berechtigt?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13g1one0042266fhylbtg7h</correctResponsePattern>
-            <correctResponsePattern>choice_cl13g1one0044266fujety815</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13g1one0041266freom2b0e</id>
-        <description lang="en-US">Ja, denn mit dem neuen GEG m&amp;uuml;ssen auch Eigent&amp;uuml;mer von bestehenden Geb&amp;auml;uden erheblich nachr&amp;uuml;sten.</description>
-      </component>
-            <component>
-        <id>choice_cl13g1one0043266fpae71kgm</id>
-        <description lang="en-US">Es kommt darauf an welche technischen Anlagen er in seinem Haus betreibt.</description>
-      </component>
-            <component>
-        <id>choice_cl13g1one0044266fujety815</id>
-        <description lang="en-US">Nein, denn die Anforderungsniveaus an Bestandsgeb&amp;auml;ude wurden durch das GEG nicht ver&amp;auml;ndert.&amp;nbsp;</description>
-      </component>
-            <component>
-        <id>choice_cl13g1one0042266fhylbtg7h</id>
-        <description lang="en-US">Nein, denn der Nachweis &amp;uuml;ber die Einhaltung der Anforderungen kann weiterhin &amp;uuml;ber die Gesamtbilanz des Geb&amp;auml;udes gef&amp;uuml;hrt werden.&amp;nbsp;</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13g2cq60051266fsfkp2dpi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Thomas hat seinen Antrag f&amp;uuml;r den Neubau am 22.10.2020 eingereicht. Was gilt f&amp;uuml;r ihn?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13g2cq60053266fcej2a7f4</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13g2cq60052266fmigl2dx3</id>
-        <description lang="en-US">Er muss sich nach dem GEG richten.</description>
-      </component>
-            <component>
-        <id>choice_cl13g2cq60053266fcej2a7f4</id>
-        <description lang="en-US">F&amp;uuml;r ihn gilt die EnEV, da er den Antrag vor dem 31.10.2020 eingereicht hat.&amp;nbsp;</description>
-      </component>
-            <component>
-        <id>choice_cl13g2ruq0054266ft2a49658</id>
-        <description lang="en-US">F&amp;uuml;r ihn gilt das GEG nur dann, wo es sich versch&amp;auml;rft hat, in Bezug auf erneuerbare Energien.</description>
-      </component>
-            <component>
-        <id>choice_cl13g2v3d0055266fxmgbxnto</id>
-        <description lang="en-US">F&amp;uuml;r ihn gilt die EnEV, aber nur weil er auf dieser Grundlage kalkuliert hat.</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13g31bb0056266ffvu719qv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Marie m&amp;ouml;chte an ihrem Bestandsgeb&amp;auml;ude Ver&amp;auml;nderungen an der Au&amp;szlig;enwand vornehmen. Mit ihrem Vorhaben ver&amp;auml;ndert sie 23% der Fassade. Muss sie nun die gesamte Fl&amp;auml;che energetisch aufwerten?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13g31bc0058266fdw2wofab</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13g31bc0057266fn6s1hxsb</id>
-        <description lang="en-US">Nein, sie muss nur den Teil d&amp;auml;mmen, wo er Ver&amp;auml;nderungen vornimmt.</description>
-      </component>
-            <component>
-        <id>choice_cl13g31bc0058266fdw2wofab</id>
-        <description lang="en-US">Ja, da nach GEG ab 10% Ver&amp;auml;nderungen der Fassade gem&amp;auml;&amp;szlig; GEG ged&amp;auml;mmt werden muss.&amp;nbsp;</description>
-      </component>
-            <component>
-        <id>choice_cl13g4bbp0059266f6bze64ay</id>
-        <description lang="en-US">Nein, weil er sein Geb&amp;auml;ude bereits mit Photovoltaikanlage ausgestattet hat.</description>
-      </component>
-            <component>
-        <id>choice_cl13g4ep6005a266fmgihi2rg</id>
-        <description lang="en-US">Ja, da nach GEG auch bei Sanierungsarbeiten sofort das WDVS angewendet werden muss.</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13ipwce005b266ftnu8ui8d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Was findet man im Beiblatt der DIN 4108?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13ipwce005c266fyeqtod12</correctResponsePattern>
-            <correctResponsePattern>choice_cl13ipwce005e266fig0dml38</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13ipwce005c266fyeqtod12</id>
-        <description lang="en-US">Konstruktionsdetails&amp;nbsp;</description>
-      </component>
-            <component>
-        <id>choice_cl13ipwce005e266fig0dml38</id>
-        <description lang="en-US">Planungs- und Ausf&amp;uuml;hrungsdetails</description>
-      </component>
-            <component>
-        <id>choice_cl13ipwce005f266fn41yxytn</id>
-        <description lang="en-US">Verpflichtende Vorgaben gem&amp;auml;&amp;szlig; GEG</description>
-      </component>
-            <component>
-        <id>choice_cl13ipwce005d266fm9vt3joi</id>
-        <description lang="en-US">Zus&amp;auml;tzlich genormte Festlegungen</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13iqg4f006e266f8hgc2jv2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Wann muss ein Energieausweis ausgestellt werden? Welche der Antworten sind richtig?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13iqg4f006f266fo9hppe5s</correctResponsePattern>
-            <correctResponsePattern>choice_cl13iqg4f006g266fjthmm5bn</correctResponsePattern>
-            <correctResponsePattern>choice_cl13iqg4f006i266fiaboyd6q</correctResponsePattern>
-            <correctResponsePattern>choice_cl13iqg4f006h266fc47yssw4</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13iqg4f006f266fo9hppe5s</id>
-        <description lang="en-US">Bei der Errichtung von Geb&amp;auml;uden</description>
-      </component>
-            <component>
-        <id>choice_cl13iqg4f006h266fc47yssw4</id>
-        <description lang="en-US">Bei der Erweiterung von Geb&amp;auml;uden</description>
-      </component>
-            <component>
-        <id>choice_cl13iqg4f006i266fiaboyd6q</id>
-        <description lang="en-US">Bei Vermietung von Geb&amp;auml;uden</description>
-      </component>
-            <component>
-        <id>choice_cl13iqg4f006g266fjthmm5bn</id>
-        <description lang="en-US">Bei Verkauf von Geb&amp;auml;uden</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13is50n007o266f8f3vaahv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Welche Vorteile haben Besitzer von denkmalgesch&amp;uuml;tzten Geb&amp;auml;uden? Welche Antworten sind richtig?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13is50o007p266f2uixkb3x</correctResponsePattern>
-            <correctResponsePattern>choice_cl13is50o007q266fbp1ab41v</correctResponsePattern>
-            <correctResponsePattern>choice_cl13isjq2007z266fgst3jqsw</correctResponsePattern>
-            <correctResponsePattern>choice_cl13ismio0086266ff30jcsrh</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13is50o007p266f2uixkb3x</id>
-        <description lang="en-US">Sie haben beim Verkauf keine Energieausweispflicht.</description>
-      </component>
-            <component>
-        <id>choice_cl13is50o007q266fbp1ab41v</id>
-        <description lang="en-US">Sie k&amp;ouml;nnen vom GEG abweichen, wenn der Aufwand unverh&amp;auml;ltnism&amp;auml;&amp;szlig;ig hoch wird.</description>
-      </component>
-            <component>
-        <id>choice_cl13isjq2007z266fgst3jqsw</id>
-        <description lang="en-US">Sie k&amp;ouml;nnen Lehm in der Geb&amp;auml;udesubstanz erhalten.</description>
-      </component>
-            <component>
-        <id>choice_cl13ismio0086266ff30jcsrh</id>
-        <description lang="en-US">Sie k&amp;ouml;nnen die historische Au&amp;szlig;enfassade erhalten.</description>
-      </component>
-            <component>
-        <id>choice_cl13it208008j266f4xazc4ll</id>
-        <description lang="en-US">Keine Genehmigungspflicht bei baulichen Ver&amp;auml;nderungen</description>
-      </component>
-            </choices>
-          </activity>
-        
-    <activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13itkj0009c266fnimsfsqv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-      <name lang="en-US">Thomas m&amp;ouml;chte auf seinem Dach andere Ziegel haben. Muss er nun die gesamte Dachkonstruktion gem&amp;auml;&amp;szlig; GEG energetisch aufwerten?</name>
-      <description lang="en-US"></description>
-      <interactionType>choice</interactionType>
-      <correctResponsePatterns>
-            <correctResponsePattern>choice_cl13itkj0009d266f4y7ptr9x</correctResponsePattern>
-            <correctResponsePattern>choice_cl13itkj0009f266ff00tz58l</correctResponsePattern>
-            </correctResponsePatterns>
-            <choices>
-            <component>
-        <id>choice_cl13itkj0009d266f4y7ptr9x</id>
-        <description lang="en-US">Nein, solange er nur die Eindeckung &amp;auml;ndert.</description>
-      </component>
-            <component>
-        <id>choice_cl13itkj0009f266ff00tz58l</id>
-        <description lang="en-US">Nein, weil er die Abdichtung und Einlattung inkl. Verschalung nicht wechselt.</description>
-      </component>
-            <component>
-        <id>choice_cl13itkj0009g266fdanoq1cu</id>
-        <description lang="en-US">Ja, da er eine Ver&amp;auml;nderung von mehr als 15% vornimmt.&amp;nbsp;</description>
-      </component>
-            <component>
-        <id>choice_cl13itkj0009e266f9bdj9hwe</id>
-        <description lang="en-US">Ja, weil die oberste Geschossdecke nicht ged&amp;auml;mmt ist.&amp;nbsp;</description>
-      </component>
-            </choices>
-          </activity>
-            </activities>
+                                  
+<activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13fzjhc000d266f1l711c5q" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was hat sich durch das GEG ge&amp;auml;ndert?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13fzjhc000e266f78m51u51</correctResponsePattern>
+    <correctResponsePattern>choice_cl13fzjhc000f266f2ikf2qpm</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13fzjhc000e266f78m51u51</id>
+    <description lang="en-US">Die energetischen Mindestanforderungen an Neubauten sind etwas geringer als in der zuvor geltenden EnEV</description>
+  </component>
+    <component>
+    <id>choice_cl13fzjhc000g266fslmvvftq</id>
+    <description lang="en-US">Die energetischen Mindestanforderungen an Neubauten sind etwas h&amp;ouml;her als in der zuvor geltenden EnEV.</description>
+  </component>
+    <component>
+    <id>choice_cl13fzjhc000h266fl5qox16m</id>
+    <description lang="en-US">Der U-Wert f&amp;uuml;r eine Au&amp;szlig;enwand hat sich von 0,24 auf 0,20 ge&amp;auml;ndert.</description>
+  </component>
+    <component>
+    <id>choice_cl13fzjhc000f266f2ikf2qpm</id>
+    <description lang="en-US">Energieberatung ist verpflichtend.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13g06of001j266f6jhrybcv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was besagt die Innovationsklausel im GEG?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13g06og001k266fc8xptbp7</correctResponsePattern>
+    <correctResponsePattern>choice_cl13g0lnj0024266fnovcrmee</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13g06og001k266fc8xptbp7</id>
+    <description lang="en-US">Der Energiebedarf bei Neubauten darf den 0,55-fachen Wert des Referenzgeb&amp;auml;udes nicht &amp;uuml;berschreiten.</description>
+  </component>
+    <component>
+    <id>choice_cl13g06og001l266fckulrdbr</id>
+    <description lang="en-US">Der Energiebedarf bei Sanierung darf den 1,4-fachen Wert des Referenzgeb&amp;auml;udes nicht unterschreiten.</description>
+  </component>
+    <component>
+    <id>choice_cl13g0lnj0024266fnovcrmee</id>
+    <description lang="en-US">Der Energiebedarf bei Sanierung darf den 1,4-fachen Wert des Referenzgeb&amp;auml;udes nicht &amp;uuml;berschreiten.</description>
+  </component>
+    <component>
+    <id>choice_cl13g0ox5002b266f8dkt0xjw</id>
+    <description lang="en-US">Der Energiebedarf bei Neubauten darf den 0,55-fachen Wert des Referenzgeb&amp;auml;udes nicht unterschreiten.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13g0xw1002r266f7idlu5to" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Kriterien f&amp;uuml;r eine Niedrigstenergiegeb&amp;auml;ude sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13g0xw1002s266fvhldl7si</correctResponsePattern>
+    <correctResponsePattern>choice_cl13g1b12003g266f4lp9hxb4</correctResponsePattern>
+    <correctResponsePattern>choice_cl13g1e5h003p266fsrpwwde1</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13g0xw1002s266fvhldl7si</id>
+    <description lang="en-US">Kompakte Bauweise&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cl13g0xw1002t266fn63brk3i</id>
+    <description lang="en-US">Ausrichtung nach Westen</description>
+  </component>
+    <component>
+    <id>choice_cl13g1b12003g266f4lp9hxb4</id>
+    <description lang="en-US">Ausreichende D&amp;auml;mmung und Luftdichtheit</description>
+  </component>
+    <component>
+    <id>choice_cl13g1e5h003p266fsrpwwde1</id>
+    <description lang="en-US">Verst&amp;auml;rkter Einsatz von erneuerbaren Energien</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13g1one0040266fz2inqviy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Thomas Nachbar schimpft &amp;uuml;ber das neue GEG. Er hat ein Bestandsgeb&amp;auml;ude und f&amp;uuml;rchtet heftige neue Auflagen, die er jetzt erf&amp;uuml;llen muss. Sind seine Bef&amp;uuml;rchtungen berechtigt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13g1one0042266fhylbtg7h</correctResponsePattern>
+    <correctResponsePattern>choice_cl13g1one0044266fujety815</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13g1one0041266freom2b0e</id>
+    <description lang="en-US">Ja, denn mit dem neuen GEG m&amp;uuml;ssen auch Eigent&amp;uuml;mer von bestehenden Geb&amp;auml;uden erheblich nachr&amp;uuml;sten.</description>
+  </component>
+    <component>
+    <id>choice_cl13g1one0043266fpae71kgm</id>
+    <description lang="en-US">Es kommt darauf an welche technischen Anlagen er in seinem Haus betreibt.</description>
+  </component>
+    <component>
+    <id>choice_cl13g1one0044266fujety815</id>
+    <description lang="en-US">Nein, denn die Anforderungsniveaus an Bestandsgeb&amp;auml;ude wurden durch das GEG nicht ver&amp;auml;ndert.&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cl13g1one0042266fhylbtg7h</id>
+    <description lang="en-US">Nein, denn der Nachweis &amp;uuml;ber die Einhaltung der Anforderungen kann weiterhin &amp;uuml;ber die Gesamtbilanz des Geb&amp;auml;udes gef&amp;uuml;hrt werden.&amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13g2cq60051266fsfkp2dpi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Thomas hat seinen Antrag f&amp;uuml;r den Neubau am 22.10.2020 eingereicht. Was gilt f&amp;uuml;r ihn?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13g2cq60053266fcej2a7f4</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13g2cq60052266fmigl2dx3</id>
+    <description lang="en-US">Er muss sich nach dem GEG richten.</description>
+  </component>
+    <component>
+    <id>choice_cl13g2cq60053266fcej2a7f4</id>
+    <description lang="en-US">F&amp;uuml;r ihn gilt die EnEV, da er den Antrag vor dem 31.10.2020 eingereicht hat.&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cl13g2ruq0054266ft2a49658</id>
+    <description lang="en-US">F&amp;uuml;r ihn gilt das GEG nur dann, wo es sich versch&amp;auml;rft hat, in Bezug auf erneuerbare Energien.</description>
+  </component>
+    <component>
+    <id>choice_cl13g2v3d0055266fxmgbxnto</id>
+    <description lang="en-US">F&amp;uuml;r ihn gilt die EnEV, aber nur weil er auf dieser Grundlage kalkuliert hat.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13g31bb0056266ffvu719qv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Marie m&amp;ouml;chte an ihrem Bestandsgeb&amp;auml;ude Ver&amp;auml;nderungen an der Au&amp;szlig;enwand vornehmen. Mit ihrem Vorhaben ver&amp;auml;ndert sie 23% der Fassade. Muss sie nun die gesamte Fl&amp;auml;che energetisch aufwerten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13g31bc0058266fdw2wofab</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13g31bc0057266fn6s1hxsb</id>
+    <description lang="en-US">Nein, sie muss nur den Teil d&amp;auml;mmen, wo er Ver&amp;auml;nderungen vornimmt.</description>
+  </component>
+    <component>
+    <id>choice_cl13g31bc0058266fdw2wofab</id>
+    <description lang="en-US">Ja, da nach GEG ab 10% Ver&amp;auml;nderungen der Fassade gem&amp;auml;&amp;szlig; GEG ged&amp;auml;mmt werden muss.&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cl13g4bbp0059266f6bze64ay</id>
+    <description lang="en-US">Nein, weil er sein Geb&amp;auml;ude bereits mit Photovoltaikanlage ausgestattet hat.</description>
+  </component>
+    <component>
+    <id>choice_cl13g4ep6005a266fmgihi2rg</id>
+    <description lang="en-US">Ja, da nach GEG auch bei Sanierungsarbeiten sofort das WDVS angewendet werden muss.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13ipwce005b266ftnu8ui8d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was findet man im Beiblatt der DIN 4108?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13ipwce005c266fyeqtod12</correctResponsePattern>
+    <correctResponsePattern>choice_cl13ipwce005e266fig0dml38</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13ipwce005c266fyeqtod12</id>
+    <description lang="en-US">Konstruktionsdetails&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cl13ipwce005e266fig0dml38</id>
+    <description lang="en-US">Planungs- und Ausf&amp;uuml;hrungsdetails</description>
+  </component>
+    <component>
+    <id>choice_cl13ipwce005f266fn41yxytn</id>
+    <description lang="en-US">Verpflichtende Vorgaben gem&amp;auml;&amp;szlig; GEG</description>
+  </component>
+    <component>
+    <id>choice_cl13ipwce005d266fm9vt3joi</id>
+    <description lang="en-US">Zus&amp;auml;tzlich genormte Festlegungen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13iqg4f006e266f8hgc2jv2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wann muss ein Energieausweis ausgestellt werden? Welche der Antworten sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13iqg4f006f266fo9hppe5s</correctResponsePattern>
+    <correctResponsePattern>choice_cl13iqg4f006g266fjthmm5bn</correctResponsePattern>
+    <correctResponsePattern>choice_cl13iqg4f006i266fiaboyd6q</correctResponsePattern>
+    <correctResponsePattern>choice_cl13iqg4f006h266fc47yssw4</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13iqg4f006f266fo9hppe5s</id>
+    <description lang="en-US">Bei der Errichtung von Geb&amp;auml;uden</description>
+  </component>
+    <component>
+    <id>choice_cl13iqg4f006h266fc47yssw4</id>
+    <description lang="en-US">Bei der Erweiterung von Geb&amp;auml;uden</description>
+  </component>
+    <component>
+    <id>choice_cl13iqg4f006i266fiaboyd6q</id>
+    <description lang="en-US">Bei Vermietung von Geb&amp;auml;uden</description>
+  </component>
+    <component>
+    <id>choice_cl13iqg4f006g266fjthmm5bn</id>
+    <description lang="en-US">Bei Verkauf von Geb&amp;auml;uden</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13is50n007o266f8f3vaahv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Vorteile haben Besitzer von denkmalgesch&amp;uuml;tzten Geb&amp;auml;uden? Welche Antworten sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13is50o007p266f2uixkb3x</correctResponsePattern>
+    <correctResponsePattern>choice_cl13is50o007q266fbp1ab41v</correctResponsePattern>
+    <correctResponsePattern>choice_cl13isjq2007z266fgst3jqsw</correctResponsePattern>
+    <correctResponsePattern>choice_cl13ismio0086266ff30jcsrh</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13is50o007p266f2uixkb3x</id>
+    <description lang="en-US">Sie haben beim Verkauf keine Energieausweispflicht.</description>
+  </component>
+    <component>
+    <id>choice_cl13is50o007q266fbp1ab41v</id>
+    <description lang="en-US">Sie k&amp;ouml;nnen vom GEG abweichen, wenn der Aufwand unverh&amp;auml;ltnism&amp;auml;&amp;szlig;ig hoch wird.</description>
+  </component>
+    <component>
+    <id>choice_cl13isjq2007z266fgst3jqsw</id>
+    <description lang="en-US">Sie k&amp;ouml;nnen Lehm in der Geb&amp;auml;udesubstanz erhalten.</description>
+  </component>
+    <component>
+    <id>choice_cl13ismio0086266ff30jcsrh</id>
+    <description lang="en-US">Sie k&amp;ouml;nnen die historische Au&amp;szlig;enfassade erhalten.</description>
+  </component>
+    <component>
+    <id>choice_cl13it208008j266f4xazc4ll</id>
+    <description lang="en-US">Keine Genehmigungspflicht bei baulichen Ver&amp;auml;nderungen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://93TXvfmnaXMVnvWimC4E2JZwyJA1MuHC_rise/WbMXjPfab4kTsYSUtrRZcTgAuvMQmxvy/cl13itkj0009c266fnimsfsqv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Thomas m&amp;ouml;chte auf seinem Dach andere Ziegel haben. Muss er nun die gesamte Dachkonstruktion gem&amp;auml;&amp;szlig; GEG energetisch aufwerten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cl13itkj0009d266f4y7ptr9x</correctResponsePattern>
+    <correctResponsePattern>choice_cl13itkj0009f266ff00tz58l</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cl13itkj0009d266f4y7ptr9x</id>
+    <description lang="en-US">Nein, solange er nur die Eindeckung &amp;auml;ndert.</description>
+  </component>
+    <component>
+    <id>choice_cl13itkj0009f266ff00tz58l</id>
+    <description lang="en-US">Nein, weil er die Abdichtung und Einlattung inkl. Verschalung nicht wechselt.</description>
+  </component>
+    <component>
+    <id>choice_cl13itkj0009g266fdanoq1cu</id>
+    <description lang="en-US">Ja, da er eine Ver&amp;auml;nderung von mehr als 15% vornimmt.&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cl13itkj0009e266f9bdj9hwe</id>
+    <description lang="en-US">Ja, weil die oberste Geschossdecke nicht ged&amp;auml;mmt ist.&amp;nbsp;</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
 </tincan>
