@@ -16,9 +16,7 @@
   <description lang="en-US"></description>
   <interactionType>choice</interactionType>
   <correctResponsePatterns>
-    <correctResponsePattern>choice_cl1c4ct6i0004266gypjgvay9</correctResponsePattern>
-    <correctResponsePattern>choice_cl1c4ct6j0007266grgh4q2fy</correctResponsePattern>
-    <correctResponsePattern>choice_cl1c4ct6i0006266grmupgueo</correctResponsePattern>
+    <correctResponsePattern>choice_cl1c4ct6i0005266gmz31rolz</correctResponsePattern>
     </correctResponsePatterns>
     <choices>
     <component>
@@ -166,8 +164,8 @@
   <description lang="en-US"></description>
   <interactionType>choice</interactionType>
   <correctResponsePatterns>
-    <correctResponsePattern>choice_cl1c4ipzh005e266gmtgq6uan</correctResponsePattern>
-    <correctResponsePattern>choice_cl1c4ipzh005g266gpy0cdxc9</correctResponsePattern>
+    <correctResponsePattern>choice_cl1c4ipzh005f266ggswl145i</correctResponsePattern>
+    <correctResponsePattern>choice_cl1c4ipzh005d266g8v3peyfp</correctResponsePattern>
     </correctResponsePatterns>
     <choices>
     <component>
@@ -224,7 +222,9 @@
   <description lang="en-US"></description>
   <interactionType>choice</interactionType>
   <correctResponsePatterns>
-    <correctResponsePattern>choice_cl1c4ktqq0086266g5sfwzh40</correctResponsePattern>
+    <correctResponsePattern>choice_cl1c4ktqq0083266gzf40spb7</correctResponsePattern>
+    <correctResponsePattern>choice_cl1c4ktqq0084266gmdkeu32q</correctResponsePattern>
+    <correctResponsePattern>choice_cl1c4ktqq0085266g172lc1he</correctResponsePattern>
     </correctResponsePatterns>
     <choices>
     <component>
