@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://SDQ7GCf0o8Z_n1V5816ruH05KXuNQc1n_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Proportionalmethode</name>
+      <description lang="en-US"></description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://SDQ7GCf0o8Z_n1V5816ruH05KXuNQc1n_rise/DI-rmNgwfY7fG1c2CeIlbHOBNQc43Yt7" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Proportinalmethode/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://SDQ7GCf0o8Z_n1V5816ruH05KXuNQc1n_rise/c130NaVd1Qj3aV7zTkuizfDETPkW_k6a" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US"></description>
+    </activity>
+                                  
+<activity id="http://SDQ7GCf0o8Z_n1V5816ruH05KXuNQc1n_rise/c130NaVd1Qj3aV7zTkuizfDETPkW_k6a/clutjqh8s002a2a6lx429kaas" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Auf welche Weise werden Stufen bei der Proportionalmethode verzogen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clutjqh8s002b2a6l3hebpr48</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clutjqh8s002b2a6l3hebpr48</id>
+    <description lang="en-US">Es ist immer eine gerade Anzahl an Stufen zu verziehen</description>
+  </component>
+    <component>
+    <id>choice_clutjqh8s002c2a6luiuho51r</id>
+    <description lang="en-US">Es ist immer eine ungerade Anzahl von Stufen zu verziehen</description>
+  </component>
+    <component>
+    <id>choice_clutju2mj002h2a6lbjq501ol</id>
+    <description lang="en-US">Es spielt keine Rolle, wie viele Stufen verzogen werden</description>
+  </component>
+    <component>
+    <id>choice_clutju8ie002k2a6l30i38bvv</id>
+    <description lang="en-US">Es wird immer ausgehend vom Mitteltritt nur eine Stufe links und rechts verzogen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://SDQ7GCf0o8Z_n1V5816ruH05KXuNQc1n_rise/c130NaVd1Qj3aV7zTkuizfDETPkW_k6a/clutjuarv002m2a6lr75gz2t9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Strecke wird bei der Proportionalmethode im Verh&amp;auml;ltnis aufgeteilt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clutjvjl2002x2a6lwq21tqbw</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clutjuarv002n2a6lfwycfhml</id>
+    <description lang="en-US">Die Strecke zwischen Lichtwange und Wandwange</description>
+  </component>
+    <component>
+    <id>choice_clutjuarv002o2a6l75wj8ldw</id>
+    <description lang="en-US">Die Strecke zwischen Antritt und Austritt</description>
+  </component>
+    <component>
+    <id>choice_clutjvdxn002u2a6l85c9ms7o</id>
+    <description lang="en-US">Die Strecke der Lauflinie</description>
+  </component>
+    <component>
+    <id>choice_clutjvjl2002x2a6lwq21tqbw</id>
+    <description lang="en-US">Die Strecke von Punkt M1 bis Punkt M2</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://SDQ7GCf0o8Z_n1V5816ruH05KXuNQc1n_rise/c130NaVd1Qj3aV7zTkuizfDETPkW_k6a/clutjwlva002z2a6lavimbfx3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wo sitzt bei der Proportionalmethode der Punkt M1?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clutjwlva00312a6lmwii0c1j</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clutjwlva00302a6lnqs0vtdy</id>
+    <description lang="en-US">Am Beginn der Antrittes</description>
+  </component>
+    <component>
+    <id>choice_clutjwlva00312a6lmwii0c1j</id>
+    <description lang="en-US">Im Mittelpunkt des Treppenauges, im Einstichpunkt des Kr&amp;uuml;mmlingshalb- oder Viertelkreises</description>
+  </component>
+    <component>
+    <id>choice_clutk1xqt00372a6lpx8tikg1</id>
+    <description lang="en-US">Am Austritt</description>
+  </component>
+    <component>
+    <id>choice_clutk23la003b2a6l1h4gc3ip</id>
+    <description lang="en-US">Auf der Mitte des Spickeltrittes</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://SDQ7GCf0o8Z_n1V5816ruH05KXuNQc1n_rise/c130NaVd1Qj3aV7zTkuizfDETPkW_k6a/clutkj0um003d2a6l5zfuyd5v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wo sitzt bei der Proportionalmethode der Punkt M1?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clutkj0um003e2a6lmqbjnsta</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clutkj0um003e2a6lmqbjnsta</id>
+    <description lang="en-US">An der Mitte der Verl&amp;auml;ngerungen der ersten und letzten geraden Stufe</description>
+  </component>
+    <component>
+    <id>choice_clutkj0um003f2a6lbosd3zqh</id>
+    <description lang="en-US">An der Wandwange</description>
+  </component>
+    <component>
+    <id>choice_clutkjlji003k2a6ltl8u29mo</id>
+    <description lang="en-US">Im Kr&amp;uuml;mmling</description>
+  </component>
+    <component>
+    <id>choice_clutkjpsn003n2a6la1fnygnf</id>
+    <description lang="en-US">Auf der ersten Stufe</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
