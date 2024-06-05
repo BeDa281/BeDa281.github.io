@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://dSeaGj3HKgeSrkhVNp8Q-6z9cyG3-3rd_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Bauakustik - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://dSeaGj3HKgeSrkhVNp8Q-6z9cyG3-3rd_rise/ZTHyXwJBOitFzC8U_-xJk-512HShkpKL" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://dSeaGj3HKgeSrkhVNp8Q-6z9cyG3-3rd_rise/ZTHyXwJBOitFzC8U_-xJk-512HShkpKL/clx1waqfv000v2a6pqmnizmsb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie breitet sich Schall aus?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1waqfv000x2a6pkxbgex8m</correctResponsePattern>
+    <correctResponsePattern>choice_clx1waqfv000z2a6pl3s537sd</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1waqfv000w2a6pbyhbwkkf</id>
+    <description lang="en-US">Strahlenf&amp;ouml;rmig</description>
+  </component>
+    <component>
+    <id>choice_clx1waqfv000y2a6pixj4qwk5</id>
+    <description lang="en-US">Linear</description>
+  </component>
+    <component>
+    <id>choice_clx1waqfv000z2a6pl3s537sd</id>
+    <description lang="en-US">Kugelf&amp;ouml;rmige Welle&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_clx1waqfv000x2a6pkxbgex8m</id>
+    <description lang="en-US">Schwingungen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://dSeaGj3HKgeSrkhVNp8Q-6z9cyG3-3rd_rise/ZTHyXwJBOitFzC8U_-xJk-512HShkpKL/clx1wbohk002h2a6p4r47wse3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Mit welcher Geschwindigkeit breitet sich Schall aus?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1wbohk002i2a6pqqyyfex3</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wbohk002l2a6p9fanwxgy</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wbohk002k2a6p1lyzm7bd</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1wbohk002i2a6pqqyyfex3</id>
+    <description lang="en-US">ca. 340 m/s in der Luft</description>
+  </component>
+    <component>
+    <id>choice_clx1wbohk002k2a6p1lyzm7bd</id>
+    <description lang="en-US">ca. 5.000 m/s in Stahl</description>
+  </component>
+    <component>
+    <id>choice_clx1wbohk002l2a6p9fanwxgy</id>
+    <description lang="en-US">ca. 1.500 m/s im Wasser</description>
+  </component>
+    <component>
+    <id>choice_clx1wbohk002j2a6p3p9bty11</id>
+    <description lang="en-US">ca. 800 m/s im Mauerwerk</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://dSeaGj3HKgeSrkhVNp8Q-6z9cyG3-3rd_rise/ZTHyXwJBOitFzC8U_-xJk-512HShkpKL/clx1wd4q0004g2a6pjrz7q602" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie hei&amp;szlig;t die Einheit f&amp;uuml;r Schallschwingungen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1wd4q0004h2a6p7hw8vr8x</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1wd4q0004h2a6p7hw8vr8x</id>
+    <description lang="en-US">Frequenz Herz (Hz)</description>
+  </component>
+    <component>
+    <id>choice_clx1wd4q0004i2a6p7ihdzuox</id>
+    <description lang="en-US">&amp;nbsp;Dezibel dB(a)</description>
+  </component>
+    <component>
+    <id>choice_clx1wdi7u00522a6pbj8st7f8</id>
+    <description lang="en-US">Phon (Ph)</description>
+  </component>
+    <component>
+    <id>choice_clx1wdlhs005d2a6pwdx8m33s</id>
+    <description lang="en-US">Ultrakurzwelle (UKW)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://dSeaGj3HKgeSrkhVNp8Q-6z9cyG3-3rd_rise/ZTHyXwJBOitFzC8U_-xJk-512HShkpKL/clx1wdrl3005p2a6p7a7lpy5m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie zu:</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clx1wdrl3005q2a6pwojukn37[.]target_clx1wdrl3005q2a6pwojukn37</correctResponsePattern>
+    <correctResponsePattern>source_clx1wdrl3005r2a6p7xa6uo9w[.]target_clx1wdrl3005r2a6p7xa6uo9w</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clx1wdrl3005q2a6pwojukn37</id>
+    <description lang="en-US">Stimmhafte Konsonanten></description>
+  </component>
+    <component>
+    <id>source_clx1wdrl3005r2a6p7xa6uo9w</id>
+    <description lang="en-US">Stimmlose Konsonanten></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clx1wdrl3005q2a6pwojukn37</id>
+        <description lang="en-US">B, D, N</description>
+      </component>
+          <component>
+        <id>target_clx1wdrl3005r2a6p7xa6uo9w</id>
+        <description lang="en-US">T, S</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://dSeaGj3HKgeSrkhVNp8Q-6z9cyG3-3rd_rise/ZTHyXwJBOitFzC8U_-xJk-512HShkpKL/clx1wfn8y005t2a6pq46hw3kn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie hei&amp;szlig;t die Einheit f&amp;uuml;r Schalldruck?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1wfn8y005u2a6pfebl6zya</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1wfn8y005u2a6pfebl6zya</id>
+    <description lang="en-US">Pascal (Pa)</description>
+  </component>
+    <component>
+    <id>choice_clx1wfn8y005v2a6pczmitox6</id>
+    <description lang="en-US">Ohm (O)</description>
+  </component>
+    <component>
+    <id>choice_clx1wg7fq005w2a6powpn6p4f</id>
+    <description lang="en-US">Psi</description>
+  </component>
+    <component>
+    <id>choice_clx1wga78005x2a6pl60dp553</id>
+    <description lang="en-US">kiloNewton (kN)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://dSeaGj3HKgeSrkhVNp8Q-6z9cyG3-3rd_rise/ZTHyXwJBOitFzC8U_-xJk-512HShkpKL/clx1wged2005y2a6ps06ionpd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie hei&amp;szlig;t die Einheit f&amp;uuml;r Lautst&amp;auml;rke?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1wged2005z2a6pmp4qlmub</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1wged2005z2a6pmp4qlmub</id>
+    <description lang="en-US">Dezibel dB(a)</description>
+  </component>
+    <component>
+    <id>choice_clx1wged200602a6py2gt0acw</id>
+    <description lang="en-US">Phon (Ph)</description>
+  </component>
+    <component>
+    <id>choice_clx1wh2ig00612a6pui8e84de</id>
+    <description lang="en-US">Pascal (Pa)</description>
+  </component>
+    <component>
+    <id>choice_clx1wh5ux00622a6pihc0nas7</id>
+    <description lang="en-US">Frequenz Herz (Hz)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://dSeaGj3HKgeSrkhVNp8Q-6z9cyG3-3rd_rise/ZTHyXwJBOitFzC8U_-xJk-512HShkpKL/clx1whi6o00632a6plm01jg4b" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie weit erh&amp;ouml;ht sich die Lautst&amp;auml;rke bei doppelter Schallquelle?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1whi6o00642a6polvjdnof</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1whi6o00642a6polvjdnof</id>
+    <description lang="en-US">3 dB</description>
+  </component>
+    <component>
+    <id>choice_clx1whi6o00652a6pxpc0yp6k</id>
+    <description lang="en-US">um die halbe Lautst&amp;auml;rke</description>
+  </component>
+    <component>
+    <id>choice_clx1wi0u800662a6pjlw3g2v5</id>
+    <description lang="en-US">10 dB</description>
+  </component>
+    <component>
+    <id>choice_clx1wi6eg00672a6pcvmdb88y</id>
+    <description lang="en-US">gar nicht, nur das Empfinden ist gr&amp;ouml;&amp;szlig;er</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://dSeaGj3HKgeSrkhVNp8Q-6z9cyG3-3rd_rise/ZTHyXwJBOitFzC8U_-xJk-512HShkpKL/clx1wibub00682a6pviv8y9bd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Begriffe kennen wir aus der Akustik?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1wibub00692a6pqnb7zkq5</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wibub006b2a6pdpv2qz7e</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1wibub00692a6pqnb7zkq5</id>
+    <description lang="en-US">Bauakustik</description>
+  </component>
+    <component>
+    <id>choice_clx1wibub006b2a6pdpv2qz7e</id>
+    <description lang="en-US">Raumakustik</description>
+  </component>
+    <component>
+    <id>choice_clx1wibub006c2a6p7j1zf8lh</id>
+    <description lang="en-US">Normakustik</description>
+  </component>
+    <component>
+    <id>choice_clx1wibub006a2a6pa7s5l3g2</id>
+    <description lang="en-US">Werkteilakustik</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://dSeaGj3HKgeSrkhVNp8Q-6z9cyG3-3rd_rise/ZTHyXwJBOitFzC8U_-xJk-512HShkpKL/clx1wja10008f2a6pp0egdvju" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Schallquellen kennen Sie?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1wja10008g2a6pr0ii6d20</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wja10008i2a6pph3eo4zl</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wja10008j2a6pmjvslh36</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1wja10008g2a6pr0ii6d20</id>
+    <description lang="en-US">Luftschall</description>
+  </component>
+    <component>
+    <id>choice_clx1wja10008i2a6pph3eo4zl</id>
+    <description lang="en-US">K&amp;ouml;rperschall</description>
+  </component>
+    <component>
+    <id>choice_clx1wja10008j2a6pmjvslh36</id>
+    <description lang="en-US">Trittschall</description>
+  </component>
+    <component>
+    <id>choice_clx1wja10008h2a6pkyb2ntux</id>
+    <description lang="en-US">Hammerschall</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://dSeaGj3HKgeSrkhVNp8Q-6z9cyG3-3rd_rise/ZTHyXwJBOitFzC8U_-xJk-512HShkpKL/clx1wk22v009t2a6p1yyph767" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die Begriffe richtig zu:</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clx1wk22v009u2a6pkltc4hxi[.]target_clx1wk22v009u2a6pkltc4hxi</correctResponsePattern>
+    <correctResponsePattern>source_clx1wk22v009v2a6pm4qjk3v8[.]target_clx1wk22v009v2a6pm4qjk3v8</correctResponsePattern>
+    <correctResponsePattern>source_clx1wk22v009w2a6pxp4fpzcq[.]target_clx1wk22v009w2a6pxp4fpzcq</correctResponsePattern>
+    <correctResponsePattern>source_clx1wkt5p009x2a6p94akaq8a[.]target_clx1wkt5p009x2a6p94akaq8a</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clx1wk22v009u2a6pkltc4hxi</id>
+    <description lang="en-US">Schalldämmmaß></description>
+  </component>
+    <component>
+    <id>source_clx1wk22v009v2a6pm4qjk3v8</id>
+    <description lang="en-US">Bewertes Schalldämmmaß ohne Flankenübertragung></description>
+  </component>
+    <component>
+    <id>source_clx1wk22v009w2a6pxp4fpzcq</id>
+    <description lang="en-US">Bewertes Schalldämmmaß mit Flankenübertragung></description>
+  </component>
+    <component>
+    <id>source_clx1wkt5p009x2a6p94akaq8a</id>
+    <description lang="en-US">Bewertete Standard-Schallpegeldifferenz></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clx1wk22v009u2a6pkltc4hxi</id>
+        <description lang="en-US">R</description>
+      </component>
+          <component>
+        <id>target_clx1wk22v009v2a6pm4qjk3v8</id>
+        <description lang="en-US">Rw</description>
+      </component>
+          <component>
+        <id>target_clx1wk22v009w2a6pxp4fpzcq</id>
+        <description lang="en-US">R´w</description>
+      </component>
+          <component>
+        <id>target_clx1wkt5p009x2a6p94akaq8a</id>
+        <description lang="en-US">Dn,T</description>
+      </component>
+      </target>
+  </activity>
+                    </activities>
+</tincan>

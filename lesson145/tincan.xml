@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://ufbPReklqCyG4_vHRug1PgQPoeH7fGcM_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Raumakustik - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://ufbPReklqCyG4_vHRug1PgQPoeH7fGcM_rise/X9t0UJnRKw9_h0eGkTF_u-3t42C9ViDO" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://ufbPReklqCyG4_vHRug1PgQPoeH7fGcM_rise/X9t0UJnRKw9_h0eGkTF_u-3t42C9ViDO/clx1wn43s000u2a6pjt50f13y" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie kann die &amp;Uuml;bertragung von Schall in einen Nebenraum reduziert werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1wn43s000w2a6pixtay987</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wn43s000x2a6phbjzmjk7</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wn43s000y2a6plrnvq7uq</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1wn43s000v2a6p25iui1c2</id>
+    <description lang="en-US">Einschalige Trennwand</description>
+  </component>
+    <component>
+    <id>choice_clx1wn43s000x2a6phbjzmjk7</id>
+    <description lang="en-US">Zweischalige Trennwand</description>
+  </component>
+    <component>
+    <id>choice_clx1wn43s000y2a6plrnvq7uq</id>
+    <description lang="en-US">Estrich-Randstreifen</description>
+  </component>
+    <component>
+    <id>choice_clx1wn43s000w2a6pixtay987</id>
+    <description lang="en-US">Schaumband unter UW-Profile</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ufbPReklqCyG4_vHRug1PgQPoeH7fGcM_rise/X9t0UJnRKw9_h0eGkTF_u-3t42C9ViDO/clx1wnqgp002e2a6pk7kblay1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Schalld&amp;auml;mmung zweischaliger Bauteile wird wesentlich bestimmt durch?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1wnqgq002f2a6pc2r3hh1c</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wnqgq002g2a6pyxqkttwa</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wnqgq002h2a6p4unugksl</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wnqgq002i2a6p70l5netj</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1wnqgq002f2a6pc2r3hh1c</id>
+    <description lang="en-US">Die Dichtigkeit des Bauteils</description>
+  </component>
+    <component>
+    <id>choice_clx1wnqgq002h2a6p4unugksl</id>
+    <description lang="en-US">Die Masse des Bauteils</description>
+  </component>
+    <component>
+    <id>choice_clx1wnqgq002i2a6p70l5netj</id>
+    <description lang="en-US">Die Materialeigenschaften</description>
+  </component>
+    <component>
+    <id>choice_clx1wnqgq002g2a6pyxqkttwa</id>
+    <description lang="en-US">Resonanzfrequenz der beiden Schalen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ufbPReklqCyG4_vHRug1PgQPoeH7fGcM_rise/X9t0UJnRKw9_h0eGkTF_u-3t42C9ViDO/clx1wofvm003x2a6patzs815g" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Kriterien sind bei der Raumakustik von Bedeutung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1wofvm003z2a6pburngo3s</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wofvm00412a6ppevocrka</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wofvm00402a6p76pqvx2v</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1wofvm003y2a6p9xb8s68m</id>
+    <description lang="en-US">Trittschalld&amp;auml;mmung</description>
+  </component>
+    <component>
+    <id>choice_clx1wofvm00402a6p76pqvx2v</id>
+    <description lang="en-US">Sprachverst&amp;auml;ndlichkeit</description>
+  </component>
+    <component>
+    <id>choice_clx1wofvm00412a6ppevocrka</id>
+    <description lang="en-US">Nachhallzeit</description>
+  </component>
+    <component>
+    <id>choice_clx1wofvm003z2a6pburngo3s</id>
+    <description lang="en-US">Schallabsorption</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ufbPReklqCyG4_vHRug1PgQPoeH7fGcM_rise/X9t0UJnRKw9_h0eGkTF_u-3t42C9ViDO/clx1wqy3a005f2a6plq0yezr3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was kann die Vertraulichkeit von Gespr&amp;auml;chen in &amp;ouml;ffentlichen R&amp;auml;umen erh&amp;ouml;hen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1wqy3b005i2a6phpbgj2rl</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wqy3b005j2a6ph70d0ydi</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1wqy3a005g2a6pve551ysu</id>
+    <description lang="en-US">Gute Sprachverst&amp;auml;ndlichkeit &amp;uuml;ber weite Entfernung</description>
+  </component>
+    <component>
+    <id>choice_clx1wqy3b005i2a6phpbgj2rl</id>
+    <description lang="en-US">Hintergrundmusik</description>
+  </component>
+    <component>
+    <id>choice_clx1wqy3b005j2a6ph70d0ydi</id>
+    <description lang="en-US">Gute Raumakustik &amp;ndash; leises Sprechen</description>
+  </component>
+    <component>
+    <id>choice_clx1wqy3a005h2a6pfg8tqzsx</id>
+    <description lang="en-US">Lange Nachhallzeit</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ufbPReklqCyG4_vHRug1PgQPoeH7fGcM_rise/X9t0UJnRKw9_h0eGkTF_u-3t42C9ViDO/clx1wrps000722a6pxf8f94ux" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die typischen Nachhallzeiten zu?</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clx1wrps000732a6p8kqh9bkh[.]target_clx1wrps000732a6p8kqh9bkh</correctResponsePattern>
+    <correctResponsePattern>source_clx1wrps000742a6pnzn0k0qu[.]target_clx1wrps000742a6pnzn0k0qu</correctResponsePattern>
+    <correctResponsePattern>source_clx1wrps000752a6psa8l9816[.]target_clx1wrps000752a6psa8l9816</correctResponsePattern>
+    <correctResponsePattern>source_clx1wsouj00762a6p5gfkymml[.]target_clx1wsouj00762a6p5gfkymml</correctResponsePattern>
+    <correctResponsePattern>source_clx1wsvcp00772a6p7z38o7oq[.]target_clx1wsvcp00772a6p7z38o7oq</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clx1wrps000732a6p8kqh9bkh</id>
+    <description lang="en-US">Hörsall, Sitzungssaal></description>
+  </component>
+    <component>
+    <id>source_clx1wrps000742a6pnzn0k0qu</id>
+    <description lang="en-US">Schauspiel, Theater></description>
+  </component>
+    <component>
+    <id>source_clx1wrps000752a6psa8l9816</id>
+    <description lang="en-US">Oper></description>
+  </component>
+    <component>
+    <id>source_clx1wsouj00762a6p5gfkymml</id>
+    <description lang="en-US">Konzertsaal></description>
+  </component>
+    <component>
+    <id>source_clx1wsvcp00772a6p7z38o7oq</id>
+    <description lang="en-US">Kirche (Orgelmusik)></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clx1wrps000732a6p8kqh9bkh</id>
+        <description lang="en-US">1,0s</description>
+      </component>
+          <component>
+        <id>target_clx1wrps000742a6pnzn0k0qu</id>
+        <description lang="en-US">0,8 bis 1,2s</description>
+      </component>
+          <component>
+        <id>target_clx1wrps000752a6psa8l9816</id>
+        <description lang="en-US">1,2 bis 1,8s</description>
+      </component>
+          <component>
+        <id>target_clx1wsouj00762a6p5gfkymml</id>
+        <description lang="en-US">1,7 bis 2,1s</description>
+      </component>
+          <component>
+        <id>target_clx1wsvcp00772a6p7z38o7oq</id>
+        <description lang="en-US">2,5 bis 3,0s</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://ufbPReklqCyG4_vHRug1PgQPoeH7fGcM_rise/X9t0UJnRKw9_h0eGkTF_u-3t42C9ViDO/clx1wtnq100782a6pubvb9fc3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie wird die Nachhallzeit definiert?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1wtnq100792a6p9sgbovso</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1wtnq100792a6p9sgbovso</id>
+    <description lang="en-US">Absinken des Schallpegels um 60 dB ab dem Zeitpunkt des Abschaltens der Schallquelle</description>
+  </component>
+    <component>
+    <id>choice_clx1wtnq1007a2a6pt3f9rg47</id>
+    <description lang="en-US">Absinken des Schallpegels um 30 dB ab dem Zeitpunkt des Abschaltens der Schallquelle</description>
+  </component>
+    <component>
+    <id>choice_clx1wu0i7007b2a6pzkje6efh</id>
+    <description lang="en-US">Dauer, bis ein Ton nicht mehr geh&amp;ouml;rt werden kann</description>
+  </component>
+    <component>
+    <id>choice_clx1wu3cu007c2a6plv6qwk5i</id>
+    <description lang="en-US">Anzahl der Echos, die wahrgenommen werden</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ufbPReklqCyG4_vHRug1PgQPoeH7fGcM_rise/X9t0UJnRKw9_h0eGkTF_u-3t42C9ViDO/clx1wud2l007d2a6pezcs76sr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Schallabsorption kann nicht vermieden werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1wud2m007e2a6p7fokp1dw</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wud2m007g2a6panwgmfu7</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1wud2m007e2a6p7fokp1dw</id>
+    <description lang="en-US">Absorption der Luft</description>
+  </component>
+    <component>
+    <id>choice_clx1wud2m007g2a6panwgmfu7</id>
+    <description lang="en-US">Absorption durch Personen im Raum</description>
+  </component>
+    <component>
+    <id>choice_clx1wud2m007h2a6pkextcpa9</id>
+    <description lang="en-US">Absorption der W&amp;auml;nde und Decke</description>
+  </component>
+    <component>
+    <id>choice_clx1wud2m007f2a6p2pm4pu5r</id>
+    <description lang="en-US">Absorption von Einrichtungsgegenst&amp;auml;nden</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ufbPReklqCyG4_vHRug1PgQPoeH7fGcM_rise/X9t0UJnRKw9_h0eGkTF_u-3t42C9ViDO/clx1wuy96008c2a6pzfista9a" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie lautet die Sabine&amp;acute;sche Formel?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1wuy96008d2a6pno9pt5dc</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1wuy96008d2a6pno9pt5dc</id>
+    <description lang="en-US">T = 0,163 * (V/A)</description>
+  </component>
+    <component>
+    <id>choice_clx1wuy96008e2a6pyt38vi12</id>
+    <description lang="en-US">T = 0,163 * Fl&amp;auml;che / Volumen</description>
+  </component>
+    <component>
+    <id>choice_clx1wvi2o008f2a6pdrjjpqta</id>
+    <description lang="en-US">T = Raumoberfl&amp;auml;che / Absorptionsfl&amp;auml;che</description>
+  </component>
+    <component>
+    <id>choice_clx1wvl8w008g2a6prys9hcc5</id>
+    <description lang="en-US">A = Volumen / Zeit</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ufbPReklqCyG4_vHRug1PgQPoeH7fGcM_rise/X9t0UJnRKw9_h0eGkTF_u-3t42C9ViDO/clx1wvuy8008h2a6pti1h9zav" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Arten von Absorber kenne Sie?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1wvuy8008i2a6p428se6dt</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wvuy8008l2a6px7hcwyzq</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wvuy8008k2a6puqqmb4kx</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1wvuy8008i2a6p428se6dt</id>
+    <description lang="en-US">Por&amp;ouml;se Absorber</description>
+  </component>
+    <component>
+    <id>choice_clx1wvuy8008k2a6puqqmb4kx</id>
+    <description lang="en-US">Resonanzabsorber</description>
+  </component>
+    <component>
+    <id>choice_clx1wvuy8008l2a6px7hcwyzq</id>
+    <description lang="en-US">Helmholtzresonatoren</description>
+  </component>
+    <component>
+    <id>choice_clx1wvuy8008j2a6pybo55cis</id>
+    <description lang="en-US">Massive Absorber</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ufbPReklqCyG4_vHRug1PgQPoeH7fGcM_rise/X9t0UJnRKw9_h0eGkTF_u-3t42C9ViDO/clx1wwgaf009z2a6p1nnlrfna" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clx1wwgaf00a02a6pcclg7lyy</correctResponsePattern>
+    <correctResponsePattern>choice_clx1wwgaf00a22a6piv3nkiti</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clx1wwgaf00a02a6pcclg7lyy</id>
+    <description lang="en-US">Ab 80 dB(A) hat er Arbeitgeber einen Geh&amp;ouml;rschutz zur Verf&amp;uuml;gung zu stellen.</description>
+  </component>
+    <component>
+    <id>choice_clx1wwgaf00a22a6piv3nkiti</id>
+    <description lang="en-US">Ab 85 dB(A) muss der pers&amp;ouml;nliche Geh&amp;ouml;rschutz getragen werden.</description>
+  </component>
+    <component>
+    <id>choice_clx1wwgaf00a32a6pphlygj0v</id>
+    <description lang="en-US">Ab 75 dB(A) sind L&amp;auml;rmbereiche zu kennzeichnen</description>
+  </component>
+    <component>
+    <id>choice_clx1wwgaf00a12a6pjq6k532z</id>
+    <description lang="en-US">Ab 80 dB(A) muss pers&amp;ouml;nlicher Geh&amp;ouml;rschutz getragen werden.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
