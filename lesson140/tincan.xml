@@ -15,33 +15,6 @@
       <description lang="en-US"></description>
     </activity>
                                   
-<activity id="http://YdMPRVlPXBqBZAMPorm6UJbg94CQth8Z_rise/VomlJJJBM1K_joJ6feok3iAiVoqRd4ts/clriz3n3i004l2a6k0pinb0ey" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-  <name lang="en-US">Welche Teppen k&amp;ouml;nnen nach der Halbkreismethode verzogen werden?</name>
-  <description lang="en-US"></description>
-  <interactionType>choice</interactionType>
-  <correctResponsePatterns>
-    <correctResponsePattern>choice_clriz3n3j004m2a6kj40oteip</correctResponsePattern>
-    </correctResponsePatterns>
-    <choices>
-    <component>
-    <id>choice_clriz3n3j004m2a6kj40oteip</id>
-    <description lang="en-US">Treppen mit einer geraden Anzahl an Auftritten</description>
-  </component>
-    <component>
-    <id>choice_clriz3n3j004n2a6kdjw2xpqb</id>
-    <description lang="en-US">Treppen mit einer ungeraden Anzahl an Auftritten</description>
-  </component>
-    <component>
-    <id>choice_clriz416v004o2a6kpvenah9s</id>
-    <description lang="en-US">Treppen mit einer geraden und einer ungeraden Anzahl an Auftritten</description>
-  </component>
-    <component>
-    <id>choice_clriz46c4004p2a6kyi9b5xnu</id>
-    <description lang="en-US">Podesttreppen mit einer ungeraden Anzahl an Auftritten.</description>
-  </component>
-    </choices>
-  </activity>
-                              
 <activity id="http://YdMPRVlPXBqBZAMPorm6UJbg94CQth8Z_rise/VomlJJJBM1K_joJ6feok3iAiVoqRd4ts/clriz48e2004q2a6kfle7glw5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
   <name lang="en-US">Auf welche Weise werden Stufen verzogen?</name>
   <description lang="en-US"></description>
@@ -143,7 +116,7 @@
   </activity>
                               
 <activity id="http://YdMPRVlPXBqBZAMPorm6UJbg94CQth8Z_rise/VomlJJJBM1K_joJ6feok3iAiVoqRd4ts/clriz6qw100582a6ktfo9asg1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-  <name lang="en-US">Kante muss der 2. gezogene Halbkreis ber&amp;uuml;hren?</name>
+  <name lang="en-US">Welche Kante muss der 2. gezogene Halbkreis ber&amp;uuml;hren?</name>
   <description lang="en-US"></description>
   <interactionType>choice</interactionType>
   <correctResponsePatterns>
@@ -247,7 +220,7 @@
   </activity>
                               
 <activity id="http://YdMPRVlPXBqBZAMPorm6UJbg94CQth8Z_rise/VomlJJJBM1K_joJ6feok3iAiVoqRd4ts/clriz95x3005r2a6kyzthimg1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
-  <name lang="en-US">Mit welchen Hilfsmitteln ist sind am wenigsten &amp;Uuml;bertragungsfehler beim Antragen der mittleren &amp;nbsp; Auftrittsbreiten auf dem Halbkreis der Lauflinie zu erwarten?</name>
+  <name lang="en-US">Mit welchen Hilfsmitteln sind am wenigsten &amp;Uuml;bertragungsfehler beim Antragen der mittleren &amp;nbsp; Auftrittsbreiten auf dem Halbkreis der Lauflinie zu erwarten?</name>
   <description lang="en-US"></description>
   <interactionType>choice</interactionType>
   <correctResponsePatterns>

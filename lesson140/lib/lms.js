@@ -206,7 +206,7 @@
       }),
       result: {
         extensions: {
-          'http://w3id.org/xapi/cmi5/result/extensions/progress': courseProgress
+          'https://w3id.org/xapi/cmi5/result/extensions/progress': courseProgress
         }}
     });
   }

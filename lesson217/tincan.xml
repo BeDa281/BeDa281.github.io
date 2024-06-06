@@ -29,7 +29,11 @@
   </component>
     <component>
     <id>choice_clh6fux6p00052a6ie7syntwt</id>
-    <description lang="en-US">2x Steigung + 2x Auftritt = 63 cm Optimum (zul&amp;auml;ssig: 55 &amp;ndash; 67 cm)</description>
+    <description lang="en-US">2x Steigung + 1x Auftritt = 53 cm Optimum (zul&amp;auml;ssig: 53 &amp;ndash; 67 cm)</description>
+  </component>
+    <component>
+    <id>choice_clx1y0u4i00042a6oxu8mtauc</id>
+    <description lang="en-US">2x Auftritt + 1x Steigung = 63 cm Optimum (zul&amp;auml;ssig: 59 &amp;ndash; 65 cm)</description>
   </component>
     </choices>
   </activity>
@@ -44,15 +48,19 @@
     <choices>
     <component>
     <id>choice_clh6fv6om00072a6i8ec2kxyx</id>
-    <description lang="en-US">Durch Antragen der Lauflinie im Grundriss ( i. d. R. in der Mitte der Treppe) und errechnen der gesamten Laufl&amp;auml;nge durch Addieren der Geraden sowie des Umfangs/der Umf&amp;auml;nge der Kreisb&amp;ouml;gen.</description>
+    <description lang="en-US">durch Antragen der Lauflinie im Grundriss ( i. d. R. in der Mitte der Treppe) und errechnen der gesamten Laufl&amp;auml;nge durch Addieren der Geraden sowie des Umfangs/der Umf&amp;auml;nge der Kreisb&amp;ouml;gen.</description>
   </component>
     <component>
     <id>choice_clh6fv6om00082a6i0s055a3y</id>
-    <description lang="en-US">Sie ist 100 cm</description>
+    <description lang="en-US">durch das Addieren der Wangwangenl&amp;auml;ngen im Grund, daraus resultiert die Laufl&amp;auml;nge</description>
   </component>
     <component>
     <id>choice_clh6fvlj300092a6ip04xil5j</id>
-    <description lang="en-US">Sie ist 120 cm</description>
+    <description lang="en-US">durch das Addieren der Lichtwangenl&amp;auml;ngen im Grund, daraus resultiert die Laufl&amp;auml;nge</description>
+  </component>
+    <component>
+    <id>choice_clx1y0gml00022a6os5pizhz7</id>
+    <description lang="en-US">durch das multiplizieren der Stufen an der Lichtwange</description>
   </component>
     </choices>
   </activity>
