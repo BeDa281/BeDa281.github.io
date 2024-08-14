@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://d5cYCnnUuEYOcULgmmtUprF4Yd4C7VcW_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Metall - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://d5cYCnnUuEYOcULgmmtUprF4Yd4C7VcW_rise/13vxm4_RzNp5JsoNYVtaa_SFd-YR1sca" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://d5cYCnnUuEYOcULgmmtUprF4Yd4C7VcW_rise/13vxm4_RzNp5JsoNYVtaa_SFd-YR1sca/clh6fqkv1006t2a6i0vav39h1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wenn Zink und Kupfer direkt aufeinandertreffen, korrodiert das Zink. Ist es m&amp;ouml;glich, Zink vor Kupfer zu verwenden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clh6fqkv1006u2a6iy6xp3t0o</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clh6fqkv1006u2a6iy6xp3t0o</id>
+    <description lang="en-US">Nein, es ist nicht empfehlenswert, Zink vor Kupfer zu verwenden, da das Zink korrodiert und dabei Kupfer angreift. Zink ist als weniger edles Metall im Kontakt mit Kupfer elektrochemisch korrodiert.</description>
+  </component>
+    <component>
+    <id>choice_clh6fqkv1006w2a6isd50dssj</id>
+    <description lang="en-US">Ja, Zink kann problemlos vor Kupfer verwendet werden, da Kupfer eine Schutzschicht bildet, die das Zink vor Korrosion sch&amp;uuml;tzt.</description>
+  </component>
+    <component>
+    <id>choice_clh6fqkv1006x2a6iakl8dpv1</id>
+    <description lang="en-US">Ja, Zink vor Kupfer zu verwenden, ist m&amp;ouml;glich, da Zink und Kupfer in Kontakt keine Korrosion verursachen.</description>
+  </component>
+    <component>
+    <id>choice_clh6fqkv1006v2a6ih1m3aeyy</id>
+    <description lang="en-US">Alle Wasserlacke k&amp;ouml;nnen ohne allgemeines bauaufsichtliches Pr&amp;uuml;fzeugnis verwendet werden.</description>
+  </component>
+    <component>
+    <id>choice_clztmj9tv000m2a6s8vif4wwv</id>
+    <description lang="en-US">Nein, es ist nicht m&amp;ouml;glich, Zink vor Kupfer zu verwenden, weil beide Metalle keinen Kontakt haben d&amp;uuml;rfen, um Korrosion zu vermeiden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://d5cYCnnUuEYOcULgmmtUprF4Yd4C7VcW_rise/13vxm4_RzNp5JsoNYVtaa_SFd-YR1sca/clztml8my000u2a6ss5q8c9ww" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was versteht man unter Korrosion gem&amp;auml;&amp;szlig; der Definition der DIN EN ISO 12944?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztml8my000v2a6stdtbxh0d</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztml8my000v2a6stdtbxh0d</id>
+    <description lang="en-US">Korrosion ist die chemische oder elektrochemische Reaktion eines Materials, meist eines Metalls, mit seiner Umgebung, die zu einer sch&amp;auml;dlichen Ver&amp;auml;nderung der Materialeigenschaften f&amp;uuml;hrt.</description>
+  </component>
+    <component>
+    <id>choice_clztml8my000w2a6spbrhxf8l</id>
+    <description lang="en-US">Korrosion ist der Prozess, bei dem ein Material durch mechanische Abnutzung oder Abrieb besch&amp;auml;digt wird.</description>
+  </component>
+    <component>
+    <id>choice_clztml8nx000x2a6su09ie6y6</id>
+    <description lang="en-US">Korrosion bezeichnet die physikalische Ver&amp;auml;nderung eines Materials durch Temperatur&amp;auml;nderungen ohne chemische Reaktion.</description>
+  </component>
+    <component>
+    <id>choice_clztmloio000z2a6smooqe9od</id>
+    <description lang="en-US">Korrosion ist die Bildung von Schichten auf einem Material, die seine Farbe ver&amp;auml;ndert, aber keine Auswirkungen auf seine mechanischen Eigenschaften hat.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://d5cYCnnUuEYOcULgmmtUprF4Yd4C7VcW_rise/13vxm4_RzNp5JsoNYVtaa_SFd-YR1sca/clztmlxf100122a6sw503gp9z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der folgenden Aussagen beschreibt korrekt den Unterschied zwischen Stahl und Gusseisen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztmlxf100132a6s0qo2ypej</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztmlxf100132a6s0qo2ypej</id>
+    <description lang="en-US">Stahl hat einen Kohlenstoffgehalt von weniger als 2 % und ist schwei&amp;szlig;bar, w&amp;auml;hrend Gusseisen einen h&amp;ouml;heren Kohlenstoffgehalt hat (&amp;uuml;ber 2 %) und typischerweise spr&amp;ouml;der ist.</description>
+  </component>
+    <component>
+    <id>choice_clztmlxf100142a6sz6to9fes</id>
+    <description lang="en-US">Stahl hat einen Kohlenstoffgehalt von &amp;uuml;ber 2 % und ist spr&amp;ouml;de, w&amp;auml;hrend Gusseisen einen Kohlenstoffgehalt von weniger als 2 % hat.</description>
+  </component>
+    <component>
+    <id>choice_clztmlxfb00152a6ses082v71</id>
+    <description lang="en-US">Stahl und Gusseisen unterscheiden sich nur in ihrer Farbe, nicht in ihren chemischen Zusammensetzungen oder mechanischen Eigenschaften.</description>
+  </component>
+    <component>
+    <id>choice_clztmmfnx00172a6sm2ifr3g9</id>
+    <description lang="en-US">Stahl und Gusseisen sind identisch, da beide dieselben mechanischen Eigenschaften und Verwendungen haben.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://d5cYCnnUuEYOcULgmmtUprF4Yd4C7VcW_rise/13vxm4_RzNp5JsoNYVtaa_SFd-YR1sca/clztmmxw7001a2a6sp8s54dd5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was versteht man unter Zunder und Walzhaut?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztmmxw7001b2a6swudtvo71</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztmmxw7001b2a6swudtvo71</id>
+    <description lang="en-US">Zunder ist eine schichtartige Oxidhaut, die sich bei der W&amp;auml;rmebehandlung von Stahl bildet, w&amp;auml;hrend Walzhaut die &amp;auml;u&amp;szlig;ere Schicht von Stahl oder Metall beschreibt, die w&amp;auml;hrend des Walzprozesses entsteht und oft eine rauere Textur aufweist.</description>
+  </component>
+    <component>
+    <id>choice_clztmmxw7001d2a6s9p4662jl</id>
+    <description lang="en-US">Zunder ist eine Art von Rost, der sich auf Stahl bildet, wenn er in Kontakt mit Wasser kommt, w&amp;auml;hrend Walzhaut eine spezielle Schutzschicht ist, die auf Metall aufgetragen wird, um es vor Korrosion zu sch&amp;uuml;tzen.</description>
+  </component>
+    <component>
+    <id>choice_clztmmxw7001e2a6s58jrbez7</id>
+    <description lang="en-US">Zunder ist eine gl&amp;auml;nzende, dekorative Schicht, die bei der Herstellung von Kunstwerken aus Metall entsteht, und Walzhaut ist eine Art von Verunreinigung, die w&amp;auml;hrend des Schmelzprozesses auftritt.</description>
+  </component>
+    <component>
+    <id>choice_clztmmxw7001c2a6sevy9gica</id>
+    <description lang="en-US">Zunder ist eine spezielle Art von Zinkbeschichtung, die auf Stahl aufgebracht wird, w&amp;auml;hrend Walzhaut eine Art von Kitt ist, der zur Versiegelung von Metalloberfl&amp;auml;chen verwendet wird.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://d5cYCnnUuEYOcULgmmtUprF4Yd4C7VcW_rise/13vxm4_RzNp5JsoNYVtaa_SFd-YR1sca/clztmnrg0001l2a6set8vb2ab" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Warum m&amp;uuml;ssen Zunder und Walzhaut vor dem Anstrich entfernt werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztmnrg1001m2a6sv7eco184</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztmnrg1001m2a6sv7eco184</id>
+    <description lang="en-US">Zunder und Walzhaut m&amp;uuml;ssen entfernt werden, da sie die Haftung der Farbe auf der Metalloberfl&amp;auml;che beeintr&amp;auml;chtigen und zu ungleichm&amp;auml;&amp;szlig;igen Beschichtungen oder vorzeitiger Abbl&amp;auml;tterung f&amp;uuml;hren k&amp;ouml;nnen.</description>
+  </component>
+    <component>
+    <id>choice_clztmnrg1001n2a6sd4brywta</id>
+    <description lang="en-US">Zunder und Walzhaut m&amp;uuml;ssen entfernt werden, weil sie die Farbe verf&amp;auml;lschen und die Farbt&amp;ouml;ne ver&amp;auml;ndern.</description>
+  </component>
+    <component>
+    <id>choice_clztmnrg9001o2a6sbmtgsyav</id>
+    <description lang="en-US">Zunder und Walzhaut sind hitzeempfindlich und k&amp;ouml;nnten beim Anstrich schmelzen, daher m&amp;uuml;ssen sie vor dem Anstrich entfernt werden.</description>
+  </component>
+    <component>
+    <id>choice_clztmoaxl001q2a6scjimc9hg</id>
+    <description lang="en-US">Zunder und Walzhaut m&amp;uuml;ssen entfernt werden, weil sie die Farbe chemisch neutralisieren und deren Schutzwirkung aufheben.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://d5cYCnnUuEYOcULgmmtUprF4Yd4C7VcW_rise/13vxm4_RzNp5JsoNYVtaa_SFd-YR1sca/clztmoi5m001t2a6sbz8mr66k" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie kann man Walzhaut und Zunder erkennen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztmoi5m001u2a6swef0yo4l</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztmoi5m001u2a6swef0yo4l</id>
+    <description lang="en-US">Walzhaut und Zunder k&amp;ouml;nnen durch ihre unterschiedliche Oberfl&amp;auml;chenbeschaffenheit erkannt werden: Walzhaut erscheint oft rau und unregelm&amp;auml;&amp;szlig;ig, w&amp;auml;hrend Zunder als gl&amp;auml;nzende oder schuppige Oxidschicht sichtbar ist, die sich bei hoher Temperatur bildet.</description>
+  </component>
+    <component>
+    <id>choice_clztmoi5m001v2a6sc8gzh3ia</id>
+    <description lang="en-US">Walzhaut und Zunder k&amp;ouml;nnen anhand ihrer Farbe erkannt werden, wobei Walzhaut immer rot und Zunder immer schwarz ist.</description>
+  </component>
+    <component>
+    <id>choice_clztmoi5w001w2a6so7vj3cof</id>
+    <description lang="en-US">Walzhaut und Zunder k&amp;ouml;nnen durch die Ger&amp;auml;usche beim Klopfen auf das Metall erkannt werden, wobei Walzhaut ein hohes, klares Ger&amp;auml;usch und Zunder ein dumpfes Ger&amp;auml;usch verursacht.</description>
+  </component>
+    <component>
+    <id>choice_clztmp14n001y2a6sqw6pic8e</id>
+    <description lang="en-US">Walzhaut und Zunder unterscheiden sich in ihrer Dichte, wobei Walzhaut immer dichter ist als Zunder, was durch das Heben des Metalls festgestellt werden kann.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://d5cYCnnUuEYOcULgmmtUprF4Yd4C7VcW_rise/13vxm4_RzNp5JsoNYVtaa_SFd-YR1sca/clztmpeih00212a6sf8velkbk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie unterscheiden sich die Begriffe Erosion und Korrosion?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztmpeih00222a6sirr8zym9</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztmpeih00222a6sirr8zym9</id>
+    <description lang="en-US">Erosion bezeichnet den physikalischen Abtrag von Material durch mechanische Einfl&amp;uuml;sse wie Wind oder Wasser, w&amp;auml;hrend Korrosion die chemische oder elektrochemische Reaktion eines Materials, meist Metallen, mit seiner Umgebung ist, die zu einer Sch&amp;auml;digung des Materials f&amp;uuml;hrt.</description>
+  </component>
+    <component>
+    <id>choice_clztmpeih00232a6slgy09vrs</id>
+    <description lang="en-US">Erosion ist der Prozess, bei dem Materialien durch chemische Reaktionen abgebaut werden, w&amp;auml;hrend Korrosion durch physikalische Abrasion entsteht.</description>
+  </component>
+    <component>
+    <id>choice_clztmpejb00242a6sgqqv8dps</id>
+    <description lang="en-US">Erosion und Korrosion sind Synonyme und beschreiben denselben Prozess der Materialzerst&amp;ouml;rung durch Umwelteinfl&amp;uuml;sse.</description>
+  </component>
+    <component>
+    <id>choice_clztmpyf200262a6s3o9n6sfo</id>
+    <description lang="en-US">Erosion betrifft nur biologische Materialien wie Holz und Pflanzen, w&amp;auml;hrend Korrosion ausschlie&amp;szlig;lich Metalle betrifft.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://d5cYCnnUuEYOcULgmmtUprF4Yd4C7VcW_rise/13vxm4_RzNp5JsoNYVtaa_SFd-YR1sca/clztmqd0800292a6sk40ccb5m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was versteht man unter der Nennfestigkeit von Stahl und welche zwei wichtigen mechanischen Eigenschaften werden dabei oft angegeben?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztmqd08002a2a6svizok45x</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztmqd08002a2a6svizok45x</id>
+    <description lang="en-US">Die Nennfestigkeit von Stahl gibt die mechanischen Eigenschaften an, insbesondere die Streckgrenze (Re) und die Zugfestigkeit (Rm).</description>
+  </component>
+    <component>
+    <id>choice_clztmqd08002b2a6s9f9w0mt2</id>
+    <description lang="en-US">Die Nennfestigkeit von Stahl beschreibt die Korrosionsbest&amp;auml;ndigkeit und die elektrische Leitf&amp;auml;higkeit.</description>
+  </component>
+    <component>
+    <id>choice_clztmqd0h002c2a6sk6xkght0</id>
+    <description lang="en-US">Die Nennfestigkeit von Stahl gibt die Dichte und den Schmelzpunkt des Stahls an.</description>
+  </component>
+    <component>
+    <id>choice_clztmqpxj002e2a6sk9ne1h5i</id>
+    <description lang="en-US">Die Nennfestigkeit von Stahl bezieht sich auf die W&amp;auml;rmeleitf&amp;auml;higkeit und den magnetischen Widerstand.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://d5cYCnnUuEYOcULgmmtUprF4Yd4C7VcW_rise/13vxm4_RzNp5JsoNYVtaa_SFd-YR1sca/clztmr1bm002h2a6smecfu81m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welches Verfahren dient zur Optimierung der Stahleigenschaften?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztmr1bm002i2a6ska9qbrcu</correctResponsePattern>
+    <correctResponsePattern>choice_clztmr1bm002l2a6swttdqvk5</correctResponsePattern>
+    <correctResponsePattern>choice_clztmr1bm002k2a6sta2178sz</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztmr1bm002i2a6ska9qbrcu</id>
+    <description lang="en-US">H&amp;auml;rten durch Abschrecken</description>
+  </component>
+    <component>
+    <id>choice_clztmr1bm002k2a6sta2178sz</id>
+    <description lang="en-US">Legieren mit Chrom oder Nickel</description>
+  </component>
+    <component>
+    <id>choice_clztmr1bm002l2a6swttdqvk5</id>
+    <description lang="en-US">Anlassen zur Erh&amp;ouml;hung der Z&amp;auml;higkeit</description>
+  </component>
+    <component>
+    <id>choice_clztmr1bm002j2a6s17ir6rgl</id>
+    <description lang="en-US">Beschichten mit Holzlack</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://d5cYCnnUuEYOcULgmmtUprF4Yd4C7VcW_rise/13vxm4_RzNp5JsoNYVtaa_SFd-YR1sca/clztmrtwa002s2a6sprr7uu6m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist elektrochemische Korrosion und wie unterscheidet sie sich von chemischer Korrosion?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztmrtwa002t2a6spux01bsp</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztmrtwa002t2a6spux01bsp</id>
+    <description lang="en-US">Elektrochemische Korrosion beinhaltet den Fluss von Elektronen zwischen unterschiedlichen Metallbereichen, w&amp;auml;hrend chemische Korrosion durch direkte chemische Reaktionen ohne Elektronenfluss erfolgt.</description>
+  </component>
+    <component>
+    <id>choice_clztmrtwa002u2a6sdbu3qrhd</id>
+    <description lang="en-US">Elektrochemische Korrosion tritt nur in reinem Wasser auf, w&amp;auml;hrend chemische Korrosion nur bei hohen Temperaturen stattfindet.</description>
+  </component>
+    <component>
+    <id>choice_clztmrtwk002v2a6sb91s3w8o</id>
+    <description lang="en-US">Elektrochemische Korrosion entsteht durch die Verdampfung von Wasser, w&amp;auml;hrend chemische Korrosion durch den Kontakt mit Gummi verursacht wird.</description>
+  </component>
+    <component>
+    <id>choice_clztms52l002x2a6stmfj5axu</id>
+    <description lang="en-US">Elektrochemische Korrosion ist nur bei Eisen m&amp;ouml;glich, w&amp;auml;hrend chemische Korrosion bei allen Metallen auftritt.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://PRh56iSQ2EdkHYN47uwZzQDvmUvPKbmq_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Mathematische Grundlagen - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://PRh56iSQ2EdkHYN47uwZzQDvmUvPKbmq_rise/ZXhIXLHIM_LnOkvIXxll5tVrTBUyYwbe" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://PRh56iSQ2EdkHYN47uwZzQDvmUvPKbmq_rise/ZXhIXLHIM_LnOkvIXxll5tVrTBUyYwbe/clztmrtwa002s2a6sprr7uu6m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie berechnet man die H&amp;ouml;he (h) eines Daches, wenn das Grundma&amp;szlig; und die Dachneigung bekannt sind?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztmrtwa002t2a6spux01bsp</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztmrtwa002t2a6spux01bsp</id>
+    <description lang="en-US">h = Grundma&amp;szlig; &amp;times; tan(Dachneigung)</description>
+  </component>
+    <component>
+    <id>choice_clztmrtwa002u2a6sdbu3qrhd</id>
+    <description lang="en-US">h = Grundma&amp;szlig; &amp;times; sin(Dachneigung)</description>
+  </component>
+    <component>
+    <id>choice_clztmrtwk002v2a6sb91s3w8o</id>
+    <description lang="en-US">h = Grundma&amp;szlig; / tan(Dachneigung)</description>
+  </component>
+    <component>
+    <id>choice_clztms52l002x2a6stmfj5axu</id>
+    <description lang="en-US">&amp;nbsp;h = Grundma&amp;szlig; + tan(Dachneigung)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PRh56iSQ2EdkHYN47uwZzQDvmUvPKbmq_rise/ZXhIXLHIM_LnOkvIXxll5tVrTBUyYwbe/clztn3a8z000h2a6slndt97sq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie berechnet man die Sparrenl&amp;auml;nge (s) eines Daches, wenn das Grundma&amp;szlig; und die Dachneigung bekannt sind?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztn3a8z000i2a6spwrperko</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztn3a8z000i2a6spwrperko</id>
+    <description lang="en-US">s = Grundma&amp;szlig; / cos(Dachneigung)</description>
+  </component>
+    <component>
+    <id>choice_clztn3a8z000j2a6snuadv9ew</id>
+    <description lang="en-US">s = Grundma&amp;szlig; &amp;times; cos(Dachneigung)</description>
+  </component>
+    <component>
+    <id>choice_clztn3a97000k2a6sjdr632us</id>
+    <description lang="en-US">s = Grundma&amp;szlig; / sin(Dachneigung)</description>
+  </component>
+    <component>
+    <id>choice_clztn3o33000m2a6s68gbbgyn</id>
+    <description lang="en-US">&amp;nbsp;s = Grundma&amp;szlig; + cos(Dachneigung)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PRh56iSQ2EdkHYN47uwZzQDvmUvPKbmq_rise/ZXhIXLHIM_LnOkvIXxll5tVrTBUyYwbe/clztn3vw9000p2a6s40id8os1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie berechnet man das Grundma&amp;szlig; eines Daches, wenn die Sparrenl&amp;auml;nge und die Dachneigung bekannt sind?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztn3vw9000q2a6s4lokfmtk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztn3vw9000q2a6s4lokfmtk</id>
+    <description lang="en-US">Grundma&amp;szlig; = Sparrenl&amp;auml;nge &amp;times; cos(Dachneigung)</description>
+  </component>
+    <component>
+    <id>choice_clztn3vw9000r2a6sr6hexv3h</id>
+    <description lang="en-US">Grundma&amp;szlig; = Sparrenl&amp;auml;nge &amp;times; tan(Dachneigung)</description>
+  </component>
+    <component>
+    <id>choice_clztn3vxa000s2a6sjc7sk05l</id>
+    <description lang="en-US">Grundma&amp;szlig; = Sparrenl&amp;auml;nge / sin(Dachneigung)</description>
+  </component>
+    <component>
+    <id>choice_clztn4k54000u2a6s0mwqlovi</id>
+    <description lang="en-US">&amp;nbsp;Grundma&amp;szlig; = Sparrenl&amp;auml;nge + tan(Dachneigung)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PRh56iSQ2EdkHYN47uwZzQDvmUvPKbmq_rise/ZXhIXLHIM_LnOkvIXxll5tVrTBUyYwbe/clztn4v1w00102a6srpnxu6h4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie berechnet man den Umfang eines Kreises, wenn der Radius (r) bekannt ist?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztn4v1w00112a6szk47jlzt</correctResponsePattern>
+    <correctResponsePattern>choice_clztn4v1w00122a6s5txkmwo8</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztn4v1w00112a6szk47jlzt</id>
+    <description lang="en-US">U = 2 &amp;times; &amp;pi; &amp;times; r</description>
+  </component>
+    <component>
+    <id>choice_clztn4v1w00122a6s5txkmwo8</id>
+    <description lang="en-US">U = &amp;pi; &amp;times; d</description>
+  </component>
+    <component>
+    <id>choice_clztn4v2800132a6s2gtw29cm</id>
+    <description lang="en-US">U = &amp;pi; &amp;times; r&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_clztn5h8900182a6sw4vnkbf1</id>
+    <description lang="en-US">U = 2 &amp;times; r&amp;sup2; &amp;times; &amp;pi;</description>
+  </component>
+    <component>
+    <id>choice_clztn5k9a001b2a6slglpwikp</id>
+    <description lang="en-US">U = &amp;pi; &amp;times; r / 2</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PRh56iSQ2EdkHYN47uwZzQDvmUvPKbmq_rise/ZXhIXLHIM_LnOkvIXxll5tVrTBUyYwbe/clztn69lj001k2a6sunhog40g" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die folgenden Formen den entsprechenden Formeln zur Fl&amp;auml;chenberechnung zu:&amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clztn69lj001l2a6s6sbdf80a[.]target_clztn69lj001l2a6s6sbdf80a</correctResponsePattern>
+    <correctResponsePattern>source_clztn69lj001m2a6s4ufeoddt[.]target_clztn69lj001m2a6s4ufeoddt</correctResponsePattern>
+    <correctResponsePattern>source_clztn69lj001n2a6spzpxoiuv[.]target_clztn69lj001n2a6spzpxoiuv</correctResponsePattern>
+    <correctResponsePattern>source_clztn75ot001o2a6sgznli9gb[.]target_clztn75ot001o2a6sgznli9gb</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clztn69lj001l2a6s6sbdf80a</id>
+    <description lang="en-US">Kreis></description>
+  </component>
+    <component>
+    <id>source_clztn69lj001m2a6s4ufeoddt</id>
+    <description lang="en-US">Trapez></description>
+  </component>
+    <component>
+    <id>source_clztn69lj001n2a6spzpxoiuv</id>
+    <description lang="en-US">Raute></description>
+  </component>
+    <component>
+    <id>source_clztn75ot001o2a6sgznli9gb</id>
+    <description lang="en-US">Pyramidenstumpf></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clztn69lj001l2a6s6sbdf80a</id>
+        <description lang="en-US">A = π × r²</description>
+      </component>
+          <component>
+        <id>target_clztn69lj001m2a6s4ufeoddt</id>
+        <description lang="en-US">A = (a + b) / 2 × h</description>
+      </component>
+          <component>
+        <id>target_clztn69lj001n2a6spzpxoiuv</id>
+        <description lang="en-US">A = e × f / 2</description>
+      </component>
+          <component>
+        <id>target_clztn75ot001o2a6sgznli9gb</id>
+        <description lang="en-US">A = A_unten + A_oben + A_Mantel
+
+Mantelfläche: A_Mantel = 1/2 (U_unten + U_oben) × s</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://PRh56iSQ2EdkHYN47uwZzQDvmUvPKbmq_rise/ZXhIXLHIM_LnOkvIXxll5tVrTBUyYwbe/clztn8wey001p2a6spijcov5r" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie lautet die Grundformel f&amp;uuml;r Prozentrechnung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztn8wez001q2a6sjvsdhxmr</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztn8wez001q2a6sjvsdhxmr</id>
+    <description lang="en-US">Prozentwert [W] = Grundwert [G] &amp;times; Prozentsatz [p] / 100</description>
+  </component>
+    <component>
+    <id>choice_clztn8wez001r2a6s5fzuzmwd</id>
+    <description lang="en-US">Prozentwert W = Grundwert [G] / (Prozentsatz [p] &amp;nbsp;/ 100)</description>
+  </component>
+    <component>
+    <id>choice_clztn8wfn001s2a6sqhkentu8</id>
+    <description lang="en-US">Prozentwert W = (Grundwert [G] &amp;times; 100) / Prozentsatz [p]</description>
+  </component>
+    <component>
+    <id>choice_clztn994f001u2a6so8rfsws6</id>
+    <description lang="en-US">Prozentwert W = Grundwert [G] &amp;times; Prozentsatz [p]</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PRh56iSQ2EdkHYN47uwZzQDvmUvPKbmq_rise/ZXhIXLHIM_LnOkvIXxll5tVrTBUyYwbe/clztn9jzx001y2a6srg23b9r3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie berechnet man das spezifische Gewicht (&amp;gamma;) eines Materials, wenn die Masse (m) und das Volumen (V) bekannt sind?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztn9jzy001z2a6spwy1ongb</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztn9jzy001z2a6spwy1ongb</id>
+    <description lang="en-US">&amp;gamma; = m / V</description>
+  </component>
+    <component>
+    <id>choice_clztn9jzy00202a6shq7qgtd4</id>
+    <description lang="en-US">&amp;gamma; = m &amp;times; V</description>
+  </component>
+    <component>
+    <id>choice_clztn9k0p00212a6ses02e12s</id>
+    <description lang="en-US">&amp;gamma; = V / m</description>
+  </component>
+    <component>
+    <id>choice_clztn9xyx00232a6sic44xdf5</id>
+    <description lang="en-US">&amp;gamma; = m + V</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PRh56iSQ2EdkHYN47uwZzQDvmUvPKbmq_rise/ZXhIXLHIM_LnOkvIXxll5tVrTBUyYwbe/clztna94600262a6s27u4o7mu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie lautet der Lehrsatz des Pythagoras f&amp;uuml;r ein rechtwinkliges Dreieck?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztna94600272a6sesk682me</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztna94600272a6sesk682me</id>
+    <description lang="en-US">a&amp;sup2; + b&amp;sup2; = c&amp;sup2;</description>
+  </component>
+    <component>
+    <id>choice_clztna94600282a6sy6q4xsh2</id>
+    <description lang="en-US">a&amp;sup2; + b&amp;sup2; = 2c</description>
+  </component>
+    <component>
+    <id>choice_clztna94h00292a6ssnyax0fi</id>
+    <description lang="en-US">a + b = c</description>
+  </component>
+    <component>
+    <id>choice_clztnakip002b2a6smg6zngtu</id>
+    <description lang="en-US">a&amp;sup2; - b&amp;sup2; = c&amp;sup2;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PRh56iSQ2EdkHYN47uwZzQDvmUvPKbmq_rise/ZXhIXLHIM_LnOkvIXxll5tVrTBUyYwbe/clztnava7002e2a6sjy6r6wjs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welchen Richtwert nimmt man f&amp;uuml;r das maximale Biegemoment (M) eines Deckenbalkens, wenn die Last (F) und die Spannweite (l) bekannt sind?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztnava7002f2a6s45glsvrz</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztnava7002f2a6s45glsvrz</id>
+    <description lang="en-US">M = F &amp;times; l / 8</description>
+  </component>
+    <component>
+    <id>choice_clztnava7002g2a6sjxapjyky</id>
+    <description lang="en-US">M = F &amp;times; l</description>
+  </component>
+    <component>
+    <id>choice_clztnavb5002h2a6se9cxlj2p</id>
+    <description lang="en-US">M = (F + l) / 8</description>
+  </component>
+    <component>
+    <id>choice_clztnb7t8002j2a6sg2ua7hcj</id>
+    <description lang="en-US">M = F &amp;times; l / 2</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://PRh56iSQ2EdkHYN47uwZzQDvmUvPKbmq_rise/ZXhIXLHIM_LnOkvIXxll5tVrTBUyYwbe/clztnbvj700352a6s07n86xcp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie berechnet man die Gratneigung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clztnbvj700362a6syn871lw2</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clztnbvj700362a6syn871lw2</id>
+    <description lang="en-US">Gratsparrenneigung = tan⁻&amp;sup1;(tan(Dachneigung) &amp;times; sin(Gratgrundwinkel))</description>
+  </component>
+    <component>
+    <id>choice_clztnbvj700372a6souur465p</id>
+    <description lang="en-US">Gratsparrenneigung = tan(Dachneigung) &amp;times; sin(45&amp;deg;)</description>
+  </component>
+    <component>
+    <id>choice_clztnc5jp003p2a6s1g47e3u7</id>
+    <description lang="en-US">Gratsparrenneigung = tan⁻&amp;sup1;(tan(Dachneigung) / 2)</description>
+  </component>
+    <component>
+    <id>choice_clztncp8l003r2a6sybqvt5zf</id>
+    <description lang="en-US">Gratsparrenneigung = sin(Dachneigung) + 45&amp;deg;</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
