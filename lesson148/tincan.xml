@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://SR6KIUGC6GaVyARtretlIl2CwKOdKDpC_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Sparren und Lasten - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://SR6KIUGC6GaVyARtretlIl2CwKOdKDpC_rise/Mz75xmBji0xDnkGM1inNfbi4tuLRNTez" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://SR6KIUGC6GaVyARtretlIl2CwKOdKDpC_rise/Mz75xmBji0xDnkGM1inNfbi4tuLRNTez/cm020n46g000h2a6suk64at3x" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie werden kurze Dach&amp;uuml;berst&amp;auml;nde an der Traufe bei der Statikberechnung ber&amp;uuml;cksichtigt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm020n46g000i2a6se0ujg5ux</correctResponsePattern>
+    <correctResponsePattern>choice_cm020n46g000k2a6s4dp86lae</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm020n46g000i2a6se0ujg5ux</id>
+    <description lang="en-US">Kurze Dach&amp;uuml;berst&amp;auml;nde haben keinen Einfluss auf die Berechnung der Durchbiegung.</description>
+  </component>
+    <component>
+    <id>choice_cm020n46g000k2a6s4dp86lae</id>
+    <description lang="en-US">&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;o:OfficeDocumentSettings&gt;
+  &lt;o:AllowPNG/&gt;
+ &lt;/o:OfficeDocumentSettings&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:WordDocument&gt;
+  &lt;w:View&gt;Normal&lt;/w:View&gt;
+  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+  &lt;w:TrackMoves/&gt;
+  &lt;w:TrackFormatting/&gt;
+  &lt;w:HyphenationZone&gt;21&lt;/w:HyphenationZone&gt;
+  &lt;w:PunctuationKerning/&gt;
+  &lt;w:ValidateAgainstSchemas/&gt;
+  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+  &lt;w:DoNotPromoteQF/&gt;
+  &lt;w:LidThemeOther&gt;DE&lt;/w:LidThemeOther&gt;
+  &lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;
+  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+  &lt;w:Compatibility&gt;
+   &lt;w:BreakWrappedTables/&gt;
+   &lt;w:SnapToGridInCell/&gt;
+   &lt;w:WrapTextWithPunct/&gt;
+   &lt;w:UseAsianBreakRules/&gt;
+   &lt;w:DontGrowAutofit/&gt;
+   &lt;w:SplitPgBreakAndParaMark/&gt;
+   &lt;w:EnableOpenTypeKerning/&gt;
+   &lt;w:DontFlipMirrorIndents/&gt;
+   &lt;w:OverrideTableStyleHps/&gt;
+  &lt;/w:Compatibility&gt;
+  &lt;m:mathPr&gt;
+   &lt;m:mathFont m:val=&#34;Cambria Math&#34;/&gt;
+   &lt;m:brkBin m:val=&#34;before&#34;/&gt;
+   &lt;m:brkBinSub m:val=&#34;&amp;#45;-&#34;/&gt;
+   &lt;m:smallFrac m:val=&#34;off&#34;/&gt;
+   &lt;m:dispDef/&gt;
+   &lt;m:lMargin m:val=&#34;0&#34;/&gt;
+   &lt;m:rMargin m:val=&#34;0&#34;/&gt;
+   &lt;m:defJc m:val=&#34;centerGroup&#34;/&gt;
+   &lt;m:wrapIndent m:val=&#34;1440&#34;/&gt;
+   &lt;m:intLim m:val=&#34;subSup&#34;/&gt;
+   &lt;m:naryLim m:val=&#34;undOvr&#34;/&gt;
+  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:LatentStyles DefLockedState=&#34;false&#34; DefUnhideWhenUsed=&#34;false&#34;
+  DefSemiHidden=&#34;false&#34; DefQFormat=&#34;false&#34; DefPriority=&#34;99&#34;
+  LatentStyleCount=&#34;376&#34;&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;0&#34; QFormat=&#34;true&#34; Name=&#34;Normal&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;9&#34; QFormat=&#34;true&#34; Name=&#34;heading 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;9&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; QFormat=&#34;true&#34; Name=&#34;heading 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;9&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; QFormat=&#34;true&#34; Name=&#34;heading 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;9&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; QFormat=&#34;true&#34; Name=&#34;heading 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;9&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; QFormat=&#34;true&#34; Name=&#34;heading 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;9&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; QFormat=&#34;true&#34; Name=&#34;heading 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;9&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; QFormat=&#34;true&#34; Name=&#34;heading 7&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;9&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; QFormat=&#34;true&#34; Name=&#34;heading 8&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;9&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; QFormat=&#34;true&#34; Name=&#34;heading 9&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;index 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;index 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;index 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;index 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;index 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;index 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;index 7&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;index 8&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;index 9&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;39&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; Name=&#34;toc 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;39&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; Name=&#34;toc 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;39&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; Name=&#34;toc 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;39&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; Name=&#34;toc 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;39&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; Name=&#34;toc 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;39&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; Name=&#34;toc 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;39&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; Name=&#34;toc 7&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;39&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; Name=&#34;toc 8&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;39&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; Name=&#34;toc 9&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Normal Indent&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;footnote text&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;annotation text&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;header&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;footer&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;index heading&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;35&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; QFormat=&#34;true&#34; Name=&#34;caption&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;table of figures&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;envelope address&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;envelope return&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;footnote reference&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;annotation reference&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;line number&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;page number&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;endnote reference&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;endnote text&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;table of authorities&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;macro&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;toa heading&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List Bullet&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List Number&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List Bullet 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List Bullet 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List Bullet 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List Bullet 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List Number 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List Number 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List Number 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List Number 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;10&#34; QFormat=&#34;true&#34; Name=&#34;Title&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Closing&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Signature&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;1&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; Name=&#34;Default Paragraph Font&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Body Text&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Body Text Indent&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List Continue&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List Continue 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List Continue 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List Continue 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;List Continue 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Message Header&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;11&#34; QFormat=&#34;true&#34; Name=&#34;Subtitle&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Salutation&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Date&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Body Text First Indent&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Body Text First Indent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Note Heading&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Body Text 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Body Text 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Body Text Indent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Body Text Indent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Block Text&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Hyperlink&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;FollowedHyperlink&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;22&#34; QFormat=&#34;true&#34; Name=&#34;Strong&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;20&#34; QFormat=&#34;true&#34; Name=&#34;Emphasis&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Document Map&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Plain Text&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;E-mail Signature&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;HTML Top of Form&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;HTML Bottom of Form&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Normal (Web)&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;HTML Acronym&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;HTML Address&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;HTML Cite&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;HTML Code&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;HTML Definition&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;HTML Keyboard&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;HTML Preformatted&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;HTML Sample&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;HTML Typewriter&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;HTML Variable&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Normal Table&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;annotation subject&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;No List&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Outline List 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Outline List 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Outline List 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Simple 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Simple 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Simple 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Classic 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Classic 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Classic 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Classic 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Colorful 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Colorful 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Colorful 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Columns 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Columns 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Columns 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Columns 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Columns 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Grid 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Grid 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Grid 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Grid 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Grid 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Grid 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Grid 7&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Grid 8&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table List 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table List 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table List 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table List 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table List 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table List 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table List 7&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table List 8&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table 3D effects 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table 3D effects 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table 3D effects 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Contemporary&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Elegant&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Professional&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Subtle 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Subtle 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Web 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Web 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Web 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Balloon Text&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;39&#34; Name=&#34;Table Grid&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Table Theme&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; Name=&#34;Placeholder Text&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;1&#34; QFormat=&#34;true&#34; Name=&#34;No Spacing&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;60&#34; Name=&#34;Light Shading&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;61&#34; Name=&#34;Light List&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;62&#34; Name=&#34;Light Grid&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;63&#34; Name=&#34;Medium Shading 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;64&#34; Name=&#34;Medium Shading 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;65&#34; Name=&#34;Medium List 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;66&#34; Name=&#34;Medium List 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;67&#34; Name=&#34;Medium Grid 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;68&#34; Name=&#34;Medium Grid 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;69&#34; Name=&#34;Medium Grid 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;70&#34; Name=&#34;Dark List&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;71&#34; Name=&#34;Colorful Shading&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;72&#34; Name=&#34;Colorful List&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;73&#34; Name=&#34;Colorful Grid&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;60&#34; Name=&#34;Light Shading Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;61&#34; Name=&#34;Light List Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;62&#34; Name=&#34;Light Grid Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;63&#34; Name=&#34;Medium Shading 1 Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;64&#34; Name=&#34;Medium Shading 2 Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;65&#34; Name=&#34;Medium List 1 Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; Name=&#34;Revision&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;34&#34; QFormat=&#34;true&#34;
+   Name=&#34;List Paragraph&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;29&#34; QFormat=&#34;true&#34; Name=&#34;Quote&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;30&#34; QFormat=&#34;true&#34;
+   Name=&#34;Intense Quote&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;66&#34; Name=&#34;Medium List 2 Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;67&#34; Name=&#34;Medium Grid 1 Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;68&#34; Name=&#34;Medium Grid 2 Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;69&#34; Name=&#34;Medium Grid 3 Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;70&#34; Name=&#34;Dark List Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;71&#34; Name=&#34;Colorful Shading Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;72&#34; Name=&#34;Colorful List Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;73&#34; Name=&#34;Colorful Grid Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;60&#34; Name=&#34;Light Shading Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;61&#34; Name=&#34;Light List Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;62&#34; Name=&#34;Light Grid Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;63&#34; Name=&#34;Medium Shading 1 Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;64&#34; Name=&#34;Medium Shading 2 Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;65&#34; Name=&#34;Medium List 1 Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;66&#34; Name=&#34;Medium List 2 Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;67&#34; Name=&#34;Medium Grid 1 Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;68&#34; Name=&#34;Medium Grid 2 Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;69&#34; Name=&#34;Medium Grid 3 Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;70&#34; Name=&#34;Dark List Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;71&#34; Name=&#34;Colorful Shading Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;72&#34; Name=&#34;Colorful List Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;73&#34; Name=&#34;Colorful Grid Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;60&#34; Name=&#34;Light Shading Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;61&#34; Name=&#34;Light List Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;62&#34; Name=&#34;Light Grid Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;63&#34; Name=&#34;Medium Shading 1 Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;64&#34; Name=&#34;Medium Shading 2 Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;65&#34; Name=&#34;Medium List 1 Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;66&#34; Name=&#34;Medium List 2 Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;67&#34; Name=&#34;Medium Grid 1 Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;68&#34; Name=&#34;Medium Grid 2 Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;69&#34; Name=&#34;Medium Grid 3 Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;70&#34; Name=&#34;Dark List Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;71&#34; Name=&#34;Colorful Shading Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;72&#34; Name=&#34;Colorful List Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;73&#34; Name=&#34;Colorful Grid Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;60&#34; Name=&#34;Light Shading Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;61&#34; Name=&#34;Light List Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;62&#34; Name=&#34;Light Grid Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;63&#34; Name=&#34;Medium Shading 1 Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;64&#34; Name=&#34;Medium Shading 2 Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;65&#34; Name=&#34;Medium List 1 Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;66&#34; Name=&#34;Medium List 2 Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;67&#34; Name=&#34;Medium Grid 1 Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;68&#34; Name=&#34;Medium Grid 2 Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;69&#34; Name=&#34;Medium Grid 3 Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;70&#34; Name=&#34;Dark List Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;71&#34; Name=&#34;Colorful Shading Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;72&#34; Name=&#34;Colorful List Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;73&#34; Name=&#34;Colorful Grid Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;60&#34; Name=&#34;Light Shading Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;61&#34; Name=&#34;Light List Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;62&#34; Name=&#34;Light Grid Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;63&#34; Name=&#34;Medium Shading 1 Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;64&#34; Name=&#34;Medium Shading 2 Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;65&#34; Name=&#34;Medium List 1 Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;66&#34; Name=&#34;Medium List 2 Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;67&#34; Name=&#34;Medium Grid 1 Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;68&#34; Name=&#34;Medium Grid 2 Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;69&#34; Name=&#34;Medium Grid 3 Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;70&#34; Name=&#34;Dark List Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;71&#34; Name=&#34;Colorful Shading Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;72&#34; Name=&#34;Colorful List Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;73&#34; Name=&#34;Colorful Grid Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;60&#34; Name=&#34;Light Shading Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;61&#34; Name=&#34;Light List Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;62&#34; Name=&#34;Light Grid Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;63&#34; Name=&#34;Medium Shading 1 Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;64&#34; Name=&#34;Medium Shading 2 Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;65&#34; Name=&#34;Medium List 1 Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;66&#34; Name=&#34;Medium List 2 Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;67&#34; Name=&#34;Medium Grid 1 Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;68&#34; Name=&#34;Medium Grid 2 Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;69&#34; Name=&#34;Medium Grid 3 Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;70&#34; Name=&#34;Dark List Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;71&#34; Name=&#34;Colorful Shading Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;72&#34; Name=&#34;Colorful List Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;73&#34; Name=&#34;Colorful Grid Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;19&#34; QFormat=&#34;true&#34;
+   Name=&#34;Subtle Emphasis&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;21&#34; QFormat=&#34;true&#34;
+   Name=&#34;Intense Emphasis&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;31&#34; QFormat=&#34;true&#34;
+   Name=&#34;Subtle Reference&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;32&#34; QFormat=&#34;true&#34;
+   Name=&#34;Intense Reference&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;33&#34; QFormat=&#34;true&#34; Name=&#34;Book Title&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;37&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; Name=&#34;Bibliography&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;39&#34; SemiHidden=&#34;true&#34;
+   UnhideWhenUsed=&#34;true&#34; QFormat=&#34;true&#34; Name=&#34;TOC Heading&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;41&#34; Name=&#34;Plain Table 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;42&#34; Name=&#34;Plain Table 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;43&#34; Name=&#34;Plain Table 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;44&#34; Name=&#34;Plain Table 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;45&#34; Name=&#34;Plain Table 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;40&#34; Name=&#34;Grid Table Light&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;46&#34; Name=&#34;Grid Table 1 Light&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;47&#34; Name=&#34;Grid Table 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;48&#34; Name=&#34;Grid Table 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;49&#34; Name=&#34;Grid Table 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;50&#34; Name=&#34;Grid Table 5 Dark&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;51&#34; Name=&#34;Grid Table 6 Colorful&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;52&#34; Name=&#34;Grid Table 7 Colorful&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;46&#34;
+   Name=&#34;Grid Table 1 Light Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;47&#34; Name=&#34;Grid Table 2 Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;48&#34; Name=&#34;Grid Table 3 Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;49&#34; Name=&#34;Grid Table 4 Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;50&#34; Name=&#34;Grid Table 5 Dark Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;51&#34;
+   Name=&#34;Grid Table 6 Colorful Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;52&#34;
+   Name=&#34;Grid Table 7 Colorful Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;46&#34;
+   Name=&#34;Grid Table 1 Light Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;47&#34; Name=&#34;Grid Table 2 Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;48&#34; Name=&#34;Grid Table 3 Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;49&#34; Name=&#34;Grid Table 4 Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;50&#34; Name=&#34;Grid Table 5 Dark Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;51&#34;
+   Name=&#34;Grid Table 6 Colorful Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;52&#34;
+   Name=&#34;Grid Table 7 Colorful Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;46&#34;
+   Name=&#34;Grid Table 1 Light Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;47&#34; Name=&#34;Grid Table 2 Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;48&#34; Name=&#34;Grid Table 3 Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;49&#34; Name=&#34;Grid Table 4 Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;50&#34; Name=&#34;Grid Table 5 Dark Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;51&#34;
+   Name=&#34;Grid Table 6 Colorful Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;52&#34;
+   Name=&#34;Grid Table 7 Colorful Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;46&#34;
+   Name=&#34;Grid Table 1 Light Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;47&#34; Name=&#34;Grid Table 2 Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;48&#34; Name=&#34;Grid Table 3 Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;49&#34; Name=&#34;Grid Table 4 Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;50&#34; Name=&#34;Grid Table 5 Dark Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;51&#34;
+   Name=&#34;Grid Table 6 Colorful Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;52&#34;
+   Name=&#34;Grid Table 7 Colorful Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;46&#34;
+   Name=&#34;Grid Table 1 Light Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;47&#34; Name=&#34;Grid Table 2 Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;48&#34; Name=&#34;Grid Table 3 Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;49&#34; Name=&#34;Grid Table 4 Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;50&#34; Name=&#34;Grid Table 5 Dark Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;51&#34;
+   Name=&#34;Grid Table 6 Colorful Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;52&#34;
+   Name=&#34;Grid Table 7 Colorful Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;46&#34;
+   Name=&#34;Grid Table 1 Light Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;47&#34; Name=&#34;Grid Table 2 Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;48&#34; Name=&#34;Grid Table 3 Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;49&#34; Name=&#34;Grid Table 4 Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;50&#34; Name=&#34;Grid Table 5 Dark Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;51&#34;
+   Name=&#34;Grid Table 6 Colorful Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;52&#34;
+   Name=&#34;Grid Table 7 Colorful Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;46&#34; Name=&#34;List Table 1 Light&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;47&#34; Name=&#34;List Table 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;48&#34; Name=&#34;List Table 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;49&#34; Name=&#34;List Table 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;50&#34; Name=&#34;List Table 5 Dark&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;51&#34; Name=&#34;List Table 6 Colorful&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;52&#34; Name=&#34;List Table 7 Colorful&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;46&#34;
+   Name=&#34;List Table 1 Light Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;47&#34; Name=&#34;List Table 2 Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;48&#34; Name=&#34;List Table 3 Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;49&#34; Name=&#34;List Table 4 Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;50&#34; Name=&#34;List Table 5 Dark Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;51&#34;
+   Name=&#34;List Table 6 Colorful Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;52&#34;
+   Name=&#34;List Table 7 Colorful Accent 1&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;46&#34;
+   Name=&#34;List Table 1 Light Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;47&#34; Name=&#34;List Table 2 Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;48&#34; Name=&#34;List Table 3 Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;49&#34; Name=&#34;List Table 4 Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;50&#34; Name=&#34;List Table 5 Dark Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;51&#34;
+   Name=&#34;List Table 6 Colorful Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;52&#34;
+   Name=&#34;List Table 7 Colorful Accent 2&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;46&#34;
+   Name=&#34;List Table 1 Light Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;47&#34; Name=&#34;List Table 2 Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;48&#34; Name=&#34;List Table 3 Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;49&#34; Name=&#34;List Table 4 Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;50&#34; Name=&#34;List Table 5 Dark Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;51&#34;
+   Name=&#34;List Table 6 Colorful Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;52&#34;
+   Name=&#34;List Table 7 Colorful Accent 3&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;46&#34;
+   Name=&#34;List Table 1 Light Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;47&#34; Name=&#34;List Table 2 Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;48&#34; Name=&#34;List Table 3 Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;49&#34; Name=&#34;List Table 4 Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;50&#34; Name=&#34;List Table 5 Dark Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;51&#34;
+   Name=&#34;List Table 6 Colorful Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;52&#34;
+   Name=&#34;List Table 7 Colorful Accent 4&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;46&#34;
+   Name=&#34;List Table 1 Light Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;47&#34; Name=&#34;List Table 2 Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;48&#34; Name=&#34;List Table 3 Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;49&#34; Name=&#34;List Table 4 Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;50&#34; Name=&#34;List Table 5 Dark Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;51&#34;
+   Name=&#34;List Table 6 Colorful Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;52&#34;
+   Name=&#34;List Table 7 Colorful Accent 5&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;46&#34;
+   Name=&#34;List Table 1 Light Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;47&#34; Name=&#34;List Table 2 Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;48&#34; Name=&#34;List Table 3 Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;49&#34; Name=&#34;List Table 4 Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;50&#34; Name=&#34;List Table 5 Dark Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;51&#34;
+   Name=&#34;List Table 6 Colorful Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; Priority=&#34;52&#34;
+   Name=&#34;List Table 7 Colorful Accent 6&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Mention&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Smart Hyperlink&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Hashtag&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Unresolved Mention&#34;/&gt;
+  &lt;w:LsdException Locked=&#34;false&#34; SemiHidden=&#34;true&#34; UnhideWhenUsed=&#34;true&#34;
+   Name=&#34;Smart Link&#34;/&gt;
+ &lt;/w:LatentStyles&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;
+&lt;style&gt;
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:&#34;Normale Tabelle&#34;;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:&#34;&#34;;
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:&#34;Calibri&#34;,sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:&#34;Times New Roman&#34;;
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+&lt;/style&gt;
+&lt;![endif]--&gt; Die Lasten der Dach&amp;uuml;berst&amp;auml;nde werden bei der Auflagerkraft der Fu&amp;szlig;pfette ber&amp;uuml;cksichtigt.</description>
+  </component>
+    <component>
+    <id>choice_cm020n46g000l2a6s55mkv9lr</id>
+    <description lang="en-US">Alle Dach&amp;uuml;berst&amp;auml;nde werden als Kragarm berechnet.</description>
+  </component>
+    <component>
+    <id>choice_cm020n46g000j2a6sbnusxofb</id>
+    <description lang="en-US">Die statische Balkenl&amp;auml;nge entspricht der Sparrenl&amp;auml;nge einschlie&amp;szlig;lich Dach&amp;uuml;berstand</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://SR6KIUGC6GaVyARtretlIl2CwKOdKDpC_rise/Mz75xmBji0xDnkGM1inNfbi4tuLRNTez/cm020nwo9000s2a6sgudb584j" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie ermitteln Sie die Last der Dacheindeckung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm020nwoa000t2a6s5shz1hxb</correctResponsePattern>
+    <correctResponsePattern>choice_cm020nwoa000v2a6s8d1mcnnm</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm020nwoa000t2a6s5shz1hxb</id>
+    <description lang="en-US">Werte aus dem Bautabellenbuch</description>
+  </component>
+    <component>
+    <id>choice_cm020nwoa000v2a6s8d1mcnnm</id>
+    <description lang="en-US">Werte sind im Eurocode hinterlegt</description>
+  </component>
+    <component>
+    <id>choice_cm020nwoa000w2a6s494ooxuj</id>
+    <description lang="en-US">Herstellerangaben zum Gewicht des Materials</description>
+  </component>
+    <component>
+    <id>choice_cm020nwoa000u2a6swm1nrbfb</id>
+    <description lang="en-US">Abwiegen des Materials und umrechnen auf einen Quadratmeter</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://SR6KIUGC6GaVyARtretlIl2CwKOdKDpC_rise/Mz75xmBji0xDnkGM1inNfbi4tuLRNTez/cm020orj5001f2a6stmpwhf5a" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen sind richtig, wenn die senkrechte Last der Dacheindeckung bekannt ist?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm020orj5001g2a6snsmpbikv</correctResponsePattern>
+    <correctResponsePattern>choice_cm020orj5001i2a6srpe2lev3</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm020orj5001g2a6snsmpbikv</id>
+    <description lang="en-US">Umrechnen der Last von senkrecht auf rechtwinkelig zum Sparren mit der Formel (gks * cos DN)</description>
+  </component>
+    <component>
+    <id>choice_cm020orj5001i2a6srpe2lev3</id>
+    <description lang="en-US">Da der Balken sich rechtwinkelig zur Sparrenachse durchbiegt m&amp;uuml;ssen senkrechte Lasten umgerechnet werden</description>
+  </component>
+    <component>
+    <id>choice_cm020orj5001j2a6st7qao8wt</id>
+    <description lang="en-US">Es ist keine Berechnung notwendig, da die Last ja bekannt ist</description>
+  </component>
+    <component>
+    <id>choice_cm020orj5001h2a6s0fhi84ar</id>
+    <description lang="en-US">Da die Last senkrecht wirkt muss diese durch den Tangens der Dachneigung geteilt werden</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://SR6KIUGC6GaVyARtretlIl2CwKOdKDpC_rise/Mz75xmBji0xDnkGM1inNfbi4tuLRNTez/cm020pvzh002k2a6s6lfq54b5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie zu: Welche Werte sind f&amp;uuml;r &amp;micro;1 richtig, um die Abminderung von Schnee am Dach zu ermitteln.</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cm020pvzh002l2a6s0hrh88q6[.]target_cm020pvzh002l2a6s0hrh88q6</correctResponsePattern>
+    <correctResponsePattern>source_cm020pvzh002m2a6s6iq7zzx2[.]target_cm020pvzh002m2a6s6iq7zzx2</correctResponsePattern>
+    <correctResponsePattern>source_cm020pvzh002n2a6s2dyajakk[.]target_cm020pvzh002n2a6s2dyajakk</correctResponsePattern>
+    <correctResponsePattern>source_cm020su1a002o2a6s1m6sv473[.]target_cm020su1a002o2a6s1m6sv473</correctResponsePattern>
+    <correctResponsePattern>source_cm020sxwv002p2a6s8og84jim[.]target_cm020sxwv002p2a6s8og84jim</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cm020pvzh002l2a6s0hrh88q6</id>
+    <description lang="en-US">Wert 0,8></description>
+  </component>
+    <component>
+    <id>source_cm020pvzh002m2a6s6iq7zzx2</id>
+    <description lang="en-US">Wert 0,0></description>
+  </component>
+    <component>
+    <id>source_cm020pvzh002n2a6s2dyajakk</id>
+    <description lang="en-US">Wert = 0,8 * (60° - DN) / 30></description>
+  </component>
+    <component>
+    <id>source_cm020su1a002o2a6s1m6sv473</id>
+    <description lang="en-US">Wert immer 0,8></description>
+  </component>
+    <component>
+    <id>source_cm020sxwv002p2a6s8og84jim</id>
+    <description lang="en-US">Wert 0,4></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cm020pvzh002l2a6s0hrh88q6</id>
+        <description lang="en-US">Dachneigung 0° - 30°  </description>
+      </component>
+          <component>
+        <id>target_cm020pvzh002m2a6s6iq7zzx2</id>
+        <description lang="en-US">Dachneigung über 60° ohne Schneefang</description>
+      </component>
+          <component>
+        <id>target_cm020pvzh002n2a6s2dyajakk</id>
+        <description lang="en-US">Dachneigung zwischen 30° und 60°</description>
+      </component>
+          <component>
+        <id>target_cm020su1a002o2a6s1m6sv473</id>
+        <description lang="en-US">Wenn Schneefang vorhanden ist</description>
+      </component>
+          <component>
+        <id>target_cm020sxwv002p2a6s8og84jim</id>
+        <description lang="en-US">Dachneigung 45° ohne Schneefang</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://SR6KIUGC6GaVyARtretlIl2CwKOdKDpC_rise/Mz75xmBji0xDnkGM1inNfbi4tuLRNTez/cm020wrm9002q2a6svyddc5yn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie ber&amp;uuml;cksichtigen Sie die Schneelast bei der Berechnung der Statik des Sparrens?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm020wrm9002r2a6scy1ve1la</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm020wrm9002r2a6scy1ve1la</id>
+    <description lang="en-US">Schneelast senkrecht * cos&amp;sup2; Dachneigung</description>
+  </component>
+    <component>
+    <id>choice_cm020wrm9002t2a6sc35l6a0l</id>
+    <description lang="en-US">Schneelast senkrecht / cos Dachneigung</description>
+  </component>
+    <component>
+    <id>choice_cm020wrm9002u2a6skdk3odiq</id>
+    <description lang="en-US">Schneelast je m&amp;sup2; * cos Dachneigung</description>
+  </component>
+    <component>
+    <id>choice_cm020wrm9002s2a6ssjprgnra</id>
+    <description lang="en-US">Die Schneelast wirkt direkt auf den Sparren und muss nicht umgerechnet werden</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://SR6KIUGC6GaVyARtretlIl2CwKOdKDpC_rise/Mz75xmBji0xDnkGM1inNfbi4tuLRNTez/cm020xdy700312a6s785gdmvn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Windzonen in Deutschland kennen Sie?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm020xdy700322a6sicaypgop</correctResponsePattern>
+    <correctResponsePattern>choice_cm020xdy700332a6s7bfc1tdp</correctResponsePattern>
+    <correctResponsePattern>choice_cm020xdy700352a6s189i0gcj</correctResponsePattern>
+    <correctResponsePattern>choice_cm020xdy700342a6svrricihi</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm020xdy700322a6sicaypgop</id>
+    <description lang="en-US">Windzone 1, Binnenland</description>
+  </component>
+    <component>
+    <id>choice_cm020xdy700342a6svrricihi</id>
+    <description lang="en-US">Windzone 2, K&amp;uuml;ste und Inseln der Ostsee</description>
+  </component>
+    <component>
+    <id>choice_cm020xdy700352a6s189i0gcj</id>
+    <description lang="en-US">Windzone 3, Binnenland</description>
+  </component>
+    <component>
+    <id>choice_cm020xdy700332a6s7bfc1tdp</id>
+    <description lang="en-US">Windzone 4, Inseln der Nordsee</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://SR6KIUGC6GaVyARtretlIl2CwKOdKDpC_rise/Mz75xmBji0xDnkGM1inNfbi4tuLRNTez/cm020xxc5003c2a6s9u880osi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welcher Bereich des Daches wird f&amp;uuml;r den Au&amp;szlig;endruckbeiwert bei der Statikberechnung ber&amp;uuml;cksichtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm020xxc5003d2a6si9kxj3g5</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm020xxc5003d2a6si9kxj3g5</id>
+    <description lang="en-US">Dachbereich &amp;bdquo;H&amp;ldquo;</description>
+  </component>
+    <component>
+    <id>choice_cm020xxc5003e2a6szf0d7ga7</id>
+    <description lang="en-US">Dachbereich &amp;bdquo;F&amp;ldquo;</description>
+  </component>
+    <component>
+    <id>choice_cm020xxcl003f2a6s8qvkus76</id>
+    <description lang="en-US">Dachbereich &amp;bdquo;G&amp;ldquo;</description>
+  </component>
+    <component>
+    <id>choice_cm020yl27003u2a6s4pub7zpm</id>
+    <description lang="en-US">Dachbereich &amp;bdquo;I&amp;ldquo;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://SR6KIUGC6GaVyARtretlIl2CwKOdKDpC_rise/Mz75xmBji0xDnkGM1inNfbi4tuLRNTez/cm020yz0f004n2a6schst8sq0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie lautet die Formel f&amp;uuml;r die Berechnung der Windlast am Dach?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm020yz0g004o2a6s76esdttl</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm020yz0g004o2a6s76esdttl</id>
+    <description lang="en-US">Geschwindigkeitsdruck q * Aussendruckbeiwert cp</description>
+  </component>
+    <component>
+    <id>choice_cm020yz0g004p2a6s8wp69o5x</id>
+    <description lang="en-US">Geschwindigkeitsdruck q * Anstr&amp;ouml;mrichtung (West)</description>
+  </component>
+    <component>
+    <id>choice_cm020zcgw004t2a6swgjo0yym</id>
+    <description lang="en-US">Aussendruckbeiwert cp * Anstr&amp;ouml;mrichtung (Hauptwindrichtung)</description>
+  </component>
+    <component>
+    <id>choice_cm020zoz3004x2a6s9uuqakwr</id>
+    <description lang="en-US">Aussendruckbeiwert cp * cos Dachneigung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://SR6KIUGC6GaVyARtretlIl2CwKOdKDpC_rise/Mz75xmBji0xDnkGM1inNfbi4tuLRNTez/cm020zzbp00522a6sgdz5x8i5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Muss die Windlast von senkrecht auf rechtwinkelig umgerechnet werden?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm020zzbp00532a6slbde3aam</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm020zzbp00532a6slbde3aam</id>
+    <description lang="en-US">Nein, die Werte sind bereits rechtwinkelig zur Dachneigung angegeben</description>
+  </component>
+    <component>
+    <id>choice_cm020zzbp00542a6sppiyn0vo</id>
+    <description lang="en-US">Nein, der Wind wirkt aus unterschiedlichen Richtungen und kann somit nicht umgerechnet werden</description>
+  </component>
+    <component>
+    <id>choice_cm020zzce00552a6sog3xali7</id>
+    <description lang="en-US">Ja, die Dachneigung muss aus den senkrechten Lasten des Windes ber&amp;uuml;cksichtigt werden</description>
+  </component>
+    <component>
+    <id>choice_cm0210ae500572a6st4d1z979</id>
+    <description lang="en-US">Ja, der Wind wirkt waagerecht auf das Dach und muss mit dem cos der Dachneigung multipliziert werden</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://SR6KIUGC6GaVyARtretlIl2CwKOdKDpC_rise/Mz75xmBji0xDnkGM1inNfbi4tuLRNTez/cm0210h9m005a2a6sa4o7vvle" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordne die Einwirkungskombinationen f&amp;uuml;r die Einwirkungen am Dach bei Geb&amp;auml;uden bis 1.000 H&amp;ouml;henmeter zu?</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cm0210h9m005b2a6s095wk59t[.]target_cm0210h9m005b2a6s095wk59t</correctResponsePattern>
+    <correctResponsePattern>source_cm0210h9m005c2a6swify8p20[.]target_cm0210h9m005c2a6swify8p20</correctResponsePattern>
+    <correctResponsePattern>source_cm0210h9m005d2a6skiwm0i1p[.]target_cm0210h9m005d2a6skiwm0i1p</correctResponsePattern>
+    <correctResponsePattern>source_cm02114wq005e2a6sdfn44dkx[.]target_cm02114wq005e2a6sdfn44dkx</correctResponsePattern>
+    <correctResponsePattern>source_cm02117cn005f2a6sidustdo2[.]target_cm02117cn005f2a6sidustdo2</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cm0210h9m005b2a6s095wk59t</id>
+    <description lang="en-US">Eigengewicht mit Sicherheit, KLED ständig></description>
+  </component>
+    <component>
+    <id>source_cm0210h9m005c2a6swify8p20</id>
+    <description lang="en-US">Eigengewicht plus Schnee mit Sicherheiten></description>
+  </component>
+    <component>
+    <id>source_cm0210h9m005d2a6skiwm0i1p</id>
+    <description lang="en-US">Eigengewicht plus Wind mit Sicherheiten></description>
+  </component>
+    <component>
+    <id>source_cm02114wq005e2a6sdfn44dkx</id>
+    <description lang="en-US">Eigengewicht plus Schnee plus Wind sehr kurz></description>
+  </component>
+    <component>
+    <id>source_cm02117cn005f2a6sidustdo2</id>
+    <description lang="en-US">Eigengewicht plus Schnee kurz plus Wind></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cm0210h9m005b2a6s095wk59t</id>
+        <description lang="en-US">Ewk 1</description>
+      </component>
+          <component>
+        <id>target_cm0210h9m005c2a6swify8p20</id>
+        <description lang="en-US">Ewk 2</description>
+      </component>
+          <component>
+        <id>target_cm0210h9m005d2a6skiwm0i1p</id>
+        <description lang="en-US">Ewk 3</description>
+      </component>
+          <component>
+        <id>target_cm02114wq005e2a6sdfn44dkx</id>
+        <description lang="en-US">Ewk 4</description>
+      </component>
+          <component>
+        <id>target_cm02117cn005f2a6sidustdo2</id>
+        <description lang="en-US">Ewk 5</description>
+      </component>
+      </target>
+  </activity>
+                    </activities>
+</tincan>

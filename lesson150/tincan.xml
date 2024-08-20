@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://HWZZ6LC7wGS4pqlP8EwC5rJY_uN9RnMO_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Tarifvertrag Bau (ZI/TB) - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://HWZZ6LC7wGS4pqlP8EwC5rJY_uN9RnMO_rise/txxT26DOzWwLZvyNGlxKoPPIcsLVWsCr" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://HWZZ6LC7wGS4pqlP8EwC5rJY_uN9RnMO_rise/txxT26DOzWwLZvyNGlxKoPPIcsLVWsCr/cm0224okq000h2a6roukv4xc1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen zur Allgemeinverbindlichkeit des Tarifvertrages sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm0224okq000i2a6rwa8b0hur</correctResponsePattern>
+    <correctResponsePattern>choice_cm0224okq000k2a6rmjbruyys</correctResponsePattern>
+    <correctResponsePattern>choice_cm0224okq000l2a6ryjohakk8</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm0224okq000i2a6rwa8b0hur</id>
+    <description lang="en-US">Tarifvertr&amp;auml;ge k&amp;ouml;nnen durch eine Allgemeinverbindlicherkl&amp;auml;rung auf Arbeitgeber und Arbeitnehmer ausgedehnt werden, die selber nicht Mitglied der Tarifvertragsparteien sind.</description>
+  </component>
+    <component>
+    <id>choice_cm0224okq000k2a6rmjbruyys</id>
+    <description lang="en-US">Das Bundesministerium f&amp;uuml;r Arbeit und Soziales erkl&amp;auml;rt den Tarifvertrag f&amp;uuml;r Allgemeinverbindlich</description>
+  </component>
+    <component>
+    <id>choice_cm0224okq000l2a6ryjohakk8</id>
+    <description lang="en-US">Nach jeder &amp;Auml;nderung an einem Tarifvertrag muss dieser erneut f&amp;uuml;r allgemeinverbindlich erkl&amp;auml;rt werden.</description>
+  </component>
+    <component>
+    <id>choice_cm0224okq000j2a6r3e34xszj</id>
+    <description lang="en-US">Die Vertragsparteien einigen sich auf Allgemeine Verbindlichkeiten gegen&amp;uuml;ber den Arbeitgebern</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://HWZZ6LC7wGS4pqlP8EwC5rJY_uN9RnMO_rise/txxT26DOzWwLZvyNGlxKoPPIcsLVWsCr/cm0225dap000s2a6rfdf3a7zj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wer sind die Tarifvertragsparteien in der Bauwirtschaft?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm0225daq000t2a6rnhgt9kdc</correctResponsePattern>
+    <correctResponsePattern>choice_cm0225daq000v2a6r8xndgbgo</correctResponsePattern>
+    <correctResponsePattern>choice_cm0225daq000w2a6ry68rt9h3</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm0225daq000t2a6rnhgt9kdc</id>
+    <description lang="en-US">Hauptverband der Bauindustrie (HDB)</description>
+  </component>
+    <component>
+    <id>choice_cm0225daq000v2a6r8xndgbgo</id>
+    <description lang="en-US">Industriegewerkschaft Bauen-Agrag-Umwelt (IG BAU)</description>
+  </component>
+    <component>
+    <id>choice_cm0225daq000w2a6ry68rt9h3</id>
+    <description lang="en-US">Zentralverband des Deutschen Baugewerbes (ZDB)</description>
+  </component>
+    <component>
+    <id>choice_cm0225daq000u2a6rgk7x5v1q</id>
+    <description lang="en-US">Bundeministerium f&amp;uuml;r Wirtschaft, Arbeit und Soziales</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://HWZZ6LC7wGS4pqlP8EwC5rJY_uN9RnMO_rise/txxT26DOzWwLZvyNGlxKoPPIcsLVWsCr/cm02265wc001f2a6rhwgame6u" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was bedeutet Tarifautonomie?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm02265wc001g2a6r2yka3nsk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm02265wc001g2a6r2yka3nsk</id>
+    <description lang="en-US">Bei der Ausgestaltung und Verabschiedung von Tarifvertr&amp;auml;gen handeln die Tarifvertragsparteien unabh&amp;auml;ngig vom Staat</description>
+  </component>
+    <component>
+    <id>choice_cm02265wc001i2a6rkpwvgsls</id>
+    <description lang="en-US">Die Vertragsparteien einigen sich mit dem Bundesministerium auf einen Tarifvertrag</description>
+  </component>
+    <component>
+    <id>choice_cm02265wc001j2a6rp2ibwv0o</id>
+    <description lang="en-US">Der Tarifvertrag wird von Autonomen Gruppen der Gesellschaft ausgehandelt</description>
+  </component>
+    <component>
+    <id>choice_cm02265wc001h2a6rj8d9ft79</id>
+    <description lang="en-US">Ein Tarifvertrag wird automatisch verl&amp;auml;ngert, wenn kein neuer Vertrag geschlossen wurde</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://HWZZ6LC7wGS4pqlP8EwC5rJY_uN9RnMO_rise/txxT26DOzWwLZvyNGlxKoPPIcsLVWsCr/cm0226szx001q2a6r9d01zkbt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die verschiedenen Geltungsbereiche des Tarifvertrages zu:</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cm0226szx001r2a6ryffo9aud[.]target_cm0226szx001r2a6ryffo9aud</correctResponsePattern>
+    <correctResponsePattern>source_cm0226szx001s2a6ru70mqvnu[.]target_cm0226szx001s2a6ru70mqvnu</correctResponsePattern>
+    <correctResponsePattern>source_cm0226szx001t2a6rp0g5i3fk[.]target_cm0226szx001t2a6rp0g5i3fk</correctResponsePattern>
+    <correctResponsePattern>source_cm02279ns001u2a6ri428nucy[.]target_cm02279ns001u2a6ri428nucy</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cm0226szx001r2a6ryffo9aud</id>
+    <description lang="en-US">Im Gebiet der Bundesrepublik Deutschland></description>
+  </component>
+    <component>
+    <id>source_cm0226szx001s2a6ru70mqvnu</id>
+    <description lang="en-US">Betriebe des Baugewerbes z.B. Zimmerer, Trockenbauer></description>
+  </component>
+    <component>
+    <id>source_cm0226szx001t2a6rp0g5i3fk</id>
+    <description lang="en-US">Gewerbliche Arbeitnehmer></description>
+  </component>
+    <component>
+    <id>source_cm02279ns001u2a6ri428nucy</id>
+    <description lang="en-US">Dauer der Gültigkeit des Vertrages></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cm0226szx001r2a6ryffo9aud</id>
+        <description lang="en-US">Räumlicher Geltungsbereich  </description>
+      </component>
+          <component>
+        <id>target_cm0226szx001s2a6ru70mqvnu</id>
+        <description lang="en-US">Betrieblicher Geltungsbereich</description>
+      </component>
+          <component>
+        <id>target_cm0226szx001t2a6rp0g5i3fk</id>
+        <description lang="en-US">Persönlicher Geltungsbereich</description>
+      </component>
+          <component>
+        <id>target_cm02279ns001u2a6ri428nucy</id>
+        <description lang="en-US">Zeitlicher Geltungsbereich</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://HWZZ6LC7wGS4pqlP8EwC5rJY_uN9RnMO_rise/txxT26DOzWwLZvyNGlxKoPPIcsLVWsCr/cm0227qcs001v2a6ruj312avc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie sind die tariflichen Arbeitszeiten geregelt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm0227qct001w2a6rp1psftch</correctResponsePattern>
+    <correctResponsePattern>choice_cm0227qct001y2a6rpud0xz18</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm0227qct001w2a6rp1psftch</id>
+    <description lang="en-US">In den Monaten Dezember bis M&amp;auml;rz: 38 Stunden Wochenarbeitszeit</description>
+  </component>
+    <component>
+    <id>choice_cm0227qct001y2a6rpud0xz18</id>
+    <description lang="en-US">In den Monaten April bis November: 41 Stunden Wochenarbeitszeit</description>
+  </component>
+    <component>
+    <id>choice_cm0227qct001z2a6rlfr2usns</id>
+    <description lang="en-US">Gleichbleibende Wochenarbeitszeit das ganze Jahr &amp;uuml;ber: 42 Stunden</description>
+  </component>
+    <component>
+    <id>choice_cm0227qct001x2a6r4rdb74of</id>
+    <description lang="en-US">Wochenarbeitszeit Witterungsbedingt abh&amp;auml;ngig</description>
+  </component>
+    <component>
+    <id>choice_cm0227qdd00202a6rlrc8fivi</id>
+    <description lang="en-US"></description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://HWZZ6LC7wGS4pqlP8EwC5rJY_uN9RnMO_rise/txxT26DOzWwLZvyNGlxKoPPIcsLVWsCr/cm0228gyj00292a6rul9gnu1e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Regelung gibt es f&amp;uuml;r &amp;Uuml;berstunden im Baugewerbe?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm0228gyj002a2a6rhuo1ix5s</correctResponsePattern>
+    <correctResponsePattern>choice_cm0228gyj002b2a6rabhk4tgf</correctResponsePattern>
+    <correctResponsePattern>choice_cm0228gyj002d2a6rxjxmy62z</correctResponsePattern>
+    <correctResponsePattern>choice_cm0228gyj002c2a6rhisetvl4</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm0228gyj002a2a6rhuo1ix5s</id>
+    <description lang="en-US">&amp;Uuml;berstunden werden auf ein Ausgleichskonto gutgeschrieben</description>
+  </component>
+    <component>
+    <id>choice_cm0228gyj002c2a6rhisetvl4</id>
+    <description lang="en-US">Die ersten 150 &amp;Uuml;berstunden bleiben Zuschlagsfrei (kein &amp;Uuml;berstunden-Zuschlag)</description>
+  </component>
+    <component>
+    <id>choice_cm0228gyj002d2a6rxjxmy62z</id>
+    <description lang="en-US">&amp;Uuml;berstunden, die in den Wintermonaten abgegolten werden, werden mit 2,50 Euro bezuschusst. &amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cm0228gyj002b2a6rabhk4tgf</id>
+    <description lang="en-US">Die t&amp;auml;gliche Arbeitszeit darf im Normalfall 10 Stunden nicht &amp;uuml;berschreiten</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://HWZZ6LC7wGS4pqlP8EwC5rJY_uN9RnMO_rise/txxT26DOzWwLZvyNGlxKoPPIcsLVWsCr/cm0229td900412a6rg45uka86" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen zum Verpflegungszuschuss sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm0229td900422a6rxvmmfll3</correctResponsePattern>
+    <correctResponsePattern>choice_cm0229td900452a6rfrtj7sxr</correctResponsePattern>
+    <correctResponsePattern>choice_cm0229td900442a6rgmmgd1t3</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm0229td900422a6rxvmmfll3</id>
+    <description lang="en-US">Wenn der Arbeitnehmer ausschlie&amp;szlig;lich aus beruflichen Gr&amp;uuml;nden mehr als 8 Stunden von seiner Wohnung abwesend ist, erh&amp;auml;lt er einen Verpflegungszuschuss</description>
+  </component>
+    <component>
+    <id>choice_cm0229td900442a6rgmmgd1t3</id>
+    <description lang="en-US">Die H&amp;ouml;he des Verpflegungszuschusses ist abh&amp;auml;ngig von der Entfernung zwischen Betrieb und Arbeitsstelle bei t&amp;auml;glicher Heimfahrt</description>
+  </component>
+    <component>
+    <id>choice_cm0229td900452a6rfrtj7sxr</id>
+    <description lang="en-US">Der Verpflegungszuschuss erh&amp;ouml;ht sich bei Arbeitsstellen ohne t&amp;auml;gliche Heimfahrt</description>
+  </component>
+    <component>
+    <id>choice_cm0229td900432a6rahgcizhx</id>
+    <description lang="en-US">Der Verpflegungszuschuss ist eine freiwillige Sache des Arbeitgebers</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://HWZZ6LC7wGS4pqlP8EwC5rJY_uN9RnMO_rise/txxT26DOzWwLZvyNGlxKoPPIcsLVWsCr/cm022afv3004c2a6r2kpbyxgf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie ermittelt sich der Urlaubsanspruch im Baugewerbe?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm022afv3004d2a6rmz7pf2en</correctResponsePattern>
+    <correctResponsePattern>choice_cm022afv3004f2a6ry1zrjahr</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm022afv3004d2a6rmz7pf2en</id>
+    <description lang="en-US">Der Arbeitnehmer erwirbt nach jeweils 12 Besch&amp;auml;ftigungstagen Anspruch auf einen Tag Urlaub.</description>
+  </component>
+    <component>
+    <id>choice_cm022afv3004f2a6ry1zrjahr</id>
+    <description lang="en-US">Samstage gelten nicht als Arbeitstage</description>
+  </component>
+    <component>
+    <id>choice_cm022afv3004g2a6r7ph762gy</id>
+    <description lang="en-US">Der Urlaubsanspruch betr&amp;auml;gt immer 30 Tage, unabh&amp;auml;ngig von der Anstellungsdauer</description>
+  </component>
+    <component>
+    <id>choice_cm022afv3004e2a6rdysws7oc</id>
+    <description lang="en-US">Urlaubstage, die zum Jahresende nicht abgegolten sind, verfallen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://HWZZ6LC7wGS4pqlP8EwC5rJY_uN9RnMO_rise/txxT26DOzWwLZvyNGlxKoPPIcsLVWsCr/cm022be0l005b2a6r6vi3ypkz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Regelungen kennen Sie bez&amp;uuml;glich K&amp;uuml;ndigungsfristen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm022be0l005c2a6rp31jmvww</correctResponsePattern>
+    <correctResponsePattern>choice_cm022be0l005d2a6ro2znu5tf</correctResponsePattern>
+    <correctResponsePattern>choice_cm022be0l005f2a6rywu2tkvd</correctResponsePattern>
+    <correctResponsePattern>choice_cm022be0l005e2a6rtnlg0tl0</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm022be0l005c2a6rp31jmvww</id>
+    <description lang="en-US">Der Arbeitnehmer kann mit einer Frist von 6 Werktagen k&amp;uuml;ndigen, wenn er nicht l&amp;auml;nger als 6 Monate angestellt war</description>
+  </component>
+    <component>
+    <id>choice_cm022be0l005e2a6rtnlg0tl0</id>
+    <description lang="en-US">Der Arbeitnehmer kann mit einer Frist von 12 Werktagen k&amp;uuml;ndigen, wenn er mehr als 6 Monate angestellt war</description>
+  </component>
+    <component>
+    <id>choice_cm022be0l005f2a6rywu2tkvd</id>
+    <description lang="en-US">Die K&amp;uuml;ndigungsfrist f&amp;uuml;r den Arbeitgeber erh&amp;ouml;ht sich mit den Jahren der Betriebszugeh&amp;ouml;rigkeit</description>
+  </component>
+    <component>
+    <id>choice_cm022be0l005d2a6ro2znu5tf</id>
+    <description lang="en-US">Jede K&amp;uuml;ndigung hat schriftlich zu erfolgen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://HWZZ6LC7wGS4pqlP8EwC5rJY_uN9RnMO_rise/txxT26DOzWwLZvyNGlxKoPPIcsLVWsCr/cm022c6uy00642a6r4foc24j8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die T&amp;auml;tigkeiten den entsprechenden Lohngruppen zu?</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cm022c6uy00652a6rwt9jylqr[.]target_cm022c6uy00652a6rwt9jylqr</correctResponsePattern>
+    <correctResponsePattern>source_cm022c6uy00662a6rce1unaf2[.]target_cm022c6uy00662a6rce1unaf2</correctResponsePattern>
+    <correctResponsePattern>source_cm022c6uy00672a6rvgpd7iol[.]target_cm022c6uy00672a6rvgpd7iol</correctResponsePattern>
+    <correctResponsePattern>source_cm022cm6f00682a6r37ziem1e[.]target_cm022cm6f00682a6r37ziem1e</correctResponsePattern>
+    <correctResponsePattern>source_cm022cpbg00692a6r0g9sp5ff[.]target_cm022cpbg00692a6r0g9sp5ff</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cm022c6uy00652a6rwt9jylqr</id>
+    <description lang="en-US">Werker: einfache Tätigkeiten am Bau nach Anweisung></description>
+  </component>
+    <component>
+    <id>source_cm022c6uy00662a6rce1unaf2</id>
+    <description lang="en-US">Fachwerker / Maschinist / Kranfahrer: fachlich begrenzte Tätigkeiten></description>
+  </component>
+    <component>
+    <id>source_cm022c6uy00672a6rvgpd7iol</id>
+    <description lang="en-US">Facharbeiter (Geselle): Facharbeiten des jeweiligen Berufsbildes></description>
+  </component>
+    <component>
+    <id>source_cm022cm6f00682a6r37ziem1e</id>
+    <description lang="en-US">Spezialfacharbeiter / Baumaschinenführer: Geselle mit Berufserfahrung></description>
+  </component>
+    <component>
+    <id>source_cm022cpbg00692a6r0g9sp5ff</id>
+    <description lang="en-US">Vorarbeiter: Führung einer kleinen Gruppe von Arbeitnehmern></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cm022c6uy00652a6rwt9jylqr</id>
+        <description lang="en-US">Lohngruppe 1</description>
+      </component>
+          <component>
+        <id>target_cm022c6uy00662a6rce1unaf2</id>
+        <description lang="en-US">Lohngruppe 2</description>
+      </component>
+          <component>
+        <id>target_cm022c6uy00672a6rvgpd7iol</id>
+        <description lang="en-US">Lohngruppe 3</description>
+      </component>
+          <component>
+        <id>target_cm022cm6f00682a6r37ziem1e</id>
+        <description lang="en-US">Lohngruppe 4</description>
+      </component>
+          <component>
+        <id>target_cm022cpbg00692a6r0g9sp5ff</id>
+        <description lang="en-US">Lohngruppe 5</description>
+      </component>
+      </target>
+  </activity>
+                    </activities>
+</tincan>

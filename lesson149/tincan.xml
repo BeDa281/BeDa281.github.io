@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://xO2tW4oD8WKqB0hRsjxPf0dnms4jrwHV_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Sparren und Lasten - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://xO2tW4oD8WKqB0hRsjxPf0dnms4jrwHV_rise/X-kkYLhFyfPL3BZdX1wCMunpKREhqQrV" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://xO2tW4oD8WKqB0hRsjxPf0dnms4jrwHV_rise/X-kkYLhFyfPL3BZdX1wCMunpKREhqQrV/cm022swdk000u2a6qkpvkfukj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie wird die Auflagerkraft des Sparrens berechnet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm022swdk000v2a6qa2q4wfvv</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm022swdk000v2a6qa2q4wfvv</id>
+    <description lang="en-US">Einwirkung der Lasten * Sparrenl&amp;auml;nge / 2</description>
+  </component>
+    <component>
+    <id>choice_cm022swdk000w2a6qn1eodssi</id>
+    <description lang="en-US">Einwirkung der Lasten * Sparrengrundma&amp;szlig; / 2</description>
+  </component>
+    <component>
+    <id>choice_cm022t9cp00102a6qlvohca59</id>
+    <description lang="en-US">Lasteinwirkung * Moment / Sparrenl&amp;auml;nge</description>
+  </component>
+    <component>
+    <id>choice_cm022txsl001m2a6qshhu2k4j</id>
+    <description lang="en-US">Lasteinwirkung / Einflussbreite * Pfettenabstand</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://xO2tW4oD8WKqB0hRsjxPf0dnms4jrwHV_rise/X-kkYLhFyfPL3BZdX1wCMunpKREhqQrV/cm022tumz001f2a6qz5ylm92n" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie ermitteln Sie das Moment des Sparrens?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm022tun0001g2a6qh4gpms3q</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm022tun0001g2a6qh4gpms3q</id>
+    <description lang="en-US">q * L&amp;sup2; / 8 (alte Formel)</description>
+  </component>
+    <component>
+    <id>choice_cm022tun0001h2a6qntdbacex</id>
+    <description lang="en-US">Fd * Sparrenl&amp;auml;nge&amp;sup2; / 8</description>
+  </component>
+    <component>
+    <id>choice_cm022u7u6001p2a6qt3lb8ard</id>
+    <description lang="en-US">Einwirkungen * Sparrenl&amp;auml;nge / 2</description>
+  </component>
+    <component>
+    <id>choice_cm022uubl00242a6qwld6vj6j</id>
+    <description lang="en-US">Fd&amp;sup2; / Sparrenl&amp;auml;nge * 8</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://xO2tW4oD8WKqB0hRsjxPf0dnms4jrwHV_rise/X-kkYLhFyfPL3BZdX1wCMunpKREhqQrV/cm022v4s8002b2a6qw48ruiyp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welchen Wert verwenden Sie f&amp;uuml;r die Lastannahme der Firstpfette?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm022v4s9002c2a6qikop9yni</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm022v4s9002c2a6qikop9yni</id>
+    <description lang="en-US">Auflagerkraft des Sparrens * 2 / Einflussbreite (Achsabstand der Sparren)</description>
+  </component>
+    <component>
+    <id>choice_cm022v4s9002d2a6qvveoracp</id>
+    <description lang="en-US">Auflagerkraft des Sparrens + Einwirkungen aus dem Dach&amp;uuml;berstand</description>
+  </component>
+    <component>
+    <id>choice_cm022vfv4002h2a6qczx4np3w</id>
+    <description lang="en-US">Auflagerkraft des Sparrens * Einflussbreite (Achsabstand der Sparren)</description>
+  </component>
+    <component>
+    <id>choice_cm022vmlh002m2a6qh415ubdh</id>
+    <description lang="en-US">Auflagerkraft des Sparrens &amp;ndash; Einwirkung aus dem Dach&amp;uuml;berstand</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://xO2tW4oD8WKqB0hRsjxPf0dnms4jrwHV_rise/X-kkYLhFyfPL3BZdX1wCMunpKREhqQrV/cm022vv97002p2a6qmz1ukp6x" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welchen Wert verwenden Sie f&amp;uuml;r die Lastannahme der Fu&amp;szlig;pfette?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm022v4s9002d2a6qvveoracp</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm022v4s9002c2a6qikop9yni</id>
+    <description lang="en-US">Auflagerkraft des Sparrens * 2 / Einflussbreite (Achsabstand der Sparren)</description>
+  </component>
+    <component>
+    <id>choice_cm022v4s9002d2a6qvveoracp</id>
+    <description lang="en-US">Auflagerkraft des Sparrens + Einwirkungen aus dem Dach&amp;uuml;berstand / Einflussbreite</description>
+  </component>
+    <component>
+    <id>choice_cm022vfv4002h2a6qczx4np3w</id>
+    <description lang="en-US">Auflagerkraft des Sparrens * Einflussbreite (Achsabstand der Sparren)</description>
+  </component>
+    <component>
+    <id>choice_cm022vmlh002m2a6qh415ubdh</id>
+    <description lang="en-US">Auflagerkraft des Sparrens &amp;ndash; Einwirkung aus dem Dach&amp;uuml;berstand</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://xO2tW4oD8WKqB0hRsjxPf0dnms4jrwHV_rise/X-kkYLhFyfPL3BZdX1wCMunpKREhqQrV/cm022we1a002r2a6qhcg8zcew" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bestimmen Sie die Werte f&amp;uuml;r einen Sparren 12 / 18 cm mit einer Kerventiefe von 3,5 cm.</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cm022we1a002s2a6qjm6hdpbg[.]target_cm022we1a002s2a6qjm6hdpbg</correctResponsePattern>
+    <correctResponsePattern>source_cm022we1a002t2a6qbw5k4sru[.]target_cm022we1a002t2a6qbw5k4sru</correctResponsePattern>
+    <correctResponsePattern>source_cm022we1a002u2a6qf34ps5gd[.]target_cm022we1a002u2a6qf34ps5gd</correctResponsePattern>
+    <correctResponsePattern>source_cm022wr0e002v2a6q38jf2ed3[.]target_cm022wr0e002v2a6q38jf2ed3</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cm022we1a002s2a6qjm6hdpbg</id>
+    <description lang="en-US">216 cm²></description>
+  </component>
+    <component>
+    <id>source_cm022we1a002t2a6qbw5k4sru</id>
+    <description lang="en-US">216 cm²></description>
+  </component>
+    <component>
+    <id>source_cm022we1a002u2a6qf34ps5gd</id>
+    <description lang="en-US">5832 cm⁴ ></description>
+  </component>
+    <component>
+    <id>source_cm022wr0e002v2a6q38jf2ed3</id>
+    <description lang="en-US">174 cm²></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cm022we1a002s2a6qjm6hdpbg</id>
+        <description lang="en-US">A</description>
+      </component>
+          <component>
+        <id>target_cm022we1a002t2a6qbw5k4sru</id>
+        <description lang="en-US">Wy</description>
+      </component>
+          <component>
+        <id>target_cm022we1a002u2a6qf34ps5gd</id>
+        <description lang="en-US">Iy</description>
+      </component>
+          <component>
+        <id>target_cm022wr0e002v2a6q38jf2ed3</id>
+        <description lang="en-US">AKerve</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://xO2tW4oD8WKqB0hRsjxPf0dnms4jrwHV_rise/X-kkYLhFyfPL3BZdX1wCMunpKREhqQrV/cm022zvgl000b2a6r75xjktn4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie lautet die Formel f&amp;uuml;r den Biegenachweis, Grenzzustand der Tragf&amp;auml;higkeit (GZT)?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm022zvgl000c2a6rq4lpf0y9</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm022zvgl000c2a6rq4lpf0y9</id>
+    <description lang="en-US">M&lt;sub&gt;d&lt;/sub&gt; * 1.000 / W&lt;sub&gt;y&lt;/sub&gt; / &lt;sub&gt;fm,d&lt;/sub&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm022zvgl000d2a6r54lbm9oz</id>
+    <description lang="en-US">V&lt;sub&gt;d&lt;/sub&gt; * 1.000 / A</description>
+  </component>
+    <component>
+    <id>choice_cm022zvh3000e2a6r4ysuffh3</id>
+    <description lang="en-US">M&lt;sub&gt;d&lt;/sub&gt; * f&lt;sub&gt;m,d&lt;/sub&gt; / W&lt;sub&gt;y&lt;/sub&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm0230h2w000g2a6rg0vghlrs</id>
+    <description lang="en-US">M&lt;sub&gt;d&lt;/sub&gt; / 1.000 &amp;gt; R&lt;sub&gt;d&lt;/sub&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://xO2tW4oD8WKqB0hRsjxPf0dnms4jrwHV_rise/X-kkYLhFyfPL3BZdX1wCMunpKREhqQrV/cm02318tj000j2a6rtp1jaooo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie lautet die Formel f&amp;uuml;r die Berechnung von Schub?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm02318tj000k2a6r7fh5x92j</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm02318tj000k2a6r7fh5x92j</id>
+    <description lang="en-US">1,5 * 10 * V&lt;sub&gt;d&lt;/sub&gt; / A&lt;sub&gt;Kerve&lt;/sub&gt; / (f&lt;sub&gt;v,d &lt;/sub&gt;* k&lt;sub&gt;cr&lt;/sub&gt;)</description>
+  </component>
+    <component>
+    <id>choice_cm02318tj000l2a6r640xvsbz</id>
+    <description lang="en-US">1,5 * M&lt;sub&gt;d&lt;/sub&gt; * A / W&lt;sub&gt;y&lt;/sub&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm0231wz3000p2a6rz309889t</id>
+    <description lang="en-US">V&lt;sub&gt;d&lt;/sub&gt; * 1.000 / A&lt;sub&gt;Kerve&lt;/sub&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm023237l000r2a6rhsyx4d3d</id>
+    <description lang="en-US">V&lt;sub&gt;d&lt;/sub&gt; / (f&lt;sub&gt;v,d&lt;/sub&gt; * k&lt;sub&gt;cr&lt;/sub&gt;)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://xO2tW4oD8WKqB0hRsjxPf0dnms4jrwHV_rise/X-kkYLhFyfPL3BZdX1wCMunpKREhqQrV/cm0232mc4000u2a6rktkxbpdu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie lauten die Nachweise f&amp;uuml;r den Biegenachweis und den Schub?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm0232mc5000v2a6rp7edmfgr</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm0232mc5000v2a6rp7edmfgr</id>
+    <description lang="en-US">Die Einwirkung muss kleiner sein als der Widerstand</description>
+  </component>
+    <component>
+    <id>choice_cm0232mc5000w2a6rx4d9e6xy</id>
+    <description lang="en-US">Die Einwirkung muss gr&amp;ouml;&amp;szlig;er sein als der Widerstand</description>
+  </component>
+    <component>
+    <id>choice_cm0232x4s00102a6rbu1eqmk2</id>
+    <description lang="en-US">Der Widerstand darf kleiner sein als die Einwirkung</description>
+  </component>
+    <component>
+    <id>choice_cm023300600122a6rtn8utill</id>
+    <description lang="en-US">Die Summe von Widerstand und Einwirkung ergibt immer 0,0</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://xO2tW4oD8WKqB0hRsjxPf0dnms4jrwHV_rise/X-kkYLhFyfPL3BZdX1wCMunpKREhqQrV/cm02337fg00152a6rzclgkk1d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Werte ben&amp;ouml;tigen Sie f&amp;uuml;r die Berechnung der Gebrauchstauglichkeit?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm02337fg00162a6ra2xwi3no</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm02337fg00162a6ra2xwi3no</id>
+    <description lang="en-US">0,5 / 384 *&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cm02337fg00172a6rrw5p73m5</id>
+    <description lang="en-US">(Einwirkung * L&lt;sup&gt;4&lt;/sup&gt;)</description>
+  </component>
+    <component>
+    <id>choice_cm02342dn001p2a6rju23vqbu</id>
+    <description lang="en-US">(E&lt;sub&gt;0,mean&lt;/sub&gt; * I&lt;sub&gt;y&lt;/sub&gt;)</description>
+  </component>
+    <component>
+    <id>choice_cm023453l001r2a6r0hwp5q84</id>
+    <description lang="en-US">M&lt;sub&gt;d&lt;/sub&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://xO2tW4oD8WKqB0hRsjxPf0dnms4jrwHV_rise/X-kkYLhFyfPL3BZdX1wCMunpKREhqQrV/cm0234oyc001u2a6r3c314mkw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wieso verwenden wir in der Formel f&amp;uuml;r die Gebrauchstauglichkeit den Wert 0,5/384, obwohl im Eurocode der Wert 5/384 steht?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm0234oyd001v2a6riqpdr6a9</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm0234oyd001v2a6riqpdr6a9</id>
+    <description lang="en-US">Die Umrechnung von mm auf cm ist hier ber&amp;uuml;cksichtigt</description>
+  </component>
+    <component>
+    <id>choice_cm0234oyd001w2a6rnt81skwe</id>
+    <description lang="en-US">Die Umrechnung von kg auf Newton ist hier ber&amp;uuml;cksichtig</description>
+  </component>
+    <component>
+    <id>choice_cm02357hc00202a6rr7huhgcj</id>
+    <description lang="en-US">Wir nehmen 10-fache Sicherheiten an</description>
+  </component>
+    <component>
+    <id>choice_cm0235afe00222a6rzhpi25y8</id>
+    <description lang="en-US">Die maximale Durchbiegung darf ein Zehntel der Balkenl&amp;auml;nge betragen</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

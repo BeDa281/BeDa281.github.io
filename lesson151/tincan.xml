@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://pDadEcsn68tdSaQCbmv6fupMkboK_2vT_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Tarifvertrag Bau (DA) - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://pDadEcsn68tdSaQCbmv6fupMkboK_2vT_rise/i_KIebkVAVM-tLeB7Su3UVu3nVxR_NPO" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://pDadEcsn68tdSaQCbmv6fupMkboK_2vT_rise/i_KIebkVAVM-tLeB7Su3UVu3nVxR_NPO/cm022f4k4001a2a6rdjlbcfd9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen zur Allgemeinverbindlichkeit des Tarifvertrages sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm022f4k4001b2a6rka5gexd9</correctResponsePattern>
+    <correctResponsePattern>choice_cm022f4k4001d2a6r2wn45pgu</correctResponsePattern>
+    <correctResponsePattern>choice_cm022f4k4001e2a6rj6hwo2ai</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm022f4k4001b2a6rka5gexd9</id>
+    <description lang="en-US">Tarifvertr&amp;auml;ge k&amp;ouml;nnen durch eine Allgemeinverbindlicherkl&amp;auml;rung auf Arbeitgeber und Arbeitnehmer ausgedehnt werden, die selber nicht Mitglied der Tarifvertragsparteien sind.</description>
+  </component>
+    <component>
+    <id>choice_cm022f4k4001d2a6r2wn45pgu</id>
+    <description lang="en-US">Das Bundesministerium f&amp;uuml;r Arbeit und Soziales erkl&amp;auml;rt den Tarifvertrag f&amp;uuml;r Allgemeinverbindlich</description>
+  </component>
+    <component>
+    <id>choice_cm022f4k4001e2a6rj6hwo2ai</id>
+    <description lang="en-US">Nach jeder &amp;Auml;nderung an einem Tarifvertrag muss dieser erneut f&amp;uuml;r allgemeinverbindlich erkl&amp;auml;rt werden.</description>
+  </component>
+    <component>
+    <id>choice_cm022f4k4001c2a6rb8851plm</id>
+    <description lang="en-US">Die Vertragsparteien einigen sich auf Allgemeine Verbindlichkeiten gegen&amp;uuml;ber den Arbeitgebern</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://pDadEcsn68tdSaQCbmv6fupMkboK_2vT_rise/i_KIebkVAVM-tLeB7Su3UVu3nVxR_NPO/cm022fu9u001l2a6r7vp6idy5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wer sind die Tarifvertragsparteien der Dachdecker?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm022fu9u001m2a6ro4ck4auc</correctResponsePattern>
+    <correctResponsePattern>choice_cm022fu9u001o2a6rildeekva</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm022fu9u001m2a6ro4ck4auc</id>
+    <description lang="en-US">Zentralverband des Deutschen Dachdeckerhandwerks</description>
+  </component>
+    <component>
+    <id>choice_cm022fu9u001o2a6rildeekva</id>
+    <description lang="en-US">Industriegewerkschaft Bauen-Agrag-Umwelt (IG BAU)</description>
+  </component>
+    <component>
+    <id>choice_cm022fu9u001p2a6r01rr92bj</id>
+    <description lang="en-US">Bundeministerium f&amp;uuml;r Wirtschaft, Arbeit und Soziales</description>
+  </component>
+    <component>
+    <id>choice_cm022fu9u001n2a6rr2gabpfo</id>
+    <description lang="en-US">Industriegewerkschaft Flachdach, Fassade und Steildach (IG FFS)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://pDadEcsn68tdSaQCbmv6fupMkboK_2vT_rise/i_KIebkVAVM-tLeB7Su3UVu3nVxR_NPO/cm022gdpq00282a6r4tgcu76p" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was bedeutet Tarifautonomie?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm022gdpq00292a6r89kdon3n</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm022gdpq00292a6r89kdon3n</id>
+    <description lang="en-US">Bei der Ausgestaltung und Verabschiedung von Tarifvertr&amp;auml;gen handeln die Tarifvertragsparteien unabh&amp;auml;ngig vom Staat</description>
+  </component>
+    <component>
+    <id>choice_cm022gdpq002a2a6rkn3dy1li</id>
+    <description lang="en-US">Die Vertragsparteien einigen sich mit dem Bundesministerium auf einen Tarifvertrag</description>
+  </component>
+    <component>
+    <id>choice_cm022gq0r002e2a6rx9ryiqye</id>
+    <description lang="en-US">Der Tarifvertrag wird von Autonomen Gruppen der Gesellschaft ausgehandelt</description>
+  </component>
+    <component>
+    <id>choice_cm022gt50002g2a6rqyrp6x7p</id>
+    <description lang="en-US">Ein Tarifvertrag wird automatisch verl&amp;auml;ngert, wenn kein neuer Vertrag geschlossen wurde</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://pDadEcsn68tdSaQCbmv6fupMkboK_2vT_rise/i_KIebkVAVM-tLeB7Su3UVu3nVxR_NPO/cm022hag4002j2a6rzsnag61w" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die verschiedenen Geltungsbereiche des Tarifvertrages zu:</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cm022hag4002k2a6rwzmkf9v1[.]target_cm022hag4002k2a6rwzmkf9v1</correctResponsePattern>
+    <correctResponsePattern>source_cm022hag4002l2a6rak334vhh[.]target_cm022hag4002l2a6rak334vhh</correctResponsePattern>
+    <correctResponsePattern>source_cm022hag4002m2a6r5ohgeokh[.]target_cm022hag4002m2a6r5ohgeokh</correctResponsePattern>
+    <correctResponsePattern>source_cm022ht0w002n2a6rjnc6e3bd[.]target_cm022ht0w002n2a6rjnc6e3bd</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cm022hag4002k2a6rwzmkf9v1</id>
+    <description lang="en-US">Räumlicher Geltungsbereich  ></description>
+  </component>
+    <component>
+    <id>source_cm022hag4002l2a6rak334vhh</id>
+    <description lang="en-US">Betrieblicher Geltungsbereich></description>
+  </component>
+    <component>
+    <id>source_cm022hag4002m2a6r5ohgeokh</id>
+    <description lang="en-US">Persönlicher Geltungsbereich></description>
+  </component>
+    <component>
+    <id>source_cm022ht0w002n2a6rjnc6e3bd</id>
+    <description lang="en-US">Zeitlicher Geltungsbereich></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cm022hag4002k2a6rwzmkf9v1</id>
+        <description lang="en-US">Im Gebiet der Bundesrepublik Deutschland</description>
+      </component>
+          <component>
+        <id>target_cm022hag4002l2a6rak334vhh</id>
+        <description lang="en-US">Betriebe des Dachdeckerhandwerks</description>
+      </component>
+          <component>
+        <id>target_cm022hag4002m2a6r5ohgeokh</id>
+        <description lang="en-US">Gewerbliche Arbeitnehmer</description>
+      </component>
+          <component>
+        <id>target_cm022ht0w002n2a6rjnc6e3bd</id>
+        <description lang="en-US">Dauer der Gültigkeit des Vertrages</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://pDadEcsn68tdSaQCbmv6fupMkboK_2vT_rise/i_KIebkVAVM-tLeB7Su3UVu3nVxR_NPO/cm022idyd002o2a6rxz7jyh3e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie sind die tariflichen Arbeitszeiten geregelt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm022idyd002p2a6rr0ursczu</correctResponsePattern>
+    <correctResponsePattern>choice_cm022idyd002s2a6r0e1pemb4</correctResponsePattern>
+    <correctResponsePattern>choice_cm022idyd002r2a6ra4fj2b9y</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm022idyd002p2a6rr0ursczu</id>
+    <description lang="en-US">In der Zeit von der 1. bis zur 17. Kalenderwoche sowie von der 49. Kalenderwoche bis zum Jahresende betr&amp;auml;gt die w&amp;ouml;chentliche Arbeitszeit 37,5 Stunden</description>
+  </component>
+    <component>
+    <id>choice_cm022idyd002r2a6ra4fj2b9y</id>
+    <description lang="en-US">In der Zeit von der 18. bis zur 48. Kalenderwoche betr&amp;auml;gt die regelm&amp;auml;&amp;szlig;ige w&amp;ouml;chentliche Arbeitszeit 40 Stunden</description>
+  </component>
+    <component>
+    <id>choice_cm022idyd002s2a6r0e1pemb4</id>
+    <description lang="en-US">Die regelm&amp;auml;&amp;szlig;ige durchschnittliche w&amp;ouml;chentliche Arbeitszeit im Kalenderjahr betr&amp;auml;gt 39 Stunden</description>
+  </component>
+    <component>
+    <id>choice_cm022idyd002q2a6r31borxoz</id>
+    <description lang="en-US">Wochenarbeitszeit Witterungsbedingt abh&amp;auml;ngig</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://pDadEcsn68tdSaQCbmv6fupMkboK_2vT_rise/i_KIebkVAVM-tLeB7Su3UVu3nVxR_NPO/cm022jana003i2a6rwwmlbxy9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Regelung gibt es f&amp;uuml;r &amp;Uuml;berstunden im Dachdeckerhandwerk?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm022jana003j2a6rmeqj60xw</correctResponsePattern>
+    <correctResponsePattern>choice_cm022jana003l2a6ruht65nvt</correctResponsePattern>
+    <correctResponsePattern>choice_cm022jana003m2a6rs7t5y74v</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm022jana003j2a6rmeqj60xw</id>
+    <description lang="en-US">&amp;Uuml;berstunden werden auf ein Ausgleichskonto gutgeschrieben</description>
+  </component>
+    <component>
+    <id>choice_cm022jana003l2a6ruht65nvt</id>
+    <description lang="en-US">Die ersten 150 &amp;Uuml;berstunden bleiben Zuschlagsfrei (kein &amp;Uuml;berstunden-Zuschlag)</description>
+  </component>
+    <component>
+    <id>choice_cm022jana003m2a6rs7t5y74v</id>
+    <description lang="en-US">Wird ein Guthaben von 150 Stunden auf dem Ausgleichskonto erreicht, so ist der Lohn f&amp;uuml;r die dar&amp;uuml;berhinausgehenden Stunden neben dem Monatslohn auszuzahlen</description>
+  </component>
+    <component>
+    <id>choice_cm022jana003k2a6rkbs02tgz</id>
+    <description lang="en-US">Die t&amp;auml;gliche Arbeitszeit darf im Normalfall 8 Stunden nicht &amp;uuml;berschreiten</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://pDadEcsn68tdSaQCbmv6fupMkboK_2vT_rise/i_KIebkVAVM-tLeB7Su3UVu3nVxR_NPO/cm022k6w3003t2a6rnlwx4h2y" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen zu Zuschl&amp;auml;gen sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm022k6w4003u2a6rg50u85mk</correctResponsePattern>
+    <correctResponsePattern>choice_cm022k6w4003x2a6rovej0ukb</correctResponsePattern>
+    <correctResponsePattern>choice_cm022k6w4003w2a6rub3ng3om</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm022k6w4003u2a6rg50u85mk</id>
+    <description lang="en-US">Zuschlagspflichtige Nachtarbeit ist die Arbeit, die in der Zeit von 20.00 Uhr bis 5.00 Uhr geleistet wird</description>
+  </component>
+    <component>
+    <id>choice_cm022k6w4003w2a6rub3ng3om</id>
+    <description lang="en-US">Die an Sonn- und Feiertagen in der Zeit von 0.00 Uhr bis 24.00 Uhr geleistete Arbeit ist zuschlagspflichtig</description>
+  </component>
+    <component>
+    <id>choice_cm022k6w4003x2a6rovej0ukb</id>
+    <description lang="en-US">Der Zuschlag f&amp;uuml;r Nachtarbeit betr&amp;auml;gt 20 %.</description>
+  </component>
+    <component>
+    <id>choice_cm022k6w4003v2a6rcs2ah3ax</id>
+    <description lang="en-US">Zuschl&amp;auml;ge f&amp;uuml;r &amp;Uuml;berstunden sind eine freiwillige Sache des Arbeitgebers</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://pDadEcsn68tdSaQCbmv6fupMkboK_2vT_rise/i_KIebkVAVM-tLeB7Su3UVu3nVxR_NPO/cm022kxz300442a6rjeqe6okh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie ermittelt sich der Urlaubsanspruch im Dachdeckerhandwerk?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm022kxz300452a6r2j2rghmi</correctResponsePattern>
+    <correctResponsePattern>choice_cm022kxz300482a6rc4561aes</correctResponsePattern>
+    <correctResponsePattern>choice_cm022kxz300472a6rofmz992t</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm022kxz300452a6r2j2rghmi</id>
+    <description lang="en-US">Die Dauer des Jahresurlaubs wird nach der Dauer der Gewerkzugeh&amp;ouml;rigkeit bemessen</description>
+  </component>
+    <component>
+    <id>choice_cm022kxz300472a6rofmz992t</id>
+    <description lang="en-US">Die Mindest-Urlaubsdauer betr&amp;auml;gt 26 Arbeitstage.</description>
+  </component>
+    <component>
+    <id>choice_cm022kxz300482a6rc4561aes</id>
+    <description lang="en-US">Samstage gelten nicht als Arbeitstage</description>
+  </component>
+    <component>
+    <id>choice_cm022kxz300462a6rh9vi1p8j</id>
+    <description lang="en-US">Der Urlaubsanspruch betr&amp;auml;gt immer 30 Tage, unabh&amp;auml;ngig von der Dauer der Gewerkszugeh&amp;ouml;rigkeit</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://pDadEcsn68tdSaQCbmv6fupMkboK_2vT_rise/i_KIebkVAVM-tLeB7Su3UVu3nVxR_NPO/cm022lpxj005k2a6rd579jonx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Regelungen kennen Sie bez&amp;uuml;glich K&amp;uuml;ndigungsfristen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm022lpxj005l2a6r3un4pwyz</correctResponsePattern>
+    <correctResponsePattern>choice_cm022lpxj005m2a6rq8ronn61</correctResponsePattern>
+    <correctResponsePattern>choice_cm022lpxj005o2a6rme89d7vx</correctResponsePattern>
+    <correctResponsePattern>choice_cm022lpxj005n2a6re1wmwo0x</correctResponsePattern>
+    <correctResponsePattern>choice_cm022moh000632a6r7f04pzf7</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm022lpxj005l2a6r3un4pwyz</id>
+    <description lang="en-US">Das Arbeitsverh&amp;auml;ltnis kann bis zu einer Besch&amp;auml;ftigungsdauer von drei Jahren beiderseitig mit einer Frist von 12 Werktagen gek&amp;uuml;ndigt werden</description>
+  </component>
+    <component>
+    <id>choice_cm022lpxj005n2a6re1wmwo0x</id>
+    <description lang="en-US">Die K&amp;uuml;ndigungsfrist f&amp;uuml;r den Arbeitgeber erh&amp;ouml;ht sich mit den Jahren der Betriebszugeh&amp;ouml;rigkeit</description>
+  </component>
+    <component>
+    <id>choice_cm022lpxj005o2a6rme89d7vx</id>
+    <description lang="en-US">Jede K&amp;uuml;ndigung hat schriftlich zu erfolgen</description>
+  </component>
+    <component>
+    <id>choice_cm022lpxj005m2a6rq8ronn61</id>
+    <description lang="en-US">Das Arbeitsverh&amp;auml;ltnis eines Arbeitnehmers kann mit einer Frist von vier Wochen zum F&amp;uuml;nfzehnten oder zum Ende eines Kalendermonats gek&amp;uuml;ndigt werden</description>
+  </component>
+    <component>
+    <id>choice_cm022moh000632a6r7f04pzf7</id>
+    <description lang="en-US">Es gilt die Regelung des B&amp;uuml;rgerlichen Gesetzbuches (BGB)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://pDadEcsn68tdSaQCbmv6fupMkboK_2vT_rise/i_KIebkVAVM-tLeB7Su3UVu3nVxR_NPO/cm022naso008t2a6rwau4xyxb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die T&amp;auml;tigkeiten den entsprechenden Lohngruppen zu?</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cm022naso008u2a6r9yb7d9ux[.]target_cm022naso008u2a6r9yb7d9ux</correctResponsePattern>
+    <correctResponsePattern>source_cm022naso008v2a6rh030uiky[.]target_cm022naso008v2a6rh030uiky</correctResponsePattern>
+    <correctResponsePattern>source_cm022naso008w2a6rzrbnc7z5[.]target_cm022naso008w2a6rzrbnc7z5</correctResponsePattern>
+    <correctResponsePattern>source_cm022ns9n008x2a6rxev76k9t[.]target_cm022ns9n008x2a6rxev76k9t</correctResponsePattern>
+    <correctResponsePattern>source_cm022ntm5008y2a6r6gbd69wy[.]target_cm022ntm5008y2a6r6gbd69wy</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cm022naso008u2a6r9yb7d9ux</id>
+    <description lang="en-US">Dachdeckerhelfer: einfache Tätigkeiten im Dachdeckerhandwerk nach Anweisung></description>
+  </component>
+    <component>
+    <id>source_cm022naso008v2a6rh030uiky</id>
+    <description lang="en-US">Dachdecker-Fachhelfer: Arbeiten ohne abgeschlossene Berufsausbildung></description>
+  </component>
+    <component>
+    <id>source_cm022naso008w2a6rzrbnc7z5</id>
+    <description lang="en-US">Dachdecker-Junggeselle: Arbeitnehmer in ersten 2 Jahren nach bestandener Gesellenprüfung></description>
+  </component>
+    <component>
+    <id>source_cm022ns9n008x2a6rxev76k9t</id>
+    <description lang="en-US">Dachdecker-Geselle: Arbeitnehmer nach 2-jähriger Tätigkeit als Dachdecker-Junggeselle></description>
+  </component>
+    <component>
+    <id>source_cm022ntm5008y2a6r6gbd69wy</id>
+    <description lang="en-US">Dachdecker-Fachgeselle: Selbständig tätiger Geselle mit mind. 3-jähriger Berufserfahrung></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cm022naso008u2a6r9yb7d9ux</id>
+        <description lang="en-US">Lohngruppe 1</description>
+      </component>
+          <component>
+        <id>target_cm022naso008v2a6rh030uiky</id>
+        <description lang="en-US">Lohngruppe 2</description>
+      </component>
+          <component>
+        <id>target_cm022naso008w2a6rzrbnc7z5</id>
+        <description lang="en-US">Lohngruppe 3</description>
+      </component>
+          <component>
+        <id>target_cm022ns9n008x2a6rxev76k9t</id>
+        <description lang="en-US">Lohngruppe 4</description>
+      </component>
+          <component>
+        <id>target_cm022ntm5008y2a6r6gbd69wy</id>
+        <description lang="en-US">Lohngruppe 5</description>
+      </component>
+      </target>
+  </activity>
+                    </activities>
+</tincan>
