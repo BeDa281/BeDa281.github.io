@@ -44,6 +44,7 @@
   <interactionType>choice</interactionType>
   <correctResponsePatterns>
     <correctResponsePattern>choice_cm022tun0001g2a6qh4gpms3q</correctResponsePattern>
+    <correctResponsePattern>choice_cm022uubl00242a6qwld6vj6j</correctResponsePattern>
     </correctResponsePatterns>
     <choices>
     <component>
@@ -136,7 +137,7 @@
   </component>
     <component>
     <id>source_cm022we1a002t2a6qbw5k4sru</id>
-    <description lang="en-US">216 cm²></description>
+    <description lang="en-US">684cm²></description>
   </component>
     <component>
     <id>source_cm022we1a002u2a6qf34ps5gd</id>
@@ -254,6 +255,8 @@
   <interactionType>choice</interactionType>
   <correctResponsePatterns>
     <correctResponsePattern>choice_cm02337fg00162a6ra2xwi3no</correctResponsePattern>
+    <correctResponsePattern>choice_cm02337fg00172a6rrw5p73m5</correctResponsePattern>
+    <correctResponsePattern>choice_cm02342dn001p2a6rju23vqbu</correctResponsePattern>
     </correctResponsePatterns>
     <choices>
     <component>
