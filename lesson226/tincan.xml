@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://fS7E-Yv-3sfI7ifB2aVLblZkuaCIETKt_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Statik (DA) - Quiz 1</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://fS7E-Yv-3sfI7ifB2aVLblZkuaCIETKt_rise/fmHWbM_qyX1t7zAc82YMkKHsa0i59Mrn" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://fS7E-Yv-3sfI7ifB2aVLblZkuaCIETKt_rise/fmHWbM_qyX1t7zAc82YMkKHsa0i59Mrn/cm3ejt5t7000l2a6v8px99gy4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;73d14aee-c6f5-4d63-b039-d6132a1f3333&#34;&gt;Was versteht man in der Statik unter Gleichgewicht der Kräfte?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ejt5t7000m2a6v6soo9c2m</correctResponsePattern>
+    <correctResponsePattern>choice_cm3ejt5t7000n2a6vjgkjgmam</correctResponsePattern>
+    <correctResponsePattern>choice_cm3ejt5to000o2a6ve5i56gt3</correctResponsePattern>
+    <correctResponsePattern>choice_cm3ejudbr000t2a6vtahc72zv</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ejt5t7000m2a6v6soo9c2m</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;d587d17b-9a43-441b-9411-1878527261de&#34;&gt;Kraft nach links = Kraft nach rechts&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejt5t7000n2a6vjgkjgmam</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;f16fc4e1-0aee-42aa-aabc-97b4f35aa214&#34;&gt;Kraft von oben = Kraft von unten&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejt5to000o2a6ve5i56gt3</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;76f0159a-0c50-4203-bc1d-daaf20e303d6&#34;&gt;Kraft = Gegenkraft&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejudbr000t2a6vtahc72zv</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;3dd54253-4459-46d2-970a-f49477be88b9&#34;&gt;Jeder Kraft erzeugt eine Gegenkraft von gleicher größer in umgekehrter Richtung&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://fS7E-Yv-3sfI7ifB2aVLblZkuaCIETKt_rise/fmHWbM_qyX1t7zAc82YMkKHsa0i59Mrn/cm3ejv1ll000y2a6ves2hpq2u" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;d449a6ec-b941-45eb-9e04-41cbb7a77470&#34;&gt;1 KN entspricht&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ejvf8p00132a6vdi0lusn5</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ejv1lm000z2a6vehc99ou8</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;7efff1c7-febd-4d85-ae33-5a5e14790a47&#34;&gt;1kg&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejv1lm00102a6vx79nlhex</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;43a3c874-887c-48c1-8997-83157553af41&#34;&gt;1 Tonne&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejv1m000112a6v3xi7z5au</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;e14dcbb1-3b6a-4f12-b4fe-6116003af089&#34;&gt;10 kg&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejvf8p00132a6vdi0lusn5</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;f303d094-7ee6-4361-8533-8a7e5f5e004c&#34;&gt;100 kg&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://fS7E-Yv-3sfI7ifB2aVLblZkuaCIETKt_rise/fmHWbM_qyX1t7zAc82YMkKHsa0i59Mrn/cm3ejvr0q00162a6vbobqsb4h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;4b9113c4-b255-410d-bb81-3f602a4efe7b&#34;&gt;Auf einem Flachdach mit gleichmäßig verteilter Kiesschüttung wird diese aus Sanierungsgründen in der Mitte zusammengeschoben.&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ejvr0q00172a6v4yb4hboy</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ejvr0q00172a6v4yb4hboy</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;210e34aa-8a0a-4165-ae21-03fb74bb6e9f&#34;&gt;Das Moment aus Kieslast verdoppelt sich plötzlich&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejvr0q00182a6ve2ewp20t</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;eaa07646-a84b-449f-84f9-2eea5a784a55&#34;&gt;Das Moment bleibt gleich&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejvr1400192a6va13i44rq</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;59d9d46d-f712-4d80-8ee4-fe6817bce1c8&#34;&gt;Das Moment halbiert sich&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejwf6b001b2a6voyhzzhvp</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;6373e728-b965-4e5d-a3a3-cc0a82afc9db&#34;&gt;Das Moment wandert von der Mitte an den Rand&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://fS7E-Yv-3sfI7ifB2aVLblZkuaCIETKt_rise/fmHWbM_qyX1t7zAc82YMkKHsa0i59Mrn/cm3ejwyq1001e2a6vv0l2jm59" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;985ed016-26b8-425f-b5db-032e793c1547&#34;&gt;Auf einem Flachdach mit gleichmäßig verteilter Kiesschüttung wird diese aus Sanierungsgründen in der Mitte zusammengeschoben.&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ejwyq1001f2a6vsk3xuchs</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ejwyq1001f2a6vsk3xuchs</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;d13490d2-f67c-46ed-ab4d-8f1c77ecb180&#34;&gt;Die Auflagerkräfte A und B ändern sich nicht&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejwyq1001g2a6vqzm0sb94</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;fe505617-e550-48da-ad24-95b20b7e7ad9&#34;&gt;Die Auflagerkräfte A und B verdoppeln sich&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejwyqg001h2a6vfrl4nioc</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;df6d511b-d7ec-4b79-a5bf-cc4fcac53be7&#34;&gt;Die Auflagerkräfte werden kleiner&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejxs7d001j2a6v837e3rkd</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;2321fa08-2ba3-4754-b68b-370d43296ef2&#34;&gt;Die Auflagerkräfte verschwinden und werden 0&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://fS7E-Yv-3sfI7ifB2aVLblZkuaCIETKt_rise/fmHWbM_qyX1t7zAc82YMkKHsa0i59Mrn/cm3ejy61p001m2a6vv9p5nu75" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;fb840012-7418-4eb0-ae4b-6b5a2e28de1a&#34;&gt;Welche Aussagen sind richtig?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ejy61p001n2a6vm7fh5msg</correctResponsePattern>
+    <correctResponsePattern>choice_cm3ejy623001p2a6vndjn3g8u</correctResponsePattern>
+    <correctResponsePattern>choice_cm3ejy61p001o2a6vllc2aqwa</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ejy61p001n2a6vm7fh5msg</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;78b354eb-3b0a-41a6-8baa-ae915ab990bc&#34;&gt;Die Schneelast wirkt senkrecht von oben nach unten&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejy61p001o2a6vllc2aqwa</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;14800ea9-f17a-4726-b91a-0c9090c740b1&#34;&gt;Der Wind wirkt senkrecht zur Sparrenachse in voller Sparrenlänge&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejy623001p2a6vndjn3g8u</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;2886287d-e337-4e19-a414-d483b4633f7c&#34;&gt;Das Eigengewicht wirkt vertikal nach unten in voller Sparrenlänge&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejyqbe001r2a6vcr9ul0cq</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;0967d7d2-4c32-42e8-8d06-6bcc9f900c8c&#34;&gt;Das Eigengewicht wirkt senkrecht zur Sparrenachse&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://fS7E-Yv-3sfI7ifB2aVLblZkuaCIETKt_rise/fmHWbM_qyX1t7zAc82YMkKHsa0i59Mrn/cm3ejz9um001z2a6vxtlkitp1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;70e9a264-6e16-4b65-b25d-1bc60234dab2&#34;&gt;Das Balkongeländert wiegt 1 KN. Der Balkon ist ein 1m lang. Wie groß ist das Moment?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ejz9um00212a6vaphrn9nu</correctResponsePattern>
+    <correctResponsePattern>choice_cm3ejz9v900222a6vq3pe1ojj</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ejz9um00202a6vdn0ezw63</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;82056b2b-316b-4525-9eba-0c815ab276a5&#34;&gt;1 KN/m&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejz9um00212a6vaphrn9nu</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;aae5d5c5-b824-43ec-ba0d-0e5d51eb0fa9&#34;&gt;1 KNm&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejz9v900222a6vq3pe1ojj</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;5f0cafd8-e54b-4830-944a-c5438ca8c63e&#34;&gt;1 KN*m&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ejzreu00242a6vhc2jm1ir</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;b600b26f-25c9-45be-84ed-3ec0177fa46f&#34;&gt;0&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://fS7E-Yv-3sfI7ifB2aVLblZkuaCIETKt_rise/fmHWbM_qyX1t7zAc82YMkKHsa0i59Mrn/cm3ek0bks002c2a6v9roxd37j" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;ca7e3e40-0753-43b3-b1ff-953e5872a5b7&#34;&gt;Auf einer Schrauben-Dübelpackung lesen Sie: Anzuziehen mit 60 Nm. Was bedeutet dies?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ek0bkt002d2a6vzne89p5x</correctResponsePattern>
+    <correctResponsePattern>choice_cm3ek0bkt002e2a6vydzvvju6</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ek0bkt002d2a6vzne89p5x</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;98c9d711-215e-46bc-95e8-5ba7598b2a04&#34;&gt;Sie nehmen einen 1 m langen Schraubenschlüssel und drücken am Ende mit einem Gewicht von 6 kg drauf.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek0bkt002f2a6vbdscrpyn</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;0c6bff10-055c-4f83-96fe-42e90b72ef62&#34;&gt;Sie nehmen einen 1 m langen Schraubenschlüssel und drücken am Ende mit einem Gewicht von 60 kg drauf.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek0bkt002g2a6v7d01ikex</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;497262ce-36db-4364-a391-fa96e0f15c27&#34;&gt;Sie nehmen einen 1 m langen Schraubenschlüssel und drücken am Ende mit einem Gewicht von 600 kg drauf.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek0bkt002e2a6vydzvvju6</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;34515bbe-d61f-40fd-841d-ae67dd175652&#34;&gt;Sie nehmen einen &amp;nbsp;25 cm langen Schraubenschlüsse drück am Ende mit einem Gewicht von 24 kg drauf.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://fS7E-Yv-3sfI7ifB2aVLblZkuaCIETKt_rise/fmHWbM_qyX1t7zAc82YMkKHsa0i59Mrn/cm3ek1kje002n2a6v5kbyfmnz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;74f8874d-8244-4547-af64-9925fc768f82&#34;&gt;Der Schnee schmilz und es bildet sich am untersten Ende des Sparrens am Schneefanggitter ein großer Stau von Schneemasse. Welche Aussage ist richtig?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ek1kjf002o2a6v2gqp6n8b</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ek1kjf002o2a6v2gqp6n8b</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;4b9e6554-048d-45a6-adc2-4a7c2a1b58df&#34;&gt;Das Moment des Sparrens auf Höhe der Fußpfette kann sich deutlich erhöhen, und ggf. zum Abbruch des Dachüberstandes führen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek1kjf002p2a6vsiyz75ro</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;d35e5436-181b-4579-8e6e-d27f442fbcf8&#34;&gt;Es passiert nichts, die Verhältnisse ändern sich nicht.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek1kkk002q2a6vxkygpqa1</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;e5e9a69b-88d5-4286-8640-7090e123823a&#34;&gt;Der Sparren könnten in Feldmitte nach unten durchbrechen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek2dsv002s2a6veu6a2ssy</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;4a3132d8-1a19-4d62-9cd2-c9c6ef916e92&#34;&gt;Der Sparren könnte sich in der Feldmitte stärker nach unten durchbiegen.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://fS7E-Yv-3sfI7ifB2aVLblZkuaCIETKt_rise/fmHWbM_qyX1t7zAc82YMkKHsa0i59Mrn/cm3ek2u6m002v2a6vxubhru7n" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;3f6c56d9-301e-47f6-93cf-88a24e1f9df5&#34;&gt;In einem Zugseil ziehen links 5 Personen mit zusammengenommen 5 KN Kraft, auf der rechten Seite ziehen 5 Personen mit zusammengenommen 5 KN Kraft. Es herrscht Gleichgewicht, das Zugseil bewegt sich nicht. Welche Antwort ist richtig?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ek2u6m002w2a6vtxbt64d5</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ek2u6m002w2a6vtxbt64d5</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;5ee1479a-018d-42e7-a935-53c60c8c8d52&#34;&gt;Das Zugseil muss eine Kraft von 5 KN aushalten, weil es mit nur 5 KN belastet wird&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek2u6m002x2a6viaceh6od</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;309d9eda-0476-4412-b558-c536f5cdcf60&#34;&gt;Das Zugseil muss eine Kraft von 10 KN aushalten, weil es mit 10 KN belastet wird.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://fS7E-Yv-3sfI7ifB2aVLblZkuaCIETKt_rise/fmHWbM_qyX1t7zAc82YMkKHsa0i59Mrn/cm3ek4djn003u2a6v2x0qppei" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;9b47c2dc-2d83-43df-9a63-f1a1adad801f&#34;&gt;Welche Aussagen zu Stahlbetondecken sind richtig?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ek4djn003v2a6vcoznq9tc</correctResponsePattern>
+    <correctResponsePattern>choice_cm3ek4djn003w2a6vwpzkvq1l</correctResponsePattern>
+    <correctResponsePattern>choice_cm3ek4djn003x2a6vuc3tdlde</correctResponsePattern>
+    <correctResponsePattern>choice_cm3ek4djn003y2a6vozztjyaw</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ek4djn003v2a6vcoznq9tc</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;54bb89e8-8d7e-4f68-82dc-d6bbc9e9c7a9&#34;&gt;Bei einem Balkon liegt die Bewehrung oben&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek4djn003x2a6vuc3tdlde</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;b715ad73-8337-4e62-b1da-cf942fb4b8f8&#34;&gt;Im Feld liegt die Bewehrung unten&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek4djn003y2a6vozztjyaw</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;a8c75941-7a43-412a-8842-bcfc5786e10b&#34;&gt;Über den tragenden Innenwänden liegt die Bewehrung oben&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek4djn003w2a6vwpzkvq1l</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;61fdd1f7-3d8c-4513-8227-2932356f6f6f&#34;&gt;Nichttragende Innenwände sollten erst eingebaut werden, wenn die Stahlbetondecke eingebaut ist, damit es keine unkontrollierten Lastumlagerungen gibt.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

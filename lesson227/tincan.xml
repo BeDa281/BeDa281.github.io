@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://qamVo7_FtB8weJTJrHcSl6qVpc63ijbE_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Statik (DA) - Quiz 2</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://qamVo7_FtB8weJTJrHcSl6qVpc63ijbE_rise/a2K_VdDIP-87x2NbBgQMoq25P4wXDy5x" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://qamVo7_FtB8weJTJrHcSl6qVpc63ijbE_rise/a2K_VdDIP-87x2NbBgQMoq25P4wXDy5x/cm3ek6g6w00112a6we3et7mlm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;b6dfcff1-1526-46a9-913a-f70363507032&#34;&gt;Worin besteht der statische Unterschied zwischen einem Pfettendach und einem Sparrendach?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ek6g6w00142a6wgdrxipsb</correctResponsePattern>
+    <correctResponsePattern>choice_cm3ek6g6w00152a6whz9u87bq</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ek6g6w00122a6wg3j626f7</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;8d675c41-986b-4af9-9c5a-b59ad28550c0&#34;&gt;Ein Pfettendach kann große Normalkräfte (Kräfte entlang der Sparrenachse) aufnehmen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek6g6w00142a6wgdrxipsb</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;79b98301-5a4e-4d69-b4f2-8f73991540c1&#34;&gt;Ein Pfettendach kann nur kleine Normalkräfte aufnehmen und diese über die Verbindung Kerve-Pfette ableiten.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek6g6w00152a6whz9u87bq</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;cb30fcfd-d2b7-4c74-b18a-1a9db43605dd&#34;&gt;Bei einem Sparrendach stützen sich die Sparren gegenseitig ab und erzeugen so große Kräfte entlang Ihrer Sparrenachse.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek6g6w00132a6wq330kjix</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;9e27fe4a-06f4-414f-8d78-257827882f18&#34;&gt;Bei einem Sparrendach entstehen nur geringe Normalkräfte.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qamVo7_FtB8weJTJrHcSl6qVpc63ijbE_rise/a2K_VdDIP-87x2NbBgQMoq25P4wXDy5x/cm3ek7eit001c2a6w3drcofhm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;c61630e5-0c3d-4259-b664-9a47d384663c&#34;&gt;Bei einem Durchlaufträger wird über dem Mittleren Auflager von oben ein Zapfenloch eingefräst. Welche Konsequenzen hat dies für den Durchlaufträger?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ek7eiu001f2a6wqstgfhxh</correctResponsePattern>
+    <correctResponsePattern>choice_cm3ek7eiu001g2a6wn5oeapdx</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ek7eiu001d2a6wtw5ly17l</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;891c3c22-f44f-4541-af0a-81adf35e5a97&#34;&gt;Keine&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek7eiu001f2a6wqstgfhxh</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;1fef1bf9-f23c-4260-ade0-c5f580e28898&#34;&gt;Der Durchlaufträger wird am mittleren Auflager empfindlich geschwächt.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek7eiu001g2a6wn5oeapdx</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;78a63538-3a19-4664-be8f-5f560b35056d&#34;&gt;Das Zapfenloch muss statisch berücksichtigt werden&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek7eiu001e2a6w99jyf4mo</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;1da4b356-a1f0-47f8-8e30-0bf37ac4c1f9&#34;&gt;Der Statiker muss nicht gefragt werden.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qamVo7_FtB8weJTJrHcSl6qVpc63ijbE_rise/a2K_VdDIP-87x2NbBgQMoq25P4wXDy5x/cm3ek8ooi001n2a6wmegwkhni" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;dfceae5b-6935-446a-8d72-55b1741795c1&#34;&gt;Wir betrachten das statische System Einfeldträger. Welche Aussage ist richtig?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ek8ooj001o2a6w8yvytsbh</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ek8ooj001o2a6w8yvytsbh</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;e1475301-92a4-4993-a0f2-073260eb9a18&#34;&gt;Die statische Länge entspricht dem Lichtmaß zwischen den beiden Wänden&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek8ooj001p2a6w05sn62hh</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;693d210a-9846-4b8d-8a6c-3f2e0a64f702&#34;&gt;Die statische Länge wird von Wandmitte zur Wandmitte angenommen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek8opq001q2a6wl1arkx9f</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;164734a0-c0be-42f6-bfa4-c75b5f5e327e&#34;&gt;Die statische Länge wird von Außenwand zu Außenwand angenommen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek93b0001s2a6wvenngmqu</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;9e39b058-df8a-4ba8-b491-3f678520f47b&#34;&gt;Die statische Länge entspricht dem Lichtmaß + 10 cm&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qamVo7_FtB8weJTJrHcSl6qVpc63ijbE_rise/a2K_VdDIP-87x2NbBgQMoq25P4wXDy5x/cm3ek9fak001v2a6wc363ys2b" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;153c1a1f-fef0-41c2-a1ed-ecc3d9d8202d&#34;&gt;Wie große ist das Moment bei einem Einfeldträger mit q = 2 kN/m und einer statische Länge von &amp;nbsp;6,0 m&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ek9fak001w2a6wgrc61agf</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ek9fak001w2a6wgrc61agf</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;6d36895c-522c-4b34-abb0-6da9cc88fd31&#34;&gt;9 KNm&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek9fak001x2a6w2g719mle</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;1f1f3a7e-4a86-42e6-bb14-63c7912cbb6c&#34;&gt;12KNm&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek9fay001y2a6wk0j8875w</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;8f467442-1f70-4bf2-9c6a-8c52983298b4&#34;&gt;24KNm&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ek9u5100202a6w400bv0gn</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;968a25ee-f798-45ea-8f2d-96ea191b15a0&#34;&gt;6KNm&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qamVo7_FtB8weJTJrHcSl6qVpc63ijbE_rise/a2K_VdDIP-87x2NbBgQMoq25P4wXDy5x/cm3eka7hp00232a6wix6pun9g" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;fb4b219e-51d1-4e65-8473-8057c434fb66&#34;&gt;Im Altbau betrachten Sie den Fußpunkt eines Sparrens stellen fest, dass dieser mit einem Versatz auf einem Deckenbalken befestigt ist. Welche Antwort ist richtig?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3eka7hp00262a6wrc8vu0oe</correctResponsePattern>
+    <correctResponsePattern>choice_cm3eka7hp00272a6wev2xrbbv</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3eka7hp00242a6wb8gsbxuf</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;ee61e236-c250-4dbe-b8f2-5065fcda7b21&#34;&gt;Es handelt sich voraussichtlich um ein Pfettendach&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3eka7hp00262a6wrc8vu0oe</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;20ebb605-b720-433f-b0c3-88872726cf07&#34;&gt;Es handelt sich voraussichtlich um ein Sparrendach&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3eka7hp00272a6wev2xrbbv</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;c45c90f4-8d9f-48f4-9250-8bf7b72fe6d8&#34;&gt;Es ist mit großen Kräften (Normalkräften) in der Sparrenachse zu rechnen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3eka7hp00252a6w4hj6m88g</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;39f94e2c-6301-4e61-9395-f7b77217b686&#34;&gt;Man kann bedenkenlos die Sparren durchtrennen und einen Dachausbau vornehmen.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qamVo7_FtB8weJTJrHcSl6qVpc63ijbE_rise/a2K_VdDIP-87x2NbBgQMoq25P4wXDy5x/cm3ekb9eg002e2a6wpco76u4u" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;078a9c26-40ee-4106-bdfd-6f46d438cdb6&#34;&gt;Wo entstehen bei einem Deckenbalken als Einfeldträger die größten Zugkräfte?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ekb9eg002g2a6wr3c0hgvt</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ekb9eg002f2a6w3q9xq120</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;0221c2fa-b802-49f3-b9d3-789f61f81634&#34;&gt;An der Oberseite des Balkens&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ekb9eg002g2a6wr3c0hgvt</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;4642088b-6a5e-451b-87c8-a5ae67be8709&#34;&gt;An der Unterseite des Balkens&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ekb9f4002h2a6wos56fjdk</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;e8bdbb0f-2df4-4c4c-9562-7c8d3a9444c0&#34;&gt;Genau in Balkenachse&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ekbn4y002j2a6w0ll2apk2</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;c2838f7d-2d06-40c1-bb7c-45023c13dc53&#34;&gt;Am Rand&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qamVo7_FtB8weJTJrHcSl6qVpc63ijbE_rise/a2K_VdDIP-87x2NbBgQMoq25P4wXDy5x/cm3ekbzcw002m2a6wf13g5cvd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;d4f341a8-e919-4143-a209-f9662d7bc49a&#34;&gt;Wo entstehen bei einem Deckenbalken als Zweifeldträger die größten Zugkräfte?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ekbzcw002o2a6wwbpaqw1g</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ekbzcw002n2a6wgqe1inki</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;2ad38222-ad0d-46cc-9aff-61f85f65ca0a&#34;&gt;An der Oberseite in Feldmitte &lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ekbzcw002o2a6wwbpaqw1g</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;d683f9cd-c3fe-4eaf-8787-9795720bf1ec&#34;&gt;An der Oberseite über der Stütze&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ekbzdb002p2a6w6e50l80i</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;659af8c9-6a00-4a92-b7f3-e9b5aa730f24&#34;&gt;An der Unterseite über der Stütze&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ekcdup002r2a6wt72ez0rc</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;5397399d-4ec1-48eb-87f4-6f0203022d79&#34;&gt;Am Rand&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qamVo7_FtB8weJTJrHcSl6qVpc63ijbE_rise/a2K_VdDIP-87x2NbBgQMoq25P4wXDy5x/cm3ekcq3m002u2a6wirrft2lp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;1ef16437-a666-4fcc-867c-c7a724575606&#34;&gt;Ein nachträglicher Dachausbau mit einer Schleppgaupe ist statisch leichter zu lösen wenn …&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ekcq3n002v2a6wyxslaelp</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ekcq3n002v2a6wyxslaelp</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;3e15afbd-9d26-4b41-b7e7-8e6c8a73b35a&#34;&gt;es sich um ein Pfettendach handelt, weil die Sparren nur geringe Normalkräfte aufweisen&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ekcq3n002w2a6wsp9x2xel</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;8fe4b145-afcf-4fe8-b89c-0bc701f03841&#34;&gt;es sich um ein Sparrendach handelt, weil die Sparren nur geringe Normalkräfte aufweisen&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qamVo7_FtB8weJTJrHcSl6qVpc63ijbE_rise/a2K_VdDIP-87x2NbBgQMoq25P4wXDy5x/cm3ekdbhz002y2a6wbg11ogrz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;6f5cf098-c7fc-43f3-976a-ce679eec98ba&#34;&gt;Darf sich ein Sparren oder ein Deckenbalken durchbiegen?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3ekdbie00312a6whaymhpa3</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3ekdbhz002z2a6wv4p2y2ls</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;1c003a76-0522-4f47-a715-9dc449b00446&#34;&gt;Auf keinen Fall, der Balken könnte brechen&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ekdbhz00302a6wmczkp068</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;70f50f3a-b593-4d10-b057-a9fe8beb5c87&#34;&gt;Ja, und zwar so weit, bis die Biegegrenze erreicht ist, und gesichert ist, dass der Balken nicht &amp;nbsp;bricht.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ekdbie00312a6whaymhpa3</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;ae3740dc-0f75-4c3a-a957-f1a6ab6be157&#34;&gt;Ja, und zwar nach Absprache mit dem Bauherren bzw. Statiker, meistens ca. Länge / 300&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3ekdwjc00332a6wewli5bjz</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;33e2d169-5e7d-4998-90e2-4ccca493e9c7&#34;&gt;Ja, das 1000-stel der Balkenlänge&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qamVo7_FtB8weJTJrHcSl6qVpc63ijbE_rise/a2K_VdDIP-87x2NbBgQMoq25P4wXDy5x/cm3eke8vz00362a6wxw072ko7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;dc6c723c-737c-416d-b2e1-71596cf62e3f&#34;&gt;In einem Raum mit Deckenbalken und Balkenlänge von 6 Metern sehen Sie 1 Jahr nach der Fertigstellung, dass sich der Balken in der Mitte um 1 cm durchgebogen hat. Der Balken wurde trocken eingebaut. Welche Aussage ist richtig?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm3eke8w000392a6wjjfu7mj3</correctResponsePattern>
+    <correctResponsePattern>choice_cm3eke8w000382a6wnnu0zu0c</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm3eke8w000372a6wt86qyazv</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;faa5ab5f-71a6-481c-ad68-c2bad7232b9b&#34;&gt;Der Balken wird sich im Laufe der Zeit immer weiter durchbiegen und wird brechen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3eke8w000392a6wjjfu7mj3</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;6ffe87ab-b3be-492c-bb63-9c2b96123c02&#34;&gt;Die Durchbiegung ist in Ordnung, sofern davon ausgegangen werden kann, dass keine sichtbaren Schäden an Boden, und Decke entstehen oder entstanden sind.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3eke8w0003a2a6waj77ol6f</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;5e24a529-6867-4ace-9b50-9adf94b12bea&#34;&gt;Die Durchbiegung ist viel zu groß, die Bemessung des Balkens war voraussichtlich zu gering. Der Balken dürfte sich gar nicht durchbiegen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm3eke8w000382a6wnnu0zu0c</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;bad2f375-d60c-4290-a4b4-562599a715bc&#34;&gt;Wäre der Balken mit einer großen Feuchte (naß) eingebaut worden, hätte er sich nach 1 Jahr noch stärker durchgebogen.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
