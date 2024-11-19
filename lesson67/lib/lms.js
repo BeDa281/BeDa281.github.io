@@ -24,7 +24,12 @@
     }
   }
 
-  var inFlight = false;
+  var inFlight    = false;
+  var isDraining  = false;
+
+  // Needed to account for various LRS providers,
+  // when draining queued statements
+  var DRAIN_DELAY = 600; // (ms)
 
   var BOOKMARK = 'bookmark';
   var SUSPEND_DATA = 'suspend_data';
@@ -76,6 +81,18 @@
     };
   }
 
+  // For unloading we need to hold the main thread
+  // but still send async statements to LRS in a
+  // spaced out manner. (600ms is recommended by Rustici)
+  function holdThread() {
+    var start = Date.now();
+    var now = start;
+
+    while(now - start < DRAIN_DELAY) {
+      now = Date.now();
+    }
+  }
+
   function closeContent() {
     if(root.top === root) {
       root.close();
@@ -99,11 +116,23 @@
   }
 
   function popStatement() {
-    if(statementQueue.length) {
+    if(statementQueue.length && !isDraining) {
       sendStatement(statementQueue.shift());
     } else {
       inFlight = false;
     }
+  }
+
+  function drainQueue() {
+    isDraining = true;
+
+    if(!statementQueue.length) {
+      return null;
+    }
+
+    statementQueue.forEach(sendStatementDelayed);
+
+    return null;
   }
 
   function sendStatement(attribs) {
@@ -111,6 +140,11 @@
       inFlight = true;
       tincan.sendStatement(createStatement(attribs), popStatement);
     }
+  }
+
+  function sendStatementDelayed(attribs) {
+    sendStatement(attribs);
+    holdThread();
   }
 
   function createStatement(stmt) {
@@ -172,7 +206,7 @@
       }),
       result: {
         extensions: {
-          'http://w3id.org/xapi/cmi5/result/extensions/progress': courseProgress
+          'https://w3id.org/xapi/cmi5/result/extensions/progress': courseProgress
         }}
     });
   }
@@ -426,6 +460,7 @@
   }
 
   function ConcedeControl() {
+    drainQueue();
     root.removeEventListener('beforeunload', ConcedeControl);
     closeContent();
   }
@@ -471,10 +506,7 @@
   }
 
   function loadBundle() {
-    var script = document.createElement('script');
-    script.setAttribute('src', 'lib/main.bundle.js');
-    document.head.appendChild(script);
-
+    __loadEntry()
     sendAttempted();
   }
 
