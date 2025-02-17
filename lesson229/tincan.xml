@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">AEVO - Prüfungsvorbereitung</name>
+      <description lang="en-US">&lt;div data-editor-id=&#34;f2147b9b-15d2-43a2-b196-45542a450c2b&#34;&gt;In diesem Quiz müssen Sie 20 zufällige Fragen zu den Themen der AEVO Prüfung beantworten. Bei jedem Start werden die Fragen neu zusammengestellt. Viel Erfolg!&lt;/div&gt;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                              
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/dbak55orph7uamx7x7ua91cx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;deed7b16-07d5-49f8-906a-2a40e6192657&#34;&gt;Wie lange ist der Arbeitgeber im Krankheitsfall verpflichtet den Lohn des krankenAuszubildenden weiterzuzahlen?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cbnb7p8o5xqz9e7vyh2d2id4</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cwjlyorrf7974v0mv24755js</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;d1769417-e9a1-4790-afe8-db2a734ead87&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Vier Wochen Lang&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cbnb7p8o5xqz9e7vyh2d2id4</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;7e2428ca-944a-4406-9186-22f1b57da362&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Sechs Wochen Lang&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7968iq400022a6zd1slqmnd</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;2ae8df9c-5ac5-4f05-a01c-1c74ff077f46&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Acht Wochen Lang&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796aavk00042a6z204tsha6</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;743919dd-209f-404d-8c4e-6899a1d28116&#34;&gt;Drei Monate Lang&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796au2p00072a6z94e9cd2i" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;0b8ed752-fde4-4a02-9811-7d12b0d11646&#34;&gt;Wenn Maureen das Ausbildungsverhältnis verlängern will, wer hat die Verantwortung den Antrag auf Verlängerung zu stellen?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796ae2800062a6z54yrwauj</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796au2p00082a6zyt7d5a74</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;11524985-17ed-4e6d-afbb-f21a03e07394&#34;&gt;Der Ausbilder&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796au2p00092a6zsvb0k4ts</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;0295ff7c-2df9-4670-9998-e096680d5609&#34;&gt;Der vom Ausbildungsbetrieb beauftragte Ausbilder zusammen mit demAusbildungsbetrieb&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796ae2800062a6z54yrwauj</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;f6d1b916-e2aa-4182-abfa-226093d11ff8&#34;&gt;Maureen&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796b7rr000b2a6zvftux1fv</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;d8b674d1-dff7-4137-8519-26745da1c6e4&#34;&gt;Die IHK&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796bear000e2a6z4k45xyl8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;94ff4b7c-85f4-4984-86a0-dd338e56a2f4&#34;&gt;Welche Aussagen zur Probezeit treffen zu?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796bahq000d2a6zdfxrj3un</correctResponsePattern>
+    <correctResponsePattern>choice_cm796cbf5000i2a6zrjt15prx</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796bear000f2a6zgaqxwu6l</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;fec3d3bd-437b-41cc-a998-75b664c41470&#34;&gt;In der Probezeit gilt eine Kündigungsfrist von vier Wochen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796bear000g2a6z76kilxu3</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;fa52d0f8-c814-46a4-ac5d-981bef99ed6e&#34;&gt;Die Probezeit muss mindestens zwei Monate Lang sein und darf bis zu derDauer von neun Monaten verlängert werden.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796bahq000d2a6zdfxrj3un</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;24286b87-78b7-4af0-a90e-3bb20e3284f8&#34;&gt;Die Probezeit ist dafür da zu testen, ob ein neuer Mitarbeiter zumUnternehmen passt und das Unternehmen zum Mitarbeiter.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796cbf5000i2a6zrjt15prx</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;46bf93ab-1309-4e08-826f-4c0e50bbe744&#34;&gt;Am Ende der Probezeit sollte ein Beurteilungsgespräch stattfinden.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796ctam000q2a6zb3amclis" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;b2b56a7b-6755-4bd7-8020-76f9e8534a16&#34;&gt;Was bedeutet der Begriff &#34;Schichtzeit&#34; und welche Regelungen gelten dabei?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796ctam000r2a6zv8tfle6e</correctResponsePattern>
+    <correctResponsePattern>choice_cm796cgny000k2a6zu8lj8exe</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796ctam000r2a6zv8tfle6e</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;35693a92-ed70-4304-8138-d8fbde8dd9c6&#34;&gt;Unter Schichtzeit versteht man die tägliche Arbeitszeit unter Hinzurechnungder Ruhepausen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796ctam000s2a6zrvppgsc3</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;92267e4d-6f57-455b-838a-893d61d3cc3d&#34;&gt;Unter Schichtzeit versteht man die tägliche Arbeitszeit ohne dieHinzurechnung der Ruhepausen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796cgny000k2a6zu8lj8exe</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;0b1bf3d3-9201-4016-ab62-c048b3d4fa2f&#34;&gt;Jugendliche dürfen nicht länger als 10h in Schichtzeit arbeiten.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796d6e8000u2a6zhmhufgs8</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;744ea7be-00db-462e-9242-2d211e458d4d&#34;&gt;Jugendliche dürfen nicht länger als 8h in Schichtzeit arbeiten.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796dqy100122a6zgxsivbwr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;556d22ff-92bc-450f-b0ff-8eddb144beca&#34;&gt;Der Auszubildende Henrik ist in seiner Urlaubszeit krank geworden. Als er wiedergesund ist, ist sein Urlaub schon vorbei. Er wendet sich an den Betriebsrat mit derFrage, ob seine Krankheit sich auf seinen Urlaubsanspruch auswirkt. Welche Antwort ist korrekt?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796dqy100142a6zyersbvm9</correctResponsePattern>
+    <correctResponsePattern>choice_cm796dqy100152a6ztvqbbc9z</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796dqy100132a6z4iok01bk</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;bc24c528-0d33-4206-b353-0f0667697be5&#34;&gt;Eine Krankheit während der Urlaubszeit hat keine Auswirkungen auf seinenUrlaubsanspruch.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796dqy100152a6ztvqbbc9z</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;48120f3b-3421-452b-b361-e574f7146b46&#34;&gt;Krankheit und Ur-Laub schließen sich nach § 9 des Bundesurlaubsgesetz(BUrI.G) gegenseitig aus. Wenn Henrik ein ärztliches Attest vorlegt, werden dieKrankheitstage nicht auf seinen Ur Laub angerechnet.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796dqy100162a6zq2cu2b8b</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;c9ef5d30-d533-478c-a9e8-a227fc82fb7e&#34;&gt;Sobald der Arbeitgeber Kenntnis von seinem Zustand hat, kann er seinenUrlaub um die Anzahl der Krankheitstage verlängern.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796dqy100142a6zyersbvm9</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;b29da0e8-cd55-4c8e-ba7e-d749df46b1c5&#34;&gt;Henrik muss seinen Arbeitgeber so schnell wie möglich über den Beginn unddie Dauer seiner Krankheit und über seinen Aufenthaltsort informieren.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796f2ul001b2a6z1y668buo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;e049a7f1-9759-4466-a74b-0113a1b3e850&#34;&gt;Du hast beobachtet, dass dein 16-jähriger Auszubildender Paul Schönen in denLetzten Monaten sehr gestresst gewirkt hat. Nun bittet er aus persönlichen Gründen um einen Aufhebungsvertrag, dem du zustimmst. Ab wann ist der Aufhebungsvertrag rechtskräftig?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796f2ul001c2a6zwuxgaigw</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796f2ul001c2a6zwuxgaigw</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;63234a10-61fd-4925-864e-4ec66f82774e&#34;&gt;Mit der Unterschrift der Erziehungsberechtigten, des Auszubildenden Hans unddes Geschäftsführers.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796f2ul001d2a6zp6333ik2</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;5c765fd9-43b9-481d-99c1-d0eaa6195c07&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Mit der Unterschrift des Auszubildenden Hans und des Geschäftsführers.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796dex500102a6z5vdurhle</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;6cbfa396-ffd8-45f6-8f6b-8e56d065fa44&#34;&gt;Mit der Unterschrift des Auszubildenden Hans, der Berufsschule und desGeschäftsführers.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796ffui001f2a6zh99sipg3</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;3f65d4bf-fcc6-4eb8-8cf4-96c198a93b8a&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Mit der Unterschrift der Erziehungsberechtigten und des Geschäftsführers.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796fzwj001i2a6zl5mbuim5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;38102387-4c7d-4da2-b560-19cc4f783e3c&#34;&gt;Die Auszubildende Cania wird in der Probezeit aufgrund schlechter Leistunggekündigt. Zwei Wochen nach Erhalt ihrer Kündigung erfährt sie, dass sie im 2.Monat schwanger ist. 1st die Kündigung weiterhin rechtskräftig?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796fjru001h2a6zz14bf9r8</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796fzwj001j2a6z85w731i1</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;d4703bcb-3b68-4ff9-9f4c-d883de37f6e5&#34;&gt;Cania ist verpflichtet ihren Arbeitgeber so schnell wie möglich von einermöglichen Schwangerschaft zu unterrichten. Andernfalls entfällt ihrKündigungsschutzrecht.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796fzwj001k2a6zcvr37uew</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;bd3c6691-b2a1-4893-a269-aaac06fd2bf7&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Nein, da Schwangere einen besonderen Kündigungsschutz besitzen, dürfen sie&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;in der Probezeit nicht gekündigt werden.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796fjru001h2a6zz14bf9r8</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;923bb509-53fd-4412-b371-11f50dd73bb8&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Ja, da ihr Arbeitgeber zum Zeitpunkt der Kündigung keine Kenntnis von der Schwangerschaft hatte.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796giye001m2a6z35voz4ms</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;d9ddbac9-7393-43c0-ac6e-7132d127630c&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Cania kann bis zu sieben Tage nach der Kündigung Berufung einlegen. Aufgrund&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;der Schwangerschaft besteht im Berufungsverfahren eine hohe Chance, dass sie&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;ihre Probezeit fortführen kann.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796hspg001p2a6z1xgqp25l" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;5d9ebf59-1f5f-4c73-9c4c-6f1f28d52815&#34;&gt;Max Rüger wird bei einem Unfall schwer verletzt. Er ist daraufhin zwölf Wochen lang krankgeschrieben. Wie lange ist der Arbeitgeber von Max verpflichtet, sein Gehaltweiter zu zahlen?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796hsph001q2a6zbb5vajoe</correctResponsePattern>
+    <correctResponsePattern>choice_cm796hsph001t2a6zszqojqcu</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796hsph001q2a6zbb5vajoe</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;8045d216-0337-4ebb-aaf6-dd03eadb1e51&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Fällt ein Arbeitnehmer aufgrund einer Arbeitsunfähigkeit aus, ist der&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Arbeitgeber nach § 3 Entgeltfortzahlungsgesetz (EFZG) verpflichtet, dem&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Betroffenen den Lohn für bis zu sechs Wochen weiterzuzahlen.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796hsph001s2a6zkc43wmz9</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;ba81307d-7c8e-4a35-b05e-fc0ea3cc6909&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Fällt ein Arbeitnehmer aufgrund einer Arbeitsunfähigkeit aus, ist der&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Arbeitgeber nach § 3 Entgeltfortzahlungsgesetz (EFZG) verpflichtet, dem&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Betroffenen den Lohn für bis zu acht Wochen weiterzuzahlen.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796hsph001t2a6zszqojqcu</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;0caf7a1b-9b93-4932-ba43-4961aa39dc51&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Nach sechs Wochen übernimmt die Krankenkasse die Fortzahlung in Form von&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Krankengeld.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796hsph001r2a6z3ikb6fd4</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;a4ff71a5-fcfa-4572-8a41-524278979b98&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Nach acht Wochen übernimmt die Krankenkasse die Fortzahlung in Form von&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Krankengeld.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796ir5h001z2a6zv5qwg4qb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;c9f781f3-ef6b-474a-8dbb-5cde6037d577&#34;&gt;Welche Regelungen gelten zur Arbeitszeit in Prüfungssituationen?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796ir5i00202a6zmq2883gu</correctResponsePattern>
+    <correctResponsePattern>choice_cm796ir5i00232a6z3mdk6u8s</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796ir5i00202a6zmq2883gu</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;c73e110f-b7a1-4bca-8248-d6606e6b6a3a&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Die Prüfungszeit wird inklusive der Pausen auf die Arbeitszeit angerechnet.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796ir5i00222a6zb2d1ys65</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;c743605d-0026-4681-8301-044d27900f74&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Auszubildende werden grundsätzlich am Tag vor der Prüfung freigestellt.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796ir5i00232a6z3mdk6u8s</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;043255b9-8e9e-4fe4-91ff-7901669923eb&#34;&gt;Eine Freistellung erfolgt für den Arbeitstag, der dem schriftlichen Ted derAbschlussprüfung vorangeht und zur Prüfungszeit.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796ir5i00212a6ztlsxdzfm</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;43d6ef00-99f0-4559-ab6a-ef97ad81b4f7&#34;&gt;Die Prüfungszeit wird exklusive der Pausen, auf die Arbeitszeit angerechnet.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796k7j300282a6zzp410u9z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;9ab7b695-cb78-43bb-bf4e-4903f6791048&#34;&gt;Ab wann ist eine Kündigung Auszubildender außerhalb der Probezeit formal nichtwirksam?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796k7j300292a6zpa5vqyag</correctResponsePattern>
+    <correctResponsePattern>choice_cm796k7j3002a2a6z469zx4ct</correctResponsePattern>
+    <correctResponsePattern>choice_cm796k7j4002c2a6zzqn7lnup</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796k7j300292a6zpa5vqyag</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;516e3f40-c86b-422d-b9cf-aa9773d6f435&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Wenn die Kündigungsgründe, seit weniger als zwei Wochen bekannt sind&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796k7j3002b2a6z8s9tjcls</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;8227c9d2-a9fb-45f3-83e8-3a9b3cd6daeb&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Wenn die Kündigungsgründe seit mehr als zwei Wochen bekannt sind&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796k7j4002c2a6zzqn7lnup</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;fa5e6150-e0ae-443c-85cb-4d6b84d1dd24&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Wenn Kündigungen ohne vorherige Abmahnung ausgesprochen werden (außer&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;bei fristlosen Kündigungen)&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796k7j3002a2a6z469zx4ct</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;f2ceef94-39fd-40d2-8616-910a2914a10c&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Wenn der Kündigungsgrund im Kündigungsschreiben nicht aufgeführt wird&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796l0o9002h2a6zhowz4j2u" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;347cc61a-234b-4a69-a91b-884b7fddbd36&#34;&gt;Welche Aussage zur Ausbildungsvergütung trifft zu?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796l0o9002k2a6z38g9ogre</correctResponsePattern>
+    <correctResponsePattern>choice_cm796l0o9002l2a6z5aaf1aqm</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796l0o9002i2a6zptlm8e71</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;2b194e65-e2c7-449e-afa3-e139981daab8&#34;&gt;Bei Tariffragen ist die Industrie- und Handelskammer Ansprechpartner.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796l0o9002k2a6z38g9ogre</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;c52a1bfa-3dc7-4256-8e3a-dcca3acbc113&#34;&gt;In Ausbildungsbetrieben, die keiner Tarifbindung unterliegen, gilt eineMindestausbildungsvergütung für die Azubis.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796l0o9002l2a6z5aaf1aqm</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;ab12a7d7-fd3b-4147-b5cd-e6d26cd3b18a&#34;&gt;Wenn eine Beschäftigung über die vereinbarte tägliche Ausbildungszeithinausgeht, muss diese außerordentlich vergütet werden.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796l0o9002j2a6z79e8u7li</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;99c11474-273a-4c84-b66a-0759e92bc3a4&#34;&gt;Wenn eine Beschäftigung über die vereinbarte tägliche Ausbildungszeithinausgeht, muss diese nicht außerordentlich vergütet werden.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796m0br002q2a6zqrzattng" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;2a71130a-4739-4be5-bac6-d68ddf1b6fc6&#34;&gt;Milena hat am 01.09. ihre Ausbildung begonnen. Am 15. November ist sie 17 Jahrealt geworden. Wie hoch ist ihr Urlaubsanspruch im Startjahr (01.09. - 31.12.)?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796m0br002s2a6zitfatgnw</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796m0br002r2a6z315qw3q8</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;ed8341ac-b2c7-4c30-b671-52cfcae72010&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Sieben Werktage&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796m0br002s2a6zitfatgnw</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;271b6152-8ee5-4600-8c23-0a3d94e758c3&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Neun Werktage&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796gr8z001o2a6z7w6hcztm</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;39b63e50-e134-4009-905d-9239fae92990&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Elf Werktage&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796meyg002u2a6z1nxwxyq4</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;10319669-96df-4d4a-bc67-3f45105431d9&#34;&gt;Dreizehn Werktage&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796mprb002x2a6ze03fctw4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;07bddcef-8e47-4fc8-bcc0-0be664897958&#34;&gt;Nach welcher Wartezeit erwerben Auszubildende den vollen Urlaubsanspruch?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796mfru002w2a6zu5yrhufy</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796mprc002y2a6z2tj3qq5a</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;8c495cad-47e0-4a8b-a238-b175e7bdba50&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Nach zwei Monaten&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796mprc002z2a6ze1kt353s</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;62f9f44c-5b72-4b99-b12e-b3989ee53d85&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Nach drei Monaten&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796mfru002w2a6zu5yrhufy</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;8f726e4d-0098-4922-aeda-c92f2491c6dc&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Nach sechs Monaten&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796mwxi00312a6z58tdz6s2</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;3253fb62-989a-48d6-b1e5-4418aa28e282&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Nach zwölf Monaten&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796on6b00342a6zdf7cjqzf" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;2d7d11f3-b1df-4db7-913c-52b627f1b0d3&#34;&gt;Dir wird mitgeteilt, dass der Auszubildende Domino Schley schon mehrmalsunentschuldigt in der Berufsschule gefehlt hat. Der Geschäftsführer hat sich dazuentschieden, Domino zu kündigen. Ist diese Maßnahme gerechtfertigt?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796mxvl00332a6zzaoahzfs</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796on6b00352a6zuez0ktit</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;4b3d8ca3-038a-4339-8ef8-af157de098ca&#34;&gt;Ja, da Domino seinen Pflichten als Auszubildender nicht nachgekommen ist unddamit gegen seinen Arbeitsvertrag verstoßen hat.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796on6b00362a6zkox4mwuz</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;54dfe0fa-7d5d-4c4d-b245-894cf3bf17e6&#34;&gt;Nein, da Fehlzeiten in der Berufsschule keinen Einfluss auf die Beschäftigungin einem Betrieb haben sollen. Wie sich Domino in der Berufsschule verhält, ist für sein Anstellungsverhältnis im Ausbildungsbetrieb nicht relevant.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796mxvl00332a6zzaoahzfs</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;d1f16ba4-0f80-4546-9140-c76282b5dff0&#34;&gt;Nein, da vor einer Kündigung eine Abmahnung erfolgen muss, es sei denn, esliegt ein schwerwiegender Vertrauensbruch vor.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796pchp00382a6zwyb76q2e</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;7732a74b-e02e-423a-a1c6-1fd0c180b7f8&#34;&gt;Ja, da eine Nicht-Ahnung von Dominos Vergehen anderen Auszubildendenaufzeigen würde, dass dieses Verhalten geduldet wird.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796wn3l003f2a6zjar4yg9e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;ed4e055a-2b8b-4a04-a562-2275d20b3850&#34;&gt;Klaus &amp;nbsp;Brommer ist Auszubildender im Einzelhandel bei der Frisch Essen GmbH. Dadas Geschäft gerade sehr gut läuft, soll Klaus &amp;nbsp;&amp;nbsp;seine Stundenanzahl im Betrieb für die nächsten Wochen erhöhen. Das würde auch dazu führen, dass er in der Berufsschule öfter fehlt. Ist dies möglich?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796wn3m003h2a6zjv5f4f0i</correctResponsePattern>
+    <correctResponsePattern>choice_cm796wn3m003j2a6zl561r8pb</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796wn3m003g2a6zyrsnzrc5</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;bd0dac86-9111-4479-a3ff-84e22f1c21a5&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Klaus kann seine Berufsschulprüfung vorziehen. Wenn er diese besteht, darf er&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;für das restliche Kalenderjahr auf den Besuch der Berufsschule fernbleiben.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796wn3m003i2a6zgur9knbw</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;f7f4de12-a83e-4e0b-98ab-66729f52784a&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Da Klaus im Betrieb gerade viel lernt sollte er die Stundenzahl erhöhen. Wenn&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;der Betrieb zustimmt, ist dies kein Problem.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796wn3m003j2a6zl561r8pb</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;f81f32d2-1088-4ae3-8b0d-589b69b28a16&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Klaus hat die Pflicht die Berufsschule zu besuchen, auch wenn in seinem&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Betrieb viel los ist.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796wn3m003h2a6zjv5f4f0i</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;a1efb06a-a770-49c2-a87a-33bfacce919c&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Es ist möglich eine Freistellung vom Berufsschulunterricht zu beantragen.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796xmqk003p2a6zviitamc4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;e36fdb9c-f88b-4ddf-84a1-44a9e0e8a50a&#34;&gt;Kann ein Ausbildungsverhältnis im dritten Lehrjahr beendet werden, wenn sichArbeitgeber und Auszubildender einig sind?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796xmqk003r2a6zb380qw2k</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796xmqk003q2a6zu8pckv99</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;27308cb4-9eed-424c-8238-5ed57a4043aa&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Nein, da Auszubildende eine Verpflichtung&lt;strong&gt; &lt;/strong&gt;eingehen ihre Ausbildungszeit auch&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;zu beenden. Eine Kündigung kann nur aus einem wichtigen Grund geschehen.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796xmqk003r2a6zb380qw2k</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;d9b6758f-969d-4ebf-8363-53ab44238953&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Ja, das Ausbildungsverhältnis kann mittels eines Aufhebungsvertrags beendet&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;werden.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796wlby003e2a6zd3appavt</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;2c9a2045-ab0e-427e-bd30-b81299231082&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Ja, für die Beendigung des Arbeitsverhältnisses sind keine weiteren Schritte&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;nötig. Eine mündliche Absprache reicht aus.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796y042003t2a6ze2bw87mj</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;725ae54d-b936-46b6-b47a-8dc93ef7bbf4&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Zunächst muss die Zustimmung des Betriebsrats und der zuständigen Stelle&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;eingeholt werden. Wenn diese einverstanden sind, kann das&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Ausbildungsverhältnis beendet werden.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796yd21003w2a6zljssyzfk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;f91891be-23a8-41fd-811d-2d0d26227334&#34;&gt;Ist es möglich, eine Ausbildung auf ein Teilzeit-Modell zu ändern, wenn es einenwichtigen Grund gibt?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796yd21003y2a6za8uevpnn</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796yd21003x2a6z8opfeddv</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;50776610-52d3-44fc-979b-6c7e4e6636cc&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Nein&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796yd21003y2a6za8uevpnn</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;46668a76-0c5a-4068-a539-926da4e487b7&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Ja, das ist möglich, jedoch muss der Ausbilder und von der zuständigen Stelle&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;zustimmen.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796y4av003v2a6z6d9zd926</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;0c9f4b7c-bba5-4285-9e37-cb3ba529299c&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Ja, das ist möglich, allerdings muss die Krankenkasse sowie die Berufsschule&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;ihr Einverständnis geben.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796ypy900402a6z1xelf53q</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;9c9c06e1-2c2e-4eb0-880a-ec94951d7a4c&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Ja, unter Umständen ist es möglich, wenn die Agentur für Arbeit den triftigen&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Grund anerkennt.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796yws600432a6z737x5k9p" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;d4d39cac-9602-4279-be7c-df68eea012cd&#34;&gt;Auszubildende unterliegen einem besonderen Kündigungsschutz. Dennoch könnensie nach § 22 des BBiG aus wichtigen Gründen fristlos gekündigt werden. Was sindsolche Gründe?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796yws600442a6zgb1aqydb</correctResponsePattern>
+    <correctResponsePattern>choice_cm796yws600452a6z3dngy842</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796yws600442a6zgb1aqydb</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;3f5dd18c-ba77-4181-823e-e6b917740add&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Wenn der Auszubildende schwerwiegende Beleidigungen oder Verleumdungen&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;gegenüber den Ausbildern ausspricht.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796yws600452a6z3dngy842</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;083d1c15-8aa0-4ab0-81d8-b887e3a5f4b5&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Wenn der Auszubildende schwerwiegende Vermögensdelikte im Betrieb begeht.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796yslo00422a6zegjrenrx</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;554d1e9d-f5e4-48f9-acc4-f313b7d8ead2&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Wenn der Auszubildende unzuverlässig ist und seinen Arbeiten nicht wie&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;vereinbart nachkommt.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796zags004a2a6z6ymj70cb</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;b8701e8b-360f-4577-8e93-13b98bddf987&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Wenn der Auszubildende aufgrund vieler Krankheitstage nicht auf dem&lt;/span&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Ausbildungsstand ist, auf dem er sein sollte.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm796zn49004f2a6zhiro9e0l" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;86f9850e-2671-46ec-b4e9-2b45507d74e2&#34;&gt;Maria Mar Le hat sich am 22.04. mit dem Ausbildenden Sebastian Thümmler mündlich geeinigt, dass ihre Ausbildung zum 01.10. beginnen kann. Der Ausbildungsvertrag wurde am 22.05. unterschrieben. Rechtlich gesehen, wann wurde der Vertrag geschlossen?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm796zn49004g2a6zpzqx986n</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm796zn49004g2a6zpzqx986n</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;46dc77c4-aaec-4e9c-b933-b374846988ee&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Am 22.04.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796zn49004h2a6znudlvud4</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;ca56720e-2ffd-413a-b852-a6ddbb4efa2f&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Am 01.10.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796zehp004d2a6z0bagpol1</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;49a6a5c4-f2e7-49ba-b560-6b7418ae01f9&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Am 22.05.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm796zxxl004j2a6zfcv8ho01</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;c4ee0f0c-966b-4647-befc-1d14dcd18e68&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Nachdem Herr Thümmler Maria bei der IHK angemeldet hat.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm79706l4004m2a6ztywbw3ja" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;ca005723-4318-45a3-bd19-73845b233801&#34;&gt;In welchem der folgenden Gesetze ist die Entgeltfortzahlung im Krankheitsfallgeregelt?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm7970hw2004q2a6z9f6n76eq</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm79706l5004n2a6z73lbhfw8</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;e96fb9c6-c04b-445e-ab8f-9b4280f9c0ca&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;&amp;nbsp;Im Arbeitszeitgesetz&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm79706l5004o2a6z5xd64999</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;b041024b-2fbc-4010-8811-d4fca2e7a62b&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;&amp;nbsp;Im Vergütungsgesetz&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm79700wi004l2a6zxjhch0oo</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;81d40ab9-f301-45fc-bb6f-07816a12155c&#34;&gt;&lt;span style=&#34;font-size: 1.6rem&#34;&gt;Im Berufsbildungsgesetz&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7970hw2004q2a6z9f6n76eq</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;ee3d6fd8-2cad-493b-9639-7c74b79cb1a7&#34;&gt;Im Entgeltfortzahlungsgesetz&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm79715ju004t2a6z64agfgka" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;0a3b60d7-5289-44f9-9c2c-3d12a6bb3721&#34;&gt;Der Tischlereibetrieb von Patricia Karatak ist in den letzten Jahren gut gelaufen. Fürdas kommende Jahr plant sie die Einstellung von drei Auszubildenden. PatriciaKaratak hat einen Mitarbeiter, der vor 15 Jahren seine Ausbildung zumEinzelhandelskaufmann abgeschlossen hat und seit neun Jahren im Betrieb arbeitet,aber keinen Ausbildereignungsschein besitzt. Darf dieser Mitarbeiter Auszubildendebetreuen?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm7971hx9004x2a6zerxzzoau</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm79715ju004u2a6zj0agnjid</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;c17f55b5-defa-46bc-95c4-5a32c6f42228&#34;&gt;Ja, da eine Berufsausbildung die fachlichen Voraussetzungen, die ein Ausbilderhaben muss, erfüllt.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm79715ju004v2a6zp3yeqb49</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;f7a71c6c-4fe3-45b9-b4a5-b92d7efe038f&#34;&gt;Ja, da eine Berufserfahrung von mindestens fünf Jahren als Ersatzleistung fürden Ausbilder- Schein angerechnet werden kann.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7970k98004s2a6zks533sgm</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;0312849d-b97b-4b91-b112-466253b71c04&#34;&gt;Ja, wenn diese regelmäßigen Fortbildungen besucht hat und damit die Aktualitätseines beruflichen Wissensstandes belegen kann.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7971hx9004x2a6zerxzzoau</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;18cb33b6-744b-4bf5-8a78-7945d53f41cb&#34;&gt;Nein, da ein Ausbilder zusätzlich zur fachlichen Eignung des Berufsbildes aucherweitertes Wissen sowie zusätzliche Qualifikationen durch den Ausbilderscheinnachweisen muss.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm7971qqc00502a6zcqxj01bz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;4ed8db8e-5c90-46db-a40e-366eaf991c5c&#34;&gt;Was ist in der Ausbildungsordnung festgehalten?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm7971qqc00512a6zdek7i6xa</correctResponsePattern>
+    <correctResponsePattern>choice_cm7971qqc00522a6z0leosyn6</correctResponsePattern>
+    <correctResponsePattern>choice_cm7971qqc00542a6zyoo0tor4</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm7971qqc00512a6zdek7i6xa</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;e4e02bb9-07c5-4454-8750-1bd3aeb0205d&#34;&gt;&lt;span style=&#34;font-size: 1.5rem&#34;&gt;Bundeseinheitliche Standards von Ausbildungen&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7971qqc00532a6z5tgdd2di</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;d226bf8e-056f-4897-8aed-58a3b4d75be2&#34;&gt;&lt;span style=&#34;font-size: 1.5rem&#34;&gt;Regeln zum Arbeitnehmerschutz in der Berufsausbildung&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7971qqc00542a6zyoo0tor4</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;96c34c41-6a07-47c7-a888-374264fd1d55&#34;&gt;Der Ausbildungsrahmenplan&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7971qqc00522a6z0leosyn6</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;3a2b8cfc-5969-4d2a-8583-bd4c64af6f5c&#34;&gt;Die Bezeichnung eines Ausbildungsberufes&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm7972h29005a2a6zf4zeir6y" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;d6003682-fb9e-4b9e-9edc-36aea8085762&#34;&gt;Der Malerbetrieb von Gustav Herrmann hat drei Auszubildende. Nach einigenschwierigen Jahren droht dem Betrieb nun die Insolvenz. Welche Folgen hat dieInsolvenz für die Auszubildenden?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm7972h2a005c2a6zm1l1lxmt</correctResponsePattern>
+    <correctResponsePattern>choice_cm7972h2a005e2a6zox9hfxg7</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm7972h2a005b2a6zqfj7uqak</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;e6ad0bb8-d1a9-4d0d-90cc-78295de9e039&#34;&gt;Mit der Beantragung der Insolvenz werden alle Ausbildungsverträge gekündigt.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7972h2a005d2a6zgopzl8k6</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;3ef0f994-2540-4c76-b437-a0972b76d50a&#34;&gt;Da das Ausbildungsverhältnis mit Beantragung der Insolvenz aufgelöst wird,müssen Auszubildende auch nicht mehr die Berufsschule besuchen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7972h2a005e2a6zox9hfxg7</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;56cab856-ecdd-4dc0-8744-c2d953b10437&#34;&gt;Ein Insolvenzverwalter übernimmt die Aufgaben des Arbeitgebers. DasAusbildungsverhältnis wird weitergeführt.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7972h2a005c2a6zm1l1lxmt</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;2385c1d7-19cd-4014-8144-280f364e02e7&#34;&gt;Auszubildende genießen einen besonderen Kündigungsschutz und könnennicht fristlos gekündigt werden.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm7973aeh005j2a6zzi9o33ns" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;8d29d3d0-230e-48aa-adc7-4a8b6fbc4182&#34;&gt;Welche der folgenden Punkte müssen erfüllt sein, damit der Betrieb ausbilden kann?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm7973aeh005l2a6zgjfv8ldg</correctResponsePattern>
+    <correctResponsePattern>choice_cm7973aeh005n2a6zhwgvjf7h</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm7973aeh005k2a6zow04vmb4</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;bde11c64-397d-4721-b54c-e59fd9c0cf92&#34;&gt;Um Auszubildende einstellen zu können, muss der Betrieb einen bestimmtenJahresumsatz erreichen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7973aeh005m2a6z1i3vdaxt</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;1188afbc-39ef-4431-911e-80f296d8b336&#34;&gt;Die charakterliche Eignung des gesamten Personals muss überprüft werden.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7973aeh005n2a6zhwgvjf7h</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;a95a6aea-4fa0-4c92-911f-6ba0aed7ec74&#34;&gt;Es ist zu prüfen, ob das Unternehmen als Ausbildungsbetrieb geeignet ist.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7973aeh005l2a6zgjfv8ldg</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;9aa89d12-209f-4e7c-881f-5ffe9d8eeeca&#34;&gt;Es ist zu prüfen, ob im Unternehmen genügend persönlich und fachlich&lt;span style=&#34;font-size: 1.5rem&#34;&gt;geeignete Mitarbeiter vorhanden sind.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm79740rg005s2a6zbq2pbywb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;5d105c06-5676-45d4-aaee-d5d5fb770ebe&#34;&gt;Der Tischlereibetrieb von Patricia Karatak ist in den letzten Jahren gut gelaufen. Fürdas kommende Jahr plant sie die Einstellung von drei Auszubildenden. Für eineoptimale Betreuung sollte Laut BiBB die Anzahl der Auszubildenden und derFachkräfte in einem Betrieb in einem angemessenen Verhältnis stehen. Wie vieleFachkräfte sollten mindestens in einem Betrieb mit drei Auszubildenden arbeiten?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm7971kw8004z2a6zyuqkpuwk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm79740rg005t2a6zy7jnt6px</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;4d15f693-c054-4e6b-9e41-e37a58c7805d&#34;&gt;Ein bis zwei Fachkräfte&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm79740rg005u2a6zz5rpb4pn</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;4c09f41c-87ed-4d0a-91b7-fe0d6b94f4df&#34;&gt;Drei bis fünf Fachkräfte&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7971kw8004z2a6zyuqkpuwk</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;0bb30be0-9ac4-4c27-9566-fd24e305924c&#34;&gt;Sechs bis acht Fachkräfte&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7974b0c005w2a6zkgsia7r4</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;d9117c40-1f86-42ba-beca-b2ad57a1ac79&#34;&gt;Acht bis zehn Fachkräfte&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm7974jus005z2a6z6b37wpf4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;899e2d4e-fc45-4258-a81b-4a502f53a1b0&#34;&gt;Durch welches Gesetz wird die finanzielle Förderung der beruflichen Weiterbildunggeregelt?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm7974jus00602a6z2axywoo1</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm7974jus00602a6z2axywoo1</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;a33da29c-84c5-4d14-bb13-ae68e2d64c65&#34;&gt;Bürgerliches Gesetzbuch (BGB)&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7974jus00612a6zjn6v1v1i</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;dcef3732-c9e7-427e-a5d9-e38da7c27f9d&#34;&gt;Berufsbildungsgesetz (BBiG)&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7974e2v005y2a6zjkor40x2</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;e31b4972-5e73-4364-a1dd-1de5754c75d1&#34;&gt;Sozialgesetzbuch (SGB 111)&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7974v5f00632a6z3lkasfuh</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;31a2cbca-7ce6-449f-948b-290c54e16557&#34;&gt;Handelsgesetzbuch (HGB)&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm79754o100662a6zs89ng8rw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;957c634f-12bb-4f3e-8641-ec09ff66ba47&#34;&gt;Welche Aussagen sind korrekt?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm79754o200672a6z3acu18j6</correctResponsePattern>
+    <correctResponsePattern>choice_cm79754o200682a6zjulgwwbk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm79754o200672a6z3acu18j6</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;b307d7bd-27b7-4db9-be8e-9b71480b17d5&#34;&gt;Betriebsvereinbarungen sind rechtsverbindliche Übereinkünfte zwischenBetriebsrat und Arbeitgeber.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm79754o200692a6z5qz1qqya</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;425c5396-b0cb-4aa7-bdec-bbdc7ac665ac&#34;&gt;Betriebsvereinbarungen sind unverbindliche Übereinkünfte zwischenBetriebsrat und Arbeitgeber.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm79754o2006a2a6ztk7wav60</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;0d059362-9327-42e4-ab9e-873ff3781c0a&#34;&gt;Betriebsvereinbarungen enthalten Regelungen zu den Tarifstufen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm79754o200682a6zjulgwwbk</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;0de032c3-ebed-4148-9c9d-0cda2fe7586d&#34;&gt;Betriebsvereinbarungen können mit einer Frist von drei Monaten gekündigtwerden.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm797677m006g2a6z1znxecig" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;dbe9ae7b-00bd-464d-bb6b-3fbd83969975&#34;&gt;Wenn einer deiner Azubis die Volljährigkeit erreicht, muss er nicht mehr zurBerufsschule gehen. Stimmt diese Aussage?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm797677m006i2a6zf3vjiqt7</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm797677m006h2a6zz9erk6jb</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;a07af3a9-0fb3-4e68-95c3-91f74d817971&#34;&gt;&lt;span style=&#34;font-size: 1.5rem&#34;&gt;Volljährige Mitarbeiter sind nicht Berufschulpflichtig.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797677m006i2a6zf3vjiqt7</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;00434140-1240-4dac-95b9-5d85fa3a190f&#34;&gt;Volljährige Mitarbeiter sind berufsschulpflichtig.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7974yvl00652a6zx1g0ecks</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;d86cf0c2-dc52-4145-aa4d-ab8fca94105d&#34;&gt;Volljährige Mitarbeiter können eine Freistellung vom Berufsschulbesuch beimAusbildungsbetrieb beantragen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7976iz9006k2a6zjny17kfi</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;e6838875-7640-4df4-a3dc-fdc56568a2cb&#34;&gt;Volljährige Mitarbeiter sind nicht berufsschulpflichtig, wenn sie einenSchulabschluss (Bsp: Mittlere Reife, Abitur) besitzen.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm79779sn006n2a6zi413mprc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;ace48bd4-1632-4e66-8772-2aec7cd2bb19&#34;&gt;Letzten Monat hast du der Auszubildenden Lisa zu Unrecht fristlos gekündigt. Dieseverlangt nun Schadensersatz, woraufhin du dich an deine Rechtsabteilung wendest.Welche der folgenden Antworten zur Höhe des Schadenersatzes, den du nuneventuell zahlen musst ist richtig?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm79779so006o2a6zltalfoqn</correctResponsePattern>
+    <correctResponsePattern>choice_cm79779so006q2a6zad9qxxm2</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm79779so006o2a6zltalfoqn</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;be11aef2-e1e3-4985-99f1-5057388fe126&#34;&gt;Die Höhe der Entschädigung entspricht dem Schaden, der durch die vorzeitigeBeendigung des Ausbildungsverhältnisses entstanden ist.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm79779so006q2a6zad9qxxm2</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;cceb4b5c-9da8-44e2-9182-cef626750c71&#34;&gt;Der Schadensersatz kann auch in Form einer Wiedergutmachung erfolgen, z.B.indem Lisa wieder eingestellt wird.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm79779so006r2a6z7dw4kajh</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;ec9e40d3-3749-4d90-8d2f-c0cbd4214dd5&#34;&gt;Der Schadensersatz beträgt mindestens das Dreifache des durch die Kündigungentstandenen Schadens.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm79779so006p2a6z3q8n00a5</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;be074cf7-bade-4afe-8037-f2bb4f83aca8&#34;&gt;Du wirst definitiv den Schadenersatz zahlen müssen, der sich auf alleAusgaben bezieht, die Lisa nach Erhalt des Kündigungsschreibens noch getätigthat.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm7978428006x2a6zvvoxnai3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;5b8b76a3-59d3-4142-be84-c35743e6af88&#34;&gt;Elsa Schmidt durchläuft einen Bewerbungsprozess. Elsa Schmidt hat es geschafft! Anihrem 18. Geburtstag unterschreibt sie den Ausbildungsvertrag. Welcher derfolgenden Aussagen ist korrekt?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm7978gmz00712a6z4obt9ojf</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm7978428006y2a6zu8vvjewk</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;8eb7f9f1-30a0-47fc-9015-37bf2c1b4468&#34;&gt;Da Elsa finanziell von ihren Eltern unterstützt wird, müssen diese ebenfalls denArbeitsvertrag unterschreiben.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7978428006z2a6zcezggp2i</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;c03a8c6d-f9f6-4863-9b1a-8e841885c05d&#34;&gt;Solange der Arbeitsvertrag nicht schriftlich festgehalten wurde, ist erunwirksam.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7976n2y006m2a6z90ef9mfs</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;53478be2-4099-4d1c-925d-7bc32b88aedd&#34;&gt;Der Arbeitsvertrag wird mit der Unterschrift Elsas gültig. Die Unterschrift derFirma bedarf es hierbei nicht.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7978gmz00712a6z4obt9ojf</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;b181faf0-0313-4b3d-9c12-46ddd0268bae&#34;&gt;Der Arbeitsvertrag erlangt Gültigkeit sobald beide Parteien, also die Firma undElsa, unterschrieben haben.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm7978oxh00742a6z1fld0q6m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;ec355377-97bc-49f0-af4a-1730b2c339fd&#34;&gt;Ausbildungsberater...&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm7978oxh00752a6zj1e4y4uz</correctResponsePattern>
+    <correctResponsePattern>choice_cm7978oxh00762a6z6qf5rw5w</correctResponsePattern>
+    <correctResponsePattern>choice_cm7978oxh00782a6zepsq8ksh</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm7978oxh00752a6zj1e4y4uz</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;39ff7eb7-7cf2-4e47-bcd1-f11056fdf247&#34;&gt;beraten die Auszubildenden und Ausbilder.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7978oxh00772a6z0igki78g</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;1b379311-1298-435e-a448-bc18c9d41e30&#34;&gt;behalten die Prüfer während der Prüfung im Kick.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7978oxh00782a6zepsq8ksh</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;be1420b5-414c-4684-b5f4-4211ebf5b523&#34;&gt;überprüfen die fachliche und persönliche Eignung der Ausbilder.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7978oxh00762a6z6qf5rw5w</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;47510b68-2a47-400f-b6ea-910061ac7116&#34;&gt;&lt;span style=&#34;font-size: 1.5rem&#34;&gt;stellen fest, ob die Ausbildungsstätte geeignet ist auszubilden.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm7979f7g007e2a6zogs0nyyr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;8c795bd6-7c2c-4d33-99b5-1c32579c2371&#34;&gt;Welche Voraussetzungen sollte ein Ausbilder erfüllten?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm7979f7h007g2a6zlk4j2fxc</correctResponsePattern>
+    <correctResponsePattern>choice_cm7979f7h007h2a6zmn7mm2i6</correctResponsePattern>
+    <correctResponsePattern>choice_cm7979f7h007i2a6zs8rzq5lp</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm7979f7h007f2a6zyt9ibgtf</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;41591b43-f484-42ed-bc75-2247e4ce2509&#34;&gt;Er muss Mitglied im Betriebsrat sein.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7979f7h007h2a6zmn7mm2i6</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;cb94826e-91e2-498b-add6-c9c13fa70695&#34;&gt;Er sollte eine gute (Selbst-)reflexionsfähigkeit besitzen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7979f7h007i2a6zs8rzq5lp</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;1513e0bf-e4c0-4ef0-b387-f32c7406900b&#34;&gt;Er sollte fachlich kompetent sein.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7979f7h007g2a6zlk4j2fxc</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;68aa66d2-6957-4f10-821e-fe5fd12d4460&#34;&gt;Er sollte Erfahrung in der Arbeit mit Jugendlichen haben.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm797a0pm007n2a6zavwrhqa9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;a2a69b25-ce04-4223-a292-0eb9245b1218&#34;&gt;Was ist die rechtliche Grundlage für die Erstellung eines Ausbildungsplans?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm797a0pn007o2a6zb748padt</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm797a0pn007o2a6zb748padt</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;ad7c30f9-5b80-4c9e-853b-690c5bf17ea7&#34;&gt;Das Berufsausbildungsgesetz (BBiG)&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797a0pn007p2a6z23n4aj8t</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;8acb23f2-da61-47d0-8430-9d2f6d778f80&#34;&gt;Das Kerncurriculum (KCC)&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm7978j9100732a6zlj65oc5e</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;0df7734d-082d-4c17-b0ee-36ad9b6fb2f4&#34;&gt;Der Passierschein A38 (PA38)&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797aall007r2a6zk8igijiw</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;3e71377e-c224-45b9-8a44-ff03d6fea496&#34;&gt;Das Betriebsverfassungsgesetz (BetrVG)&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm797ao3q007u2a6zkv92khkb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;c966c7ee-8b27-4b82-8955-6aef3406df95&#34;&gt;Welche Instanz aktualisiert Ausbildungsordnungen, wenn sich Ausbildungen anveränderte Bedingungen in Berufen anpassen müssen?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm797aele007t2a6z2cu772w8</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm797ao3r007v2a6ziy294bax</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;3a48b941-ce68-4bb8-a89e-304d0f741b42&#34;&gt;Die Industrie- und Handelskammer&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797ao3r007w2a6zyljs82lz</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;60312451-c3aa-4fcf-9672-44eecf49f332&#34;&gt;Die Kultusminister der Länder&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797aele007t2a6z2cu772w8</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;b19b5253-9c2d-442e-bf36-9c1da69b575d&#34;&gt;Das Bundesinstitut für Berufsbildung&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797ay55007y2a6z8gkctgt2</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;3731af48-5c1a-40fc-bde1-24cddf42bfca&#34;&gt;Das Bundesministerium für Wirtschaft&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm797b79400812a6zq6owxevo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;93d22ae5-312d-476f-84c8-3d9e38ceb2bf&#34;&gt;Was sind taut § 13 im BBiG Pflichten der Auszubildenden? Auszubildende müssen...&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm797b79400832a6z47cuu6jv</correctResponsePattern>
+    <correctResponsePattern>choice_cm797b79400842a6zhkf3gha4</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm797b79400822a6zlx4nm964</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;a5b7ce33-7450-4760-9648-6fc924ed8926&#34;&gt;bei Krankheit zu Hause bleiben&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797b79400842a6zhkf3gha4</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;ff353b20-efad-482f-b0f3-89c412f70694&#34;&gt;die Ordnung ihrer Ausbildungsstätte beachten&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797b79400852a6zvsm48smy</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;b459ce85-a111-4a0a-a8c2-8405281989e0&#34;&gt;sich mindestens ein Jahr im Betriebsrat zu engagieren&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797b79400832a6z47cuu6jv</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;7c874913-9f2f-4617-8771-a90ea775f7b4&#34;&gt;einen Ausbildungsnachweis führen&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm797civw008b2a6zskpsgj6f" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;c5cb2c43-a990-4593-8a56-c4461fca1867&#34;&gt;Verstöße gegen diese Ausbilderpflicht können einen Betrieb teuer zu stehenkommen. Wie hoch kann die Geldstrafe maximal sein?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm797b0ee00802a6ze4quap96</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm797civx008c2a6zimy2q448</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;0da3e402-09f8-4943-bf1f-66fa32c66eab&#34;&gt;&lt;span style=&#34;font-size: 1.5rem&#34;&gt;Bis zu 1.000€&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797civx008d2a6ztiik21ks</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;8c949c45-0183-4a6f-a795-4a8c9130ebb0&#34;&gt;Bis zu 10.000€&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797b0ee00802a6ze4quap96</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;621232cd-2710-46d5-ae44-b23ec2e00039&#34;&gt;Bis zu 5.000€&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm797d79b008g2a6zkb4g293r" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;e06b0ead-67dc-4bf7-ac47-7919dca46005&#34;&gt;Wer legt den Ausbildungsrahmenplan fest?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm797d79c008i2a6zzf3n7erh</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm797d79c008h2a6zj9wca38c</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;dce65409-869b-451a-be50-6f9b14a6b553&#34;&gt;Der Ausbildungsbetrieb&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797d79c008i2a6zzf3n7erh</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;55725be7-f5fe-40c5-932b-4d52211eb5b5&#34;&gt;&lt;span style=&#34;font-size: 1.5rem&#34;&gt;Das zuständige Fachministerium&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797cyl3008f2a6zz4etqf1c</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;9142039d-3a9c-4858-965d-8d56b4fd0309&#34;&gt;Der Ausbilder&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797do7p008k2a6zanh9j1lr</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;94fc6f28-8662-41b6-87fd-1dff4b3a0462&#34;&gt;&lt;span style=&#34;font-size: 1.5rem&#34;&gt;Die Industrie- und Handelskammer &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm797dxab008n2a6zhwfy8g12" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;385e5980-7916-4519-9446-cda40dfff4bb&#34;&gt;Was bedeutet Tarifautonomie?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm797dqwm008m2a6zqxhjei3y</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm797dxab008o2a6zt2m271zx</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;246f6ffe-794b-43cb-a152-0f59b79cecb3&#34;&gt;Tarife werden automatisch vergeben.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797dxab008p2a6zb8yk8j2z</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;221f440d-e18c-40b8-8f7f-2b66930a1ffc&#34;&gt;Arbeitgeber und Arbeitnehmer können unter staatlicher Aufsicht Verträgeaushandeln und abschließen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797dqwm008m2a6zqxhjei3y</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;9f00d892-59aa-4e40-92f2-27cc31969f09&#34;&gt;Arbeitgeber und Arbeitnehmer können ohne Einmischung des Staates Verträgeaushandeln und abschließen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797e6sy008r2a6z417hb3w8</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;b310c2b3-6869-4ea1-a63e-4d25be2d5196&#34;&gt;&lt;span style=&#34;font-size: 1.5rem&#34;&gt;Tarifverhandlungen dürfen nicht durch einen Betriebsrat beeinflusst werden.&lt;/span&gt;&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm797ejg2008u2a6zk57eezvn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;0b96f712-5107-47da-a11e-08439652859f&#34;&gt;Berufliche Weiterbildungen...&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm797ejg3008w2a6zn7zmfc96</correctResponsePattern>
+    <correctResponsePattern>choice_cm797evbl008y2a6zlit1ypot</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm797ejg3008v2a6z69c6ffim</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;de351b7f-a9c2-47a1-b680-2b59eb2b8e3a&#34;&gt;führen bei erfolgreichem Abschluss immer auch zu Gehaltserhöhungen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797ejg3008w2a6zn7zmfc96</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;e23dcd58-3c08-48b5-9d88-6fd657ade233&#34;&gt;erweitern Befähigungen von Arbeitnehmern, die im Ausbildungsberuf bereitsaufgebaut worden sind.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797ea6n008t2a6zmibdyume</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;7991f081-389a-46e8-9e82-b277970e164d&#34;&gt;können Arbeitnehmer frühestens ein Jahr nach Beschäftigungsbeginn in einerFirma beantragen.&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797evbl008y2a6zlit1ypot</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;aac2dd17-09df-42e4-9263-f9be15107bf1&#34;&gt;enden häufig mit einer abschließenden Prüfung, bei der die neuerworbenen Kenntnisse nachgewiesen werden.&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                      
+<activity id="http://5vFeDXRo4qkOOBKvO93RRIcfdRmuW-Rn_rise/yBdKD0lNdk7BvXHjl4aouv2bp7K-GNHS/cm797f7yl00962a6zo6gu86em" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;div data-editor-id=&#34;a1d7eb26-a7d0-45cb-8c26-e8bd15cef4ca&#34;&gt;Wer hat in einer Firma Auszubildenden gegenüber eine Weisungsberechtigung?&lt;/div&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm797f7yl00982a6zejmoqmx4</correctResponsePattern>
+    <correctResponsePattern>choice_cm797ey5200902a6z0un3nec9</correctResponsePattern>
+    <correctResponsePattern>choice_cm797fjs3009d2a6zck0l4f7u</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm797f7yl00972a6zluetypzi</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;79f1cd5a-6be2-4918-a79a-080d8a59fb14&#34;&gt;Grundsätzlich alle Kollegen in einem Betrieb&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797f7yl00982a6zejmoqmx4</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;ad9878c3-d770-486f-8a77-c65f197a8232&#34;&gt;Die Ausbilder, also Personen, die die Ausbildungsinhalte vermitteln&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797ey5200902a6z0un3nec9</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;3ff7b687-2cc5-4e2c-8fef-3b50b087c317&#34;&gt;Andere weisungsberechtigte Personen wie zuständige Sachbearbeiter, Meister,Abteilungsleiter&lt;/div&gt;</description>
+  </component>
+    <component>
+    <id>choice_cm797fjs3009d2a6zck0l4f7u</id>
+    <description lang="en-US">&lt;div data-editor-id=&#34;2d9bb29b-8314-4599-959e-6bc954b65791&#34;&gt;Die Ausbildenden, also die Personen, die Auszubildende einstellen&lt;/div&gt;</description>
+  </component>
+    </choices>
+  </activity>
+                              </activities>
+</tincan>
