@@ -172,7 +172,7 @@
       }),
       result: {
         extensions: {
-          'http://w3id.org/xapi/cmi5/result/extensions/progress': courseProgress
+          'https://w3id.org/xapi/cmi5/result/extensions/progress': courseProgress
         }}
     });
   }
@@ -471,10 +471,7 @@
   }
 
   function loadBundle() {
-    var script = document.createElement('script');
-    script.setAttribute('src', 'lib/main.bundle.js');
-    document.head.appendChild(script);
-
+    __loadEntry()
     sendAttempted();
   }
 
