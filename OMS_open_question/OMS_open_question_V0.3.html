@@ -1,0 +1,344 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Offene Fragen – Mehrteiliges Modul</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+  <style>
+    :root { --primary: #0b4788; --primary-600: #0a3f79; --text: #1f2937; --muted: #6b7280; --bg: #ffffff; --surface: #f8fafc; --border: #e5e7eb; --radius: 14px; --shadow: 0 8px 24px rgba(2, 8, 23, 0.06); }
+    *{ box-sizing: border-box; }
+    body { margin: 0; padding: 0; font-family: Lato, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", sans-serif; background: var(--bg); color: var(--text); }
+    .container { max-width: 860px; margin: auto; padding: 24px; }
+    .card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; }
+    .header { padding: 20px 22px; border-bottom: 1px solid var(--border); display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: center; }
+    .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--primary); }
+    h1 { font-size: 20px; margin: 0; font-weight: 700; color: var(--primary); }
+    .progress { font-weight: 700; color: var(--primary); background: #eaf2fb; border: 1px solid #d7e5f8; padding: 6px 10px; border-radius: 999px; }
+    .body { padding: 20px 22px; display: grid; gap: 18px; }
+    .prompt { font-size: 16px; line-height: 1.5; }
+    textarea { width: 100%; min-height: 160px; resize: vertical; font: inherit; padding: 14px 16px; border-radius: 12px; border: 1px solid var(--border); }
+    textarea:focus { outline: none; border-color: var(--primary); box-shadow: 0 0 0 3px rgba(11,71,136,0.15); }
+    button { border: none; cursor: pointer; font: inherit; padding: 12px 16px; border-radius: 12px; font-weight: 700; }
+    button.primary { background: var(--primary); color: #fff; }
+    button.primary:hover { background: var(--primary-600); }
+    button.secondary { background: transparent; color: var(--primary); border: 1px solid var(--primary); }
+    button.ghost { background: transparent; color: var(--muted); border: 1px dashed var(--border); }
+    .row { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+    .feedback { border-top: 1px dashed var(--border); padding-top: 12px; display: none; }
+    .chip { font-size: 12px; padding: 6px 10px; border-radius: 999px; background: #dcfce7; color: #065f46; border: 1px solid #bbf7d0; }
+    .scorebar { height: 10px; background: #e5e7eb; border-radius: 999px; overflow: hidden; }
+    .scorebar > div { height: 100%; width: 0%; background: var(--primary); transition: width .4s ease; }
+    /* Optimierung der Lösungsausgabe */
+    #solution { border: 1px solid var(--border); border-radius: 12px; background: #fff; padding: 14px 16px; transition: background .25s ease, border-color .25s ease, box-shadow .25s ease; }
+    #solution summary { cursor: pointer; display: flex; align-items: center; gap: 8px; font-weight: 700; color: var(--primary); list-style: none; }
+    #solution summary::-webkit-details-marker{ display:none; }
+    #solution summary::before { content: "▶"; font-size: 12px; transform: translateY(1px); transition: transform .2s ease; }
+    #solution[open] summary::before { transform: rotate(90deg) translateX(1px); }
+    #solution[open] { background: #f0f6ff; border-color: #bfdbfe; box-shadow: 0 6px 20px rgba(11,71,136,.08); }
+    #solution[open] #solution-content { margin-top: 10px; padding: 12px 14px; background: #ffffff; border: 1px dashed var(--border); border-radius: 10px; line-height: 1.6; }
+    /* Sperr-Status (locked) – verhindert Öffnen per Maus & tastaturvisuelle Kennzeichnung */
+    #solution[data-locked="true"] { opacity: .6; }
+    #solution[data-locked="true"] summary { pointer-events: none; }
+
+    .success-banner { display: none; padding: 12px 14px; background: #ecfdf5; color: #065f46; border: 1px solid #bbf7d0; border-radius: 10px; }
+    .nav { display: flex; justify-content: space-between; align-items: center; padding: 12px 22px; border-top: 1px solid var(--border); background: #fff; }
+    .nav .hint { color: var(--muted); font-size: 14px; }
+    .counter { color: var(--muted); font-size: 14px; }
+    .disabled { opacity: 0.6; pointer-events: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="card">
+      <div class="header">
+        <span class="dot"></span>
+        <h1 id="title">Offene Fragen</h1>
+        <span id="progress" class="progress">Frage 1 / 5</span>
+      </div>
+      <div class="body">
+        <p id="question" class="prompt"></p>
+        <textarea id="answer" placeholder="Antwort hier eingeben..."></textarea>
+        <div class="row">
+          <button id="submit" class="primary">Antwort absenden</button>
+          <button id="reset" class="secondary">Zurücksetzen</button>
+          <span id="counter" class="counter"></span>
+        </div>
+        <div id="feedback" class="feedback">
+          <h2>Feedback</h2>
+          <div class="scorebar"><div id="scorebar"></div></div>
+          <p id="scoretext"></p>
+          <p id="tries-left"></p>
+          <div id="hits" class="row"></div>
+        </div>
+        <details id="solution" disabled>
+          <summary>Optimale Lösung anzeigen</summary>
+          <div id="solution-content"></div>
+        </details>
+        <div id="complete" class="success-banner">✅ Aufgabe abgeschlossen. Sie können nun die nächste Frage beantworten oder dies zurücksetzen.</div>
+      </div>
+      <div class="nav">
+        <button id="prev" class="ghost">← Zurück</button>
+        <span class="hint" id="nav-hint">Sie können zur nächsten Frage wechseln.</span>
+        <button id="next" class="ghost">Weiter →</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Fragenkonfigurationen 1–5 -->
+  <script id="config-multi" type="application/json">
+  {
+    "questions": [
+      {
+        "title": "Offene Frage 1",
+        "question": "Welche betriebswirtschaftlichen Kennzahlen würden Sie zur Beurteilung der Liquidität eines Handwerksbetriebs heranziehen?",
+        "optimalSolution": "Zur Beurteilung der Liquidität dienen vor allem die Liquiditätsgrade (Liquiditätsgrad 1, 2 und 3), die Cash-Flow-Rate sowie das Working Capital. Sie zeigen, ob ein Unternehmen seine kurzfristigen Verbindlichkeiten mit kurzfristigen Mitteln decken kann.",
+        "positiveKeywords": [
+          {"term": "Liquiditätsgrade"},
+          {"term": "Cash-Flow-Rate"},
+          {"term": "Working Capital"}
+        ],
+        "minToComplete": 3,
+        "caseSensitive": false,
+        "maxTries": 3
+      },
+      {
+        "title": "Offene Frage 2",
+        "question": "Beschreiben Sie, wie ein Handwerksbetrieb den Break-even-Point berechnet und welche Bedeutung dieser hat.",
+        "optimalSolution": "Der Break-even-Point ist der Punkt, an dem Erlöse und Kosten gleich hoch sind, also weder Gewinn noch Verlust entsteht. Er wird berechnet durch: Fixkosten / (Verkaufspreis - variable Kosten je Stück). Er zeigt, ab welcher Absatzmenge ein Betrieb in die Gewinnzone kommt.",
+        "positiveKeywords": [
+          {"term": "Fixkosten"},
+          {"term": "variable Kosten"},
+          {"term": "Verkaufspreis"},
+          {"term": "Gewinnzone"},
+          {"term": "Erlöse = Kosten"}
+        ],
+        "minToComplete": 3,
+        "caseSensitive": false,
+        "maxTries": 3
+      },
+      {
+        "title": "Offene Frage 3",
+        "question": "Was versteht man unter dem ökonomischen Prinzip? Erläutern Sie die Ausprägungen.",
+        "optimalSolution": "Das ökonomische Prinzip verlangt einen effizienten Umgang mit Ressourcen. Es gibt drei Ausprägungen: das Minimalprinzip (ein Ziel mit möglichst geringem Mitteleinsatz erreichen), das Maximalprinzip (mit gegebenen Mitteln das bestmögliche Ergebnis erzielen) und das Optimalprinzip (Abwägung zwischen Aufwand und Ertrag).",
+        "positiveKeywords": [
+          {"term": "ökonomisches Prinzip"},
+          {"term": "Minimalprinzip"},
+          {"term": "Maximalprinzip"},
+          {"term": "Optimalprinzip"},
+          {"term": "Ressourcen effizient"}
+        ],
+        "minToComplete": 3,
+        "caseSensitive": false,
+        "maxTries": 3
+      },
+      {
+        "title": "Offene Frage 4",
+        "question": "Welche internen und externen Faktoren beeinflussen die Standortwahl eines Handwerksbetriebs?",
+        "optimalSolution": "Interne Faktoren: Nähe zum Kunden, Kostenstruktur, vorhandene Infrastruktur. Externe Faktoren: Konkurrenzsituation, rechtliche Rahmenbedingungen, Fördermöglichkeiten, Verkehrsanbindung und Verfügbarkeit von Fachkräften.",
+        "positiveKeywords": [
+          {"term": "Nähe zum Kunden"},
+          {"term": "Kostenstruktur"},
+          {"term": "Infrastruktur"},
+          {"term": "Konkurrenz"},
+          {"term": "rechtliche Rahmenbedingungen"},
+          {"term": "Fördermöglichkeiten"},
+          {"term": "Verkehrsanbindung"},
+          {"term": "Fachkräfte"}
+        ],
+        "minToComplete": 4,
+        "caseSensitive": false,
+        "maxTries": 3
+      },
+      {
+        "title": "Offene Frage 5",
+        "question": "Erklären Sie den Unterschied zwischen Fixkosten und variablen Kosten anhand eines handwerklichen Beispiels.",
+        "optimalSolution": "Fixkosten bleiben unabhängig von der Produktionsmenge konstant (z. B. Miete). Variable Kosten ändern sich mit der Produktionsmenge (z. B. Materialverbrauch bei einem Schreinerbetrieb).",
+        "positiveKeywords": [
+          {"term": "Fixkosten"},
+          {"term": "variable Kosten"},
+          {"term": "Miete"},
+          {"term": "Materialverbrauch"},
+          {"term": "Schreinerbetrieb"}
+        ],
+        "minToComplete": 3,
+        "caseSensitive": false,
+        "maxTries": 3
+      }
+    ]
+  }
+  </script>
+
+  <script>
+    const state = {
+      idx: 0,
+      tries: [],
+      completed: [],
+    };
+
+    const cfgMulti = JSON.parse(document.getElementById('config-multi').textContent);
+    const Q = cfgMulti.questions;
+    const total = Q.length;
+
+    // UI Refs
+    const titleEl = document.getElementById('title');
+    const progressEl = document.getElementById('progress');
+    const questionEl = document.getElementById('question');
+    const answerEl = document.getElementById('answer');
+    const submitBtn = document.getElementById('submit');
+    const resetBtn = document.getElementById('reset');
+    const prevBtn = document.getElementById('prev');
+    const nextBtn = document.getElementById('next');
+    const navHint = document.getElementById('nav-hint');
+
+    const feedback = document.getElementById('feedback');
+    const hits = document.getElementById('hits');
+    const scorebar = document.getElementById('scorebar');
+    const scoretext = document.getElementById('scoretext');
+    const triesLeft = document.getElementById('tries-left');
+    const banner = document.getElementById('complete');
+    const solution = document.getElementById('solution');
+    const solutionContent = document.getElementById('solution-content');
+    const solutionSummary = solution.querySelector('summary');
+    const counter = document.getElementById('counter');
+
+    // Initialize per-question states
+    state.tries = Array(total).fill(0);
+    state.completed = Array(total).fill(false);
+
+    function setProgress() {
+      progressEl.textContent = `Frage ${state.idx + 1} / ${total}`;
+      counter.textContent = state.completed[state.idx] ? '✓ Abgeschlossen' : '';
+    }
+
+    function keywordCheck(answer, items, caseSensitive=false) {
+      const a = caseSensitive ? answer : answer.toLowerCase();
+      return items.map(k => ({
+        term: k.term,
+        present: a.includes(caseSensitive ? k.term : k.term.toLowerCase())
+      }));
+    }
+
+    function renderChips(matches) {
+      hits.innerHTML = '';
+      matches.filter(m => m.present).forEach(m => {
+        const el = document.createElement('span');
+        el.className = 'chip ok';
+        el.textContent = m.term;
+        hits.appendChild(el);
+      });
+    }
+
+    function resetCurrentUI() {
+      // Reset visible UI elements for the current question
+      answerEl.value = '';
+      feedback.style.display = 'none';
+      hits.innerHTML = '';
+      scorebar.style.width = '0%';
+      scoretext.textContent = '';
+      triesLeft.textContent = '';
+      banner.style.display = 'none';
+      // Sperre Lösung
+      solution.setAttribute('disabled', '');
+      solution.dataset.locked = 'true';
+      solution.open = false;
+      counter.textContent = '';
+      navHint.textContent = 'Sie können zur nächsten Frage wechseln.';
+    }
+
+    function loadQuestion(i) {
+      // Always reset state for the target question (Anforderung: Ausgangszustand bei Navigation)
+      state.idx = i;
+      state.tries[i] = 0;
+      state.completed[i] = false;
+
+      const cfg = Q[i];
+      titleEl.textContent = 'Offene Fragen';
+      questionEl.textContent = cfg.question;
+      solutionContent.textContent = cfg.optimalSolution;
+      setProgress();
+      resetCurrentUI();
+
+      // Nav button states
+      prevBtn.classList.toggle('disabled', i === 0);
+      nextBtn.classList.toggle('disabled', i === total - 1);
+    }
+
+    submitBtn.addEventListener('click', () => {
+      const cfg = Q[state.idx];
+      const i = state.idx;
+      const currentTries = ++state.tries[i];
+      const answer = answerEl.value.trim();
+      if (!answer) return;
+      const matches = keywordCheck(answer, cfg.positiveKeywords, cfg.caseSensitive);
+      renderChips(matches);
+      const got = matches.filter(m => m.present).length;
+      const totalKw = matches.length;
+      const need = Math.ceil(0.8 * totalKw); // 80%-Schwelle
+
+      // Update UI texts (ohne % Anzeige)
+      scorebar.style.width = totalKw ? (Math.round((got / totalKw) * 100) + '%') : '0%';
+      scoretext.textContent = `Erreicht: ${got} von ${totalKw} Schlüsselbegriffen. Ziel: ${need}.`;
+      const remaining = Math.max(0, cfg.maxTries - currentTries);
+      triesLeft.textContent = remaining > 0 ? `Versuche übrig: ${remaining}` : 'Keine Versuche mehr übrig.';
+      feedback.style.display = 'block';
+
+      const failedAll = currentTries >= cfg.maxTries && got < need; // 3 erfolglose Versuche
+      if (got >= need || failedAll) {
+        state.completed[i] = true;
+        banner.style.display = 'block';
+        counter.textContent = '✓ Abgeschlossen';
+        navHint.textContent = 'Sie können zur nächsten Frage wechseln.';
+        // Lösung darf angezeigt werden nach 3 erfolglosen Versuchen ODER korrekter Lösung
+        solution.removeAttribute('disabled');
+        solution.dataset.locked = 'false';
+      }
+    });
+
+    resetBtn.addEventListener('click', () => {
+      const i = state.idx;
+      // Vollständig zurücksetzen inkl. Lösungssperre
+      state.tries[i] = 0;
+      state.completed[i] = false;
+      resetCurrentUI();
+    });
+
+    prevBtn.addEventListener('click', () => {
+      if (state.idx > 0) loadQuestion(state.idx - 1);
+    });
+    nextBtn.addEventListener('click', () => {
+      if (state.idx < total - 1) loadQuestion(state.idx + 1);
+    });
+
+    // Verhindere Öffnen der Lösung, solange gesperrt (Maus & Tastatur)
+    solutionSummary.addEventListener('click', (e) => {
+      if (solution.dataset.locked === 'true') {
+        e.preventDefault();
+        e.stopPropagation();
+      }
+    });
+    solutionSummary.addEventListener('keydown', (e) => {
+      if (solution.dataset.locked === 'true' && (e.key === 'Enter' || e.key === ' ')) {
+        e.preventDefault();
+      }
+    });
+    solution.addEventListener('toggle', () => {
+      if (solution.dataset.locked === 'true' && solution.open) {
+        // Falls der Browser das Öffnen trotzdem erlaubt hat, sofort wieder schließen
+        solution.open = false;
+      }
+    });
+
+    // Keyboard navigation
+    document.addEventListener('keydown', (e) => {
+      if (e.altKey && e.key === 'ArrowRight') { if (state.idx < total - 1) loadQuestion(state.idx + 1); }
+      if (e.altKey && e.key === 'ArrowLeft') { if (state.idx > 0) loadQuestion(state.idx - 1); }
+    });
+
+    // Start with first question (im Ausgangszustand)
+    loadQuestion(0);
+  </script>
+</body>
+</html>
