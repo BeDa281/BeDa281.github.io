@@ -48,6 +48,12 @@
     .nav .hint { color: var(--muted); font-size: 14px; }
     .counter { color: var(--muted); font-size: 14px; }
     .disabled { opacity: 0.6; pointer-events: none; }
+
+    /* --- Optional: kleine Styles für den Embed-Bereich --- */
+    .embed-header { display:flex; align-items:center; gap:10px; margin: 16px 0 10px; color: var(--primary); }
+    .embed-dot { width:8px; height:8px; border-radius:50%; background: var(--primary); }
+    .embed-note { color: var(--muted); font-size: 14px; margin-bottom: 8px; }
+    .embed-frame { border:0; border-radius: 12px; box-shadow: var(--shadow); width:100%; height: 640px; }
   </style>
 </head>
 <body>
@@ -83,6 +89,27 @@
         <button id="prev" class="ghost">← Zurück</button>
         <span class="hint" id="nav-hint">Sie können zur nächsten Frage wechseln.</span>
         <button id="next" class="ghost">Weiter →</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ✨ Eingebettetes externes Modul -->
+  <div class="container">
+    <div class="card" id="embed-card">
+      <div class="header">
+        <span class="dot"></span>
+        <h1>Externes Modul</h1>
+        <span class="progress">CloudFront</span>
+      </div>
+      <div class="body">
+        <p class="embed-note">Das folgende Modul wird in einem sicheren iFrame geladen.</p>
+        <div id="embed-container">
+          <!-- iFrame wird hier dynamisch eingesetzt -->
+        </div>
+        <div class="row">
+          <button id="reload-embed" class="ghost">Neu laden</button>
+          <button id="open-extern" class="secondary">In neuem Tab öffnen</button>
+        </div>
       </div>
     </div>
   </div>
@@ -339,6 +366,44 @@
 
     // Start with first question (im Ausgangszustand)
     loadQuestion(0);
+
+    /* ==========================
+       🔗 EINBETTUNG DES EXTERNEN MODULS
+       ========================== */
+
+    /**
+     * Betten ein externes Modul via iFrame ein.
+     * Hinweis: Funktioniert nur, wenn die Zielseite Framing zulässt
+     * (kein X-Frame-Options: DENY/SAMEORIGIN und keine restriktive CSP).
+     */
+    function embedExternalModule(url) {
+      const host = document.getElementById('embed-container');
+      if (!host) return;
+      host.innerHTML = '';
+
+      const iframe = document.createElement('iframe');
+      iframe.className = 'embed-frame';
+      iframe.src = url;
+      iframe.title = 'Externes Modul';
+      iframe.loading = 'lazy';
+      iframe.setAttribute('allowfullscreen', '');
+      host.appendChild(iframe);
+    }
+
+    // Buttons für Komfort
+    const reloadBtn = document.getElementById('reload-embed');
+    const openExternBtn = document.getElementById('open-extern');
+    const EXTERNAL_URL = 'https://d1v2hdwtmt4u9j.cloudfront.net/OMS_open_question/index.html';
+
+    if (reloadBtn) {
+      reloadBtn.addEventListener('click', () => embedExternalModule(EXTERNAL_URL));
+    }
+    if (openExternBtn) {
+      openExternBtn.addEventListener('click', () => window.open(EXTERNAL_URL, '_blank', 'noopener,noreferrer'));
+    }
+
+    // Direkt beim Laden einbetten
+    embedExternalModule(EXTERNAL_URL);
   </script>
 </body>
 </html>
