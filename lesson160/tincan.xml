@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://sDL08nK_ViaP7hKKtNpZaa5ptSNWw8xN_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Wettbewerbsfähigkeit von Unternehmen beurteilen - Quiz 6</name>
+      <description lang="en-US">In diesem Quiz müssen Sie 10 Fragen zu den Themen des HF I - Wettbewerbsfähigkeit von Unternehmen beurteilen beantworten. Viel Erfolg!</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://sDL08nK_ViaP7hKKtNpZaa5ptSNWw8xN_rise/U3MAN11VsggFdThHT3RGERN2Rp722iR2" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://sDL08nK_ViaP7hKKtNpZaa5ptSNWw8xN_rise/U3MAN11VsggFdThHT3RGERN2Rp722iR2/cmguje9ac00202a725pl9gz3t" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen treffen auf das magische Dreieck der Unternehmensführung zu?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme71a766005d357pgihufj6u</correctResponsePattern>
+    <correctResponsePattern>choice_cme71a766005f357pp0szlwb9</correctResponsePattern>
+    <correctResponsePattern>choice_cme71a6ei005a357p5m6umxmf</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme71a766005d357pgihufj6u</id>
+    <description lang="en-US">Es umfasst Rentabilität, Liquidität und Sicherheit</description>
+  </component>
+    <component>
+    <id>choice_cme71a766005f357pp0szlwb9</id>
+    <description lang="en-US">Die Ziele stehen oft im Spannungsverhältnis</description>
+  </component>
+    <component>
+    <id>choice_cme71a766005g357pwkdhywml</id>
+    <description lang="en-US">Es beschreibt Marketinginstrumente</description>
+  </component>
+    <component>
+    <id>choice_cme71a766005e357pyjgyz7bx</id>
+    <description lang="en-US">Alle Ziele sind gleichzeitig maximal erreichbar</description>
+  </component>
+    <component>
+    <id>choice_cme71a6ei005a357p5m6umxmf</id>
+    <description lang="en-US">Zielkonflikte sind möglich</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://sDL08nK_ViaP7hKKtNpZaa5ptSNWw8xN_rise/U3MAN11VsggFdThHT3RGERN2Rp722iR2/cmgujf1hw003m2a72goqve6io" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der folgenden Elemente gehören zum Marketing-Mix?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme71acep005q357pmuwpjd0s</correctResponsePattern>
+    <correctResponsePattern>choice_cme71acep005r357p13pmibti</correctResponsePattern>
+    <correctResponsePattern>choice_cme71acep005s357p7vnrqsif</correctResponsePattern>
+    <correctResponsePattern>choice_cme71abjl005n357p4kmu5mxt</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme71acep005q357pmuwpjd0s</id>
+    <description lang="en-US">Produktpolitik</description>
+  </component>
+    <component>
+    <id>choice_cme71acep005s357p7vnrqsif</id>
+    <description lang="en-US">Preispolitik</description>
+  </component>
+    <component>
+    <id>choice_cme71acep005t357pg704ltrw</id>
+    <description lang="en-US">Lohnpolitik</description>
+  </component>
+    <component>
+    <id>choice_cme71acep005r357p13pmibti</id>
+    <description lang="en-US">Kommunikationspolitik</description>
+  </component>
+    <component>
+    <id>choice_cme71abjl005n357p4kmu5mxt</id>
+    <description lang="en-US">Distributionspolitik</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://sDL08nK_ViaP7hKKtNpZaa5ptSNWw8xN_rise/U3MAN11VsggFdThHT3RGERN2Rp722iR2/cmgujf1hw003n2a72u1f8y64l" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist ein typisches Ziel der Preiskalkulation im Handwerksbetrieb?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme71afzk0063357p2q5fw9b0</correctResponsePattern>
+    <correctResponsePattern>choice_cme71afzk0064357peuw6enx8</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme71afzk0063357p2q5fw9b0</id>
+    <description lang="en-US">Gewinnmaximierung</description>
+  </component>
+    <component>
+    <id>choice_cme71afzk0065357pk61jclwa</id>
+    <description lang="en-US">Minimierung der Produktionszeit</description>
+  </component>
+    <component>
+    <id>choice_cme71afzk0066357pie2kmmh2</id>
+    <description lang="en-US">Vermeidung von Steuerzahlungen</description>
+  </component>
+    <component>
+    <id>choice_cme71afzk0064357peuw6enx8</id>
+    <description lang="en-US">Deckung der Selbstkosten</description>
+  </component>
+    <component>
+    <id>choice_cme71af7i0060357p5rb5x17f</id>
+    <description lang="en-US">Ermittlung des Marktanteils</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://sDL08nK_ViaP7hKKtNpZaa5ptSNWw8xN_rise/U3MAN11VsggFdThHT3RGERN2Rp722iR2/cmgujf1hw003o2a72tyut0oxr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was versteht man unter einer Investition?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme71ajb9006d357p9180t4lv</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme71ak51006g357pawsjzht2</id>
+    <description lang="en-US">Kurzfristige Geldanlage</description>
+  </component>
+    <component>
+    <id>choice_cme71ak51006h357psrv6gmv0</id>
+    <description lang="en-US">Ausgabe für laufenden Betrieb</description>
+  </component>
+    <component>
+    <id>choice_cme71ajb9006d357p9180t4lv</id>
+    <description lang="en-US">Anschaffung von Anlagevermögen</description>
+  </component>
+    <component>
+    <id>choice_cme71amdu006j357px90u4t7e</id>
+    <description lang="en-US">Zahlung von Löhnen</description>
+  </component>
+    <component>
+    <id>choice_cme71amvw006l357prvjq308i</id>
+    <description lang="en-US">Rückzahlung eines Kredits</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://sDL08nK_ViaP7hKKtNpZaa5ptSNWw8xN_rise/U3MAN11VsggFdThHT3RGERN2Rp722iR2/cmgujf1hw003p2a72buwzjsg8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was sind typische Aufgaben des Controllings?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme71ao2t006r357pshqvtpjp</correctResponsePattern>
+    <correctResponsePattern>choice_cme71ao2t006s357pix9ddu86</correctResponsePattern>
+    <correctResponsePattern>choice_cme71an7a006n357psnttjo4s</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme71ao2t006p357plxrkwsau</id>
+    <description lang="en-US">Marktanalyse</description>
+  </component>
+    <component>
+    <id>choice_cme71ao2t006r357pshqvtpjp</id>
+    <description lang="en-US">Kostenüberwachung</description>
+  </component>
+    <component>
+    <id>choice_cme71ao2t006s357pix9ddu86</id>
+    <description lang="en-US">Zielkontrolle</description>
+  </component>
+    <component>
+    <id>choice_cme71ao2t006q357pvyugakac</id>
+    <description lang="en-US">Lohnabrechnung</description>
+  </component>
+    <component>
+    <id>choice_cme71an7a006n357psnttjo4s</id>
+    <description lang="en-US">Informationsbereitstellung für Entscheidungen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://sDL08nK_ViaP7hKKtNpZaa5ptSNWw8xN_rise/U3MAN11VsggFdThHT3RGERN2Rp722iR2/cmgujf1hw003q2a72pekulw52" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Kriterien sind für die Standortwahl eines Handwerksbetriebs entscheidend?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme71arz10072357pnwx3k4sq</correctResponsePattern>
+    <correctResponsePattern>choice_cme71arz10074357prjrllm0n</correctResponsePattern>
+    <correctResponsePattern>choice_cme71arz10075357pzvl6ltra</correctResponsePattern>
+    <correctResponsePattern>choice_cme71aqv9006z357p44crlas2</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme71arz10072357pnwx3k4sq</id>
+    <description lang="en-US">Nähe zu Kunden</description>
+  </component>
+    <component>
+    <id>choice_cme71arz10074357prjrllm0n</id>
+    <description lang="en-US">Höhe der Gewerbesteuer</description>
+  </component>
+    <component>
+    <id>choice_cme71arz10075357pzvl6ltra</id>
+    <description lang="en-US">Verkehrsanbindung</description>
+  </component>
+    <component>
+    <id>choice_cme71arz10073357ppt3tzw7k</id>
+    <description lang="en-US">Beliebtheit der Region bei Touristen</description>
+  </component>
+    <component>
+    <id>choice_cme71aqv9006z357p44crlas2</id>
+    <description lang="en-US">Qualifikation der Arbeitskräfte in der Region</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

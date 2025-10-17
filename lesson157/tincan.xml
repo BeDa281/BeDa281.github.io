@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://tcediMrlN8aMcQBG3XKLQj5NTynCXDUQ_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Wettbewerbsfähigkeit von Unternehmen beurteilen - Quiz 3</name>
+      <description lang="en-US">In diesem Quiz müssen Sie 10 Fragen zu den Themen des HF I - Wettbewerbsfähigkeit von Unternehmen beurteilen beantworten. Viel Erfolg!</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://tcediMrlN8aMcQBG3XKLQj5NTynCXDUQ_rise/fx8uz_ElSQD5mV3YGQgouJvne-jj70JO" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://tcediMrlN8aMcQBG3XKLQj5NTynCXDUQ_rise/fx8uz_ElSQD5mV3YGQgouJvne-jj70JO/cmguj75vi00062a72g55oo8he" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Aufwendungen, die gleichzeitig auch Kosten sind, werden als _______________ bezeichnet.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbz1idwr000s2a71l5tzdlia</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbz1idwr000s2a71l5tzdlia</id>
+    <description lang="en-US">Grundkosten/Zweckaufwand </description>
+  </component>
+    <component>
+    <id>choice_cmbz1idwr000t2a71av7756b2</id>
+    <description lang="en-US">Erträge</description>
+  </component>
+    <component>
+    <id>choice_cmbz1i2ps000q2a71zv5p4k5l</id>
+    <description lang="en-US">Anhang und Lagebericht </description>
+  </component>
+    <component>
+    <id>choice_cmbz1j9i0000v2a71uz5jrwyz</id>
+    <description lang="en-US">Erfolgsrechnung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://tcediMrlN8aMcQBG3XKLQj5NTynCXDUQ_rise/fx8uz_ElSQD5mV3YGQgouJvne-jj70JO/cmguj7prl001s2a723tn2rok3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Kosten und _______________ sind die Rechnungsgrößen der Kosten und Erlösrechnung.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbz1jiuq000z2a712czfy50q</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbz1jiuq000z2a712czfy50q</id>
+    <description lang="en-US">Erlöse</description>
+  </component>
+    <component>
+    <id>choice_cmbz1jiuq00102a71huqbm2tm</id>
+    <description lang="en-US">Erträge</description>
+  </component>
+    <component>
+    <id>choice_cmbz1jehd000x2a71gmb46kl2</id>
+    <description lang="en-US">Gewinn- und Verlustrechnung</description>
+  </component>
+    <component>
+    <id>choice_cmbz1ka8n00122a71x4tt7no6</id>
+    <description lang="en-US">Finanzrechnung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://tcediMrlN8aMcQBG3XKLQj5NTynCXDUQ_rise/fx8uz_ElSQD5mV3YGQgouJvne-jj70JO/cmguj7prl001t2a72v0ps0bok" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Aufwendungen und _______________ sind die Rechnungsgrößen der Bilanzrechnung.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbz1kt6p00162a71dmkipdeb</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbz1kt6p00162a71dmkipdeb</id>
+    <description lang="en-US">Erträge</description>
+  </component>
+    <component>
+    <id>choice_cmbz1kt6p00182a712vyo79xl</id>
+    <description lang="en-US">Erlöse</description>
+  </component>
+    <component>
+    <id>choice_cmbz1kt6p00192a716kpoht34</id>
+    <description lang="en-US">Grundkosten/Zweckaufwand </description>
+  </component>
+    <component>
+    <id>choice_cmbz1kt6p00172a71veqyu5q8</id>
+    <description lang="en-US">Erfolgsrechnung </description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://tcediMrlN8aMcQBG3XKLQj5NTynCXDUQ_rise/fx8uz_ElSQD5mV3YGQgouJvne-jj70JO/cmguj7prl001u2a72loicd2bv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Auszahlungen und Einzahlungen sind die Rechnungsgrößen der ____________.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbz1lp3a001g2a7128gykci2</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbz1lp3a001g2a7128gykci2</id>
+    <description lang="en-US">Finanzrechnung</description>
+  </component>
+    <component>
+    <id>choice_cmbz1lp3a001h2a717pzdm1zu</id>
+    <description lang="en-US">Erfolgsrechnung </description>
+  </component>
+    <component>
+    <id>choice_cmbz1kj1000142a71msvvasei</id>
+    <description lang="en-US">Gewinn- und Verlustrechnung</description>
+  </component>
+    <component>
+    <id>choice_cmbz1mib3001j2a71fkpwlq32</id>
+    <description lang="en-US">Erträge</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://tcediMrlN8aMcQBG3XKLQj5NTynCXDUQ_rise/fx8uz_ElSQD5mV3YGQgouJvne-jj70JO/cmguj7prl001v2a726d100d1b" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die Geschäftsvorfälle zu, die zu den folgenden Bilanzveränderungen führen:</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cmbz9dk9g000b2a72d05rr1av[.]target_cmbz9dk9g000b2a72d05rr1av</correctResponsePattern>
+    <correctResponsePattern>source_cmbz9dk9g000c2a72m5gxazot[.]target_cmbz9dk9g000c2a72m5gxazot</correctResponsePattern>
+    <correctResponsePattern>source_cmbz9dk9g000d2a72lun85cm3[.]target_cmbz9dk9g000d2a72lun85cm3</correctResponsePattern>
+    <correctResponsePattern>source_cmbz9fct5000e2a72a70x14tk[.]target_cmbz9fct5000e2a72a70x14tk</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cmbz9dk9g000b2a72d05rr1av</id>
+    <description lang="en-US">Wareneinkauf per Bank-ÜBW ></description>
+  </component>
+    <component>
+    <id>source_cmbz9dk9g000c2a72m5gxazot</id>
+    <description lang="en-US">Tilgung Darlehen durch Privateinlage></description>
+  </component>
+    <component>
+    <id>source_cmbz9dk9g000d2a72lun85cm3</id>
+    <description lang="en-US">Kauf Maschine auf Ziel (Rechnung)></description>
+  </component>
+    <component>
+    <id>source_cmbz9fct5000e2a72a70x14tk</id>
+    <description lang="en-US">Überweisung Lieferanten VBL ></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cmbz9dk9g000b2a72d05rr1av</id>
+        <description lang="en-US">Aktivtausch</description>
+      </component>
+          <component>
+        <id>target_cmbz9dk9g000c2a72m5gxazot</id>
+        <description lang="en-US">Passivtausch</description>
+      </component>
+          <component>
+        <id>target_cmbz9dk9g000d2a72lun85cm3</id>
+        <description lang="en-US">Bilanzverlängerung</description>
+      </component>
+          <component>
+        <id>target_cmbz9fct5000e2a72a70x14tk</id>
+        <description lang="en-US">Bilanzverkürzung</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://tcediMrlN8aMcQBG3XKLQj5NTynCXDUQ_rise/fx8uz_ElSQD5mV3YGQgouJvne-jj70JO/cmguj7prl001w2a72uj3376mx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Beurteilen Sie die folgenden Geschäftsvorfälle im Hinblick auf ihre Auswirkungen auf die Bilanz! Ordnen Sie richtig zu: Der Ziffer „1“ einen Aktivtausch, der Ziffer „2“ einen Passivtausch, der Ziffer „3“ einer Bilanzverlängerung, und der Ziffer &#34;4&#34; eine Bilanzverkürzung. </name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cmbz9g9eu000g2a72bnqiht18[.]target_cmbz9g9eu000g2a72bnqiht18</correctResponsePattern>
+    <correctResponsePattern>source_cmbz9g9eu000i2a72o0lgolg6[.]target_cmbz9g9eu000i2a72o0lgolg6</correctResponsePattern>
+    <correctResponsePattern>source_cmbz9hrst000j2a723t8mhbjf[.]target_cmbz9hrst000j2a723t8mhbjf</correctResponsePattern>
+    <correctResponsePattern>source_cmbz9htpf000k2a72wdwmnf3n[.]target_cmbz9htpf000k2a72wdwmnf3n</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cmbz9g9eu000g2a72bnqiht18</id>
+    <description lang="en-US">Kauf einer Maschine bez. per Bank ></description>
+  </component>
+    <component>
+    <id>source_cmbz9g9eu000i2a72o0lgolg6</id>
+    <description lang="en-US">Umschuldung: Ein kurzfristiger Kredit wird durch ein langfristiges Darlehen ersetzt></description>
+  </component>
+    <component>
+    <id>source_cmbz9hrst000j2a723t8mhbjf</id>
+    <description lang="en-US">Materialeinkauf auf Ziel (Lieferantenkredit).></description>
+  </component>
+    <component>
+    <id>source_cmbz9htpf000k2a72wdwmnf3n</id>
+    <description lang="en-US">Rückzahlung eines Kredits.></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cmbz9g9eu000g2a72bnqiht18</id>
+        <description lang="en-US">1</description>
+      </component>
+          <component>
+        <id>target_cmbz9g9eu000i2a72o0lgolg6</id>
+        <description lang="en-US">2</description>
+      </component>
+          <component>
+        <id>target_cmbz9hrst000j2a723t8mhbjf</id>
+        <description lang="en-US">3</description>
+      </component>
+          <component>
+        <id>target_cmbz9htpf000k2a72wdwmnf3n</id>
+        <description lang="en-US">4</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://tcediMrlN8aMcQBG3XKLQj5NTynCXDUQ_rise/fx8uz_ElSQD5mV3YGQgouJvne-jj70JO/cmguj7prl001x2a723w1zs3y1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist eine Inventur?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmc064rvw001g357n1895233p</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmc064ruk001e357ny8iad9ie</id>
+    <description lang="en-US">Eine monatliche Gewinn- und Verlustrechnung</description>
+  </component>
+    <component>
+    <id>choice_cmc064ruk001f357n3gx89e3p</id>
+    <description lang="en-US">Eine Schätzung des Lagerbestands</description>
+  </component>
+    <component>
+    <id>choice_cmc064rvw001g357n1895233p</id>
+    <description lang="en-US">Eine körperliche Bestandsaufnahme aller Vermögensgegenstände und Schulden zu einem bestimmten Stichtag</description>
+  </component>
+    <component>
+    <id>choice_cmc064wnt001i357n45bwbjjl</id>
+    <description lang="en-US">Eine Prüfung der Buchhaltung durch das Finanzamt</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://tcediMrlN8aMcQBG3XKLQj5NTynCXDUQ_rise/fx8uz_ElSQD5mV3YGQgouJvne-jj70JO/cmguj7prl001y2a72fxghz36d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Zu welchem Zeitpunkt wird die Inventur durchgeführt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmc064z49001k357nabz5mfy1</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmc0650os001m357nl8fux559</id>
+    <description lang="en-US">Täglich zum Geschäftsbeginn</description>
+  </component>
+    <component>
+    <id>choice_cmc0650os001n357nwlvn23fc</id>
+    <description lang="en-US">Nach Abschluss des Geschäftsjahres</description>
+  </component>
+    <component>
+    <id>choice_cmc064z49001k357nabz5mfy1</id>
+    <description lang="en-US">Zu einem bestimmten Stichtag</description>
+  </component>
+    <component>
+    <id>choice_cmc06543z001p357nomzr08bh</id>
+    <description lang="en-US">Immer am Monatsende</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://tcediMrlN8aMcQBG3XKLQj5NTynCXDUQ_rise/fx8uz_ElSQD5mV3YGQgouJvne-jj70JO/cmguj7prl001z2a724jrqe37v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Bestandteile umfasst die Inventur?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmc0654st001r357n7nuxui81</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmc0655sw001t357n5wm08bei</id>
+    <description lang="en-US">Nur den Lagerbestand</description>
+  </component>
+    <component>
+    <id>choice_cmc0655sw001u357ntp1o71bq</id>
+    <description lang="en-US">Nur das Bankguthaben</description>
+  </component>
+    <component>
+    <id>choice_cmc0654st001r357n7nuxui81</id>
+    <description lang="en-US">Alle Vermögensgegenstände und Schulden eines Unternehmens</description>
+  </component>
+    <component>
+    <id>choice_cmc0658tp001w357ni5hz0b1d</id>
+    <description lang="en-US">Nur offene Rechnungen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://tcediMrlN8aMcQBG3XKLQj5NTynCXDUQ_rise/fx8uz_ElSQD5mV3YGQgouJvne-jj70JO/cmguj7prl00202a72tu491fjm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie werden die Ergebnisse der Inventur dokumentiert?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmc065a1z001y357n3e061yjk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmc065b0d0020357ntom2sxxq</id>
+    <description lang="en-US">In einem Protokollbuch</description>
+  </component>
+    <component>
+    <id>choice_cmc065b0d0021357nnc08rz4e</id>
+    <description lang="en-US">Im Jahresabschluss</description>
+  </component>
+    <component>
+    <id>choice_cmc065a1z001y357n3e061yjk</id>
+    <description lang="en-US">In einem Inventar</description>
+  </component>
+    <component>
+    <id>choice_cmc065e4s0023357n0h11orym</id>
+    <description lang="en-US">In einer Excel-Tabelle</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

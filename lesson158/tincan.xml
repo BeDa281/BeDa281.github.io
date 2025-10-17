@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://ncEgFYA-Ph2twKwd9I9H3MwEP3x-5Abg_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Wettbewerbsfähigkeit von Unternehmen beurteilen - Quiz 4</name>
+      <description lang="en-US">In diesem Quiz müssen Sie 10 Fragen zu den Themen des HF I - Wettbewerbsfähigkeit von Unternehmen beurteilen beantworten. Viel Erfolg!</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://ncEgFYA-Ph2twKwd9I9H3MwEP3x-5Abg_rise/JqAFdXwsWyQVwDAwLXEJDftzEVmyLiUE" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://ncEgFYA-Ph2twKwd9I9H3MwEP3x-5Abg_rise/JqAFdXwsWyQVwDAwLXEJDftzEVmyLiUE/cmgujb3k100022a73wzwg53m2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was versteht man unter einem Inventar?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmc065ep80025357n2ten59bi</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmc065fox0027357n6pkklp3i</id>
+    <description lang="en-US">Eine Liste aller Mitarbeiter</description>
+  </component>
+    <component>
+    <id>choice_cmc065fox0028357n2mybxsxv</id>
+    <description lang="en-US">Eine Zusammenfassung aller Einnahmen und Ausgaben</description>
+  </component>
+    <component>
+    <id>choice_cmc065ep80025357n2ten59bi</id>
+    <description lang="en-US">Eine schriftliche Aufstellung der bei der Inventur ermittelten Bestände und Schulden</description>
+  </component>
+    <component>
+    <id>choice_cmc065jdu002a357n5ssyaugo</id>
+    <description lang="en-US">Ein Lagerverwaltungsprogramm</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ncEgFYA-Ph2twKwd9I9H3MwEP3x-5Abg_rise/JqAFdXwsWyQVwDAwLXEJDftzEVmyLiUE/cmgujbmy3001o2a730zc7qm1o" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was lässt sich aus den allgemeinen Bilanzierungsgrundsätzen ableiten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmc065m0g002f357nlolk2s7a</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmc065m0g002e357nvbh693bw</id>
+    <description lang="en-US">Die Höhe der Steuerlast</description>
+  </component>
+    <component>
+    <id>choice_cmc065m0g002f357nlolk2s7a</id>
+    <description lang="en-US">Die Verhaltensmaßregeln zur Bewertung von Wirtschaftsgütern</description>
+  </component>
+    <component>
+    <id>choice_cmc065l0j002c357nvcnvf4l1</id>
+    <description lang="en-US">Der Jahresabschluss des Vorjahres</description>
+  </component>
+    <component>
+    <id>choice_cmc065q8w002h357nav06rd1y</id>
+    <description lang="en-US">Die Personalstruktur des Unternehmens</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ncEgFYA-Ph2twKwd9I9H3MwEP3x-5Abg_rise/JqAFdXwsWyQVwDAwLXEJDftzEVmyLiUE/cmgujbmy3001p2a7302kd5mi6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der folgenden Grundsätze gehören zu den allgemeinen Bewertungsgrundsätzen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmc065s5f002l357nrijz18md</correctResponsePattern>
+    <correctResponsePattern>choice_cmc065s5f002m357nc5unfrwp</correctResponsePattern>
+    <correctResponsePattern>choice_cmc065s5f002n357nur1o2nn6</correctResponsePattern>
+    <correctResponsePattern>choice_cmc065qxe002j357nizkzyj5z</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmc065s5f002l357nrijz18md</id>
+    <description lang="en-US">Bilanzidentität</description>
+  </component>
+    <component>
+    <id>choice_cmc065s5f002n357nur1o2nn6</id>
+    <description lang="en-US">Unternehmensfortführung</description>
+  </component>
+    <component>
+    <id>choice_cmc065s5f002o357nfhxc3ny3</id>
+    <description lang="en-US">Sammelbewertung</description>
+  </component>
+    <component>
+    <id>choice_cmc065s5f002m357nc5unfrwp</id>
+    <description lang="en-US">Bewertungskontinuität</description>
+  </component>
+    <component>
+    <id>choice_cmc065qxe002j357nizkzyj5z</id>
+    <description lang="en-US">Vorsichtsprinzip</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ncEgFYA-Ph2twKwd9I9H3MwEP3x-5Abg_rise/JqAFdXwsWyQVwDAwLXEJDftzEVmyLiUE/cmgujbmy3001q2a737ldwnayy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was bedeutet das Vorsichtsprinzip im Rahmen der Bewertung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmc065xv0002y357nb5yrk3zn</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmc065xv0002y357nb5yrk3zn</id>
+    <description lang="en-US">Es dürfen nur realisierte Gewinne ausgewiesen werden</description>
+  </component>
+    <component>
+    <id>choice_cmc065xv0002z357nap11m20s</id>
+    <description lang="en-US">Vermögenswerte werden stets überschätzt</description>
+  </component>
+    <component>
+    <id>choice_cmc065wru002v357nh5p0n98y</id>
+    <description lang="en-US">Schulden werden außer Acht gelassen</description>
+  </component>
+    <component>
+    <id>choice_cmc0662fd0031357nauuxqt12</id>
+    <description lang="en-US">Gewinne und Verluste werden gleich behandelt</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ncEgFYA-Ph2twKwd9I9H3MwEP3x-5Abg_rise/JqAFdXwsWyQVwDAwLXEJDftzEVmyLiUE/cmgujbmy3001r2a73p3unpzgz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist unter dem Grundsatz der Bilanzidentität zu verstehen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmc0664mx0036357nz81dpkkf</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmc0664mw0035357n15swpn78</id>
+    <description lang="en-US">Der Jahresabschluss wird in einer Bilanzsoftware erstellt</description>
+  </component>
+    <component>
+    <id>choice_cmc0664mx0036357nz81dpkkf</id>
+    <description lang="en-US">Die Eröffnungsbilanz muss mit der Schlussbilanz des Vorjahres übereinstimmen</description>
+  </component>
+    <component>
+    <id>choice_cmc06638u0033357n3gsqcn59</id>
+    <description lang="en-US">Alle Wirtschaftsgüter müssen gleich bewertet werden</description>
+  </component>
+    <component>
+    <id>choice_cmc0669q60038357nmymgpcbp</id>
+    <description lang="en-US">Die Bilanz wird zweimal im Jahr erstellt</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ncEgFYA-Ph2twKwd9I9H3MwEP3x-5Abg_rise/JqAFdXwsWyQVwDAwLXEJDftzEVmyLiUE/cmgujbmy3001s2a73gcjhevxl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Warum ist die Bewertung von Aktiva und Passiva wichtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmc066c6o003d357npsq3zu6g</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmc066c6o003c357nqgg5v4e9</id>
+    <description lang="en-US">Um die Liquidität des Unternehmens zu messen</description>
+  </component>
+    <component>
+    <id>choice_cmc066c6o003d357npsq3zu6g</id>
+    <description lang="en-US">Um den Gewinn des Unternehmens zu ermitteln</description>
+  </component>
+    <component>
+    <id>choice_cmc066avf003a357nui5p9nrm</id>
+    <description lang="en-US">Um neue Mitarbeiter einzustellen</description>
+  </component>
+    <component>
+    <id>choice_cmc066gct003f357nmdid1sy9</id>
+    <description lang="en-US">Um die Anzahl der Kunden zu dokumentieren</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ncEgFYA-Ph2twKwd9I9H3MwEP3x-5Abg_rise/JqAFdXwsWyQVwDAwLXEJDftzEVmyLiUE/cmgujbmy3001t2a73vvaxx7j0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Bestandteile gehören in der Regel zum handelsrechtlichen Jahresabschluss eines Kaufmanns?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme712b3g000b357pxagjiwmy</correctResponsePattern>
+    <correctResponsePattern>choice_cme712b3h000e357phycwonfz</correctResponsePattern>
+    <correctResponsePattern>choice_cme711xdu0002357pa4ijgnzd</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme712b3g000b357pxagjiwmy</id>
+    <description lang="en-US">Gewinn- und Verlustrechnung</description>
+  </component>
+    <component>
+    <id>choice_cme712b3h000d357p8f4yos2e</id>
+    <description lang="en-US">Steuerbescheid</description>
+  </component>
+    <component>
+    <id>choice_cme712b3h000e357phycwonfz</id>
+    <description lang="en-US">Bilanz</description>
+  </component>
+    <component>
+    <id>choice_cme712b3g000c357przc66oej</id>
+    <description lang="en-US">Kassenbuch</description>
+  </component>
+    <component>
+    <id>choice_cme711xdu0002357pa4ijgnzd</id>
+    <description lang="en-US">Anhang (bei Kapitalgesellschaften)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ncEgFYA-Ph2twKwd9I9H3MwEP3x-5Abg_rise/JqAFdXwsWyQVwDAwLXEJDftzEVmyLiUE/cmgujbmy3001u2a738fgsjt6u" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist das Ziel der Bilanz?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme712gs7000q357p0ts9alo3</correctResponsePattern>
+    <correctResponsePattern>choice_cme712gs7000r357ppi0a7bpt</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme712gs7000o357p1640qnx5</id>
+    <description lang="en-US">Darstellung der Umsatzsteuerlast</description>
+  </component>
+    <component>
+    <id>choice_cme712gs7000q357p0ts9alo3</id>
+    <description lang="en-US">Darstellung der Vermögens- und Finanzlage</description>
+  </component>
+    <component>
+    <id>choice_cme712gs7000r357ppi0a7bpt</id>
+    <description lang="en-US">Ermittlung der Eigenkapitalquote</description>
+  </component>
+    <component>
+    <id>choice_cme712gs7000p357pfasl786j</id>
+    <description lang="en-US">Übersicht über Einnahmen und Ausgaben</description>
+  </component>
+    <component>
+    <id>choice_cme712ftr000l357pzo813diw</id>
+    <description lang="en-US">Grundlage für die Lohnabrechnung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ncEgFYA-Ph2twKwd9I9H3MwEP3x-5Abg_rise/JqAFdXwsWyQVwDAwLXEJDftzEVmyLiUE/cmgujbmy3001v2a73a67m0fdu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Positionen gehören zum Umlaufvermögen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme712l3i0011357p8okkffm9</correctResponsePattern>
+    <correctResponsePattern>choice_cme712l3i0012357p581w5ox5</correctResponsePattern>
+    <correctResponsePattern>choice_cme712l3i0013357p3wd7xx7n</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme712l3i0011357p8okkffm9</id>
+    <description lang="en-US">Kassenbestand</description>
+  </component>
+    <component>
+    <id>choice_cme712l3i0013357p3wd7xx7n</id>
+    <description lang="en-US">Rohstoffe</description>
+  </component>
+    <component>
+    <id>choice_cme712l3i0014357pilhyrt9o</id>
+    <description lang="en-US">Firmenfahrzeuge</description>
+  </component>
+    <component>
+    <id>choice_cme712l3i0012357p581w5ox5</id>
+    <description lang="en-US">Forderungen aus Lieferungen und Leistungen</description>
+  </component>
+    <component>
+    <id>choice_cme712k9h000y357ppm3u3cio</id>
+    <description lang="en-US">Maschinen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://ncEgFYA-Ph2twKwd9I9H3MwEP3x-5Abg_rise/JqAFdXwsWyQVwDAwLXEJDftzEVmyLiUE/cmgujbmy3001w2a73tvukjk8u" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen zur Gewinn- und Verlustrechnung (GuV) sind korrekt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme712ogg001e357p6s9oppqr</correctResponsePattern>
+    <correctResponsePattern>choice_cme712ogg001f357ppup6m76p</correctResponsePattern>
+    <correctResponsePattern>choice_cme712ogg001h357pjt68v3u1</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme712ogg001e357p6s9oppqr</id>
+    <description lang="en-US">Sie zeigt die Erträge und Aufwendungen eines Geschäftsjahres.</description>
+  </component>
+    <component>
+    <id>choice_cme712ogg001g357p2ef22rf7</id>
+    <description lang="en-US">Sie ist ein Teil der Bilanz.</description>
+  </component>
+    <component>
+    <id>choice_cme712ogg001h357pjt68v3u1</id>
+    <description lang="en-US">Ein Gewinn erhöht das Eigenkapital.</description>
+  </component>
+    <component>
+    <id>choice_cme712ogg001f357ppup6m76p</id>
+    <description lang="en-US">Sie wird in Kontenform oder Staffelform dargestellt.</description>
+  </component>
+    <component>
+    <id>choice_cme712nue001b357pfewbq0cc</id>
+    <description lang="en-US">Sie zeigt den Kassenbestand am Jahresende.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

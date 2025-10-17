@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://rEsq5aheqxlZpg_nIvZvEq0vG-RAw4ad_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Wettbewerbsfähigkeit von Unternehmen beurteilen - Quiz 5</name>
+      <description lang="en-US">In diesem Quiz müssen Sie 10 Fragen zu den Themen des HF I - Wettbewerbsfähigkeit von Unternehmen beurteilen beantworten. Viel Erfolg!</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://rEsq5aheqxlZpg_nIvZvEq0vG-RAw4ad_rise/z7LW31C9LU8N1vrly1WDsy_72a-_Mxck" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://rEsq5aheqxlZpg_nIvZvEq0vG-RAw4ad_rise/z7LW31C9LU8N1vrly1WDsy_72a-_Mxck/cmgujcqzq00162a726i28i9t8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist eine Rückstellung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme712thd001t357pt0fckl0e</correctResponsePattern>
+    <correctResponsePattern>choice_cme712sjo001o357p1pm4zi3x</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme712thd001r357p2n7tejp1</id>
+    <description lang="en-US">Ein realer Zahlungsvorgang</description>
+  </component>
+    <component>
+    <id>choice_cme712thd001t357pt0fckl0e</id>
+    <description lang="en-US">Eine Verbindlichkeit, deren Höhe und Fälligkeit unsicher ist</description>
+  </component>
+    <component>
+    <id>choice_cme712thd001u357p2epu9em1</id>
+    <description lang="en-US">Eine Forderung gegenüber Kunden</description>
+  </component>
+    <component>
+    <id>choice_cme712thd001s357por73pcxt</id>
+    <description lang="en-US">Eine Investition in Sachanlagen</description>
+  </component>
+    <component>
+    <id>choice_cme712sjo001o357p1pm4zi3x</id>
+    <description lang="en-US">Ein zukünftiger Aufwand, der im laufenden Jahr verursacht wurde</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://rEsq5aheqxlZpg_nIvZvEq0vG-RAw4ad_rise/z7LW31C9LU8N1vrly1WDsy_72a-_Mxck/cmgujd8da002s2a72c9xu721n" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Posten zählen zu den Verbindlichkeiten in der Bilanz?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme712y9d0024357pwerobpv0</correctResponsePattern>
+    <correctResponsePattern>choice_cme712y9d0026357px5gac7e4</correctResponsePattern>
+    <correctResponsePattern>choice_cme712wz70021357prbax72gt</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme712y9d0024357pwerobpv0</id>
+    <description lang="en-US">Bankdarlehen</description>
+  </component>
+    <component>
+    <id>choice_cme712y9d0026357px5gac7e4</id>
+    <description lang="en-US">Lieferantenkredite</description>
+  </component>
+    <component>
+    <id>choice_cme712y9d0027357pioh83odr</id>
+    <description lang="en-US">Rückstellungen</description>
+  </component>
+    <component>
+    <id>choice_cme712y9d0025357pnsnrrfzu</id>
+    <description lang="en-US">Kundenforderungen</description>
+  </component>
+    <component>
+    <id>choice_cme712wz70021357prbax72gt</id>
+    <description lang="en-US">Leasingverpflichtungen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://rEsq5aheqxlZpg_nIvZvEq0vG-RAw4ad_rise/z7LW31C9LU8N1vrly1WDsy_72a-_Mxck/cmgujd8db002t2a728toosn6r" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist der Unterschied zwischen Aktiva und Passiva in der Bilanz?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme7131y3002h357p2harwnam</correctResponsePattern>
+    <correctResponsePattern>choice_cme71313y002e357pr3libm2s</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme7131y3002h357p2harwnam</id>
+    <description lang="en-US">Aktiva zeigen die Mittelverwendung, Passiva die Mittelherkunft</description>
+  </component>
+    <component>
+    <id>choice_cme7131y3002j357pragki1nr</id>
+    <description lang="en-US">Passiva sind immer negativ, Aktiva immer positiv</description>
+  </component>
+    <component>
+    <id>choice_cme7131y3002k357pj6tx1bd4</id>
+    <description lang="en-US">Aktiva enthalten nur Bargeldbestände</description>
+  </component>
+    <component>
+    <id>choice_cme7131y3002i357pwool4jew</id>
+    <description lang="en-US">Passiva enthalten ausschließlich Eigenkapital</description>
+  </component>
+    <component>
+    <id>choice_cme71313y002e357pr3libm2s</id>
+    <description lang="en-US">Die Bilanzsumme von Aktiva und Passiva ist immer gleich</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://rEsq5aheqxlZpg_nIvZvEq0vG-RAw4ad_rise/z7LW31C9LU8N1vrly1WDsy_72a-_Mxck/cmgujd8db002u2a727xcoeiyx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen zum Eigenkapital sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme7137i4002u357pe2o8mo14</correctResponsePattern>
+    <correctResponsePattern>choice_cme7137i4002w357perdzcfti</correctResponsePattern>
+    <correctResponsePattern>choice_cme7137i4002x357pt44lr0za</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme7137i4002u357pe2o8mo14</id>
+    <description lang="en-US">Es ist Teil der Passivseite der Bilanz</description>
+  </component>
+    <component>
+    <id>choice_cme7137i4002w357perdzcfti</id>
+    <description lang="en-US">Es ergibt sich aus der Differenz zwischen Aktiva und Fremdkapital</description>
+  </component>
+    <component>
+    <id>choice_cme7137i4002x357pt44lr0za</id>
+    <description lang="en-US">Es verändert sich durch Gewinne und Verluste</description>
+  </component>
+    <component>
+    <id>choice_cme7137i4002v357pexcrfdoq</id>
+    <description lang="en-US">Es zeigt die liquiden Mittel eines Unternehmens</description>
+  </component>
+    <component>
+    <id>choice_cme71369q002r357pp5wx75e1</id>
+    <description lang="en-US">Es bleibt während des Geschäftsjahres immer konstant</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://rEsq5aheqxlZpg_nIvZvEq0vG-RAw4ad_rise/z7LW31C9LU8N1vrly1WDsy_72a-_Mxck/cmgujd8db002v2a72kgojf4sg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Buchungen gehören typischerweise zum Jahresabschluss?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme713d240037357plcwctfit</correctResponsePattern>
+    <correctResponsePattern>choice_cme713d24003a357p5pfvganr</correctResponsePattern>
+    <correctResponsePattern>choice_cme713bx30034357p6rdugtmk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme713d240037357plcwctfit</id>
+    <description lang="en-US">Auflösung von Rückstellungen</description>
+  </component>
+    <component>
+    <id>choice_cme713d240039357phnsptic0</id>
+    <description lang="en-US">Erstellung der Inventur</description>
+  </component>
+    <component>
+    <id>choice_cme713d24003a357p5pfvganr</id>
+    <description lang="en-US">Jahresabschlussbuchungen (z. B. Abschreibungen)</description>
+  </component>
+    <component>
+    <id>choice_cme713d240038357pdhiquspv</id>
+    <description lang="en-US">Lohnabrechnungen für das Folgejahr</description>
+  </component>
+    <component>
+    <id>choice_cme713bx30034357p6rdugtmk</id>
+    <description lang="en-US">Bildung von Rückstellungen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://rEsq5aheqxlZpg_nIvZvEq0vG-RAw4ad_rise/z7LW31C9LU8N1vrly1WDsy_72a-_Mxck/cmgujd8db002w2a72du19lkoc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aufgaben erfüllt der Jahresabschluss?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme713hme003k357pi1y3zcis</correctResponsePattern>
+    <correctResponsePattern>choice_cme713hme003m357pq6inmk2w</correctResponsePattern>
+    <correctResponsePattern>choice_cme713hme003n357p1ccuheih</correctResponsePattern>
+    <correctResponsePattern>choice_cme713gqu003h357pocr24tpf</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme713hme003k357pi1y3zcis</id>
+    <description lang="en-US">Information der Unternehmensleitung</description>
+  </component>
+    <component>
+    <id>choice_cme713hme003m357pq6inmk2w</id>
+    <description lang="en-US">Grundlage für die Steuererklärung</description>
+  </component>
+    <component>
+    <id>choice_cme713hme003n357p1ccuheih</id>
+    <description lang="en-US">Basis für die strategische Planung</description>
+  </component>
+    <component>
+    <id>choice_cme713hme003l357phnoqovyv</id>
+    <description lang="en-US">Ermittlung der Erbschaftssteuer</description>
+  </component>
+    <component>
+    <id>choice_cme713gqu003h357pocr24tpf</id>
+    <description lang="en-US">Dokumentation der Vermögens-, Finanz- und Ertragslage</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://rEsq5aheqxlZpg_nIvZvEq0vG-RAw4ad_rise/z7LW31C9LU8N1vrly1WDsy_72a-_Mxck/cmgujd8db002x2a72ffupxbms" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Ziele verfolgt die Kostenrechnung in einem Handwerksbetrieb?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme719pu6003z357phlsgi5ka</correctResponsePattern>
+    <correctResponsePattern>choice_cme719pu60040357pk7lj5n1k</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme719pu6003x357ps08wt3ga</id>
+    <description lang="en-US">Kontrolle der Materialbestände</description>
+  </component>
+    <component>
+    <id>choice_cme719pu6003z357phlsgi5ka</id>
+    <description lang="en-US">Planung und Kontrolle von Kosten</description>
+  </component>
+    <component>
+    <id>choice_cme719pu60040357pk7lj5n1k</id>
+    <description lang="en-US">Ermittlung von Angebotspreisen</description>
+  </component>
+    <component>
+    <id>choice_cme719pu6003y357pf7yvm9mf</id>
+    <description lang="en-US">Kundenbindung</description>
+  </component>
+    <component>
+    <id>choice_cme713l8t003u357psatntphx</id>
+    <description lang="en-US">Finanzierung von Investitionen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://rEsq5aheqxlZpg_nIvZvEq0vG-RAw4ad_rise/z7LW31C9LU8N1vrly1WDsy_72a-_Mxck/cmgujd8db002y2a72v356w3t2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was zählt zu den variablen Kosten in einem Malerbetrieb?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme719udg004c357p09hntibt</correctResponsePattern>
+    <correctResponsePattern>choice_cme719udg004d357pm6zd1edr</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme719udg004a357pzjkajnah</id>
+    <description lang="en-US">Miete für die Werkstatt</description>
+  </component>
+    <component>
+    <id>choice_cme719udg004c357p09hntibt</id>
+    <description lang="en-US">Stundenlohn für Aushilfen</description>
+  </component>
+    <component>
+    <id>choice_cme719udg004d357pm6zd1edr</id>
+    <description lang="en-US">Verbrauch von Farbe und Pinsel</description>
+  </component>
+    <component>
+    <id>choice_cme719udg004b357pe6ggl6kp</id>
+    <description lang="en-US">Versicherungsbeiträge</description>
+  </component>
+    <component>
+    <id>choice_cme719tjn0047357p3258etn4</id>
+    <description lang="en-US">Abschreibung auf Maschinen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://rEsq5aheqxlZpg_nIvZvEq0vG-RAw4ad_rise/z7LW31C9LU8N1vrly1WDsy_72a-_Mxck/cmgujd8db002z2a72e1cpp6kn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Maßnahmen verbessern die Wettbewerbsfähigkeit eines Handwerksbetriebs?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme719yga004p357pm0ba6ms0</correctResponsePattern>
+    <correctResponsePattern>choice_cme719yga004q357psvswgjbz</correctResponsePattern>
+    <correctResponsePattern>choice_cme719xnk004k357puc6r9ynz</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme719yga004n357pfovy68hc</id>
+    <description lang="en-US">Höhere Preise unabhängig vom Markt</description>
+  </component>
+    <component>
+    <id>choice_cme719yga004p357pm0ba6ms0</id>
+    <description lang="en-US">Mitarbeiterfortbildung</description>
+  </component>
+    <component>
+    <id>choice_cme719yga004q357psvswgjbz</id>
+    <description lang="en-US">Verbesserung der Produktqualität</description>
+  </component>
+    <component>
+    <id>choice_cme719yga004o357pje82i36b</id>
+    <description lang="en-US">Verzicht auf Werbung</description>
+  </component>
+    <component>
+    <id>choice_cme719xnk004k357puc6r9ynz</id>
+    <description lang="en-US">Digitalisierung von Arbeitsprozessen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://rEsq5aheqxlZpg_nIvZvEq0vG-RAw4ad_rise/z7LW31C9LU8N1vrly1WDsy_72a-_Mxck/cmgujd8db00302a72or5osu1h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Informationen liefert eine SWOT-Analyse?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme71a32c0051357p517kpjbt</correctResponsePattern>
+    <correctResponsePattern>choice_cme71a32c0052357pmn5e3egs</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme71a32c0050357pmy66dmk5</id>
+    <description lang="en-US">Umsatzentwicklung</description>
+  </component>
+    <component>
+    <id>choice_cme71a32c0052357pmn5e3egs</id>
+    <description lang="en-US">Stärken und Schwächen des Unternehmens</description>
+  </component>
+    <component>
+    <id>choice_cme71a32c0053357pvwkt1tum</id>
+    <description lang="en-US">Marktanteile der Konkurrenz</description>
+  </component>
+    <component>
+    <id>choice_cme71a32c0051357p517kpjbt</id>
+    <description lang="en-US">Chancen und Risiken des Umfelds</description>
+  </component>
+    <component>
+    <id>choice_cme71a23g004x357pd4c19zff</id>
+    <description lang="en-US">Die aktuelle Steuerlast</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

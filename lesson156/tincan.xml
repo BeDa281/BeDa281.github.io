@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://dhKTgFSlpsFmy2hXoTLf6hRbOcs0eYMc_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Wettbewerbsfähigkeit von Unternehmen beurteilen - Quiz 2</name>
+      <description lang="en-US">In diesem Quiz müssen Sie 10 Fragen zu den Themen des HF I - Wettbewerbsfähigkeit von Unternehmen beurteilen beantworten. Viel Erfolg!</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://dhKTgFSlpsFmy2hXoTLf6hRbOcs0eYMc_rise/BKp3oaJPHc5fDSUg8203SMZRRxR5u3NJ" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://dhKTgFSlpsFmy2hXoTLf6hRbOcs0eYMc_rise/BKp3oaJPHc5fDSUg8203SMZRRxR5u3NJ/cmguj4d20000j2a73px28229q" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Der erzielte Jahresüberschuss oder Jahresfehlbetrag bzw. Gewinn oder Verlust ergibt sich</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbt95r1l002t357ockkwhxz1</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbt95r1l002t357ockkwhxz1</id>
+    <description lang="en-US">aus der Differenz zwischen Aufwendungen und Erträgen.</description>
+  </component>
+    <component>
+    <id>choice_cmbt95r1l002u357o4xoaprq1</id>
+    <description lang="en-US">nur aus der Differenz zwischen Vermögen und Verbindlichkeiten (Schulden).</description>
+  </component>
+    <component>
+    <id>choice_cmbt95q3u002r357ozsnzxwri</id>
+    <description lang="en-US">aus der Differenz zwischen Eigenkapital und Fremdkapital.</description>
+  </component>
+    <component>
+    <id>choice_cmbt95wbb002w357ogcpv3nn8</id>
+    <description lang="en-US">aus der Differenz zwischen Umsatzerlösen und Privatentnahmen.</description>
+  </component>
+    <component>
+    <id>choice_cmbt95xhn002y357oxvvhb00l</id>
+    <description lang="en-US">aus der Differenz zwischen betrieblichen Erträgen und Eigenkapital.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://dhKTgFSlpsFmy2hXoTLf6hRbOcs0eYMc_rise/BKp3oaJPHc5fDSUg8203SMZRRxR5u3NJ/cmguj4qvh00252a73o0pr35ta" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Unter Vermögensstruktur versteht man insbesondere</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbt966lm0037357oduhplpoe</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbt960or0032357ou1eojisc</id>
+    <description lang="en-US">das Verhältnis von Privatvermögen zu Betriebsvermögen.</description>
+  </component>
+    <component>
+    <id>choice_cmbt960or0033357oysr3qpbr</id>
+    <description lang="en-US">das Verhältnis der Zahlungsmittel zu den Forderungen aus Lieferungen und Leistungen.</description>
+  </component>
+    <component>
+    <id>choice_cmbt95ypm0030357o2wz0ofhk</id>
+    <description lang="en-US">das Verhältnis von Forderungen aus Lieferungen und Leistungen zu Verbindlichkeiten aus Lieferungen und Leistungen.</description>
+  </component>
+    <component>
+    <id>choice_cmbt964p70035357o68ymh804</id>
+    <description lang="en-US">das Verhältnis von Gesamtvermögen zu Gesamtschulden.</description>
+  </component>
+    <component>
+    <id>choice_cmbt966lm0037357oduhplpoe</id>
+    <description lang="en-US">das Verhältnis von Anlagevermögen zu Umlaufvermögen.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://dhKTgFSlpsFmy2hXoTLf6hRbOcs0eYMc_rise/BKp3oaJPHc5fDSUg8203SMZRRxR5u3NJ/cmguj4qvh00262a73hmtg2t76" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Man spricht von Kapitalstruktur, wenn man insbesondere</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbt967nu0039357o99jq4hxk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbt969aw003b357oi3koc3i9</id>
+    <description lang="en-US">das Verhältnis von Privatkapital und Betriebskapital im Auge hat.</description>
+  </component>
+    <component>
+    <id>choice_cmbt969aw003c357oz1fp5glu</id>
+    <description lang="en-US">die Forderungen aus Lieferungen und Leistungen und die Verbindlichkeiten aus Lieferungen und Leistungen einander gegenüberstellt.</description>
+  </component>
+    <component>
+    <id>choice_cmbt967nu0039357o99jq4hxk</id>
+    <description lang="en-US">das Eigenkapital zum Fremdkapital ins Verhältnis setzt.</description>
+  </component>
+    <component>
+    <id>choice_cmbt96eqv003e357og9alv54z</id>
+    <description lang="en-US">die Zusammensetzung des Fremdkapitals beurteilt.</description>
+  </component>
+    <component>
+    <id>choice_cmbt96g6g003g357oo4sskyix</id>
+    <description lang="en-US">die verschiedenen Anlageformen für Kapital gegenüberstellt.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://dhKTgFSlpsFmy2hXoTLf6hRbOcs0eYMc_rise/BKp3oaJPHc5fDSUg8203SMZRRxR5u3NJ/cmguj4qvh00272a73m6x71g8x" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die folgenden Positionen der Bilanz nach Aktiva (A) und Passiva (P)</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cmbz1cdml000b2a71kvcbo3m6[.]target_cmbz1cdml000b2a71kvcbo3m6</correctResponsePattern>
+    <correctResponsePattern>source_cmbz1cdml000c2a7149glbskm[.]target_cmbz1cdml000c2a7149glbskm</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cmbz1cdml000b2a71kvcbo3m6</id>
+    <description lang="en-US">P></description>
+  </component>
+    <component>
+    <id>source_cmbz1cdml000c2a7149glbskm</id>
+    <description lang="en-US">A></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cmbz1cdml000b2a71kvcbo3m6</id>
+        <description lang="en-US">Eigenkapital</description>
+      </component>
+          <component>
+        <id>target_cmbz1cdml000c2a7149glbskm</id>
+        <description lang="en-US">Forderungen</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://dhKTgFSlpsFmy2hXoTLf6hRbOcs0eYMc_rise/BKp3oaJPHc5fDSUg8203SMZRRxR5u3NJ/cmguj4qvh00282a73vxb8ltxx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die folgenden Positionen der Bilanz nach Aktiva (A) und Passiva (P)</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cmbz1cdml000b2a71kvcbo3m6[.]target_cmbz1cdml000b2a71kvcbo3m6</correctResponsePattern>
+    <correctResponsePattern>source_cmbz1cdml000c2a7149glbskm[.]target_cmbz1cdml000c2a7149glbskm</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cmbz1cdml000b2a71kvcbo3m6</id>
+    <description lang="en-US">P></description>
+  </component>
+    <component>
+    <id>source_cmbz1cdml000c2a7149glbskm</id>
+    <description lang="en-US">A></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cmbz1cdml000b2a71kvcbo3m6</id>
+        <description lang="en-US">Stammkapital</description>
+      </component>
+          <component>
+        <id>target_cmbz1cdml000c2a7149glbskm</id>
+        <description lang="en-US">Flüssige Mittel (Bank/Kasse)</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://dhKTgFSlpsFmy2hXoTLf6hRbOcs0eYMc_rise/BKp3oaJPHc5fDSUg8203SMZRRxR5u3NJ/cmguj4qvh00292a73hyud8dxy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die folgenden Positionen der Bilanz nach Aktiva (A) und Passiva (P)</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cmbz1cdml000b2a71kvcbo3m6[.]target_cmbz1cdml000b2a71kvcbo3m6</correctResponsePattern>
+    <correctResponsePattern>source_cmbz1cdml000c2a7149glbskm[.]target_cmbz1cdml000c2a7149glbskm</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cmbz1cdml000b2a71kvcbo3m6</id>
+    <description lang="en-US">P></description>
+  </component>
+    <component>
+    <id>source_cmbz1cdml000c2a7149glbskm</id>
+    <description lang="en-US">A></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cmbz1cdml000b2a71kvcbo3m6</id>
+        <description lang="en-US">Rückstellungen</description>
+      </component>
+          <component>
+        <id>target_cmbz1cdml000c2a7149glbskm</id>
+        <description lang="en-US">Warenvorräte</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://dhKTgFSlpsFmy2hXoTLf6hRbOcs0eYMc_rise/BKp3oaJPHc5fDSUg8203SMZRRxR5u3NJ/cmguj4qvh002a2a735nj3c23z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die folgenden Positionen der Bilanz nach Aktiva (A) und Passiva (P)</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cmbz1cdml000b2a71kvcbo3m6[.]target_cmbz1cdml000b2a71kvcbo3m6</correctResponsePattern>
+    <correctResponsePattern>source_cmbz1cdml000c2a7149glbskm[.]target_cmbz1cdml000c2a7149glbskm</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cmbz1cdml000b2a71kvcbo3m6</id>
+    <description lang="en-US">P></description>
+  </component>
+    <component>
+    <id>source_cmbz1cdml000c2a7149glbskm</id>
+    <description lang="en-US">A></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cmbz1cdml000b2a71kvcbo3m6</id>
+        <description lang="en-US">Darlehen</description>
+      </component>
+          <component>
+        <id>target_cmbz1cdml000c2a7149glbskm</id>
+        <description lang="en-US">Immaterielle Vermögensgegenstände</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://dhKTgFSlpsFmy2hXoTLf6hRbOcs0eYMc_rise/BKp3oaJPHc5fDSUg8203SMZRRxR5u3NJ/cmguj4qvh002b2a73jvhsk4d2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die folgenden Positionen der Bilanz nach Aktiva (A) und Passiva (P)</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cmbz1cdml000b2a71kvcbo3m6[.]target_cmbz1cdml000b2a71kvcbo3m6</correctResponsePattern>
+    <correctResponsePattern>source_cmbz1cdml000c2a7149glbskm[.]target_cmbz1cdml000c2a7149glbskm</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cmbz1cdml000b2a71kvcbo3m6</id>
+    <description lang="en-US">P></description>
+  </component>
+    <component>
+    <id>source_cmbz1cdml000c2a7149glbskm</id>
+    <description lang="en-US">A></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cmbz1cdml000b2a71kvcbo3m6</id>
+        <description lang="en-US">Verbindlichkeiten kurzfr.</description>
+      </component>
+          <component>
+        <id>target_cmbz1cdml000c2a7149glbskm</id>
+        <description lang="en-US">Maschinen</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://dhKTgFSlpsFmy2hXoTLf6hRbOcs0eYMc_rise/BKp3oaJPHc5fDSUg8203SMZRRxR5u3NJ/cmguj4qvh002c2a73sghgfhn0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ordnen Sie die folgenden Positionen der Bilanz nach Aktiva (A) und Passiva (P)</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cmbz1cdml000b2a71kvcbo3m6[.]target_cmbz1cdml000b2a71kvcbo3m6</correctResponsePattern>
+    <correctResponsePattern>source_cmbz1cdml000c2a7149glbskm[.]target_cmbz1cdml000c2a7149glbskm</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cmbz1cdml000b2a71kvcbo3m6</id>
+    <description lang="en-US">P></description>
+  </component>
+    <component>
+    <id>source_cmbz1cdml000c2a7149glbskm</id>
+    <description lang="en-US">A></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cmbz1cdml000b2a71kvcbo3m6</id>
+        <description lang="en-US">Rücklagn</description>
+      </component>
+          <component>
+        <id>target_cmbz1cdml000c2a7149glbskm</id>
+        <description lang="en-US">BuG</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://dhKTgFSlpsFmy2hXoTLf6hRbOcs0eYMc_rise/BKp3oaJPHc5fDSUg8203SMZRRxR5u3NJ/cmguj4qvh002d2a7329mmbcyg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ergebnis der Bilanzrechnung ist der Jahresabschluss. Er setzt sich zusammen aus Bilanz und ______________.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbz1gedx000k2a71voqqhaac</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbz1gedx000k2a71voqqhaac</id>
+    <description lang="en-US">Gewinn- und Verlustrechnung</description>
+  </component>
+    <component>
+    <id>choice_cmbz1gedx000l2a715v1yx9m9</id>
+    <description lang="en-US">Anhang und Lagebericht </description>
+  </component>
+    <component>
+    <id>choice_cmbz1gefp000m2a716gledffm</id>
+    <description lang="en-US">Grundkosten/Zweckaufwand </description>
+  </component>
+    <component>
+    <id>choice_cmbz1hzaj000o2a71k0fayups</id>
+    <description lang="en-US">Erträge</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

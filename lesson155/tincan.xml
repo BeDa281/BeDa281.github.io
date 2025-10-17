@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://iTMyd67nCdGwObj4yl7kdMPn5H5iqcNx_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Wettbewerbsfähigkeit von Unternehmen beurteilen - Quiz 1</name>
+      <description lang="en-US">In diesem Quiz müssen Sie 10 Fragen zu den Themen des HF I - Wettbewerbsfähigkeit von Unternehmen beurteilen beantworten. Viel Erfolg!</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://iTMyd67nCdGwObj4yl7kdMPn5H5iqcNx_rise/0kelQ9UbcrXgEb9HHE0V8XnHOICCNFqg" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://iTMyd67nCdGwObj4yl7kdMPn5H5iqcNx_rise/0kelQ9UbcrXgEb9HHE0V8XnHOICCNFqg/cmbt91m8j0002357jy2zv3hox" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Das betriebliche Rechnungswesen ist in mehrere Zweige unterteilt. Welche Zweige sieht das Rechnungswesen vor?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbt93g6n0004357oc47f79z8</correctResponsePattern>
+    <correctResponsePattern>choice_cmbt93g6n0005357oti25507o</correctResponsePattern>
+    <correctResponsePattern>choice_cmbt93g6n0007357o19wrcedq</correctResponsePattern>
+    <correctResponsePattern>choice_cmbt93al30002357o3p6p31mj</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbt93g6n0004357oc47f79z8</id>
+    <description lang="en-US">Finanzzielorientiert</description>
+  </component>
+    <component>
+    <id>choice_cmbt93g6n0006357o0eqxck12</id>
+    <description lang="en-US">Kostenrechnungszielorientiert</description>
+  </component>
+    <component>
+    <id>choice_cmbt93g6n0007357o19wrcedq</id>
+    <description lang="en-US">Erfolgszielorientiert</description>
+  </component>
+    <component>
+    <id>choice_cmbt93g6n0005357oti25507o</id>
+    <description lang="en-US">Sozial- und Umweltzielorientiert</description>
+  </component>
+    <component>
+    <id>choice_cmbt93al30002357o3p6p31mj</id>
+    <description lang="en-US">Potenzialzielorientiert</description>
+  </component>
+    <component>
+    <id>choice_cmbt93ldm000e357of6pzy4co</id>
+    <description lang="en-US">Rechtzielorientiert</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://iTMyd67nCdGwObj4yl7kdMPn5H5iqcNx_rise/0kelQ9UbcrXgEb9HHE0V8XnHOICCNFqg/cmguj27yb001n2a73mhnelni8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Ist die Buchführung auch aus betriebswirtschaftlichen Gründen notwendig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbt93n50000l357o8tpbgtkc</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbt93n50000k357o13gnkjw8</id>
+    <description lang="en-US">Ja, weil sie die Grundlage für die Entwicklung neuer Fertigungstechniken darstellt.</description>
+  </component>
+    <component>
+    <id>choice_cmbt93n50000l357o8tpbgtkc</id>
+    <description lang="en-US">Ja, weil sie eine wichtige Grundlage für unternehmerische Entscheidungen darstellt.</description>
+  </component>
+    <component>
+    <id>choice_cmbt93m49000h357o4o2wpwhl</id>
+    <description lang="en-US">Nein, sie muss nur geführt werden, wenn dies die kreditgebenden Banken verlangen.</description>
+  </component>
+    <component>
+    <id>choice_cmbt93rqd000n357omgcunxho</id>
+    <description lang="en-US">Nein, weil man im Kleinbetrieb auch ohne Buchführung den notwendigen Überblick behalten kann.</description>
+  </component>
+    <component>
+    <id>choice_cmbt93t2k000p357oe5yoc5ky</id>
+    <description lang="en-US">Nein, sie muss nur geführt werden, weil es nach steuerlichen Vorschriften Pflicht ist.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://iTMyd67nCdGwObj4yl7kdMPn5H5iqcNx_rise/0kelQ9UbcrXgEb9HHE0V8XnHOICCNFqg/cmguj27yb001o2a73kzijgueh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wo sind die gesetzlichen Vorschriften für die Buchführung geregelt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbt93vsk000u357ov7ufb9xt</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbt93vsk000t357oyfqzaa64</id>
+    <description lang="en-US">Im Bürgerlichen Gesetzbuch.</description>
+  </component>
+    <component>
+    <id>choice_cmbt93vsk000u357ov7ufb9xt</id>
+    <description lang="en-US">Im Handelsgesetzbuch und im Steuerrecht.</description>
+  </component>
+    <component>
+    <id>choice_cmbt93uad000r357ojfwm6qrj</id>
+    <description lang="en-US">In der Zivilprozessordnung.</description>
+  </component>
+    <component>
+    <id>choice_cmbt93yr4000w357o5vcuv78b</id>
+    <description lang="en-US">In der Gewerbeordnung.</description>
+  </component>
+    <component>
+    <id>choice_cmbt93zd8000y357oryf6sykw</id>
+    <description lang="en-US">In der Bundesbuchführungsverordnung.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://iTMyd67nCdGwObj4yl7kdMPn5H5iqcNx_rise/0kelQ9UbcrXgEb9HHE0V8XnHOICCNFqg/cmguj27yb001p2a73btaxn6oe" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche ist die wichtigste Grundregel für die ordnungsmäßige Buchführung? Eine Buchführung muss so beschaffen sein, dass:</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbt93zra0010357o4rt0o6cg</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbt940z50012357oejk96dwm</id>
+    <description lang="en-US">sie dem Betriebsinhaber jederzeit einen Überblick über die Vermögens- und Ertragslage des Betriebes vermitteln kann.</description>
+  </component>
+    <component>
+    <id>choice_cmbt940z50013357ovci5dwg3</id>
+    <description lang="en-US">sie nur dem Betriebsprüfer des Finanzamtes mit angemessenem Zeitaufwand einen Überblick über die Vermögens- und Ertragslage vermitteln kann.</description>
+  </component>
+    <component>
+    <id>choice_cmbt93zra0010357o4rt0o6cg</id>
+    <description lang="en-US">sie jedem sachverständigen Dritten innerhalb angemessener Zeit einen Überblick über die Geschäftsvorfälle und die Lage des Unternehmens vermitteln kann.</description>
+  </component>
+    <component>
+    <id>choice_cmbt946e90015357ou1s2yr63</id>
+    <description lang="en-US">der sachliche und materielle Inhalt stimmen und keine grundlegenden Mängel aufweisen.</description>
+  </component>
+    <component>
+    <id>choice_cmbt949380017357oaauv8dw3</id>
+    <description lang="en-US">vor allem die Formvorschriften beachtet wurden, die die einschlägigen Gesetze vorsehen.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://iTMyd67nCdGwObj4yl7kdMPn5H5iqcNx_rise/0kelQ9UbcrXgEb9HHE0V8XnHOICCNFqg/cmguj27yb001q2a735hdr8utn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Aufbewahrungsfrist für Geschäftsbücher und Buchungsbelege beträgt:</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbt94d4e001c357ofry3xyfq</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbt94d4e001b357oe372pk8g</id>
+    <description lang="en-US">einheitlich 12 Jahre.</description>
+  </component>
+    <component>
+    <id>choice_cmbt94d4e001c357ofry3xyfq</id>
+    <description lang="en-US">für Geschäftsbücher 10 Jahre und für Belege 8 Jahre.</description>
+  </component>
+    <component>
+    <id>choice_cmbt94att0019357omsuti92m</id>
+    <description lang="en-US">einheitlich 5 Jahre.</description>
+  </component>
+    <component>
+    <id>choice_cmbt94gyk001e357o1z50ebes</id>
+    <description lang="en-US">für Geschäftsbücher 8 Jahre und für Belege 6 Jahre.</description>
+  </component>
+    <component>
+    <id>choice_cmbt94hgg001g357ol3bqqoln</id>
+    <description lang="en-US">für Geschäftsbücher 10 Jahre und für Belege 6 Jahre.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://iTMyd67nCdGwObj4yl7kdMPn5H5iqcNx_rise/0kelQ9UbcrXgEb9HHE0V8XnHOICCNFqg/cmguj27yb001r2a738dxebkg4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der nachfolgenden Einteilungen ist richtig? Sachkonten werden unterteilt in</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbt94ja2001l357o3hzf3vrh</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbt94ja2001k357og6ga1dl9</id>
+    <description lang="en-US">Personenkonten und Verbindlichkeiten aus Lieferungen und Leistungen.</description>
+  </component>
+    <component>
+    <id>choice_cmbt94ja2001l357o3hzf3vrh</id>
+    <description lang="en-US">Bestandskonten und Erfolgskonten.</description>
+  </component>
+    <component>
+    <id>choice_cmbt94i7c001i357oyuyf1ath</id>
+    <description lang="en-US">Aufwandskonten und Personenkonten.</description>
+  </component>
+    <component>
+    <id>choice_cmbt94nfo001n357o3apgl7i0</id>
+    <description lang="en-US">Ertragskonten und Personenkonten.</description>
+  </component>
+    <component>
+    <id>choice_cmbt94o5w001p357ogmkdqenp</id>
+    <description lang="en-US">Forderungen aus Lieferungen und Leistungen sowie Verbindlichkeiten aus Lieferungen und Leistungen.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://iTMyd67nCdGwObj4yl7kdMPn5H5iqcNx_rise/0kelQ9UbcrXgEb9HHE0V8XnHOICCNFqg/cmguj27yb001s2a73pslutfgt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Unter Inventur versteht man</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbt94r11001t357okm39jbvy</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbt94r11001t357okm39jbvy</id>
+    <description lang="en-US">die Bestandsaufnahme aller Vermögensgegenstände und Verbindlichkeiten sowie deren Bewertung.</description>
+  </component>
+    <component>
+    <id>choice_cmbt94r11001u357ohr89xnqz</id>
+    <description lang="en-US">nur die körperliche Bestandsaufnahme aller Waren und Materialvorräte.</description>
+  </component>
+    <component>
+    <id>choice_cmbt94ouz001r357o1xsjnxt3</id>
+    <description lang="en-US">eine Aufstellung über die am Bilanzstichtag im Betrieb vorhandenen Zahlungsmittel.</description>
+  </component>
+    <component>
+    <id>choice_cmbt94vcg001w357o9x8y93h9</id>
+    <description lang="en-US">das Zählen und Messen wichtiger Gegenstände des Betriebsvermögens.</description>
+  </component>
+    <component>
+    <id>choice_cmbt94wyw001y357o6w2r5qyn</id>
+    <description lang="en-US">die Zusammenstellung der Aufwendungen und Erträge.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://iTMyd67nCdGwObj4yl7kdMPn5H5iqcNx_rise/0kelQ9UbcrXgEb9HHE0V8XnHOICCNFqg/cmguj27yb001t2a73tzm1y0ny" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Im Rahmen der Bewertung Ihres Anlagevermögens können Sie Abschreibungen vornehmen. Die Höhe der Abschreibung richtet sich nach</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbt94zx80023357oov8srgv2</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbt94zx80022357oe1kf9gpr</id>
+    <description lang="en-US">der jeweiligen Einschätzung des Betriebsinhabers.</description>
+  </component>
+    <component>
+    <id>choice_cmbt94zx80023357oov8srgv2</id>
+    <description lang="en-US">der betriebsgewöhnlichen Nutzungsdauer.</description>
+  </component>
+    <component>
+    <id>choice_cmbt94yby0020357o0y3agab4</id>
+    <description lang="en-US">der Art des Buchführungssystems.</description>
+  </component>
+    <component>
+    <id>choice_cmbt954nw0025357os3xwumoh</id>
+    <description lang="en-US">der Art der Buchführungsmethode.</description>
+  </component>
+    <component>
+    <id>choice_cmbt955cx0027357ojjru916r</id>
+    <description lang="en-US">der Vorgabe der Berufsorganisation.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://iTMyd67nCdGwObj4yl7kdMPn5H5iqcNx_rise/0kelQ9UbcrXgEb9HHE0V8XnHOICCNFqg/cmguj27yb001u2a73so0afyhq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der nachfolgenden Aussagen ist richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbt9570a002b357owaf1lpgy</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbt9570a002b357owaf1lpgy</id>
+    <description lang="en-US">Der Jahresüberschuss (Gewinn) wird auf der Haben-Seite des Eigenkapitalkontos verbucht.</description>
+  </component>
+    <component>
+    <id>choice_cmbt9570a002c357oubt30gnz</id>
+    <description lang="en-US">Privatentnahmen werden auf der Haben-Seite des Eigenkapitalkontos verbucht.</description>
+  </component>
+    <component>
+    <id>choice_cmbt955x30029357oxdu6d9s1</id>
+    <description lang="en-US">Die Verbuchung des Jahresüberschusses (Gewinns) erfolgt immer auf der Soll-Seite des Eigenkapitalkontos.</description>
+  </component>
+    <component>
+    <id>choice_cmbt95bls002e357o4cuavqo4</id>
+    <description lang="en-US">Die Verbuchung des Jahresüberschusses (Gewinns) erfolgt immer auf dem Privatkonto.</description>
+  </component>
+    <component>
+    <id>choice_cmbt95dai002g357oh5l8nxdk</id>
+    <description lang="en-US">Die Verbuchung des Jahresüberschusses (Gewinns) erfolgt immer auf dem Konto „Rückstellungen“.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://iTMyd67nCdGwObj4yl7kdMPn5H5iqcNx_rise/0kelQ9UbcrXgEb9HHE0V8XnHOICCNFqg/cmguj27yb001v2a73cd6nyjeu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Sie setzen als Betriebsinhaber die EDV zur Buchhaltung ein. Welche Ergebnisse liefert Ihnen die Buchführung per EDV in der Regel?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmbt95h3i002k357o0lq4w2ia</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmbt95h3i002k357o0lq4w2ia</id>
+    <description lang="en-US">Unter anderem Journal, Kontoauszüge, Summen- und Saldenlisten, betriebswirtschaftliche Auswertungen und Umsatzsteuervoranmeldungen.</description>
+  </component>
+    <component>
+    <id>choice_cmbt95h3i002l357oe8smofoh</id>
+    <description lang="en-US">Einen kompletten Betriebsabrechnungsbogen mit erweiterter Erfolgsrechnung.</description>
+  </component>
+    <component>
+    <id>choice_cmbt95epm002i357o07zcxsst</id>
+    <description lang="en-US">Fertigungspläne für die Durchführung verschiedenartiger Arbeiten.</description>
+  </component>
+    <component>
+    <id>choice_cmbt95nk7002n357ovf2354h2</id>
+    <description lang="en-US">Auftragspläne für die Arbeitsvorbereitung im Betrieb.</description>
+  </component>
+    <component>
+    <id>choice_cmbt95owc002p357o0q8spujm</id>
+    <description lang="en-US">Komplett kalkulierte Preise.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
