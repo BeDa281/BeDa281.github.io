@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://qi1eqBMTRfHeKawcYb7_QkA0yEbUNj8U_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Gründungs- und Übernahmeaktivitäten - Quiz 1</name>
+      <description lang="en-US">In diesem Quiz müssen Sie 10 Fragen zu den Themen des HF II - Gründungs- und Übernahmeaktivitäten vorbereiten, durchführen und bewerten&amp;nbsp;beantworten. Viel Erfolg!</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://qi1eqBMTRfHeKawcYb7_QkA0yEbUNj8U_rise/J278TcoWXIVBHVcuXZuzVhd-6W60rbzN" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://qi1eqBMTRfHeKawcYb7_QkA0yEbUNj8U_rise/J278TcoWXIVBHVcuXZuzVhd-6W60rbzN/cmgulr35m00022a73bcyvk8k8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Wahl der Rechtsform gilt in der Regel für die gesamte Dauer des Unternehmens und muss nicht angepasst werden.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xixos0005357o8yr317oh</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xixos0004357oji9ch5uz</id>
+    <description lang="en-US">Richtig</description>
+  </component>
+    <component>
+    <id>choice_cme6xixos0005357o8yr317oh</id>
+    <description lang="en-US">Falsch</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qi1eqBMTRfHeKawcYb7_QkA0yEbUNj8U_rise/J278TcoWXIVBHVcuXZuzVhd-6W60rbzN/cmgulrfrx000r2a73h6qe4ang" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen zur Wahl der Rechtsform sind korrekt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xj0fw0007357o83doqfau</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xj0fw0009357o1zzck528</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xj0fw0007357o83doqfau</id>
+    <description lang="en-US">Sie hat weitreichende Auswirkungen auf das Unternehmen.</description>
+  </component>
+    <component>
+    <id>choice_cme6xj0fw0009357o1zzck528</id>
+    <description lang="en-US">Sie sollte bei wesentlichen Änderungen, wie z. B. Unternehmensvergrößerung, überprüft werden.</description>
+  </component>
+    <component>
+    <id>choice_cme6xj0fw000a357on5g3bvep</id>
+    <description lang="en-US">Sie ist nach der Gründung unveränderlich.</description>
+  </component>
+    <component>
+    <id>choice_cme6xj0fw0008357o7nfnrz8f</id>
+    <description lang="en-US">Sie hat keine Vor- und Nachteile.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qi1eqBMTRfHeKawcYb7_QkA0yEbUNj8U_rise/J278TcoWXIVBHVcuXZuzVhd-6W60rbzN/cmgulrfrx000s2a73ovq3i15p" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Fragen sind zur Wahl der Unternehmens-Rechtsform wichtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xj48w000i357oa7g643ch</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xj48w000j357oq8m3ck8k</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xj6kp000q357o9izpppqk</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xj48w000h357ojmnr5fjo</id>
+    <description lang="en-US">Materialeinkauf</description>
+  </component>
+    <component>
+    <id>choice_cme6xj48w000j357oq8m3ck8k</id>
+    <description lang="en-US">Haftung in Bezug auf Privat- &amp;amp; Geschäftsvermögen?</description>
+  </component>
+    <component>
+    <id>choice_cme6xj48w000k357oqm0zq7gy</id>
+    <description lang="en-US">Arbeitsmarktsituation</description>
+  </component>
+    <component>
+    <id>choice_cme6xj48w000i357oa7g643ch</id>
+    <description lang="en-US">Aufteilung Gewinn &amp;amp; Verlust?</description>
+  </component>
+    <component>
+    <id>choice_cme6xihzi0002357oj3kx93sb</id>
+    <description lang="en-US">Ist eine ULG von Vorteil?</description>
+  </component>
+    <component>
+    <id>choice_cme6xj6kp000q357o9izpppqk</id>
+    <description lang="en-US">Wie sind die steuerlichen Aspekte?</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qi1eqBMTRfHeKawcYb7_QkA0yEbUNj8U_rise/J278TcoWXIVBHVcuXZuzVhd-6W60rbzN/cmgulrfrx000t2a73vlp5xg7v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der folgenden Aussagen über eine GbR ist falsch?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xj6sg000t357o05z5adgx</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xj7kp000w357oxfrnbdy5</id>
+    <description lang="en-US">Die GbR wird gemeinschaftlich durch die Gesellschafter geführt</description>
+  </component>
+    <component>
+    <id>choice_cme6xj7kp000x357omqy4d8xs</id>
+    <description lang="en-US">Eine GbR muss nicht ins Handelsregister eingetragen werden</description>
+  </component>
+    <component>
+    <id>choice_cme6xj6sg000t357o05z5adgx</id>
+    <description lang="en-US">Die GbR kann nicht vor Gericht verklagt werden</description>
+  </component>
+    <component>
+    <id>choice_cme6xj9j1000z357ofebbkzr2</id>
+    <description lang="en-US">Jeder Gesellschafter haftet mit Privatvermögen &amp;amp; Geschäftsvermögen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qi1eqBMTRfHeKawcYb7_QkA0yEbUNj8U_rise/J278TcoWXIVBHVcuXZuzVhd-6W60rbzN/cmgulrfrx000u2a73rpu7ybxq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Angaben werden im Handelsregister eingetragen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xjaqn0013357o39inn0d9</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xjaqn0014357o962nz869</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xjaqn0015357ojfvt9hmq</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xjaqn0016357otow94sa0</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xj9w70011357ohig80fad</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xjczc001d357ol1uahsmo</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xjaqn0013357o39inn0d9</id>
+    <description lang="en-US">Firma des Unternehmens</description>
+  </component>
+    <component>
+    <id>choice_cme6xjaqn0015357ojfvt9hmq</id>
+    <description lang="en-US">Name des Inhabers oder der Gesellschafter</description>
+  </component>
+    <component>
+    <id>choice_cme6xjaqn0016357otow94sa0</id>
+    <description lang="en-US">Geschäftssitz des Unternehmens</description>
+  </component>
+    <component>
+    <id>choice_cme6xjaqn0014357o962nz869</id>
+    <description lang="en-US">Gegenstand des Unternehmens</description>
+  </component>
+    <component>
+    <id>choice_cme6xj9w70011357ohig80fad</id>
+    <description lang="en-US">Geschäftsführer des Unternehmens</description>
+  </component>
+    <component>
+    <id>choice_cme6xjczc001d357ol1uahsmo</id>
+    <description lang="en-US">Erteilung oder Entzug einer Prokura</description>
+  </component>
+    <component>
+    <id>choice_cme6xjdbg001g357o1dgk8s7t</id>
+    <description lang="en-US">Umsatz des letzten Geschäftsjahres</description>
+  </component>
+    <component>
+    <id>choice_cme6xjdn9001j357o44kb307m</id>
+    <description lang="en-US">Anzahl der Mitarbeiter</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qi1eqBMTRfHeKawcYb7_QkA0yEbUNj8U_rise/J278TcoWXIVBHVcuXZuzVhd-6W60rbzN/cmgulrfrx000v2a736gs5qxvo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die OHG hat ein hohes Ansehen bei Kreditinstituten, weil die Gesellschafter auch mit ihrem Privatvermögen haften.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xjelt001p357o805o68ph</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xjelt001p357o805o68ph</id>
+    <description lang="en-US">Richtig</description>
+  </component>
+    <component>
+    <id>choice_cme6xjelt001q357om77wmkou</id>
+    <description lang="en-US">Falsch</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qi1eqBMTRfHeKawcYb7_QkA0yEbUNj8U_rise/J278TcoWXIVBHVcuXZuzVhd-6W60rbzN/cmgulrfrx000w2a73ibg8z8qz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Warum hat die OHG in der Regel ein hohes Ansehen bei Kreditinstituten?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xjgrm001s357oqu832m4e</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xjgrm001u357ou19h24s7</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xjgrm001s357oqu832m4e</id>
+    <description lang="en-US">Gesellschafter haften neben dem Geschäftsvermögen auch mit ihrem Privatvermögen.</description>
+  </component>
+    <component>
+    <id>choice_cme6xjgrm001u357ou19h24s7</id>
+    <description lang="en-US">Die persönliche Haftung signalisiert höhere Sicherheit für die Rückzahlung von Schulden.</description>
+  </component>
+    <component>
+    <id>choice_cme6xjgrm001v357o3h3ri7pw</id>
+    <description lang="en-US">OHGs sind immer besonders umsatzstark.</description>
+  </component>
+    <component>
+    <id>choice_cme6xjgrm001t357obqglhc13</id>
+    <description lang="en-US">Kreditinstitute sind gesetzlich verpflichtet, OHGs zu bevorzugen.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qi1eqBMTRfHeKawcYb7_QkA0yEbUNj8U_rise/J278TcoWXIVBHVcuXZuzVhd-6W60rbzN/cmgulrfrx000x2a7324wypy1h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie ist die Haftung bei einer Kommandit-Gesellschaft geregelt?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xjms50025357o0tnty3ch</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xjkk30022357of4igabap</id>
+    <description lang="en-US">Komplementär &amp;amp; Kommanditisten haften unbeschränkt mit gesamtem Vermögen</description>
+  </component>
+    <component>
+    <id>choice_cme6xjkk30023357o3057jgkl</id>
+    <description lang="en-US">Komplementär haftet unbeschränkt mit seinem gesamten Vermögen</description>
+  </component>
+    <component>
+    <id>choice_cme6xjdyn001m357ot3u6cb98</id>
+    <description lang="en-US">Komplementär haftet nur mit seiner Vermögenseinlage</description>
+  </component>
+    <component>
+    <id>choice_cme6xjms50025357o0tnty3ch</id>
+    <description lang="en-US">Kommanditisten haften mit ihrer jeweiligen Vermögenseinlage</description>
+  </component>
+    <component>
+    <id>choice_cme6xjn740027357ommy1hgsf</id>
+    <description lang="en-US">Kommanditisten haften mit ihrem gesamten Vermögen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qi1eqBMTRfHeKawcYb7_QkA0yEbUNj8U_rise/J278TcoWXIVBHVcuXZuzVhd-6W60rbzN/cmgulrfrx000y2a73dzboh8o3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Bei der GmbH &amp;amp; Co. KG haftet der Unternehmer persönlich unbeschränkt.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xjok6002c357on4ruyq8u</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xjok6002b357ot9z7zxcg</id>
+    <description lang="en-US">Richtig</description>
+  </component>
+    <component>
+    <id>choice_cme6xjok6002c357on4ruyq8u</id>
+    <description lang="en-US">Falsch</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://qi1eqBMTRfHeKawcYb7_QkA0yEbUNj8U_rise/J278TcoWXIVBHVcuXZuzVhd-6W60rbzN/cmgulrfrx000z2a732cdjsmwv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wie und warum unterscheiden sich KG und GmbH &amp;amp; Co. KG in der Haftung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xjql1002e357ocss6w17q</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xjql1002g357otfd04wmo</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xjql1002h357ox1666t88</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xjql1002e357ocss6w17q</id>
+    <description lang="en-US">Beide sind Kommanditgesellschaften.</description>
+  </component>
+    <component>
+    <id>choice_cme6xjql1002g357otfd04wmo</id>
+    <description lang="en-US">Bei der GmbH &amp;amp; Co. KG ist der Komplementär eine GmbH und keine natürliche Person.</description>
+  </component>
+    <component>
+    <id>choice_cme6xjql1002h357ox1666t88</id>
+    <description lang="en-US">In der GmbH &amp;amp; Co. KG haftet der Unternehmer nur mit seinen Einlagen.</description>
+  </component>
+    <component>
+    <id>choice_cme6xjql1002f357octgkj359</id>
+    <description lang="en-US">In der KG haftet kein Gesellschafter mit Privatvermögen.</description>
+  </component>
+    <component>
+    <id>choice_cme6xjnrm0029357ovkaz8kzu</id>
+    <description lang="en-US">In der GmbH &amp;amp; Co. KG haftet der Komplementär mit Privatvermögen.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>

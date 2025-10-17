@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://cjdiYQvtGd-W8QL1sQucesjCTXekik9B_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Gründungs- und Übernahmeaktivitäten - Quiz 2</name>
+      <description lang="en-US">In diesem Quiz müssen Sie 10 Fragen zu den Themen des HF II - Gründungs- und Übernahmeaktivitäten vorbereiten, durchführen und bewerten&amp;nbsp;beantworten. Viel Erfolg!</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://cjdiYQvtGd-W8QL1sQucesjCTXekik9B_rise/d4Tx2ibvTv8fQgEzi3JVNBBEKvc_sf8j" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://cjdiYQvtGd-W8QL1sQucesjCTXekik9B_rise/d4Tx2ibvTv8fQgEzi3JVNBBEKvc_sf8j/cmgult6m800182a73upacwl9j" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Folgen hatte der Brexit für Limiteds mit deutschem Verwaltungssitz?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xjtyd002o357ojle3wwi2</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xjuwl002r357og6e8tz3p</id>
+    <description lang="en-US">Keine</description>
+  </component>
+    <component>
+    <id>choice_cme6xjuwl002s357ohr8ini2i</id>
+    <description lang="en-US">Aberkennung der Rechtsform, dadurch GmbH, haften mit Vermögenseinlage</description>
+  </component>
+    <component>
+    <id>choice_cme6xjtyd002o357ojle3wwi2</id>
+    <description lang="en-US">Aberkennung der Rechtsform, dadurch OHG oder GbR, haften mit Privatvermögen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://cjdiYQvtGd-W8QL1sQucesjCTXekik9B_rise/d4Tx2ibvTv8fQgEzi3JVNBBEKvc_sf8j/cmgultlsd001x2a73kye357e7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Aussagen zum Gesellschaftsvertrag sind richtig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xjy1s002y357o7vcnn186</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xjy1s002z357o1v47zju7</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xk1m50036357oymatpoj0</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xjy1s002w357ok5tgzqud</id>
+    <description lang="en-US">Personalgesellschaften müssen immer notariell beurkundet werden</description>
+  </component>
+    <component>
+    <id>choice_cme6xjy1s002y357o7vcnn186</id>
+    <description lang="en-US">Kapitalgesellschaften müssen immer notariell beurkundet werden</description>
+  </component>
+    <component>
+    <id>choice_cme6xjy1s002z357o1v47zju7</id>
+    <description lang="en-US">Unternehmen mit mehreren Partnern brauchen einen Gesellschaftsvertrag</description>
+  </component>
+    <component>
+    <id>choice_cme6xjy1s002x357ooa6o5uf2</id>
+    <description lang="en-US">Alle Gesellschaftsverträge dürfen auch mündlich geschlossen werden</description>
+  </component>
+    <component>
+    <id>choice_cme6xjwxm002u357osnio9gav</id>
+    <description lang="en-US">Der Gesellschaftsvertrag für eine GbR muss notariell beurkundet werden</description>
+  </component>
+    <component>
+    <id>choice_cme6xk1m50036357oymatpoj0</id>
+    <description lang="en-US">Der Gesellschaftsvertrag für eine GmbH muss notariell beurkundet werden</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://cjdiYQvtGd-W8QL1sQucesjCTXekik9B_rise/d4Tx2ibvTv8fQgEzi3JVNBBEKvc_sf8j/cmgultlsd001y2a73b004nz88" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;em&gt;Ordnen Sie die folgenden Merkmale den entsprechenden Aspekten einer GmbH zu:&lt;/em&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_cme6xlfog0044357oulvs7lom[.]target_cme6xlfog0044357oulvs7lom</correctResponsePattern>
+    <correctResponsePattern>source_cme6xlfog0045357oqhgvv8mc[.]target_cme6xlfog0045357oqhgvv8mc</correctResponsePattern>
+    <correctResponsePattern>source_cme6xlfog0046357ops8blt7o[.]target_cme6xlfog0046357ops8blt7o</correctResponsePattern>
+    <correctResponsePattern>source_cme6xmquh0047357otjz7777h[.]target_cme6xmquh0047357otjz7777h</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_cme6xlfog0044357oulvs7lom</id>
+    <description lang="en-US">durch einen oder mehrere Geschäftsführer, diese können Gesellschafter oder angestellt sein></description>
+  </component>
+    <component>
+    <id>source_cme6xlfog0045357oqhgvv8mc</id>
+    <description lang="en-US">Gesellschafter haften nicht privat, nur mit der Stammeinlage></description>
+  </component>
+    <component>
+    <id>source_cme6xlfog0046357ops8blt7o</id>
+    <description lang="en-US">Gesellschafter haben Anspruch auf Anteil am Jahresgewinn je nach ihren Geschäftsanteilen></description>
+  </component>
+    <component>
+    <id>source_cme6xmquh0047357otjz7777h</id>
+    <description lang="en-US">Mindestens 25.000 € Stammkapital; Stammeinlage lt. Satzung, mindestens 100 €></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_cme6xlfog0044357oulvs7lom</id>
+        <description lang="en-US">Geschäftsführung</description>
+      </component>
+          <component>
+        <id>target_cme6xlfog0045357oqhgvv8mc</id>
+        <description lang="en-US">Haftung</description>
+      </component>
+          <component>
+        <id>target_cme6xlfog0046357ops8blt7o</id>
+        <description lang="en-US">Gewinnverteilung</description>
+      </component>
+          <component>
+        <id>target_cme6xmquh0047357otjz7777h</id>
+        <description lang="en-US">Kapital</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://cjdiYQvtGd-W8QL1sQucesjCTXekik9B_rise/d4Tx2ibvTv8fQgEzi3JVNBBEKvc_sf8j/cmgultlsd001z2a73jcasnpdz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche Begriffe gehören zum stehenden Gewerbe?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xw2mz003w357omoqbhaw1</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xw2mz003y357ooqwzeqio</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xw2mz003v357o4rb5x1hh</id>
+    <description lang="en-US">Leistungen werden außerhalb eines festen Betriebssitzes angeboten</description>
+  </component>
+    <component>
+    <id>choice_cme6xw2mz003x357o8seeslyq</id>
+    <description lang="en-US">Leistungen werden ohne vorhergehende Bestellung angeboten</description>
+  </component>
+    <component>
+    <id>choice_cme6xw2mz003y357ooqwzeqio</id>
+    <description lang="en-US">Leistungen erfolgen gegen Auftrag/Angebot</description>
+  </component>
+    <component>
+    <id>choice_cme6xw2mz003w357omoqbhaw1</id>
+    <description lang="en-US">Leistungen erfolgen von einem festen Betriebssitz aus</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://cjdiYQvtGd-W8QL1sQucesjCTXekik9B_rise/d4Tx2ibvTv8fQgEzi3JVNBBEKvc_sf8j/cmgultlsd00202a73m1mpr4hv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was kennzeichnet ein Handwerksgewerbe?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xw7he0047357ogpy7qgt5</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xw7he0048357okcsq5wmh</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xw7he0046357o5tsh1hn0</id>
+    <description lang="en-US">Arbeiten können größtenteils von Hilfskräften durchgeführt werden</description>
+  </component>
+    <component>
+    <id>choice_cme6xw7he0048357okcsq5wmh</id>
+    <description lang="en-US">Keine industrielle Produktion</description>
+  </component>
+    <component>
+    <id>choice_cme6xw7he0049357orfd0rk38</id>
+    <description lang="en-US">Produkte rein maschinell gefertigt</description>
+  </component>
+    <component>
+    <id>choice_cme6xw7he0047357ogpy7qgt5</id>
+    <description lang="en-US">Individuelle kundenorientierte Auftragsfertigung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://cjdiYQvtGd-W8QL1sQucesjCTXekik9B_rise/d4Tx2ibvTv8fQgEzi3JVNBBEKvc_sf8j/cmgultlsd00212a731skwkd5m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Nach der HwO sind handwerkliche Nebenbetriebe zum Beispiel:</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xwas9004g357o25okw4cf</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xwas9004h357o6qboc72n</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xwas9004f357ocf88w4e7</id>
+    <description lang="en-US">Elektrofachhändler mit täglichem Catering-Service</description>
+  </component>
+    <component>
+    <id>choice_cme6xwas9004h357o6qboc72n</id>
+    <description lang="en-US">Elektrofachhändler mit Reparatur-Werkstatt</description>
+  </component>
+    <component>
+    <id>choice_cme6xwas9004i357orao3dm2j</id>
+    <description lang="en-US">Elektrofachhändler mit Fahrrad-Reparatur-Werkstatt</description>
+  </component>
+    <component>
+    <id>choice_cme6xwas9004g357o25okw4cf</id>
+    <description lang="en-US">Elektrofachhändler mit Elektroinstallations-Betrieb</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://cjdiYQvtGd-W8QL1sQucesjCTXekik9B_rise/d4Tx2ibvTv8fQgEzi3JVNBBEKvc_sf8j/cmgultlsd00222a73fuh45a3z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist ein Mischbetrieb?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xween004o357oj3qolknx</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xween004p357ooczltw4o</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xween004r357o2y5cmp2n</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xween004o357oj3qolknx</id>
+    <description lang="en-US">Autowerkstatt mit Autoverkauf</description>
+  </component>
+    <component>
+    <id>choice_cme6xween004q357ouno0nzpo</id>
+    <description lang="en-US">Autowerkstatt mit firmeninterner Tankstelle</description>
+  </component>
+    <component>
+    <id>choice_cme6xween004r357o2y5cmp2n</id>
+    <description lang="en-US">Autowerkstatt mit öffentlicher Tankstelle</description>
+  </component>
+    <component>
+    <id>choice_cme6xween004p357ooczltw4o</id>
+    <description lang="en-US">Choice 4</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://cjdiYQvtGd-W8QL1sQucesjCTXekik9B_rise/d4Tx2ibvTv8fQgEzi3JVNBBEKvc_sf8j/cmgultlsd00232a73v97ry0tr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Wer wird in einem zulassungspflichtigen Handwerk in die Handwerksrolle eingetragen?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xwh0o004x357o2wdw2nwq</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xwh0o004z357o8iibvntw</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xwh0o004x357o2wdw2nwq</id>
+    <description lang="en-US">Wer die Meisterprüfung in diesem oder einem verwandten Handwerk bestanden hat</description>
+  </component>
+    <component>
+    <id>choice_cme6xwh0o004z357o8iibvntw</id>
+    <description lang="en-US">Wer eine Ausübungsberechtigung erhält, z.B. mit mindestens 6 Gesellenjahren, davon 4 Jahre in leitender Position</description>
+  </component>
+    <component>
+    <id>choice_cme6xwh0o0050357oly3iry0l</id>
+    <description lang="en-US">Wer eine Ausübungsberechtigung erhält, z.B. mit mindestens 5 Gesellenjahren, davon 2 Jahre in leitender Position</description>
+  </component>
+    <component>
+    <id>choice_cme6xwh0o004y357oe0lw4ok3</id>
+    <description lang="en-US">Wer eine andere nicht unbedingt gleichwertige staatliche Prüfung bestanden hat</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://cjdiYQvtGd-W8QL1sQucesjCTXekik9B_rise/d4Tx2ibvTv8fQgEzi3JVNBBEKvc_sf8j/cmgultlsd00242a73bpnyituu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Es bedeutet Schwarzarbeit, wenn</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xwm740056357or6ldo3i9</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xwm740057357ol6yy27r6</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xwm740056357or6ldo3i9</id>
+    <description lang="en-US">Ein Nachunternehmer immer nur für den gleichen Auftraggeber als solcher arbeitet</description>
+  </component>
+    <component>
+    <id>choice_cme6xwm740058357o6gy4t29f</id>
+    <description lang="en-US">Ein Nachunternehmer für unterschiedliche Auftraggeber arbeitet</description>
+  </component>
+    <component>
+    <id>choice_cme6xwm740059357ogtx9jsq7</id>
+    <description lang="en-US">Ein Nachunternehmer mit eigenem Personal arbeitet</description>
+  </component>
+    <component>
+    <id>choice_cme6xwm740057357ol6yy27r6</id>
+    <description lang="en-US">Ein Nachunternehmer nicht ausschließlich mit eigenem Werkzeug &amp;amp; Maschinen arbeitet</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://cjdiYQvtGd-W8QL1sQucesjCTXekik9B_rise/d4Tx2ibvTv8fQgEzi3JVNBBEKvc_sf8j/cmgultlsd00252a73a00otdc4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Was ist ein Gewerbe?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cme6xwq5h005f357oo2stw6dz</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xwq5h005g357or7zt01n3</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xwq5h005h357owrj8ztjr</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xwq5h005i357oozq1zlqj</correctResponsePattern>
+    <correctResponsePattern>choice_cme6xw2nf003z357okfvb4j7b</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cme6xwq5h005f357oo2stw6dz</id>
+    <description lang="en-US">Eine Tätigkeit, die erlaubt ist.</description>
+  </component>
+    <component>
+    <id>choice_cme6xwq5h005h357owrj8ztjr</id>
+    <description lang="en-US">Eine Tätigkeit, die privat ausgeübt wird.</description>
+  </component>
+    <component>
+    <id>choice_cme6xwq5h005i357oozq1zlqj</id>
+    <description lang="en-US">Eine Tätigkeit, die selbstständig ausgeübt wird.</description>
+  </component>
+    <component>
+    <id>choice_cme6xwq5h005g357or7zt01n3</id>
+    <description lang="en-US">Eine Tätigkeit, die auf Dauer angelegt ist.</description>
+  </component>
+    <component>
+    <id>choice_cme6xw2nf003z357okfvb4j7b</id>
+    <description lang="en-US">Eine Tätigkeit, die mit Absicht auf Gewinn durchgeführt wird.</description>
+  </component>
+    <component>
+    <id>choice_cme6xwsxu005o357op9ljd8lc</id>
+    <description lang="en-US">Eine Tätigkeit, die nur im öffentlichen Auftrag erfolgt.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
