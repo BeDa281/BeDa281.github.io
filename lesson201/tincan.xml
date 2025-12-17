@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://62n67IvGMKv_VDZ0FrkNFwY9MOfRlC-2_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">VOB A &amp; B - Teil 2 (ZI/DA/TB)</name>
+      <description lang="en-US">In diesem Bereich finden Sie ein Quiz mit einigen Fragen. Sie m&amp;uuml;ssen 100% der Fragen richtig beantworten, um das Quiz abzuschlie&amp;szlig;en.&lt;br&gt;Sie k&amp;ouml;nnen das Quiz beliebig oft wiederholen.</description>
+      <launch lang="en-US">scormdriver/indexAPI.html</launch>
+    </activity>
+      <activity id="http://62n67IvGMKv_VDZ0FrkNFwY9MOfRlC-2_rise/Ku95Ip8hhUNh1LX5C9ci7r36n5sAOChH" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Die Fragen in diesem Quiz bestehen aus:&amp;nbsp;&lt;ul&gt;&lt;li&gt;Einfach-Auswahl&lt;/li&gt;&lt;li&gt;Mehrfach-Auswahl&lt;/li&gt;&lt;li&gt;Texteingabe&lt;/li&gt;&lt;li&gt;Zuordnung&lt;/li&gt;&lt;/ul&gt;</description>
+    </activity>
+                                  
+<activity id="http://62n67IvGMKv_VDZ0FrkNFwY9MOfRlC-2_rise/Ku95Ip8hhUNh1LX5C9ci7r36n5sAOChH/cktaaxg5f0031266ebrlzyfnv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">In Ausschreibungstexten steht oft der Begriff &amp;bdquo;Nebenleistung&amp;ldquo;. Was wird unter dem Begriff &amp;bdquo;Nebenleistungen&amp;ldquo; verstanden und wie werden diese verg&amp;uuml;tet?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cktaaxg5g0032266e93q9ii0m</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cktaaxg5g0032266e93q9ii0m</id>
+    <description lang="en-US">Nebenleistungen sind Leistungen, die auch ohne Erw&amp;auml;hnung im Vertrag zur vertraglichen Leistung geh&amp;ouml;ren. Sie sind im Einheitspreis mit einzukalkulieren und werden nicht extra verg&amp;uuml;tet.&lt;br&gt; </description>
+  </component>
+    <component>
+    <id>choice_cktaaxg5g0035266e8sjlilwb</id>
+    <description lang="en-US">Nebenleistungen sind Leistungen, die zur vertraglichen Leistung geh&amp;ouml;ren. Sie sind nicht im Einheitspreis mit einzukalkulieren und werden extra verg&amp;uuml;tet.&lt;br&gt;&amp;nbsp;</description>
+  </component>
+    <component>
+    <id>choice_cktd5pokf0035266euizku0ij</id>
+    <description lang="en-US">Nebenleistungen sind Leistungen, die auch ohne Erw&amp;auml;hnung im Vertrag zur vertraglichen Leistung geh&amp;ouml;ren. Sie d&amp;uuml;rfen jedoch gesondert abgerechnet werden.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://62n67IvGMKv_VDZ0FrkNFwY9MOfRlC-2_rise/Ku95Ip8hhUNh1LX5C9ci7r36n5sAOChH/cktbtg9om005e266e16ix5yk9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Welche der hier genannten Nebenleistungen sind in der Regel bei der Renovierung von Holzfenstern erforderlich?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cktbtg9om005f266eza0j494n</correctResponsePattern>
+    <correctResponsePattern>choice_cktbtg9om005g266e9cab1ecn</correctResponsePattern>
+    <correctResponsePattern>choice_cktbthajn006y266ewx5nq6la</correctResponsePattern>
+    <correctResponsePattern>choice_cktbtg9om005i266ec0gxa0vb</correctResponsePattern>
+    <correctResponsePattern>choice_cktbtg9om005h266eq8piannw</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cktbtg9om005f266eza0j494n</id>
+    <description lang="en-US">Fenster aus- und einh&amp;auml;ngen</description>
+  </component>
+    <component>
+    <id>choice_cktbtg9om005h266eq8piannw</id>
+    <description lang="en-US">Kennzeichnung der Fenster</description>
+  </component>
+    <component>
+    <id>choice_cktbtg9om005i266ec0gxa0vb</id>
+    <description lang="en-US">Anschleifen/Zwischenschleifen</description>
+  </component>
+    <component>
+    <id>choice_cktbtg9om005g266e9cab1ecn</id>
+    <description lang="en-US">Beschneiden der Fensterbeschl&amp;auml;ge</description>
+  </component>
+    <component>
+    <id>choice_cktbthajn006y266ewx5nq6la</id>
+    <description lang="en-US">geringf&amp;uuml;gige Ausbesserungsarbeiten</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://62n67IvGMKv_VDZ0FrkNFwY9MOfRlC-2_rise/Ku95Ip8hhUNh1LX5C9ci7r36n5sAOChH/cktbtk56u007c266ecegl48f1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Sie f&amp;uuml;hren einen Auftrag &amp;uuml;ber die Neugestaltung an einer Fassade eines Mehrfamilien&amp;shy;hauses aus. Vertragsgrundlage ist das BGB. Zwei Wochen nach Arbeitsbeginn stellen Sie eine pr&amp;uuml;fbare Abschlagsrechnung.&lt;br&gt;Wann wird diese zur Zahlung f&amp;auml;llig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cktbtk56u007d266ewvad2t36</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cktbtk56u007d266ewvad2t36</id>
+    <description lang="en-US">Die Abschlagsrechnung ist sofort nach Erhalt f&amp;auml;llig, sofern nichts anderes vereinbart wurde.</description>
+  </component>
+    <component>
+    <id>choice_cktbtk56u007e266e2t6xz77v</id>
+    <description lang="en-US">Die Abschlagsrechnung ist 3 Monaten nach Erhalt f&amp;auml;llig.</description>
+  </component>
+    <component>
+    <id>choice_cktbtl0k2007f266e3fqv6ffo</id>
+    <description lang="en-US">Die Abschlagsrechnung ist innerhalb 14 Tagen nach Erhalt f&amp;auml;llig, sofern nichts anderes vereinbart wurde.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://62n67IvGMKv_VDZ0FrkNFwY9MOfRlC-2_rise/Ku95Ip8hhUNh1LX5C9ci7r36n5sAOChH/cktacq4j20031266e8ebog7ah" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Entsprechend Ihrer Musterentw&amp;uuml;rfe f&amp;uuml;r ein Historisches Geb&amp;auml;ude sollen Sie drei Farbmuster an der Fassade ansetzen. Verlangt ist eine Fl&amp;auml;chengr&amp;ouml;&amp;szlig;e von je 0,80 m x 0,80 m.&lt;br&gt;Handelt es sich hierbei um eine Nebenleistung oder eine Besondere Leistung?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cktacq4j30032266e54gu8j4s</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cktacq4j30032266e54gu8j4s</id>
+    <description lang="en-US">Nebenleistung</description>
+  </component>
+    <component>
+    <id>choice_cktacq4j30033266e9i4q6x5q</id>
+    <description lang="en-US">Besondere Leistung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://62n67IvGMKv_VDZ0FrkNFwY9MOfRlC-2_rise/Ku95Ip8hhUNh1LX5C9ci7r36n5sAOChH/cktacxlsw00cp266ectpyec8h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Nach Abschluss und Abnahme Ihrer Arbeiten erstellen Sie die Schlussrechnung. Nennen Sie die beiden Voraussetzungen, damit die Schlussrechnung f&amp;auml;llig wird.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cktacxlsx00cq266eithn1i1p</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cktacxlsx00cq266eithn1i1p</id>
+    <description lang="en-US">30 Tage nach Zugang, im besonderen Fall sp&amp;auml;testens zwei Monate nach Zugang der Rechnung</description>
+  </component>
+    <component>
+    <id>choice_cktacxlsx00cs266e1e48ejrn</id>
+    <description lang="en-US">Sofort</description>
+  </component>
+    <component>
+    <id>choice_cktacxlsx00ct266e3931acqw</id>
+    <description lang="en-US">Die Arbeiten m&amp;uuml;ssen noch nicht fertiggestellt sein</description>
+  </component>
+    <component>
+    <id>choice_cktacxlsx00cr266elttemkeo</id>
+    <description lang="en-US">Aufgelistete Regiestunden</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://62n67IvGMKv_VDZ0FrkNFwY9MOfRlC-2_rise/Ku95Ip8hhUNh1LX5C9ci7r36n5sAOChH/cktaczfy200el266ekhop430e" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Nach Abschluss und Abnahme Ihrer Arbeiten erstellen Sie die Schlussrechnung. Wann wird die Schlussrechnung gem&amp;auml;&amp;szlig; VOB zur Zahlung sp&amp;auml;testens f&amp;auml;llig?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cktaczfy300em266evmp5mnut</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cktaczfy300em266evmp5mnut</id>
+    <description lang="en-US">Sp&amp;auml;testens zwei Monate nach Zugang der Rechnung</description>
+  </component>
+    <component>
+    <id>choice_cktaczfy300en266elcv10hk0</id>
+    <description lang="en-US">Sofort</description>
+  </component>
+    <component>
+    <id>choice_cktad050h00eo266e5yh1g8ts</id>
+    <description lang="en-US">Sp&amp;auml;testens drei Monate nach Zugang der Rechnung</description>
+  </component>
+    <component>
+    <id>choice_cktad0a7m00ep266ebdvf2yde</id>
+    <description lang="en-US">Sp&amp;auml;testens zwei Wochen nach Zugang der Rechnung</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://62n67IvGMKv_VDZ0FrkNFwY9MOfRlC-2_rise/Ku95Ip8hhUNh1LX5C9ci7r36n5sAOChH/cktad0ps400eq266e1lfih1f4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Nach Abschluss und Abnahme Ihrer Arbeiten erstellen Sie die Schlussrechnung. Welche beiden Rechte haben Sie, falls die Schlussrechnung nicht innerhalb der von der VOB gew&amp;auml;hrten Frist beglichen wird.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cktad0ps400er266e5b0szv2t</correctResponsePattern>
+    <correctResponsePattern>choice_cktad0ps400et266evwzclw2o</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cktad0ps400er266e5b0szv2t</id>
+    <description lang="en-US">Anspruch auf Verzugszinsen f&amp;uuml;r das unbestrittene Guthaben</description>
+  </component>
+    <component>
+    <id>choice_cktad0ps400et266evwzclw2o</id>
+    <description lang="en-US">Einleitung von Zwangsma&amp;szlig;nahmen (z. B. gerichtliches Mahnverfahren oder Klage)</description>
+  </component>
+    <component>
+    <id>choice_cktad0ps400eu266e4agwxy0a</id>
+    <description lang="en-US">Sie haben keinerlei Anspr&amp;uuml;che</description>
+  </component>
+    <component>
+    <id>choice_cktad0ps400es266e86qgdpdc</id>
+    <description lang="en-US">Den Kunden pers&amp;ouml;nlich aufsuchen</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://62n67IvGMKv_VDZ0FrkNFwY9MOfRlC-2_rise/Ku95Ip8hhUNh1LX5C9ci7r36n5sAOChH/cktbt7le80036266e89wme65s" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Abnahme der Gesamtleistung der Arbeiten an der Fassade eines Mehrfamilien&amp;shy;hauses erfolgte am 20.09.2021, eine Woche sp&amp;auml;ter wurde die Schlussrechnung gestellt. Vertragsgrundlage ist das BGB.&lt;br&gt;&lt;br&gt;Welche Angaben der Verj&amp;auml;hrungsfrist f&amp;uuml;r diese Forderung ist richtig? &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cktbt7le90037266ewiilyb72</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cktbt7le90037266ewiilyb72</id>
+    <description lang="en-US">Verj&amp;auml;hrungsbeginn: 01.01.2022&lt;br&gt;Verj&amp;auml;hrungsende: 31.12.2027</description>
+  </component>
+    <component>
+    <id>choice_cktbt7le90039266eg2by3985</id>
+    <description lang="en-US">Verj&amp;auml;hrungsbeginn: 20.09.2021&lt;br&gt;Verj&amp;auml;hrungsende: 20.09.2026</description>
+  </component>
+    <component>
+    <id>choice_cktbt7le9003a266exsxkvvlx</id>
+    <description lang="en-US">Verj&amp;auml;hrungsbeginn: 01.10.2021&lt;br&gt;Verj&amp;auml;hrungsende: 01.10.2023</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://62n67IvGMKv_VDZ0FrkNFwY9MOfRlC-2_rise/Ku95Ip8hhUNh1LX5C9ci7r36n5sAOChH/cktbtajzk0050266eb4to521m" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Die Vergabe der Arbeiten erfolgte nach einer beschr&amp;auml;nkten Ausschreibung. Erl&amp;auml;utern Sie, was in der VOB/A unter einer beschr&amp;auml;nkten Ausschreibung verstanden wird.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cktbtajzn0051266eo9uwqg5j</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cktbtajzn0051266eo9uwqg5j</id>
+    <description lang="en-US">Es wird nur eine beschr&amp;auml;nkte Zahl von Unternehmen zur Angebotsabgabe aufgefordert.</description>
+  </component>
+    <component>
+    <id>choice_cktbtajzn0052266eelpjy4i4</id>
+    <description lang="en-US">Es wird eine unbeschr&amp;auml;nkte Zahl von Unternehmen zur Angebotsabgabe aufgefordert.</description>
+  </component>
+    <component>
+    <id>choice_cktbtb7cu0053266el0mxggew</id>
+    <description lang="en-US">Es wird europaweit ausgeschrieben.</description>
+  </component>
+    <component>
+    <id>choice_cktbtbckm0054266eg13x6xne</id>
+    <description lang="en-US">Es wird nur regional ausgeschrieben.</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
